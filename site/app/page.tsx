@@ -918,7 +918,7 @@ function App({ data }: { data: ObservatoryData }) {
           <a href="#factories">Factory record</a>
           <a href="#method">Method</a>
         </nav>
-        <a className="icon-button" href="/data/observatory.json" title="Download the public dataset" download>
+        <a className="icon-button" href="data/observatory.json" title="Download the public dataset" download>
           <ArrowDownToLine size={18} />
         </a>
       </header>
@@ -1442,7 +1442,8 @@ export default function Home() {
   const [error, setError] = useState(false);
 
   useEffect(() => {
-    fetch("/data/observatory.json")
+    // Relative path so the site also works under a sub-path host like GitHub Pages.
+    fetch("data/observatory.json")
       .then((response) => {
         if (!response.ok) throw new Error("Data request failed");
         return response.json();
