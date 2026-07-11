@@ -1211,7 +1211,7 @@ function App({ data }: { data: ObservatoryData }) {
             </div>
             {filteredPolicies.map((policy) => {
               const evidence = evidenceForPolicy(policy);
-              const verdicts = policy.targets.filter((target) => target.verdict);
+              const verdicts = [...new Set(policy.targets.map((target) => target.verdict).filter(Boolean))] as string[];
               return (
                 <button className="policy-row" key={policy.id} onClick={() => setSelectedPolicy(policy)}>
                   <span className="policy-row-year">{policy.year}</span>
@@ -1225,7 +1225,7 @@ function App({ data }: { data: ObservatoryData }) {
                   </span>
                   <span className="policy-row-verdicts">
                     {verdicts.length ? (
-                      verdicts.map((target) => <Stamp key={target.id} verdict={target.verdict!} size="small" />)
+                      verdicts.map((verdict) => <Stamp key={verdict} verdict={verdict} size="small" />)
                     ) : policy.targets.length ? (
                       <small>{policy.targets.length} unscored</small>
                     ) : (
@@ -1390,11 +1390,12 @@ function App({ data }: { data: ObservatoryData }) {
               <p>{data.metadata.disclosure_note}</p>
             </div>
             <div>
-              <span>Rejected analyses</span>
-              <strong>What we refused to build</strong>
+              <span>Negative results</span>
+              <strong>Two analyses fail the data</strong>
               <p>
-                A factory panel (public identifiers are masked) and a historical power-outage series (reporting breaks
-                after 2017-18). Breaks in the record are not turned into claims.
+                You will not find factory-level tracking here (ASI&rsquo;s public identifiers are masked) or a
+                power-reliability series (its records break after 2017-18). Where the data cannot carry a claim, the
+                claim is absent.
               </p>
             </div>
           </div>
