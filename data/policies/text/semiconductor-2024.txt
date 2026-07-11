@@ -1,0 +1,665 @@
+        TAMIL NADU
+    SEMICONDUCTOR AND
+ADVANCED ELECTRONICS POLICY
+           2024
+
+
+
+
+                              1
+        TAMIL NADU
+    SEMICONDUCTOR AND
+ADVANCED ELECTRONICS POLICY
+           2024
+
+
+
+
+INDUSTRIES, INVESTMENT PROMOTION
+    & COMMERCE DEPARTMENT
+
+   GOVERNMENT OF TAMIL NADU
+2
+CONTENTS
+
+
+Abbreviations
+
+
+1   Preamble                                                     1
+2   Policy Vision                                                2
+3   Advantage Tamil Nadu                                         3
+4   Scope of the Policy                                          5
+5   Structured Package for Semiconductor Manufacturing           6
+6   Structured Package for Advanced Electronics Manufacturing    9
+7   Incentives for High-end Electronics Design/Research         11
+8   Promotion of Electronic-Waste Recycling Ecosystem           12
+9   Funding Mechanisms                                          13
+10 Policy Implementation                                        14
+11 Annexure                                                     15
+
+
+
+
+                                                                 i
+ii
+Abbreviations
+
+ATMP           Assembly, Testing, Marking, and Packaging
+
+BIS            Bureau of Indian Standards
+
+BEE            Bureau of Energy Efficiency
+
+CAPEX          Capital Expenditure
+
+CoE            Centre of Excellence
+
+EFA            Eligible Fixed Assets
+
+EMS            Electronics Manufacturing Services
+
+ESDM           Electronics System Design & Manufacturing
+
+EV             Electric Vehicle
+
+EXIM           Export Import
+
+GoI            Government of India
+
+GoTN           Government of Tamil Nadu
+
+IC             Integrated Circuits
+
+IIT - Madras   Indian Institute of Technology, Madras
+
+ISI            Indian Standards Institute
+
+ISO            International Organization for Standardization
+
+MEITY          Ministry of Electronics and Information Technology
+
+OSAT           Outsourced Semiconductor Assembly and Test
+
+R&D            Research and Development
+
+SEBI           Securities and Exchange Board of India
+
+SIPCOT         State Industries Promotion Corporation of Tamil Nadu Ltd
+
+SoC            System on Chips
+
+TIDCO          Tamil Nadu Industrial Development Corporation Ltd
+
+TNIP 2021      Tamil Nadu Industrial Policy 2021
+
+TNIFMC         Tamil Nadu Infrastructure Fund Management Corporation
+
+TNSWP          Tamil Nadu Single Window Portal
+
+VLSI           Very Large-Scale Integration
+
+
+
+                                                                          iii
+1.Preamble
+The electronics sector has emerged as the fundamental building block across industries, and its significance
+is reflected in the fact that it captures 20% of the global trade. The rapid change in consumption patterns
+post-COVID, increasing digitization and automation across sectors and the evolving geopolitics around
+technology makes this sector a strategic focus area. Also, the increased quest for nuanced design in niche
+products has led to a surge in the demand for intricate logic and memory chips.
+
+
+To meet the burgeoning global demand for semiconductors across various application areas, this segment is
+witnessing a surge in investments and these are focused on developing new technologies, adopting advanced
+manufacturing techniques, fabrication of plants for large wafer sizes, innovative packaging techniques, and
+large-scale integration. Interest in areas like Storage for Logic Integrated Circuits (ICs), Microcontroller Units
+(MCUs) for Advanced Driver Assistance System (ADAS) applications in the automotive segment, and Radio
+Frequency (RF) chips for wireless telecommunication infrastructure is on the rise.
+
+1.1. Semiconductor & Electronics Manufacturing in Tamil Nadu
+Tamil Nadu is the Electronics Manufacturing Services (EMS) hub of India, with several global marquee
+companies having their manufacturing or R&D presence in the State. The State has also attracted a diverse
+range of mid and large domestic EMS companies. These entities are catering to the global markets in consumer
+electronics, communication equipment, computers & peripherals, telecom and electrical equipment. The
+mature electronics ecosystem in the State attracts strategic investments in medical electronics, aerospace
+& defense, and electric vehicle manufacturing. The State has emerged as the highest electronics exporter in
+India, achieving an impressive USD 5.37 billion exports during 2022-23 which signifies a phenomenal growth
+of 223% compared to the USD 1.6 billion exports recorded in 2020-21.
+
+
+Tamil Nadu is home to leading players in semiconductor design. The State has more than 100 academic
+institutions offering courses in Very Large-Scale Integration (VLSI), electronics design, nanotechnology etc.,
+which support the required talent pool for semiconductor industry.
+
+The State’s strong base in electronics and increasing foothold in the semiconductor design with its robust
+and expanding ecosystem holds a promise for investors in these sectors.
+
+1.2. Need for Semiconductor and Advanced Electronics Policy
+The Tamil Nadu Electronics Hardware Manufacturing Policy 2020 and the Special Incentives for Sunrise
+Sectors under the Tamil Nadu Industrial Policy 2021 have played a vital role in attracting sizeable investments
+from key players in the electronics hardware manufacturing space.
+
+
+The aspiration of Tamil Nadu to foray into advanced electronics manufacturing encompassing design,
+component and equipment manufacturing and the strategic nature of the semiconductor industry,
+necessitate a focused policy encouraging the entry of marquee players, which in turn meets the State’s
+aspiration to move up the value chain. Also, to nurture the growth of indigenous chip design players and
+to add fresh impetus to R&D in this sector within the State, a futuristic policy is a felt need. A new policy
+shall also stimulate sectors such as Aerospace & Defence, Medical Devices, Automobile & EV and Renewable
+Energy which are constituents of the consumption ecosystem of advanced semiconductor and electronics
+industry.
+
+
+
+
+                                                                                                                1
+    2.Policy Vision
+    2.1. Vision
+    To propel Tamil Nadu to the apex position in the value chain of the semiconductor and advanced electronics
+    industry, thereby generating high-skilled employment opportunities, and accelerating innovation and
+    technological advancements.
+
+    2.2. Objectives
+    The policy aims to create a state-of-the-art manufacturing and design ecosystem, particularly in the higher
+    value-added segments in the semiconductor and advanced electronics industry, thereby generating high
+    quality job opportunities in the State. The focus of the Policy is on incentivizing strategic investments,
+    nurturing talent and fostering collaborations across industry, academia, and Government.
+
+    The key objectives of the policy are:
+            • To attract anchor investments in semiconductor and advanced electronics manufacturing
+            • To enable a semiconductor design ecosystem in the State through incentives, funding and
+              industry academia collaboration
+            • To contribute 40% of India’s electronics exports by 2030
+            • To create a skilled talent pool of 2,00,000 persons in this sector by 2030.
+
+
+
+
+2
+3.Advantage Tamil Nadu
+
+A. Human Capital
+
+Tamil Nadu has consistently given the highest priority to technical education, with some of India’s
+leading institutions being present in Tamil Nadu. The State has 22 of the top 100 Universities and 15 of
+the top 100 engineering colleges in India, and has the largest trained engineering talent pool in India
+across the spectrum from vocational to advanced research.
+
+
+A highly skilled talent pool is available for the technical workforce required in shopfloors, with about
+113,000 youth passing out from diploma and polytechnic institutions every year. Four hundred and
+Ninety-four Industrial Training Institutes (ITIs) offer 700 courses in disciplines such as electrical,
+electronics and manufacturing, forming the backbone of electronics manufacturing in Tamil Nadu.
+
+B. Research & Development Ecosystem
+
+The State has attracted global semiconductor design firms and electronics manufacturers to establish
+their R&D and Global Capability Centers (GCCs) in Tamil Nadu. The State also ranks first in the country
+in terms of the number of PhD holders and patents filed. It is also noteworthy that among the top 2%
+of scientists worldwide, 200 scientists are from Tamil Nadu.
+
+
+The Tamil Nadu Industrial Development Corporation Ltd (TIDCO) has strengthened the R&D ecosystem
+by building ‘Centers of Excellence’. These include the Tamil Nadu Centre of Excellence for Advanced
+Manufacturing (TANCAM), Tamil Nadu Advance Manufacturing Center of Excellence (TAMCOE), Tamil
+Nadu Smart and Advanced Manufacturing (TANSAM) for promoting Industry 4.0 practices, as well as
+providing testing, research, and innovation facilities.
+
+
+IIT Madras is home to Pravartak Technologies Foundation - an innovation hub which focuses on
+Sensors, Networking, Actuators, and Control Systems (SNACS). Also, SHAKTI is an open-source initiative
+by the Reconfigurable Intelligent Systems Engineering (RISE) group at IIT-Madras, which aims to
+produce production-grade processors, complete SoC, development boards and a software platform.
+The Centre for Programmable Photonic Integrated Circuits and Systems (CPPICS) which has been
+launched recently, focuses on R&D in photonic ICs and systems using Complementary Metal-Oxide-
+Semiconductor (CMOS) compatible silicon photonics technology.
+
+C. Design & Testing Infrastructure
+
+SAMEER - Center for Electromagnetics in Chennai is serving global industries in applied research &
+development, design consultancy, testing & training with sophisticated infrastructure, and experienced
+engineers. Further, the Central Electronics Centre in Chennai houses the equipment and facilities to
+undertake Electromagnetic Interference (EMI)/ Electro-Magnetic Compatibility (EMC) testing.
+
+D. Logistics & Connectivity
+
+Tamil Nadu serves as a gateway to the world with four major seaports and four international airports
+that offer connectivity to global markets. The international airports in Chennai, Madurai, Coimbatore,
+and Trichy act as the bases for export-import (EXIM) operations for electronic goods. Tamil Nadu offers
+direct connectivity to electronic component hubs in Europe, China & South-East Asia.
+
+
+
+
+                                                                                                           3
+E. Industrial Water Supply
+
+The State is at the forefront in developing and adopting desalination technologies, with a cumulative capacity of
+over 850 MLD, (including upcoming facilities). The Industrial regions of Chennai are supplied with water through
+two Tertiary Treatment Reverse Osmosis (TTRO) plants with a combined capacity of 90 MLD, a first of its kind
+initiative in India. A 20 MLD TTRO plant is being established near Hosur to support the industrial cluster in this
+region.
+
+F. Power Infrastructure & Renewable Energy
+
+The critical input required for semiconductor manufacturing is access to uninterrupted power supply. With an
+installed capacity of 38 GW and 50% of it being green power, the State has one of the most reliable power
+infrastructure systems with competitive tariff in India. Notably, there has been a 100% supply for peak electricity
+demand, without load shedding, over the last several years.
+
+G. Enabling Demand and Supportive Supply Ecosystem
+
+Tamil Nadu has a robust ecosystem that supports the growth of the semiconductor industry. The electronics
+cluster in the region stands out as one of the largest in India, catering to both domestic and export demand.
+The State being the largest automotive and electric vehicle (EV) manufacturing hub in India, a captive local
+automotive electronics market is fast emerging. Capital goods and chemicals clusters in Tamil Nadu are well-
+poised to facilitate the establishment of a localized supply chain for electronics industry. Faster adoption of
+Industry 4.0 and advanced manufacturing techniques by the vibrant Micro, Small & Medium Enterprises (MSME)
+sector is expected to further propel the demand for electronics systems interfaces.
+
+
+
+
+4
+    4.Scope of the Policy
+     Units engaged in the following activities in Tamil Nadu are eligible for the incentives offered in this Policy.
+
+     A. Semiconductor Manufacturing Projects Approved by Government of India:
+
+     Semiconductor manufacturing projects including Silicon Semiconductor Fabs and Display Fabs, Compound
+     Semiconductors / Silicon Photonics / Sensors [including Micro-Electromechanical Systems (MEMS) Fabs] /
+     Discrete Semiconductors Fab, Semiconductor Packaging [Assembly, Testing, Marking, and Packaging (ATMP)]
+     / [Outsourced Semiconductor Assembly and Test (OSAT)] Units approved by Government of India.
+
+     B. Advanced Manufacturing in Electronics:
+
+     The entire manufacturing value chain of all electronic products, telecom and networking products & IT
+     hardware covered under the National Policy on Electronics 2019 and related notifications issued by the
+     Department of Electronics & Information Technology under the Ministry of Electronics & Information
+     Technology (MeitY), Government of India and Department of Telecommunications (DoT) under the Ministry
+     of Communications (MoC), Government of India.
+
+     C. Semiconductor & High-end Electronics Design/Research:
+
+     Global marquee research/design entities undertaking (i) Semiconductor design for Integrated Circuits (IC),
+     Chipsets, System on Chips (SoC), Systems & IP Cores and semiconductor linked design, (ii) Semiconductor
+     equipment design (iii) High-end electronic product design and development (iv) High-end ESDM software.
+
+
+
+
+https://www.meity.gov.in/esdm/Semiconductors-and-Display-Fab-Ecosystem
+4
+                                                                                                                       5
+https://chips-dli.gov.in/DLI/HomePage
+5
+    5.Structured Package for Semiconductor
+    Manufacturing
+    Semiconductor manufacturing projects approved by the Ministry of Electronics and Information Technology
+    [MeitY], Government of India for financial assistance shall be eligible to receive the Structured Package of
+    Incentives discussed under this Section. Semiconductor manufacturing shall be treated as Sunrise Sector
+    under the Tamil Nadu Industrial Policy 2021.
+
+
+    In anticipation of approval from the Government of India under the applicable schemes for semiconductor
+    manufacturing, the companies with project proposals in semiconductor manufacturing (Project Companies)
+    may apply to the Industries, Investment Promotion & Commerce Department, Government of Tamil Nadu
+    for sanction of incentives discussed in this section. However, the disbursal of incentives shall be subject to
+    the approval and subsequent receipt of financial assistance from Government of India.
+
+
+    5.1. Eligible Units
+    Project Companies that have received approval from Government of India for financial assistance under
+    the ‘Scheme for setting up of Semiconductor Fabs in India’, ‘Scheme for setting up of Display Fabs in India’,
+    ‘Scheme for setting up Compound Semiconductors/ Silicon Photonics/ Sensors Fab/ Discrete Semiconductors
+    fab and ‘Semiconductor Packaging’ - Assembly, Testing, Marking and Packaging (ATMP)/ Outsourced
+    Semiconductor Assembly and Test (OSAT) facilities in India will be eligible to avail the Structured Package of
+    Incentives for Semiconductor Manufacturing.
+
+    5.2. Project Cost
+    The Project Cost shall include the Capital Expenditure (CAPEX)/Investment on the following as per the
+    applicable guidelines notified by the MeitY, Government of India:
+
+            a. Land, Building, Plant, Machinery, Clean rooms, Equipment and Associated utilities
+            b.Research & Development (R&D)
+            c. Transfer of Technology (ToT)
+            d.Other relevant costs such as Interest During Construction & Insurance Cost.
+
+
+
+
+6
+5.3. Incentives for Semiconductor Manufacturing
+A. Capital Subsidy
+The Eligible Units will be offered a Capital Subsidy by the Government of Tamil Nadu, up to 50% of the CAPEX
+assistance provided by Government of India.
+
+
+The disbursement of Capital Subsidy will be made as per the mechanism detailed below:
+        a. An escrow account (escrow 1) will be opened between State Industries Promotion Corporation of Tamil
+           Nadu Ltd (SIPCOT) and the Project Company.
+        b.All pro rata payments in a year shall be released after the corresponding share is mobilized by the
+           Project Company and is deposited in the escrow 1.
+        c. 1st Year: Based on cash requirement projections for the upcoming quarter, Project Company shall
+           release the amount first, then SIPCOT shall release the grant from Government of Tamil Nadu.
+        d.The combined amount of Project Company and SIPCOT in escrow 1 will be transferred to the
+           Government of India escrow account (escrow 2).
+        e. From the 2nd Year onwards, SIPCOT shall release the grant after verification that Government of India
+           has released the relevant share.
+
+B. Special Training Incentive
+Special Training Incentive of Rs. 10,000 per person per month can be availed for 12 months for residents of Tamil
+Nadu. This incentive is only intended for employees engaged in technical operations within the project facility.
+
+C. Product Testing & Prototyping Incentive
+Prototyping is a crucial stage before commercialization wherein the Project Company can test the design and
+identify errors if any before the commercialization. To encourage prototyping within the State, Eligible Units will
+be provided with a subsidy of 25% of the CAPEX for establishing product testing and prototyping facilities, subject
+to a ceiling of Rs. 1 crore.
+
+D. Land Cost Incentive
+For eligible projects in SIPCOT industrial estates, land allotment will be made at a 10% concessional rate in “A”
+& “B” districts and at a 50% concessional rate in “C” districts for land up to 20% of Eligible Fixed Assets (EFA). For
+private land in “C” districts, 50% subsidy will be offered on the cost of land as per guideline value up to an extent
+of 50 acres and subject to land cost not exceeding 20% of EFA and a cap of Rs. 2 crore provided that at least 70%
+of the land is used for manufacturing operations. The district categorization and definition of EFA shall be as per
+the Tamil Nadu Industrial Policy 2021 (TNIP 2021).
+
+E. Stamp Duty Incentive
+A 100% stamp duty exemption will be given for lease or purchase of land/ shed/ buildings intended for industrial
+use on land obtained from SIPCOT. In the case of private lands, a stamp duty concession will be provided as a
+100% back-ended subsidy for up to 50 acres, contingent upon the fulfilment of investment and employment
+commitments.
+
+F. Electricity Tax Incentive
+New or expansion manufacturing projects will be given an Electricity Tax Exemption for a period of 5 years
+on power purchased from the Tamil Nadu Generation and Distribution Corporation Ltd. (TANGEDCO) and/or
+generated and consumed from captive sources.
+
+G. Enhanced Quality Certification Incentive
+Projects obtaining certifications like ISO, ISI, BIS, BEE, and ECO Mark or any other national or international
+certification shall be given a subsidy covering 50% of the total cost incurred for obtaining the certification, as
+verified by the Chartered Accountant, with a limit of Rs. 1 crore for the period of investment.
+
+                                                                                                                    7
+H. Enhanced Intellectual Property Incentive
+The Government will reimburse 50% of the expenditure incurred by the Project, up to a maximum of Rs. 1 crore for
+the investment period, for in-house R&D related to patents, copyright, trademarks, and Geographical Indications
+registration.
+
+I. Interest Subvention
+An Interest Subvention of 5% as a rebate in the rate of interest shall be provided for actual term loans taken to
+finance the project. This will be applicable for a period of 6 years subject to the limits as below:
+
+
+                                Interest Subvention         Maximum Incentive            Ceiling per annum
+     Project Category
+                                (% Rate of Interest)      Disbursal Period (Years)           (Rs. Lakhs)
+
+
+
+           Large                         5%                           6                           20
+
+
+
+
+           Mega                          5%                           6                          100
+
+
+
+
+       Ultra – Mega                      5%                           6                          400
+
+
+
+
+The Project Category shall be decided based on the Eligibility criteria set forth in the Section 12.1 of the TNIP
+2021.
+
+J. Green Industry Incentive
+Industrial projects undertaking green initiatives for recycling waste and water for industrial use and sustainable
+energy usage, coupled with online monitoring (wherever applicable) indicated in Section 13.5.3 of TNIP 2021,
+shall be eligible for a 25% subsidy. This subsidy applies to the cost of setting up such environmental protection
+infrastructure in the indicated solution areas subject to a limit of Rs.1 crore.
+
+
+
+
+8
+6.Structured Package for Advanced Electronics
+Manufacturing
+Investments in Electronics sector are eligible for a Structured Package of Incentives and Standard Incentives
+under the existing policies namely Tamil Nadu Industrial Policy 2021 (or) Tamil Nadu Electronics Hardware
+Manufacturing Policy 2020.
+
+
+The State now targets to achieve higher domestic value addition by developing a favorable ecosystem for
+advanced electronics manufacturing. In line with this vision, new or expanding manufacturing projects in
+electronics ecosystem defined in Section 4.B, committing to unit level value addition of over 20% shall be
+eligible for the Structured Package of Incentives for Advanced Electronics Manufacturing. These incentives
+have been structured with an objective to promote unit level value addition and foster aspirational job
+opportunities within Tamil Nadu.
+
+6.1. Eligible Units
+The Structured Package of Incentives for Advanced Electronics Manufacturing shall be applicable for ‘new/
+expansion projects’ in the State with investments made from 1st January 2024. The companies should meet
+a minimum investment threshold of Rs.200 crores and minimum employment threshold of 150 jobs for
+the initial Rs.200 crore investment. Further, for every additional Rs. 50 crore of investment, a minimum of
+35 jobs should be generated. The minimum investment and employment threshold must be met by the
+unit(s) within the Standard Investment Period of 4 years. Additionally, the companies must commit to a
+minimum of 20% in-house/unit level Value Addition from the manufacturing facility. The computation of
+‘Manufacturing Unit Level - Value Addition’ has been provided in the Annexure.
+
+
+The Structured Package of Incentives for Advanced Electronics Manufacturing shall be offered to first 20
+applications received by the Industries, Investment Promotion & Commerce Department, Government of
+Tamil Nadu.
+
+
+6.2. Eligible Fixed Assets
+As per the Tamil Nadu Industrial Policy 2021, Eligible Fixed Assets (EFA) shall include investments in
+manufacturing such as land, building, plant, and machinery. To encourage R&D in high-end electronics, EFA
+shall include the following intangible R&D related expenditure, subject to a ceiling of up to 20% of EFA:
+
+
+        i. Expenditure incurred on new R&D – including test and measuring instruments, prototypes
+            used for testing, purchase of design tools, software cost (directly used for R&D), license fee and
+            expenditure on technology.
+        ii. Expenditure related to Transfer of Technology (ToT) Agreements covering the cost of technology
+            and initial technology purchase related to the manufactured goods that are related to
+            manufacturing and R&D.
+
+
+
+
+                                                                                                            9
+6.3. Structured Package of Incentives
+The Structured Package of Incentives for Eligible Units in Advanced Electronics Manufacturing include the
+following subsidies:
+
+A. Investment Promotion Subsidy
+
+Eligible units can avail a combination of Fixed Capital Subsidy and Turnover based Subsidy from the commencement
+of commercial operations:
+
+         i. Fixed Capital Subsidy of 20% of investment in Eligible Fixed Assets and
+         ii. Turnover based Subsidy of 1.5% of annual turnover from the manufacturing facility for a period of 5
+             years.
+In addition to the above Investment Promotion Subsidy, based on the nature of manufacturing, additional
+subsidy may be offered on a case-to-case basis.
+
+B. Training Subsidy
+
+Skilling support can be availed in the form of a Training Subsidy of Rs. 4,000 per person per month for 6 months
+for residents of Tamil Nadu. For women and transgender employees, persons with benchmarked disabilities,
+persons from SC/ST communities, the training subsidy shall be Rs. 6,000 per person per month for 6 months.
+
+C. Interest Subvention
+
+Interest Subvention of 5% as a rebate in the rate of interest will be provided on actual term loans taken for the
+purpose of financing the project, for a period of 6 years subject to annual ceiling of Rs.1 crore.
+
+D. Other Applicable Incentives
+
+The Eligible Units shall be offered Other Incentives namely – Land Cost Incentive, Stamp Duty Incentive, Electricity
+Tax Incentive, Enhanced Quality Certification Incentive, Enhanced Intellectual Property Incentive and Green
+Industry Incentive discussed in the Section 5.3 of this Policy.
+
+
+
+
+10
+7.Incentives for High-end Electronics Design/
+Research
+7.1. Eligible Units
+Global marquee research/design entities undertaking (i) Semiconductor design for Integrated Circuits (IC),
+Chipsets, System on Chips (SoC), Systems & IP Cores and semiconductor linked design, (ii) Semiconductor
+equipment design, (iii) High-end electronic product design and development, (iv) High-end ESDM software
+shall be eligible for incentives discussed in this section.
+
+
+Eligible Units should fulfil the following criteria to avail the incentives:
+          a. The entity must create a minimum employment for 50 persons within a Standard Investment
+             Period of 4 years.
+          b.The entity must be engaged in design/research with clearly demarcated facility(ies) within Tamil
+             Nadu.
+
+7.2. Incentives for Design/Research Entities
+Payroll Subsidy: The subsidy shall be paid for residents of Tamil Nadu as follows:
+
+                    Period of Subsidy                                % of Annual Payroll Cost
+
+                         Year 1                                                 30%
+
+                         Year 2                                                 25%
+
+                         Year 3                                                 20%
+
+The payroll subsidy shall be capped at Rs.20,000 per employee per month.
+
+
+
+
+                                                                                                          11
+     8.Promotion of Electronic-Waste Recycling
+     Ecosystem
+
+
+
+
+Sustainability and environment protection are guiding principles for the Industrial Policies in Tamil Nadu. The
+State is a pioneer in adopting practices towards circular economy led by its industries following zero-liquid
+discharge (ZLD) and also using recycled water for the manufacturing process.
+
+
+Likewise, the State has a strong network of registered stakeholders in the e-waste dismantling and recycling
+space, with regulatory oversight from the State’s Pollution Control Board .
+
+
+The e-waste recycling ecosystem will be scaled to higher standards and volumes through necessary programs,
+public-private collaborations, regulatory mechanisms, and support for R&D projects in the field. This will
+strengthen its resilience in supply chain and create new business models for the monetization of e-waste.
+
+
+
+
+12
+9.Funding Mechanisms
+
+With the objective of promoting indigenous players and support in the diversification of existing players,
+the Government of Tamil Nadu has created multiple robust funding avenues including Grants, Equity
+participation and Debt funding. They can be leveraged by start-ups, established entities, academic institutions
+in partnership with industry player/s.
+
+A. Equity/Debt Financing
+
+Investors can submit business proposals to the Tamil Nadu Industrial Development Corporation (TIDCO) to
+consider equity participation in their project. Projects may also be offered hybrid security financing in the
+form of convertible debentures, or land as equity with an associated investment plan, and exit plan, on a
+case-to-case basis.
+
+B. Research and Technology Adoption Fund
+
+The State recognizes that investment into Research & Development (R&D) activities is a critical enabler to
+sustain and improve existing achievements and further the know-how in futuristic and complex technologies.
+Considering the opportunities in R&D, the State shall constitute a dedicated ‘Research and Technology
+Adoption Fund’.
+
+C. Emerging Sector Seed Fund
+
+Tamil Nadu Emerging Sector Seed Fund (TNESSF) is a SEBI-registered Alternative Investment Fund set up as
+part of the policy initiatives of the Government of Tamil Nadu with an anchor investment of Rs. 100 Crore.
+The fund is sponsored by TIDCO, TIDEL and managed by TNIFMC. The fund targets to invest Rs. 3 to 10 Crore
+per round in equity or convertible debentures. Larger investment sizes may also be considered for mature
+companies.
+
+
+In addition, to the above financial assistance options, GoTN shall also provide the necessary support to
+leverage funds from Government of India.
+
+
+
+
+                                                                                                            13
+     10.Policy Implementation
+
+     10.1. Nodal Agency
+     The incentives discussed in Sections 5, 6, & 7 shall be provided to eligible units by the Industries, Investment
+     Promotion & Commerce Department based on the proposals sent by Guidance Tamil Nadu and the
+     recommendation of the Inter-Departmental Committee (IDC). The disbursement of incentives shall be made
+     by SIPCOT. Facilitations for clearances, licenses and approvals shall be undertaken by Guidance through its
+     single window portal. An advisory committee may be constituted by the IDC, if required, to evaluate the
+     eligibility of proposals for the sanctioning incentives under Section 7.
+
+     10.2. Term of Policy
+     The policy will be valid for a period of 3 years from the date of notification. The Policy shall be revised as and
+     when the need arises.
+
+     10.3. Applicability for Expansions
+     The investor can choose to avail the incentives sanctioned under the policy for future expansions.
+
+     10.4. Operational Guidelines
+     The definitions, general conditions for sanction of incentives, general conditions for availing incentives,
+     conditions for changes in the company or investment plan after sanction of incentives, eligibility criteria
+     and procedure for application of eligibility certificate, procedure for sanction of incentives and sanctioning
+     authorities and procedure for claiming incentives and implementation agencies shall be as per TNIP 2021
+     or as notified by GoTN.
+
+
+
+
+14
+11.Annexure
+
+Manufacturing Unit Level - Value Addition Computation
+The Value Addition (VA) of the manufacturing unit in a given financial year ‘n’ shall be calculated in the
+following manner:
+
+                                 [ Sales Turnover - Cost of Goods Sold ]
+                                                n                    n
+                      VA     =
+                         n
+                                           (Sales Turnover )
+                                                           n
+        • Where Sales Turnover is the Sale Value (Net of returns, price adjustments, discounts, etc.) of
+                              n
+          the goods manufactured by the company in the State, excluding indirect taxes if any paid on the
+          goods, in the given financial year ‘n’.
+        • Cost of goods sold is the cost of raw materials and/or packing materials consumed in the said
+                               n
+          goods (i.e., in the final sale price of the goods sold) and cost of fuel consumed if eligible for GST
+          input credit, in the given financial year ‘n’.
+
+
+
+
+                                                                                                            15
+16
+NOTES
+     www.investingintamilnadu.com
+
+
+
+20
+

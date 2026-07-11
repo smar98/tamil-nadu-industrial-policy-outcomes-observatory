@@ -1,0 +1,599 @@
+    GOVERNMENT OF TAMIL NADU
+
+
+      TAMIL NADU
+  CIRCULAR ECONOMY
+INVESTMENT POLICY 2026
+          GOVERNMENT OF TAMIL NADU
+
+
+
+
+            TAMIL NADU
+        CIRCULAR ECONOMY
+        INVESTMENT POLICY
+               2026
+
+
+
+
+Industries, Investment Promotion and Commerce Department
+                  Government of Tamil Nadu
+Contents
+1. Introduction................................................................................................................................................................ 6
+
+2. Need for Policy............................................................................................................................................................ 8		
+       2.1. Rationale for the Policy: A pathway to responsible production
+       2.2. Vision
+
+3. Scope of the Policy...................................................................................................................................................... 9
+
+4. Sector Covered under the Policy..............................................................................................................................10		
+        4.1 Textiles
+        4.2 Automobile
+		              a) Promotion of scrappage of End-of-Life Vehicles
+		              b)Advanced-Chemistry Cell(ACC) Recycling....
+		c) Tyre
+        4.3. Electronics
+		              a) Consumer Goods
+		              b) Solar Modules
+        4.4. Plastics
+
+5. Incentives for Promotion of Circular Economy...................................................................................................16
+       5.1. Special Package of Incentives for Recycling Facilities
+       5.2. Incentive for Technology Enablers/Platform Entities.
+       5.3. Incentives offered under the MSME Policy 2021 and FameTN Sponsorship Policy
+
+6. Other Support for Circular Economy....................................................................................................................19		
+       6.1. Circular Economy Repository
+       6.2. Tamil Nadu Green Climate Fund (TNGCF)
+       6.3. Circular Economy Enablement Forum
+       6.4. Skill Augmentation
+       6.5. Development of Low-Carbon Green Industrial Park
+       6.6. Institutional Linkages for Technology Transfer
+       6.7. Waste exchange Bureau
+       6.8. Green Rating of industries
+
+7. Policy Implementation..............................................................................................................................................21		
+        7.1. Implementation Mechanism
+        7.2. Policy Period
+1. Introduction
+The Circular Economy promotes markets that incentivize the reuse of products instead of discarding them
+and extracting new resources. In such an economy, all forms of waste are viewed as valuable resources,
+continuously reintegrated into production cycles or repurposed to maximise efficiency and minimize
+environmental impact. This approach not only helps protect the environment but also ensures the wiser use
+of natural resources, fosters the development of new sectors, creates jobs, and builds new capabilities.
+
+The global consumption patterns driven by convenience and fast-paced lifestyles are becoming increasingly
+resource-intensive. To meet these demands, manufacturing systems have predominantly adopted a linear
+model that prioritises rapid upgrades and a diverse range of product offerings. This approach prioritises
+speed and variety over sustainability, neglecting the key principles of reducing, reusing, and recycling that
+form the foundation of a circular economy. Between 2016 and 2021, it is estimated that over half a trillion
+tonnes of virgin materials were consumed. Transitioning from a linear ‘take, make, and dispose’ model to a
+circular system can reduce material extraction and consumption by one-third, unlock up to USD 4.5 Trillion
+in economic growth and lead to a net increase of 7-8 million jobs by 2030.
+
+Adopting Circular Economy practices in India can generate savings of over USD 624 Billion by 2050 across
+Agriculture & Food, Mobility and Construction.
+
+
+
+
+6
+Tamil Nadu: A Leader in Sustainable
+Industrial Development
+Tamil Nadu, the second-largest economy in India
+is marching towards becoming a Trillion-dollar
+economy by 2030. With the manufacturing sector
+forming the backbone of the State’s economic
+growth story, the material consumption and
+demand for resources to support the desired
+growth is expected to increase significantly.
+
+Tamil Nadu has been at the forefront of adopting
+circular economy practices, particularly in the
+recycling and reuse of water for industrial purposes
+under the Tertiary Treated Reverse Osmosis (TTRO)
+scheme. With a capacity of approximately 90 MLD
+(million litres per day), this initiative supports
+major industrial clusters in the Chennai region by
+providing a sustainable alternative water source,
+serving as critical infrastructure to address water
+scarcity while ensuring resource efficiency and
+resilience.
+
+Similarly, to encourage the uptake of sustainable
+practices among industries, the Government
+through the Tamil Nadu Industrial Policy, 2021
+(TNIP) provides for green industry incentives. Key
+among them being, renewable energy incentive to
+setup captive units and plant-based sustainability-
+focused infrastructure.
+
+Such measures have ensured that the industrial
+ecosystem in Tamil Nadu has one of the lowest
+emissions among the industrialised economies in
+India. To advance these initiatives, Tamil Nadu
+has launched the pioneering Tamil Nadu Climate
+Change Mission, the first of its kind at the sub-
+national level. Additionally, key industries in the
+State, including textiles, cement, automobiles,
+and steel, have been actively exploring circular
+manufacturing practices.
+
+The Circular Economy Policy aims to position
+Tamil Nadu as a leader in circular manufacturing,
+setting an example for both Indian states and other
+developing economies worldwide.
+
+                                                       7
+2. Need for Policy
+2.1. Rationale for the Policy: A Pathway to Responsible Production
+The Circular Economy policy is essential to align industries with global sustainability standards and enhance
+their competitiveness in evolving markets. The policy will support industry readiness for the green transition
+and low-carbon manufacturing by aligning with key initiatives such as the European Union (EU) Carbon
+Border Adjustment Mechanism (CBAM), European union Deforestation Regulation (EUDR), the Ecodesign for
+Sustainable Products Regulation, the Ecomark scheme, and digital traceability tools like the Digital Product
+Passport. This alignment aims to retain export market access and attract investment from global brands
+including foreign direct investment (FDI) in circular technology and business models.
+
+Adopting circular principles fosters innovation and product differentiation, enabling industries to design
+sustainable products, implement eco-friendly manufacturing processes, and extend product life cycles. This
+approach not only meets the growing global demand for green products, but also enhances market access and
+strengthens industry leadership in sustainable practices.
+
+The transition to a circular economy also brings significant cost efficiencies through resource optimisation. By
+integrating recycling, remanufacturing, and waste reduction into operations, companies can lower production
+costs, reduce dependence on raw materials, and improve profitability.
+
+Furthermore, the policy emphasizes the importance of leveraging global green-financing opportunities.
+With increasing availability of international funding and incentives for sustainable practices, industries can
+secure the resources needed to adopt advanced technologies, modernize infrastructure, and scale sustainable
+solutions.
+
+This policy aims to build resilience in industries, ensuring compliance with emerging global standards and
+fostering long-term growth in a low-carbon economy. It provides a pathway for businesses to thrive while
+contributing to national and global sustainability goals.
+
+
+
+
+2.2. Vision
+Tamil Nadu aspires to be a global hub for circular economy solutions, fostering sustainable manufacturing,
+resource-efficient consumption, and innovation-driven growth. By leading the transition to a regenerative and
+responsible economy, the State aims to set a benchmark for sustainability and attract investment in circular
+industries and creation of green jobs
+
+8
+3. Scope of the Policy
+The policy shall support investments in the following areas:
+
+    • Manufacturing entities that incorporate circularity by utilizing discarded products, industrial waste, or
+      waste water as primary inputs and converting them into usable outputs, either for end-use consumption
+      or as intermediate goods for downstream manufacturing through processes such as recovery, reuse,
+      remanufacturing, resource extraction, and waste water recycling.
+
+    • Technology-driven waste management platforms, headquartered in Tamil Nadu, that leverage digital
+      solutions to serve as aggregators, linking waste generators, recyclers, and brands. These platforms
+      shall facilitate material traceability, enable efficient recycling logistics, support Extended Producer
+      Responsibility (EPR) compliance, and integrate with supply chains to ensure a scalable, transparent,
+      and circular waste value chain.
+
+
+
+
+                                                                                                             9
+4. Sectors Covered under the Policy
+Circularity, as a domain, encompasses a wide spectrum of activities and sub-sectors. As an initial transition
+towards adoption of circular practices in the State, the scope shall cover the following sectors – Textiles,
+Automobile, Electronics, and Plastics.
+
+
+
+     4.1. Textiles
+
+Textile waste refers to any unwanted or discarded fabric or clothing that can no longer serve its intended
+function. Globally, textile waste amounts to 92 million tonnes annually, with projections reaching 134 million
+tonnes by 2030. By 2050, over 150 million tonnes of textile waste are expected to be incinerated or sent to
+landfills.
+
+Advancements in recycling technologies, traceability systems, and value realization methods can unlock
+significant market opportunities. Global regulations mandating eco-design and sustainable product labeling,
+particularly from major export partners, drive the adoption of circular manufacturing processes. Additionally,
+there is a growing consumer demand for sustainable products in the textile sector, driven by increasing
+awareness and preference for environmentally responsible choices.
+
+Tamil Nadu has already launched a special scheme to encourage Man-Made Fibre (MMF) Yarn development
+through recycled textiles. Through this policy, the State shall encourage advancements in recycling
+technologies, traceability systems and market dissemination towards adopting circularity, to drive sustainable
+textile production.
+
+The unorganized nature of textile recycling in India gives rise to traceability and value realization challenges.
+The formalisation of this market could unlock a USD 418.2 Million opportunity by 2032. This includes
+advancements in recycling processes, adoption of chemical recycling technologies, and leveraging India’s
+expertise in mechanical recycling to drive sustainable textile production.
+
+The State shall support textile manufacturing units that invest in advanced recycling technologies or processes
+aimed at converting pre-consumer and post-consumer textile waste into yarn, fabric, or other related products
+that can be reintegrated into the textile manufacturing value chain or used as direct consumer goods.
+
+
+
+
+10
+   4.2. Automobile
+
+a) Promotion of Scrappage of End-of-Life Vehicles
+It is estimated that by the end of 2030, 1.56 Crore vehicles in the State will enter the scrapping market.
+To manage this scale effectively, the State has come out with an appropriate mechanism to facilitate the
+development of Registered Vehicle Scrapping Facilities (RVSFs) and related infrastructure in line with the
+Government of India’s Voluntary Vehicle Fleet Modernisation Program (VVMP), also known as ‘Vehicle
+Scrapping Policy’.
+
+
+
+
+b) Advanced-Chemistry Cell (ACC) Recycling
+Advanced-Chemistry Cell recycling focuses on recycling advanced batteries, which store energy
+electrochemically and convert it back to electricity. Within the prevalent cell chemistries, Lithium–ion batteries
+have significant market driven by Electric Mobility, consumer electronics and Energy Storage Systems (ESS).
+Incidentally, this chemistry also has the potential to recover critical materials such as lithium (Li), nickel and
+cobalt.
+
+The cumulative potential of lithium-based battery storage in India is 600 GwH, out of which about 128 GwH
+is expected to enter the recycling market by 2030.
+
+The established EV manufacturing in Tamil Nadu presents significant opportunity for Li based recycling.
+Furthermore, the Battery Waste Management Rules, 2022, mandate Extended Producer Responsibility (EPR)
+for battery producers, which necessitates the need for innovations in battery recycling and traceability
+initiatives.
+
+The State shall support enterprises that operate across the entire value chain of lithium-ion batteries, from
+collection and diagnostics of used batteries to their safe dismantling, mechanical/eco-hydrometallurgy based
+black mass recovery, and critical material extraction. The recovered materials shall serve as an input to lithium-
+ion cell manufacturing. Furthermore, lithium-ion batteries can be repurposed for second-life applications
+such as energy storage for home, emergency power systems, EV charging stations, and as replacements for
+diesel generators, among other uses.
+
+                                                                                                                11
+c) Tyre
+India is the third largest automobile market in the world with close to 4 million vehicle registrations in 2023,
+with the tyre manufacturing sector reaching a total production of 217 million units. Currently, the rubber &
+tyre recycling industry in India is valued at USD 400 Million and has a potential to grow tenfold in the next
+decade.The Government of India has mandated EPR for tyre producers, recyclers and retreaders towards
+sustainable management of waste generated.
+
+Tamil Nadu is a key hub for tyre manufacturing in India, contributing 25% of the country’s total tyre exports,
+amounting to USD 700 million in FY 2024. The adoption of circular practices can enhance the export
+competitiveness of Tamil Nadu in this sector.
+
+Recognizing Tamil Nadu’s position as a leading tyre manufacturing and export hub, the State shall support
+entities involved in sustainable tyre recycling methods such as
+
+
+
+                           1. Mechanical Recycling (Shredding & Grinding)
+                           2. Devulcanization (Thermal or Mechanical)
+                           3. Pyrolysis
+                           4. Cryogenic Recycling
+                           5. Ambient Grinding
+                           6. Microwave or Plasma Treatment
+                           7. Circular Product Design & Retreading
+                           8. Biological Processing (Experimental stage)
+                           9. Any other emerging eco-friendly recycling methods.
+
+
+The scope of the policy shall cover entities engaged in tyre recycling through any recognized sustainable
+method, including mechanical, thermal or biological processes. It shall specifically support operations that
+supply recycled tyre-derived products as critical inputs to downstream manufacturing industries such as
+automobiles (including tyre manufacturing), footwear, chemicals, capital goods, and other allied sectors where
+such outputs form a significant part of the production value chain.
+
+
+
+
+12
+13
+     4.3. Electronics
+
+a) Consumer Goods
+Electronic waste, or e-waste, refers to electrical and electronic equipment and its parts that have been discarded
+without the intent of re-use.16 The global e-waste management market is valued at USD 17.1 Billion in 2023
+and is projected to grow to USD 71.6 Billion by 2034, driven by mandates for responsible manufacturing and
+increasing consumer demand.17
+
+As the third-largest generator of e-waste, India produced 1.6 million metric tonnes in 202218. In order to
+address the challenges arising from this, the Government of India came out with the E-Waste Management
+Rules (2022), emphasising EPR as a key strategy for reduction of e-waste. However, only about 10% of e-waste
+is processed formally, with hazardous informal methods remaining prevalent19.
+
+Tamil Nadu is the second-largest producer of computers, electronics, and optical products. On the consumption
+side, the sale of smartphones and other white goods has recorded a 35% year-on-year growth. It is estimated
+that approximately 31,000 metric tonnes of e-waste are generated annually within Tamil Nadu. Strengthening
+mechanisms for reverse logistics and material recovery systems can enhance the effectiveness of e-waste
+recycling.
+
+
+
+
+b) Solar Modules
+Solar waste refers to the discarded or end-of-life components of solar photovoltaic (PV) systems, including
+solar panels and associated electronic equipment.
+
+In India, Electricity generation in solar energy market is projected to reach 104.60 billion kWh in 2025 and is
+anticipated to grow at a CAGR of 7.50% till 202920. International Renewable Energy Agency (IRENA) projects
+that waste from cumulative solar PV projects globally will rise to 4 million tonnes in 2030 and ~ 50 million
+tonnes by 2040.
+
+As per the current prevailing solar technologies, India’s solar panel waste by 2030 will amount to 340 kilo
+tonnes. Approximately 67% of this waste is expected to be generated in five states, namely Rajasthan, Gujarat,
+Karnataka, Tamil Nadu and Andhra Pradesh.
+
+
+14
+Under the E-Waste (Management) Rules, 2022, solar photovoltaic modules, panels, or cell waste generated
+till 2034-2035 can be stored as per Central Pollution Control Board (CPCB) guidelines. This provides for
+a significant opportunity for recyclers to act on an existing inventory waste stockpile and extract critical
+materials to pursue new avenues.
+
+The scope of the policy shall cover entities engaged in the recycling and upcycling of electronic waste—
+including post-consumer electronics, manufacturing scrap from electronic production units, and end-of-life or
+defective solar photovoltaic (PV) modules—through environmentally sound and compliant processes. These
+recycling operations shall facilitate the recovery of high-value materials such as copper, aluminium, gold,
+silver, rare earth elements, silicon, and glass. The recovered materials shall be positioned as critical inputs
+for downstream industries including electronics manufacturing, solar energy systems, electrical equipment,
+automotive components, and strategic material supply chains.
+
+
+
+
+    4.4. Plastics
+
+Transitioning to a circular economy for plastics presents a substantial environmental and economic opportunity
+for Tamil Nadu. The current linear model, where plastics are produced, used, and then discarded, contributes
+to significant environmental and social costs. A circular economy approach, focused on reducing, reusing, and
+recycling plastics, offers a more sustainable alternative. Globally, the plastic recycling industry is projected
+to expand at a compound annual growth rate (CAGR) of 4.3%, reaching USD 61.7 billion by 2032, up from
+USD 41.9 billion in 2023. Tamil Nadu, which produces 4.3 lakh metric tonnes of plastic waste each year, can
+attract investments in innovative recycling technologies such as AI-powered sorting, biological recycling, and
+chemical recycling. Moreover, the focus on circularity fosters opportunities for investments in sustainable
+packaging solutions, reducing the reliance on virgin plastics and promoting a more closed-loop system.
+
+Tamil Nadu is dedicated to addressing plastic pollution through this policy and initiatives like the ban on
+single-use plastics since January 1, 2019. This ban encompasses a range of single-use plastic items, and
+is supported by the “People’s Campaign against throwaway plastics,” including the “Meendum Manjappai”
+initiative, promoting cloth bags.
+
+
+
+
+                                                                                                              15
+5. Incentives for promotion of Circular Economy
+This section outlines a comprehensive set of measures aimed at fostering circular economy contributing to
+the long-term sustainability and competitiveness of industries in Tamil Nadu. The incentives offered are as
+follows:
+         I. Special Package of Incentives for recycling facilities
+         II. Incentive for technology enablers/platform entities.
+         III. Incentives offered under the MSME Policy 2021 and FameTN Sponsorship Policy.
+
+5.1. Special Package of Incentives for Recycling Facilities
+Eligibility
+Companies fulfilling the following criteria, post 01.07.2024, shall be eligible to avail Special Package of
+Incentives outlined under this section.
+
+A. Nature of Activities/Adoption of Practices.
+Entities establishing recycling facilities in sectors mentioned in section 4, either as integrated in-house units
+or as standalone operations, undertaking activities related to the recycling, recovery, and upcycling of eligible
+waste streams into intermediate goods for manufacturing applications or final goods for direct consumption,
+in an environmentally sustainable manner, shall be covered under the scope of this policy.
+Further the entities shall fulfil the following eligibility criteria:
+
+
+                          Parameters                                    Criteria
+                                                       Minimum of Rs.20 Crore investment
+                                                       in Eligible Fixed Assets (EFA) within a
+                      Minimum Investment
+                                                       Standard Investment period of 2 years
+                                                       from 01.07.2024.
+
+                                                       Eligible entities shall be required to derive
+                                                       a minimum of 50% of their total revenue in
+                                                       case of the facility being developed within
+                                                       an existing manufacturing unit or >80% of
+                                                       their total revenue in case of a stand-alone
+                             Revenue
+                                                       recycling facility from the sale of recycled
+                                                       materials that serve either as critical
+                                                       inputs for downstream manufacturing
+                                                       industries or are directly utilized as end-
+                                                       use consumer products.
+
+
+                           Employment                  Minimum 25 new hires
+
+*Note: The Investment and employment criteria must be fulfilled within the Standard Investment Period of
+two years. The turnover criteria shall be measured during the incentive disbursal period. The definition of EFA
+shall be as per TNIP 2021, however the proportion of land in the overall EFA will be capped at 20% of the EFA.
+
+16
+i. Capital Subsidy
+Eligible entities shall be provided a capital subsidy of 10% of Eligible Fixed Assets (EFA) disbursed over 5
+years in equal annual instalments from the Date of Commencement of Operations and upon fulfilment of the
+minimum eligible investment of Rs. 20 Crore and minimum employment of 25 net new jobs whichever is
+later, subject to a ceiling of Rs. 3 Crore.
+
+ii. Employment Incentive
+Eligible units will receive an employment incentive as a reimbursement of employer’s EPF contribution for net
+new jobs created during the policy period. This incentive will be provided for one year, capped at Rs. 10,000
+per employee per month for employees domiciled in Tamil Nadu, with a maximum limit of 50 employees per
+organization.
+
+iii. Skilling Incentive
+Skilling Subsidy of Rs.10,000 per person can be availed for trainings offered by the companies on sustainability
+audit/compliance/ESG related courses curated and/or empanelled by TNSDC.
+
+
+5.2.   Incentive for Technology Enablers/Platform Entities.
+Technology enablers/Platform entities shall be defined as tech-driven waste management platforms that
+leverage digital solutions to serve as aggregators, linking waste generators, recyclers, and brands. These
+platforms shall facilitate material traceability, enable efficient recycling logistics, support Extended Producer
+Responsibility (EPR) compliance, and integrate with supply chains to ensure a scalable, transparent, and
+circular waste value chain.
+
+Eligibility
+Technology enablers/Platform entities, headquartered in Tamil Nadu, registered on or after 01.07.2024, with a
+net new employment of 15 jobs created within one year of commencement of operations, and with a minimum
+annual turnover of Rs. 10 Crore in FY 25-26 or later, shall be considered eligible for the payroll subsidy.
+
+i.Payroll Subsidy
+The payroll subsidy shall be paid for employees domiciled in Tamil Nadu as follows and the payroll subsidy
+shall be capped at Rs.20,000 per employee per month.
+
+
+
+
+                     Period of Subsidy                         % of Annual Payroll Cost
+                              Year 1                                          30%
+
+                              Year 2                                          20%
+
+                              Year 3                                          10%
+
+
+
+The company should maintain both eligible turnover and employment throughout the incentive period.
+
+
+
+                                                                                                               17
+5.3.   Incentives offered under the MSME Policy 2021 and FameTN Sponsorship Policy
+
+MSMEs as defined under the Tamil Nadu MSME Policy 2021 not eligible for incentives listed under Section
+4.1, may avail the following incentives as per the TN MSME Policy 2021 and FameTN sponsorship policy,
+subject to meeting the eligibility criteria.
+
+i. Special Capital Subsidy
+Eligible units can avail Special Capital Subsidy equivalent to 25% of plant and machinery value, subject to a
+maximum of up to Rs. 1.50 Crore, disbursed in three instalments.
+
+ii. Additional Capital Subsidy
+To promote cleaner and environmentally friendly technologies, an additional capital subsidy of 25% of plant
+and machinery value installed, subject to a maximum of Rs. 10 Lakh.
+
+iii. Scheme for acquiring Quality Certifications (Q-CERT)
+Eligible units will be supported with 100% reimbursement for circularity related certification and consulting
+charges, subject to a maximum of Rs. 2 Lakh per unit for national certifications and Rs. 10 Lakh per unit for
+international certifications.
+
+iv. Subsidy for Intellectual Property Creation
+Eligible entities can avail up to 75% subsidy on the cost of filing the patent registration application, subject to
+a maximum of Rs. 3 Lakh per patent registered and subject to the entity applying within 6 months from the
+date of patent registration.
+
+v. Innovation Voucher Program
+Eligible entities can avail an innovation grant voucher to develop their ideas and commercialise them. The
+following vouchers are provided to support them:
+
+        •   Voucher A: 80% of the total budget for the development of new product or production process,
+            subject to a limit of Rs. 2 Lakh.
+        •   Voucher B: 50% of the total budget to promote existing or early-stage companies with innovative
+            commercial products to support in accessing potential markets, subject to a limit of Rs. 5 Lakh.
+        •   For SC/ST candidates, 100% of the total budget for approved activities shall be allowed, subject
+            to the respective ceilings in Voucher A and Voucher B.
+
+vi. Marketing Support
+Eligible units can avail the below marketing support
+
+        •   As per the MSME policy 2021, MSME associations in the State shall be supported with
+            reimbursement of 50% of the hall rent for conducting exhibitions in India and 50% of the rent
+            paid towards stalls or space charges, subject to a maximum of Rs. 7.5 Lakh for domestic events
+            and up to Rs. 15 Lakh for international events.
+        •   As per the FameTN Sponsorship Policy, individual MSME units can claim reimbursements
+            for expenditure incurred towards setting up stalls, participation in seminars/conferences,
+            exhibitions and buyer-seller meets in domestic and international events, subject to meeting
+            eligibility criteria.
+
+
+18
+6. Other Support for Circular Economy
+6.1. Circular Economy Repository
+Circular Economy Repository for Tamil Nadu shall be developed and spearheaded by the Tamil Nadu Green
+Climate Company (TNGCC). The repository will act as an information-exchange portal mapping existing
+circular economy initiatives, including identification of active recycling centres, allow industries to identify
+stock/requirements of recyclable materials, industrial networks, helping stakeholders uncover opportunities
+for collaboration and resource sharing. Further, the platform will also showcase the best practices undertaken
+by industries.
+
+In addition, the MSME department shall create sustainability desks at District Industries Centre (DICs) to
+support awareness creation of existing sustainability-related schemes, dissemination of information on latest
+technologies and solutions.
+
+
+6.2. Tamil Nadu Green Climate Fund (TNGCF)
+The Tamil Nadu Green Climate Fund (TNGCF) is a Social Impact Fund established to accelerate the State’s
+transition towards a net-zero and climate-resilient future. With ‘Circular Economy’ as one of its key investment
+focus areas, TNGCF supports projects that emphasise material recycling and wealth creation from waste,
+subject to meeting the eligibility conditions.
+
+6.3. Circular Economy Enablement Forum
+Circular Economy Enablement Forum consisting of key stakeholders from Government, industry, academia
+and environmental organisations shall be convened by the Guidance Tamil Nadu, to serve as a collaborative
+platform.
+
+
+6.4. Skill Augmentation
+As a key measure towards formalisation, efficient, and safe handling of waste in the State, upskilling programs
+for stakeholders engaged in the sector shall be developed or scaled in collaboration with leading knowledge
+partners and regulatory agencies such as Tamil Nadu Pollution Control Board (TNPCB). Development of
+courses and certifications in circular manufacturing shall be undertaken in convergence with Tamil Nadu
+Skill Development Corporation (TNSDC).
+
+
+6.5. Development of low-carbon Green Industrial Park
+SIPCOT, in collaboration with national/international partners, shall develop a Low-Carbon Green Industrial
+Park, a first of its kind in India, to support in circular manufacturing. These parks will strive to reduce Scope-1
+and Scope-2 emissions.
+
+
+6.6. Institutional Linkages for Technology Transfer
+The Government shall undertake targeted efforts to facilitate tech-based knowledge transfers from leading
+research institutions such as Council for Scientific and Industrial Research (CSIR) and IIT-M to recyclers and
+relevant stakeholders.
+
+                                                                                                                 19
+6.7. Waste Exchange Bureau
+The Online Waste Exchange Bureau, developed by the Tamil Nadu Pollution Control Board (TNPCB), is a
+digital platform that facilitates efficient and transparent exchange of industrial waste between registered waste
+generators and authorized waste receivers, promoting circular economy practices in the State.
+
+
+6.8. Green Rating of industries
+Industries may apply for the Voluntary Green Rating, also administered by TNPCB, evaluating industries on
+key environmental performance parameters such as energy efficiency, water conservation, sustainable waste
+management and green initiatives through independent third-party assessments. This provides a platform
+for industries to showcase their commitment to environmental sustainability and gain formal recognition for
+their efforts.
+
+20
+7. Policy Implementation
+7.1. Implementation Mechanism
+The existing institutional mechanism for sanction and disbursal of investment related incentives to industries
+and other implementation guidelines (as per TNIP 2021 or TN MSME Policy 2021 or the prevailing industrial
+policy) shall be applicable to the industries eligible under this Policy. Entities availing incentives under this
+policy shall comply to applicable necessary TNPCB clearances with respect to environmental norms and
+register on CPCB’s EPR portal and TNPCB’s online waste exchange bureau, if applicable.
+
+To maximise the benefits of adopting circularity, the policy shall progressively expand its scope beyond
+the aforementioned sectors. In such cases, the Inter-Departmental Committee shall assess the eligibility of
+companies on a case-by-case basis, ensuring flexibility to accommodate innovations and evolving industry
+needs.
+
+7.2.   Policy Period
+This Policy shall be valid for a period of 5 years from the date of the policy notification, or till a new Policy is
+announced.
+
+
+
+
+                                                                                                                  21
+

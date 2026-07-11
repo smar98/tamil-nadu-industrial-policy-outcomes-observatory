@@ -1,0 +1,16 @@
+{
+  "target_mw": 9000,
+  "deadline": "2023",
+  "actual_date": "2023-03-31",
+  "actual_total_solar_mw": 6736.43,
+  "ground_mounted_mw": 6285.61,
+  "rooftop_mw": 386.07,
+  "hybrid_mw": 0,
+  "off_grid_mw": 64.75,
+  "achievement_pct": 74.8492,
+  "shortfall_mw": 2263.57,
+  "verdict": "not_met",
+  "source_url": "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2025/09/20250925403046597.pdf",
+  "source_agency": "Ministry of New and Renewable Energy, Government of India",
+  "method_note": "The total-capacity target is directly comparable with the MNRE state total as at 31 March 2023. The policy's separate 40 percent consumer-category earmark is not scored because MNRE technology categories do not map cleanly to the policy's consumer-category definition."
+}

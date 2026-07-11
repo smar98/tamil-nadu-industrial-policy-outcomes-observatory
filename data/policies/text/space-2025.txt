@@ -1,0 +1,814 @@
+            Government of Tamil Nadu
+
+                 Tamil Nadu
+     Space Industrial
+                    Policy 2025
+
+
+
+
+Department of Industries,
+Investment Promotion & Commerce
+    Government of Tamil Nadu
+
+
+
+
+   Tamil Nadu
+Space Industrial
+       Policy 2025
+
+
+
+
+        Department of Industries,
+   Investment Promotion & Commerce
+Contents
+1. DEFINITIONS .................................................................................................................................01
+
+
+2. PREAMBLE ..................................................................................................................................03
+
+
+3. VISION AND MISSION ...........................................................................................................05
+
+
+4. ADVANTAGE-TAMIL NADU..................................................................................................06
+
+
+5. SCOPE OF TAMIL NADU SPACE INDUSTRIAL POLICY ...........................................08
+
+
+6. FINANCIAL INCENTIVES & CONCESSIONS .................................................................09
+
+
+7. NON-FINANCIAL INCENTIVES .............................................................................................13
+
+
+8. POLICY IMPLEMENTATION....................................................................................................14
+S.No.         Acronym                                   Expansion
+
+  1     A&D             Aerospace & Defence
+
+ 2      BEE             Bureau of Energy Efficiency
+
+ 3      BIS             Bureau of Indian Standards
+
+ 4      DPSU            Defence Public Sector Units
+
+ 5      DRDO            Defence Research & Development Organisation
+
+ 6      DSIR            Department of Scientific and Industrial Research
+
+ 7      EFA             Eligible Fixed Assets
+
+ 8      ELCOT           Electronics Corporation of Tamil Nadu Limited
+
+ 9      FDI             Foreign Direct Investment
+
+ 10     GDP             Gross Domestic Product
+
+ 11     IDC             Inter-Departmental Committee
+
+ 12     iDEX            Innovations for Defence Excellence
+
+ 13     IN-SPACe        Indian National Space Promotion and Authorisation Centre
+
+ 14     ISI             Indian Standards Institution
+
+ 15     ISRO            Indian Space Research Organisation
+
+ 16     ITI             Industrial Training Institute
+
+ 17     OEMs            Original Equipment Manufacturers
+
+ 18     R&D             Research & Development
+
+ 19     SIDCO           Small Industries Development Corporations
+
+20      SIPCOT          State Industries Promotion Corporation of Tamil Nadu
+
+ 21     TANGEDCO        Tamil Nadu Generation and Distribution Corporation Limited
+
+22      TIDCO           Tamil Nadu Industrial Development Corporation Limited
+1. DEFINITIONS
+  Space Industrial Unit
+  A space industrial unit is defined as an entity which is engaged in any of the following
+  activities:
+
+    1. Design, engineering, manufacturing, servicing, and supply of               materials,
+       components, sub-assemblies, and test equipment to OEMs (Original Equipment
+       Manufacturers) or sub-tier companies of space, including ISRO, IN-SPACe, NSIL,
+       ANTRIX, Defence Public Sector Units (PSU), the three Armed Forces, namely the
+       Army, Navy, Air Force, and their sister agencies or organisations, such as the Coast
+       Guard.
+
+   2. Development of downstream applications in subdomains like remote sensing,
+      environmental monitoring, and governance applications.
+
+   3. Construction of launch and test facilities for the space sector.
+
+
+  Industrial units that have received the AS9100 certification or ISRO PAS/PAX standards, or
+  that adhere to the standards laid down by various sub committees of the Department of
+  Space, are considered eligible for the purposes of this policy.
+
+  The Industries, Investment Promotion & Commerce Department shall provide any
+  additional clarification on the definition of a space industrial unit.
+
+
+  Expansion Unit
+  New manufacturing facilities established by an existing company—whether within the
+  current site, at a new location, or on an adjacent vacant site—will be classified as
+  expansion units for incentive purposes under this policy as long as the production volume
+  or value of the existing unit is maintained.
+
+
+  Government Industrial Park
+  Industrial Parks established by any one or a combination of the following entities would
+  be termed as a Government Industrial Park
+
+         1. TIDCO
+         2. SIPCOT
+         3. ELCOT
+         4. SIDCO
+
+
+  Eligible Fixed Assets (EFA)
+  As per the Tamil Nadu Industrial Policy 2021, eligible fixed assets shall include investments
+  in manufacturing, such as land, buildings, plants, and machinery. To encourage
+  technology transfer and R&D in this niche segment, EFA for space industrial domain shall
+  additionally include the following:
+
+
+
+
+                                                                                                  01
+                                                              Tamil Nadu Space Industrial Policy 2025
+  1. Expenditure incurred on new R&D: Test and measuring instruments, prototypes used
+     for testing, the purchase of design tools, software cost (directly used for R&D) and
+     licence fee, expenditure on technology, Intellectual Property Rights (IPR), patents,
+     and copyrights for R&D.
+
+ 2. Expenditure related to Transfer of Technology (ToT) Agreements: This shall include
+    the cost of technology and initial technology purchase related to the manufactured
+    goods in connection with manufacturing and R&D.
+
+ 3. The EFA would also include satellites or other orbital objects owned by a company.
+
+
+
+
+                                     R&D Expenditure
+
+
+
+                                          TOT Agreements
+
+
+
+
+                                                Satellite / Orbital Objects
+
+
+
+
+District Classification
+For the purpose of providing incentives, the Tamil Nadu Industrial Policy 2021 categorises
+various districts of the State into the categories tabulated below:
+
+
+        District Category                           Districts covered
+
+     “A” Category Districts          Chennai, Chengalpattu, Kancheepuram
+     (4 districts)                   and Tiruvallur
+
+     “B” Category Districts          Coimbatore, Erode, Karur, Krishnagiri, Namakkal,
+     (12 districts)                  The Nilgiris, Ranipet, Salem, Tiruchirappalli,
+                                     Tirupattur, Tiruppur, and Vellore
+
+     “C” Category Districts          Ariyalur, Cuddalore, Dharmapuri, Dindigul,
+     (22 districts)                  Kallakurichi, Kanniyakumari, Madurai,
+                                     Mayiladuthurai, Nagapattinam, Perambulur,
+                                     Pudukkottai, Ramanathapuram, Sivagangai,
+                                     Tenkasi, Thanjavur, Theni, Thiruvarur,
+                                     Thoothukudi, Tirunelveli, Tiruvannamalai,
+                                     Villupuram and Virudhunagar
+
+
+
+
+                                                                                             02
+                                                          Tamil Nadu Space Industrial Policy 2025
+2. PREAMBLE
+  India's space program has emerged as a well-developed and highly successful initiative
+  driven by the realisation of indigenous technologies and systems backed by strong
+  government support. Over the years, it has played a pivotal role in advancing the nation's
+  capabilities across various critical domains. These include weather forecasting, disaster
+  management, geological studies, agriculture, satellite broadcasting, oceanographic
+  research, earth observation, communication, and space domain awareness, among
+  others. Furthermore, this progress has spurred growth in the industrial sector, with over
+  500 Micro, Small, and Medium Enterprises (MSMEs), Public Sector Units (PSUs), and large
+  private companies significantly contributing to the development and success of India's
+  space endeavours.
+
+  The global space economy was valued at USD 570 billion in 2023 and is expected to
+  reach USD 600 billion in 2025.1 The growth will be driven by the increasing number of
+  satellite launches, technology innovations across the space value chain, low
+  manufacturing costs, and growing communication needs. The Indian space sector was
+  valued at USD 9.6 billion in 2020, contributing to around 2%- 3% of the global space
+  economy. The Indian space sector is projected to reach USD 13 billion by 2025.2
+
+  In 2020, the Government of India initiated critical reforms in the space domain by
+  opening the doors for enhanced participation from Non-Governmental Entities (NGE) to
+  provide comprehensive services. It has released Indian Space Policy2023 to provide an
+  overarching framework to support the space ecosystem.
+
+  In the last five years, the Indian space startup ecosystem witnessed gradual expansion in
+  both upstream and downstream segments, covering manufacturing of satellites, rocket
+  launch vehicles, motors, and propellants, and providing analytical products based on
+  satellite data for usage across other industries.
+
+
+  2.1        Aerospace, Defence, and Space Manufacturing in Tamil Nadu
+  Tamil Nadu is an industrial powerhouse with a solid and diverse industrial base. It has a
+  highly developed industrial ecosystem across sectors such as automobiles and auto
+  components, textiles, leather products, light and heavy engineering, pumps and motors,
+  electronic software, and hardware manufacturing.
+
+  The Government of Tamil Nadu has identified the Aerospace, Space, and Defence
+  sectors as priority areas and promoted these sectors with the Tamil Nadu Aerospace
+  and Defence Industrial Policy-2022. Under the Defence Industrial Corridor initiative, the
+  Government has identified five nodes where Aerospace and Defence parks, MSME
+  clusters, Defence Testing Centres, Common Facility Centres, and Centres of Excellence
+
+
+  1
+      Space Foundation Announces $570B Space Economy in 2023, Driven by Steady Private and Public Sector Growth.
+
+
+                                                                                                                   03
+  2
+       https://www.investindia.gov.in/sector/space.
+
+
+                                                                             Tamil Nadu Space Industrial Policy 2025
+are being established. From the time of launch, the corridor has attracted more than 60
+Aerospace and Defence companies with a cumulative investment of more than
+INR 22,000 crores. The corridor has also attracted global A & D companies like Safran,
+Boeing, Honeywell, IAMPL, CIRCOR and home-grown companies like Data Patterns, LMW,
+L & T Defence, High Energy Batteries and Aerospace Engineers Pvt Ltd.
+
+The Indian Space Research Organisation (ISRO) is establishing the India’s second
+spaceport at Kulasekarapattinam, Tamil Nadu. This strategic initiative aims to enhance
+India’s space capabilities and facilitate satellite launches. Tamil Nadu is also home to
+various successful space startups such as Agnikul Cosmos, Space Zone India, EtherealX,
+OrbitAID, Vellon Space and Galaxeye which are working on subdomains such as launch
+vehicles, reusable launch vehicles, in-space refuelling, in-space manufacturing and
+multi-payload data fusion from satellites.
+
+2.2   Need for Space Policy
+The Government of Tamil Nadu is determined to leverage its inherent strengths and foray
+into the technologically advanced and complex Space sector, which encompasses
+satellite manufacturing, launch services, ground segment and satellite services. This
+aspiration necessitates a dedicated policy which encourages the entry of global players,
+attracts investments, and promotes MSMEs & startups in space sector.
+
+
+
+
+                                            Research and
+                                             Incubation
+
+
+                      Existing Space                               Design and
+                        Ecosystem                            Testing Infrastructure
+
+
+
+
+                                             ADVANTAGE
+                                         TAMIL NADU
+                 Industrial                                                     Skilled
+                Water Supply                                                  Resources
+
+
+
+
+                            Power Infrastructure
+                           and Renewable Energy          Logistics and
+                                                         Connectivity
+
+
+
+
+                                                                                                           04
+                                                                         Tamil Nadu Space Industrial Policy 2025
+3. VISION AND MISSION
+  Vision
+  To establish Tamil Nadu as the leading hub for investment, innovation, and product
+  development in the space sector thereby fostering innovation and generating
+  employment opportunities.
+
+
+
+  Mission
+       Develop a world-class, high-tech space manufacturing and services ecosystem.
+
+       Develop space clusters and space technology hubs that will attract global
+       OEMs, Tier-1 suppliers, leading Indian firms and startups.
+
+       Establish Tamil Nadu as a leading space innovation hub with Centres of
+       Excellence, Incubation centres and Innovation clusters.
+
+       Leverage strengths in electronics, precision manufacturing, and related sectors
+       to promote the growth of the space industry.
+
+       Integrate space technologies into Tamil Nadu’s governance to improve citizens'
+       quality of life.
+
+
+
+  Goal
+       To attract INR 10,000 Crore investment in the space sector in the next 5 years.
+
+       To create direct & indirect employment for nearly 10,000 persons in 5 years.
+
+       To create a skilled talent pool for the space sector in the next 5 years.
+
+
+
+
+           INR 10,000 Crore                10,000 Persons                   Skilled Talent Pool
+           Investment                     Employment                        Space Sector
+
+
+
+
+                                                                                                  05
+                                                             Tamil Nadu Space Industrial Policy 2025
+4. ADVANTAGE-TAMIL NADU
+A.   Existing Space Ecosystem
+     Tamil Nadu’s space industrial ecosystem benefits significantly from its proximity to key
+     ISRO facilities, like the Satish Dhawan Space Centre (SDSC) in Sriharikota, Vikram
+     Sarabhai Space Centre (VSSC) in Thiruvananthapuram, UR Rao Satellite Centre (URSC) in
+     Bengaluru and ISRO Propulsion Complex (IPRC) in Mahendragiri, Tamil Nadu. This
+     proximity facilitates collaboration between ISRO and Tamil Nadu’s industrial ecosystems,
+     contributing to development of satellite technology, propulsion systems, and space
+     research. Tamil Nadu has a significant vendor base with over 250 vendors catering to the
+     requirements of ISRO. Tamilnadu Industrial Development Corporation (TIDCO) has also
+     signed a Memorandum of Understanding with IN-SPACe to enable startups and
+     established companies to launch manufacturing related activities & services, design and
+     R&D, strategic electronics manufacturing and space-grade components.
+
+
+B.   Skilled Resource Base
+     Tamil Nadu has consistently given the highest priority to technical education, with some
+     of India’s leading institutions being present in the state. The State has 22 of the top 100
+     Universities and 14 of the top 100 engineering colleges in the country as per the National
+     Institutional Ranking Framework Report of 2024, and has the largest trained engineering
+     talent pool in India. With over 143,000 engineering and around 113,000 ITI students
+     graduating every year, a highly skilled talent pool is available for meeting the workforce
+     requirement of various industries including Space sector.
+
+
+C.   Research and Incubation Ecosystem
+     Tamil Nadu is emerging as a key player in India's space industrial segment due to its
+     dynamic research and incubation ecosystem. The state is leveraging its strong
+     educational and industrial base to support space technology and innovation. The state
+     also ranks first in the country in terms of the number of PhD holders and patents filed. IIT
+     Madras has been at the forefront of space research with a focus on satellite
+     technologies, propulsion systems, and space communication and collaborates with
+     organisations like ISRO and private space-tech companies. ISRO has set-up 6 Space
+     Technology Incubation Centres (STIC) in India and NIT Trichy hosts the STIC- Southern
+     Region, which plays a pivotal role in undertaking developmental projects on behalf of
+     ISRO. The Institute of Remote Sensing (IRS) has been functioning at Anna University,
+     Chennai for over 4 decades with infrastructural facilities in the areas of Remote Sensing,
+     Geographical Information System and Large-Scale Mapping. The Tamil Nadu
+     Government’s Tamil Nadu Emerging Sector Seed Fund (TNESSF), StartupTN and iTNT Hub
+     are supporting space startups and deep tech companies thereby promoting innovation
+     in this sector. In Tamil Nadu, both government and private universities have dedicated
+     incubation centres to support start-ups, including those catering to the space sector.
+
+
+
+
+                                                                                                    06
+                                                                Tamil Nadu Space Industrial Policy 2025
+D.   Logistics and Connectivity
+     With four major seaports and four international airports that offer connectivity to global
+     markets, Tamil Nadu serves as a gateway to the world. While the international airports at
+     Chennai, Coimbatore, Madurai and Tiruchirappalli will serve as the inbound and
+     outbound points for electronics goods related to the space sector companies, the
+     Chennai and Thoothukudi ports will cater to requirement of companies involved in
+     manufacturing and launching of systems and components like launch vehicles, rocket
+     motors, rocket structures, and propellants.
+
+
+E.   Design & Testing Infrastructure
+     TIDCO has set up a number of State of the Art Centres of Excellence (CoEs) namely, Tamil
+     Nadu Centre of Excellence for Advanced Manufacturing (TANCAM), Tamil Nadu
+     Advanced Manufacturing Centre of Excellence (TAMCOE) and Tamil Nadu Smart and
+     Advanced Manufacturing (TANSAM) for promoting Industry 4.0, as well as for providing
+     testing, research, and innovation facilities. Testing and Common facility centres for
+     Electronic Warfare, Electro Optics, Mechanical & Material Testing and Electro Magnetic
+     Interference / Electro Magnetic Compatibility (EMI /EMC) are being established to
+     support A&D industries and to augment the existing test centres like Society for Applied
+     Microwave Electronics Engineering & Research (SAMEER), Standardisation Testing and
+     Quality Certification (STQC) and National Test House (NTH). Additionally, Government of
+     Tamil Nadu is also establishing common manufacturing facilities and Engineering
+     Innovation centres in the State to support this sector.
+
+
+F.   Industrial Water Supply
+     The State is at the forefront in adopting new technologies like desalination and Tertiary
+     Treatment Reverse Osmosis (TTRO) for meeting the needs of industries. The industrial
+     regions of Chennai are supplied with water through two TTRO plants with a combined
+     capacity of 90 MLD, a first of its kind initiative in India. A 20 MLD TTRO plant is being
+     established near Hosur to support the industrial cluster in this region. A 60 MLD sea water
+     desalination plant is also being established by SIPCOT in Thoothukudi.
+
+
+G. Power Infrastructure & Renewable Energy
+     Space industrial units require access to uninterrupted power supply. Tamil Nadu has one
+     of the most reliable power infrastructures with an installed capacity of 38 GW and 50%
+     of which is green power. Tamil Nadu also has a highly competitive power tariff in India
+     and over the last several years the state ensured 100% supply for peak electricity
+     demand, without load shedding.
+
+
+
+
+                                                                                                   07
+                                                                Tamil Nadu Space Industrial Policy 2025
+5. SCOPE OF TAMIL NADU
+   SPACE INDUSTRIAL POLICY
+     Private and Public Sector Companies engaged in the following industrial activities in
+     Tamil Nadu are eligible for the incentives offered in this policy.
+
+A.   Space Industrial Manufacturing
+     Companies engaged in manufacturing of the following upstream, midstream, and
+     downstream segments:
+
+            Launch platforms
+            Propellants
+            Satellites and payloads
+            Satellite monitoring equipment
+            Ground station equipment
+            Space material
+            Mechanical components
+            Electrical and electronics
+            In-space manufacturing
+
+
+B.   Services in Space Industrial Segment
+     Companies involved in the following
+
+            Upgrade/life extension of products
+            Engineering design and testing
+            Software development
+            Research and development services
+            Space junk clearance
+            Operation of ground stations and telemetry stations
+            Development of downstream applications
+            In-space maintenance
+            Microgravity research
+            Resupply missions
+            Remote sensing
+
+     Any other manufacturing / services related activities notified by TIDCO subsequent to
+     the release of this policy
+
+
+
+
+                                                                                                08
+                                                              Tamil Nadu Space Industrial Policy 2025
+6. FINANCIAL INCENTIVES &
+   CONCESSIONS
+  6.1     Eligibility Criteria
+  Space Industrial Units would have to invest a minimum of INR 25 crore and meet a
+  minimum employment threshold of 25 jobs within the standard investment period of
+  three years to be eligible for incentives under this policy.³
+
+
+  6.2     Incentives for Manufacturing (INR 25 cr-300 cr)
+
+  6.2.1   Fixed Capital Subsidy
+          The eligible units can avail Fixed Capital Subsidy of 20% of EFA disbursed over a
+          period of 10 years. This will be disbursed after the commencement of commercial
+          operations and fulfilment of investment and employment commitment as per the
+          detailed project report (DPR) submitted to the Government of Tamil Nadu.
+
+  6.2.2   Land Cost Incentive
+          For eligible space industrial projects, the land cost subsidy would be as below:
+
+      District Category          Land Type              Concession Rate             Cap as % of EFA
+
+            A&B                Government                       20%                          20%
+                              Industrial Park
+
+             C                 Government                       50%                          20%
+                              Industrial Park
+
+
+
+
+                                 Private              50% (as per guideline            20% (capped
+                              Industrial Park         value up to 50 acres)           at INR 2 crores)
+                                                         as back ended
+                                                             subsidy
+
+
+
+  In case the investor chooses to avail a land cost subsidy, the same will be excluded from
+  the eligible fixed assets for deciding the overall fixed capital subsidy.
+
+
+
+
+  3
+    As per the Tamil Nadu Industrial Policy 2021, the Standard Investment Period for realisation of committed
+  investment and employment is 4 years.
+
+
+                                                                                                                09
+                                                                        Tamil Nadu Space Industrial Policy 2025
+6.2.3   Stamp Duty Incentive
+        100% concession on stamp duty payable on lease or purchase of land/ shed/
+        buildings meant for industrial use shall be offered in the parks promoted by
+        Government. In the case of private parks, stamp duty concession will be given as
+        a 100% back-ended subsidy for up to 50 acres on fulfilment of investment and
+        employment commitment.
+
+6.2.4   Electricity Tax Exemption
+        Space Industries will be given a 100% exemption on electricity tax on power
+        purchased from TANGEDCO or generated and consumed from captive sources
+        for the first five years from the date of commercial production. Expansion projects
+        will be entitled to tax exemptions on incremental electricity consumption for
+        5 years.
+
+6.2.5   Training Subsidy
+        Special training incentive of INR 10,000 per person per month can be availed for 12
+        months for residents of Tamil Nadu. This incentive is only intended for employees
+        engaged in technical operations within the project facility.
+
+6.2.6   Quality & Product Certification Incentive
+        Projects obtaining certifications like ISO, ISI, BIS, AS 9100, ISRO PAX/PAS, and
+        ECOMARK, or any other national or international quality or product certification
+        shall be given a subsidy of 50% of the total cost incurred for obtaining the
+        certification, as certified by the Chartered Accountant, subject to a cap of
+        INR 1 crore or 1 % of EFA (whichever is lower). This can be claimed for five years
+        from the date of the commencement of operations. Expenses incurred before the
+        commencement of operations will also be disbursed over this 5-year period.
+
+6.2.7   Enhanced Incentive for Intellectual Property Creation
+        The Government will reimburse 50% of the expenditure incurred by the company
+        for obtaining patents, copyrights, trademarks, as certified by the Chartered
+        Accountant, subject to a cap of INR 1 crore or 1 % of EFA (whichever is lower). This
+        can be claimed for five years from the date of the commencement of operations.
+
+
+6.3     Space Startups – Funding
+Multiple funding options are available for space startups in the country. The Government
+of India through IN-SPACe has set up a venture fund with a corpus of INR 1000 crore for
+funding space startups. Innovations for Defence Excellence (iDEX) initiative under the
+Defence Innovation Organisation (DIO) and Technology Development Fund under DRDO
+encourages and promotes innovators/ technocrats/ professionals /academicians in
+defence and space sector. Government of Tamil Nadu has established the Tamil Nadu
+Emerging Sector Seed Fund for investing in startups across various domains, including
+the space sector. Through the TANSEED fund, the Tamil Nadu Startup and Innovation
+Mission (StartupTN) has been funding startups including those in space and defence
+
+
+                                                                                               10
+                                                            Tamil Nadu Space Industrial Policy 2025
+sector. Government of Tamil Nadu has announced Tamil Nadu Space Tech Fund with a
+corpus of Rs 10 crores to support Space Startups. This fund would be managed by
+StartupTN.
+
+TIDCO is formulating a ‘Startup Investment Policy’ under which eligible startups in certain
+sunrise sectors would be supported with equity funding. Promising startups in space
+sector may be supported with equity funding under this policy or through the Emerging
+Sector Seed Fund of Tamil Nadu Infrastructure Fund Management Corporation (TNIFMC).
+Priority would be given to startups which have won at national and state level hack-
+athons including iDEX and IN-SPACe events.
+
+
+6.4     Incentives for setting up of Space Industrial Parks
+The Government of Tamil Nadu is actively promoting the use of private land for industrial
+use through the development of integrated industrial parks in the State. The following
+incentives shall be offered to developers of Mega and Ultra-Mega Industrial Parks, i.e.
+investment greater than Rs. 500 cr. (including the cost of land), in “B” & “C” category
+districts, in addition to standard incentives.
+
+The criteria for an approved space industrial park are provided in Annexure
+6.4.1   Capital Subsidy
+        Industrial Park developers shall be eligible for a capital subsidy of 12% or 15% of
+        investment in internal infrastructure (such as internal roads, water distribution
+        infrastructure, street lighting, drainage facilities, landscaping, and green areas,
+        but excluding the cost of land and landfilling/levelling) in ‘B’ or ‘C’ category districts
+        respectively. This shall be provided based on the following milestones:
+
+           (i) 50% of the amount determined as capital subsidy upon paid-up allotment
+               of 50% park area along with 10% operational units, i.e. either 10% of units
+               achieving commercial production or units occupying 10% of park area
+               achieving commercial production. This shall be distributed in equal annual
+               instalments over 5 years.
+           (ii) 50% of the amount determined as capital subsidy upon paid-up allotment
+                of 75% park area with 25% operational units, i.e. either 25% of units
+                achieving commercial production or units occupying 25% of park area
+                achieving commercial production. This shall be distributed in equal annual
+                instalments over 5 years.
+
+6.4.2   Space Industrial Housing Incentive
+        In addition to Capital Subsidy, space industrial park developers will be eligible for
+        industrial housing incentive of 10% on the cost of developing the residential
+        facilities developed within the industrial park over 10 years from the date of
+        completion of the investment in the housing facility, subject to a ceiling of
+        Rs. 10 crore.
+
+
+
+
+                                                                                                     11
+                                                                Tamil Nadu Space Industrial Policy 2025
+6.4.3      Green Industry Incentive
+           Space industrial park developers undertaking green and sustainable initiatives as
+           listed in Para 13.5 of TN Industrial Policy 2021 shall be eligible for a 25% subsidy on
+           cost of capital of setting up undertaking such initiatives, subject to a limit of
+           Rs. 5 crore.
+
+6.5        Incentives for Service Sector
+The Government of Tamil Nadu would provide a payroll subsidy for Companies that are
+involved in Research & Development or establish Global Capability Centres in the space
+sector. Eligible units should fulfil the following criteria to avail the incentives
+
+      a.    The entity must create a minimum of 25 jobs within a period of 4 years.
+
+      b.    The entity must be engaged in design/research with clearly demarcated
+            facility(ies) within Tamil Nadu or establish its GCC in Tamil Nadu.
+
+      c.    The employees should be residents of Tamil Nadu.
+
+The payroll incentive per employee would be capped at INR 20,000 per month and would
+be paid out as tabulated below:
+
+
+           Period of incentive                          % of employee salary
+
+                  Year 1                                          30%
+
+                 Year 2                                           20%
+
+                 Year 3                                           10%
+
+Companies involved in other service sub-sectors in the space domain can avail a
+one-time employment incentive in the form of reimbursement of the employer’s contri-
+bution of Public Provident Fund (PPF) up to INR 48,000 per annum for employees (who are
+residents of Tamil Nadu) for 2 years from the time of onboarding. To avail this incentive,
+the firm should have at least 25 employees on its payroll in Tamil Nadu.
+
+6.6        Special Structured Package of Incentives
+A special structured incentive package will be offered to projects with committed
+investments of more than INR 300 crores as per the Tamil Nadu Industrial Policy 2021. This
+may consist of a combination of incentives including fixed capital subsidy, flexible capital
+subsidy, turnover based subsidy, payroll subsidy, land cost subsidy and special training
+subsidy.
+
+The Government of Tamil Nadu shall notify select regions as 'Space Bay,' where a
+structured package of incentives will also be offered for investments below INR 300 crore.
+
+
+
+
+                                                                                                     12
+                                                                 Tamil Nadu Space Industrial Policy 2025
+7. NON-FINANCIAL INCENTIVES
+  The Government of Tamil Nadu plans to catalyse the space ecosystem and promote
+  growth of space sector through the following.
+
+  7.1    Common Facility Centres and Centres of Excellence
+  TIDCO will facilitate the establishment of common facility centres and Centres of
+  Excellence in collaboration with IN-SPACe and other government and private companies
+  to create the necessary common infrastructure and promote the growth of the space
+  industry in Tamil Nadu.
+
+  7.2    Human Capital Development
+  The Government of Tamil Nadu through its flagship scheme Naan Mudhalvan imparts
+  skill training to youth to meet the growing market demand for skilled manpower. Naan
+  Mudhalvan provides free employment linked - skill development trainings to the Youth in
+  the age group of 18-35 years across the state under the various state and centrally
+  sponsored schemes in sectors like Healthcare, Media & Entertainment, IT & ITES, Leather,
+  Defence and Space. This will ensure availability of skilled human capital to meet
+  requirement of space sector.
+
+  7.3    Industrial Housing
+  The Government of Tamil Nadu is a pioneer in promoting the concept of industrial
+  housing. The Government has set up a special purpose vehicle, “Tamil Nadu Industrial
+  Housing Private Limited (TNIHPL)” to provide sustainable and affordable housing solutions
+  for industrial workers catering to demand especially in and around industrial estates,
+  industrial clusters, and other key locations across Tamil Nadu.
+
+  To support space industrial hubs, industrial housing facilities will be created in
+  collaboration with stakeholders. These housing enclaves would provide adequate social
+  infrastructure for the inhabitants and enhance their quality of life.
+
+  7.4    Industrial Ecosystem Fund
+  The Government of Tamil Nadu has setup the Industrial Ecosystem Fund (IEF) to support
+  infrastructure projects and create industrial ecosystem. Necessary infrastructure
+  required to support space industrial projects and industrial parks like last mile
+  connectivity, water supply, power and drains would be supported by IEF.
+
+  7.5    Adoption of Space Technologies
+  The Government of Tamil Nadu will advocate adoption and usage of space technologies
+  in various departments to enhance service delivery and improve efficiency.
+
+  Space technologies have immense applications in departments like Disaster Manage-
+  ment, Fisheries, Agriculture, Transport, Revenue, Health, Municipal Administration and
+  Forest. The Government will mandate adoption of such technologies in all departments
+  to provide better services to residents.
+
+
+
+
+                                                                                               13
+                                                            Tamil Nadu Space Industrial Policy 2025
+8. POLICY IMPLEMENTATION
+  8.1    Nodal Agency
+  The incentives discussed in Sections 6 shall be provided to eligible units by the Industries,
+  Investment Promotion & Commerce Department based on the proposals sent by
+  Guidance Tamil Nadu / TIDCO and on the recommendation of the Inter-Departmental
+  Committee (IDC). The disbursement of incentives shall be made by SIPCOT. Facilitations
+  for clearances, licences and approvals shall be undertaken by Guidance Tamil Nadu
+  through its single window portal. A representative of TIDCO would be part of this IDC for
+  all space sector proposals.
+
+  8.2    Term of Policy
+  This policy shall be valid for a period of 5 years from the date of the policy notification, or
+  till a new policy is announced.
+
+  8.3    Applicability for Expansions
+  The investor can choose to avail of the incentives sanctioned under the policy for future
+  expansions.
+
+  8.4    Operational Guidelines
+  The definitions, general conditions for sanction of incentives, general conditions for
+  availing incentives, conditions for changes in the company or investment plan after
+  sanction of incentives, eligibility criteria and procedure for application of eligibility
+  certificate, procedure for sanction of incentives and sanctioning authorities and
+  procedure for claiming incentives and implementation agencies shall be as per Tamil
+  Nadu Industrial Policy 2021 or as notified by the Government of Tamil Nadu.
+
+
+
+
+                                                                                                    14
+                                                                Tamil Nadu Space Industrial Policy 2025
+ Annexure – Components of an Approved Space Industrial Park
+1. Criteria for approval
+  a) Minimum area of 100 acres in legal possession of applicant
+  b) Should be meant primarily for manufacturing activities
+  c) Should have provision for at least 5 major manufacturing units and 20 MSMEs
+  d) Should not have more than 10% wet land or double crop land
+  e) Should not include (for contiguity) more than 5% of Government land
+
+2. Processing Area: not less than 65% of total area
+  a) Industrial plots for manufacturing
+  b) Ready built sheds for industrial use
+  c) R&D Centres
+  d) Testing & Certification Centres
+  e) Pathways and Roads
+
+3. Non- Processing Area: not more than 35% area
+  a) Business related non-processing area – not more than 20% of total area
+       Office space for business support to processing area
+       Customs bonded warehouses and ICDs
+       Convention Centres
+       Business centres – financial services
+       Education and Skill training centres related to processing area
+       Guest houses for use by businesses in processing area
+
+  b) Social Infrastructure – not more than 15% of total area
+       Housing
+       School
+       Hospitals
+       General purpose education and training institutions
+       Entertainment & shopping centres
+       Open spaces, roads, and pathways
+
+
+
+
+                                                                                                  15
+                                                               Tamil Nadu Space Industrial Policy 2025
+Notes
+Notes
+            jkpo;ehL njhopy; tsu;r;rp epWtdk;
+     TAMILNADU INDUSTRIAL DEVELOPMENT CORPORATION
+                (A Government of Tamil Nadu Enterprise)
+
+
+
+19-A, Rukmani Lakshmipathy Road, Egmore, Chennai-600 008, Tamil Nadu, India.
+

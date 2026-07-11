@@ -1,0 +1,178 @@
+{
+  "passed": true,
+  "tolerance": 0.05,
+  "scope_note": "MoSPI benchmarks cover the full reported factory sector. The validation frame keeps status 1-3 units and NIC divisions 10-38, so a small systematic shortfall is expected. The test detects formula or schema failures, not exact table replication.",
+  "records": [
+    {
+      "year": 2014,
+      "metric": "employees",
+      "official": 2127703.0,
+      "calculated": 2074406.40835148,
+      "relative_error": 0.025048886827024247,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "workers",
+      "official": 1741427.0,
+      "calculated": 1706093.8885380798,
+      "relative_error": 0.020289745973802058,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "fixed_capital",
+      "official": 22131634.0,
+      "calculated": 21827765.196799055,
+      "relative_error": 0.013730066347606564,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "total_input",
+      "official": 59039075.0,
+      "calculated": 57388244.561118186,
+      "relative_error": 0.027961658255685994,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "total_output",
+      "official": 70038085.0,
+      "calculated": 68159529.13033509,
+      "relative_error": 0.026821919383788227,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "gva",
+      "official": 10999010.0,
+      "calculated": 10771284.569216898,
+      "relative_error": 0.0207041752651468,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2014,
+      "metric": "emoluments",
+      "official": 4148667.0,
+      "calculated": 4048417.8683385835,
+      "relative_error": 0.024164178918533712,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/2/download/3520"
+    },
+    {
+      "year": 2015,
+      "metric": "employees",
+      "official": 2326458.0,
+      "calculated": 2269372.66750775,
+      "relative_error": 0.024537443827591137,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "workers",
+      "official": 1930431.0,
+      "calculated": 1886260.65025324,
+      "relative_error": 0.022881081865531575,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "fixed_capital",
+      "official": 23796264.0,
+      "calculated": 23328489.03444498,
+      "relative_error": 0.019657496048750327,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "total_input",
+      "official": 56765113.0,
+      "calculated": 55265458.97337593,
+      "relative_error": 0.026418586123911507,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "total_output",
+      "official": 69900096.0,
+      "calculated": 68056426.94611238,
+      "relative_error": 0.026375772844255043,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "gva",
+      "official": 13134983.0,
+      "calculated": 12790967.972736456,
+      "relative_error": 0.026190747811667858,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2015,
+      "metric": "emoluments",
+      "official": 4679218.0,
+      "calculated": 4557960.052445998,
+      "relative_error": 0.025914147952500095,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/143/download/3490"
+    },
+    {
+      "year": 2023,
+      "metric": "employees",
+      "official": 2984439.0,
+      "calculated": 2898301.98583694,
+      "relative_error": 0.028862045484280334,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    },
+    {
+      "year": 2023,
+      "metric": "total_input",
+      "official": 129722031.0,
+      "calculated": 127627626.55270259,
+      "relative_error": 0.016145325748849932,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    },
+    {
+      "year": 2023,
+      "metric": "total_output",
+      "official": 154939545.0,
+      "calculated": 152162667.49290913,
+      "relative_error": 0.01792232904189093,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    },
+    {
+      "year": 2023,
+      "metric": "gva",
+      "official": 25217514.0,
+      "calculated": 24535040.940206543,
+      "relative_error": 0.02706345517617071,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    },
+    {
+      "year": 2023,
+      "metric": "emoluments",
+      "official": 9431535.0,
+      "calculated": 9163197.86887033,
+      "relative_error": 0.02845105607196187,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    }
+  ]
+}

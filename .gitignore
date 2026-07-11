@@ -1,0 +1,22 @@
+# Restricted or bulky source material. Keep these in the private local research copy.
+data/asi_raw/
+data/companion_raw/
+data/policies/raw/
+
+# Rebuildable local artefacts
+scripts/__pycache__/
+*.py[cod]
+.DS_Store
+
+# Site build artefacts and local dependency installation
+site/node_modules/
+site/dist/
+site/.wrangler/
+site/.vinext/
+site/.next/
+site/.env*
+site/.openai/hosting.json
+
+# Unrelated exploratory downloads from the wider research workspace
+work_*
+outputs/cigarette-aqi-methodology.md

@@ -1,0 +1,952 @@
+    GOVERNMENT OF TAMIL NADU
+
+
+
+    Tamil Nadu
+Shipbuilding Policy
+            2026
+         GOVERNMENT OF TAMIL NADU
+
+
+
+
+           Tamil Nadu
+       Shipbuilding Policy
+             2026
+
+
+
+
+Industries, Investment Promotion and Commerce Department
+               Government of Tamil Nadu
+Table of Contents
+ 1   Vision                                                 01
+
+
+2    Introduction                                           02
+
+
+3    Geographical and Geological Advantage of the State     07
+
+
+4    Industrial Ecosystem and Talent Pool                   09
+
+
+5    History of Shipbuilding in the State                   10
+
+
+6    Need for the Policy                                    12
+
+
+7    Scope of the Policy                                    14
+
+
+8    Incentives for Promotion of Shipyard Construction in
+     Tamil Nadu                                             15
+
+
+9    Facilitation Support and Other Assistance              21
+
+
+10   Incentives and Subsidies to Promote Green Ship
+     Recycling                                              21
+
+
+11   Incentives and Subsidies to Promote Marine
+     Component Manufacturing Industry                       22
+
+
+12   Skill Development and Ecosystem Building               23
+
+
+13   Policy Implementation                                  25
+
+
+14   Policy Period                                          25
+    Vision
+Tamil Nadu envisions establishing itself as a global leader in sustainable and
+technologically advanced shipbuilding, positioning the State as a hub for high-value,
+large ocean-going vessels, including Very Large Crude Carriers (VLCCs). The State is
+committed to developing an ecosystem that meets the dynamic needs of international
+trade while advancing green innovation, circular economy practices, and Industry 4.0
+integration. Through the creation of world-class infrastructure, targeted incentives, and
+a focus on sustainability and resilience, Tamil Nadu seeks to emerge as the destination of
+choice for global shipbuilders and investors. By promoting collaboration, advanced skill
+development, and adherence to environmental, social, and governance (ESG) principles,
+the State aims to nurture a vibrant shipbuilding cluster that accelerates economic
+growth, generates high-quality employment, and sets new global benchmarks for the
+maritime industry.
+
+
+
+
+1
+    Introduction
+Tamil Nadu is poised to enter a transformative phase in maritime transport and ship
+building, driven by its strategic geographic advantages, robust industrial infrastructure,
+and a forward-looking vision for sustainable economic development.
+
+
+
+
+As one of India’s prominent coastal States, Tamil Nadu, with a long coastline spanning
+1,068.69 km (9.63% of India’s total), is home to an extensive network of major and minor
+ports along the Bay of Bengal, the Indian Ocean, and the Arabian Sea, underpinned by a
+long-standing legacy of maritime activity. The State also possesses a well-established
+ecosystem for heavy engineering positioning it as a key player in the maritime sector.
+This unique combination of historical strength and modern capability provides a strong
+foundation for future growth and innovation in maritime industries.
+
+
+The coastal areas are assuming greater importance, owing to increasing human
+population, urbanization and accelerated developmental activities. The coast of Tamil
+Nadu has three major ports, seven Government captive ports, and 17 non-major ports
+, along with fishing harbors and a diverse range of coastal and port-based industries,
+including nuclear and thermal power plants, refineries and fertilizers units. The coast is
+also endowed with varied coastal habitats such as mangroves, coral reefs, seaweed
+beds, sea grass meadows, salt marshes, mudflats and sand dunes. The State also has a
+number of rivers, estuaries and lagoons.
+                                                                                         2
+Shipbuilding and Ship Repair Industry - An Overview
+The global shipbuilding industry represents a substantial market valued at approximately
+USD 155-170 Billion in 2025 , equivalent to around Rs. 13-14.5 Lakh Crore. In addition, the
+global ship repair and maintenance services market is projected to become a USD 53.23
+Billion industry by 2032.
+
+
+Contrastingly, India’s shipbuilding sector remains remarkably modest at USD 0.88-1.12
+Billion (Rs. 7,450-9,520 Crore) , representing ~0.06% of the global market share. This
+disparity is particularly striking given that India handles approximately 95% of its trade
+by volume and 70% of its trade by value through maritime transport , highlighting a
+significant disparity between the country’s reliance on shipping and its domestic
+shipbuilding capabilities. The Indian fleet has shown steady growth from 1,429 vessels
+(12.75 Million GT) in 2019 to 1,526 vessels (13.74 Million GT) in 2023.
+
+
+However, the industry continues to face several challenges, including limited capacity,
+gaps in technology, rising input costs, and low global competitiveness compared with
+leading shipbuilding nations such as China, South Korea, and Japan.
+
+
+With almost 7-9% of international traffic passing within 300 nautical miles of our coastline,
+India has the potential to become a global repair hub despite now having less than
+1% of the global ship repair market. Against a potential of Rs. 6000 Crore, India’s yearly
+ship repair business is now estimated to be only at Rs. 2000 Crore (240 Million USD).
+Furthermore, it is pertinent to note that the country’s potential in the ship repair industry
+can be further expanded to Rs. 14000+ Crore (1.7 Billion USD) over the next ten years,
+thereby indigenizing the nation’s capability.
+
+Ship maintenance primarily includes both planned and unplanned maintenance. The
+broad sub-categories of planned maintenance are preventive, corrective, risk-based,
+and condition-based maintenance. There are several different kinds of repair docks,
+including sliding docks, ship lifts, floating docks, dry docks, etc.,
+
+
+To have a thriving shipbuilding, maintenance and ship repair ecosystem, it is crucial to
+have a robust and localised component ecosystem. Vital components for ship operations
+include the engine, electrical system, propulsion system, navigation systems etc.,
+
+It is pertinent to note that ~95% of the current global shipbuilding market share is divided
+amongst 3 countries, with China having the majority share (~51%) .
+
+
+
+
+3
+4
+Country       % share of Global    % of Global      % of Global       % of Global GDP
+              Shipbuilding         Coastline        Population
+
+
+China         50.73%               1.84%            17.58%            16.80%
+
+Korea         28.28%               0.76%            0.64%             1.74%
+
+
+Japan         15.38%               1.78%            1.54%             3.97%
+
+
+Total         94.39%               4.38%            19.76%            22.51%
+
+
+In this context, substantial targeted investments and strategic interventions remain
+the need of the hour to meaningfully increase the country’s market share beyond its
+current minimal contribution. The recent Union government initiatives, including the
+announcement of a Rs. 69,725 Crore support package to revitalize India’s Shipbuilding
+Sector including a Maritime Development Fund of Rs. 25,000 Crore and a Shipbuilding
+Financial Assistance Scheme (SBFAS) with a corpus of Rs. 24,736 Crore , aim to bridge the
+earlier identified gaps and enhance India’s position in the global shipbuilding landscape.
+
+
+
+
+5
+This policy aims to supplement and compliment the Government of India’s policies and
+initiatives, thereby aiming to establish Tamil Nadu as the shipbuilding and repair capital
+of the country.
+
+Green Ship Recycling - An Overview
+The global ship recycling market was valued at approximately USD 4.08 Billion in 2024
+and is expected to reach USD 13 Billion by 2030, expanding at a Compound Annual Growth
+Rate (CAGR) of roughly 7.4%. Each year, about 800 – 1,300 vessels ranging from small
+offshore support ships to capesize bulk carriers and VLCCs are dismantled to recover
+high-grade steel (up to 95% recovery), non-ferrous metals, and machinery components.
+
+
+In 2020, it was estimated that 71% of steel produced in the USA came from recycled
+sources which was majorly driven by aging fleets (average ship lifespan 25–30 years),
+stringent end-of-life regulations (Hong Kong Convention, EU Ship Recycling Regulation),
+and rising demand for low-carbon materials.
+
+
+South Asia, led by India (33.85%) and Bangladesh (43.17%), handles over 70% of global
+ship recycling volumes in terms of total gross tonnage dismantled. Other regions include
+Turkey (7.41%), Pakistan (7.17%) and China (1.39%).
+
+
+In addition to the primary benefit of the recycling activity itself, the industry serves as a
+source of low cost, low carbon ferrous inputs for other allied industries, thereby making
+the manufacturing ecosystem in the vicinity highly competitive.
+
+
+
+
+                                                                                           6
+    Geographical and Geological Advantage of the State
+From a geological and geographical standpoint, Tamil Nadu is bestowed with unmatched
+natural advantages that uniquely positions it as India’s premier destination for large-
+scale shipbuilding operations.
+
+Extensive Coastal Infrastructure
+The Extensive coastline of the State provides an expansive maritime frontage that
+spans from Tiruvallur district in the north to Kanniyakumari in the south. This coastline,
+constituting 9.63% of India’s total coastal length, offers multiple site options for shipyard
+development along the Bay of Bengal, Arabian Sea and Indian Ocean.
+
+Optimal Bathymetric Conditions
+The coastal waters of Tamil Nadu exhibit favorable bathymetric profiles essential for
+construction of vessels exceeding 2,00,000 Dead Weight Tonnage (DWT) capacity and
+other launching operations. The State’s coastal underwater terrain offers natural deep-
+water access points, minimising the need for both capital and maintenance dredging
+thereby improving the shipyard’s financial fundamentals and lowering the environmental
+impact.
+
+Natural Protection Systems
+Tamil Nadu’s coast benefits from multiple natural defense mechanisms that mitigate
+the impacts of extreme weather events and coastal hazards, thereby supporting the
+resilience of shipbuilding and related infrastructure.
+
+
+The extensive mangrove forests along the coast acts as a barrier against storm waves
+during cyclones.
+
+
+Along stretches of the State’s Coast, natural sand dunes act as barriers against coastal
+erosion and storm surge.
+
+
+The Gulf of Mannar hosts extensive coral reefs that function as natural breakwaters,
+dissipating wave energy and reducing coastal vulnerability.
+
+Optimal Climate for Shipbuilding
+Tamil Nadu’s tropical climate, characterized by moderate seasonal variation, provides
+favorable conditions for uninterrupted shipbuilding operations throughout the year.
+Positioned between 8°4’ and 13°35’ North latitude, the State benefits from stable
+temperatures and predictable weather patterns that support continuous construction
+and repair activities. These climatic advantages help minimize weather-related
+disruptions, ensuring greater operational efficiency compared to shipyards located in
+regions prone to heavy rainfall or extreme seasonal fluctuations.
+7
+Tamil Nadu’s rainfall distribution presents significant operational advantages for
+shipbuilding activities. The State receives the majority of its annual rainfall during the
+Northeast Monsoon (443.3 mm) , i.e., between October-December, thereby leaving
+extended and continuous dry periods for critical construction activities. The Southern
+districts of Tamil Nadu experience 54-60 rain days annually, ensuring minimal hindrance
+to construction activities compared to the western coast that experiences prolonged
+monsoon interruptions.
+
+Strategic Geological Position
+Tamil Nadu’s location offers unique geological advantages:
+
+Proximity to International Shipping Lanes
+
+The State’s position along the Bay of Bengal provides immediate access to deep
+international shipping lanes , reducing vessel delivery distances to global markets.
+
+Stable Geological Foundation
+
+The coastal regions rest on geologically stable formations suitable for heavy industrial
+infrastructure, minimizing foundation and structural engineering challenges.
+
+
+These geological and geographical advantages offer natural conditions that minimize
+infrastructural investments, maximize operational efficiency and protect against
+environmental risks, thereby making the State an ideal port of call for shipbuilding and
+other allied activities.
+
+
+
+
+                                                                                        8
+    Industrial Ecosystem and Talent Pool
+Established Industrial Base
+The State is home to more than 40,000 factories, the highest in the country, and has a
+diverse, mature and well-developed industrial ecosystem. Tamil Nadu is the undisputed
+leader in Electronics export garnering 41.23% of the national share in 2024-25.
+
+
+The State has a balanced economic structure with the primary, secondary and
+tertiary sectors contributing to the State’s overall growth and development. The State’s
+industrialisation has been uniquely characterised by the development of industrial
+clusters, which has helped to propel regional development across the State enabling
+distributed economic presence.
+
+
+Tamil Nadu has an erudite talent pool backed by a State wide network of globally and
+nationally renowned colleges, polytechnic institutes and Industrial Training Institutes.
+This enables the State to venture into unexplored and emerging sectors and pioneer
+them for the nation. The State offers a unique proposition of having both white and blue
+collared workforce, thereby enabling colocation of manufacturing and design services.
+
+
+The existing ecosystem of automotive, defence, and component industries provides a
+strong base for ship component fabrication, systems integration, and design services.
+The existing L&T shipyard in Kattupalli near Chennai, with more than 1,000 supply chain
+partners, is both proof of concept and a testament to the State’s capability in this sector.
+
+
+
+
+9
+    History of Shipbuilding in the State
+Tamil Nadu has a rich and enduring maritime heritage that reflects centuries of seafaring
+skill and shipbuilding tradition. From the use of early craft such as the traditional
+kattumaram, local boatbuilders mastered techniques like stitched plank construction,
+which enabled long-distance navigation across the monsoon seas. These early
+innovations laid the foundation for the State’s continuing maritime excellence.
+
+
+Early Maritime Traditions
+Tamil seafarers were among the earliest in the Indian Ocean region to build and
+operate sea-going vessels. Historical records and local traditions indicate that coastal
+communities along the Coromandel coast used versatile wooden craft for trade, fishing,
+and travel. Archaeological and literary evidence suggests that Tamil maritime activity
+predates the 3rd century BCE.
+
+
+
+
+The Sangam Period
+During the Sangam period, roughly between the 3rd century BCE and the 3rd century
+CE, Tamil Nadu’s ports became vibrant centres of global trade. Kaveripoompattinam,
+also known as Puhar, located at the mouth of the Kaveri River, served as a major port of
+the early Chola kingdom. Tamil literary works such as Pattinapalai and Silappathikaram
+vividly describe its bustling harbor, merchant ships, and customs activity.
+
+
+Archaeological excavations at Arikamedu near present day Puducherry reveal strong
+Indo-Roman trade connections dating back to the 2nd century BCE. Sites such as Korkai
+and Azhagankulam provide further evidence of early shipyards, docks, and warehouses,
+confirming Tamil Nadu’s central role in ancient maritime commerce.
+                                                                                       10
+Medieval Maritime Expansion
+Tamil maritime power reached its height during the medieval Chola period. Between
+the 9th and 13th centuries CE, the Chola navy extended its influence across Sri Lanka
+and Southeast Asia. The famous naval expedition of Rajendra Chola I around 1025 CE
+demonstrated the region’s advanced shipbuilding capabilities and naval organization.
+Merchant guilds such as the Ainnurruvar, Manigramam, and Nanadesi established trade
+routes linking Tamil ports with those in Southeast Asia, Sri Lanka, China, and the Middle
+East, fostering a period of remarkable commercial prosperity.
+
+
+
+
+Colonial and Modern Development
+During the colonial era, ports including Nagapattinam, Thoothukudi, and Pulicat
+became prominent centers under Portuguese, Dutch, and British control. These ports
+facilitated regional and international trade and contributed to the development of
+maritime infrastructure. The establishment of Madras, now Chennai, as a major East
+India Company port further strengthened the State’s role in ship repair, maintenance,
+and maritime industry.
+
+Legacy and Continuity
+Tamil Nadu’s shipbuilding and maritime legacy represents an unbroken continuum from
+indigenous craftsmanship to modern industrial capability. The evidence of ancient ports,
+trade guilds, and naval achievements highlights the State’s long-standing connection
+with the sea. This deep historical foundation continues to inspire Tamil Nadu’s modern
+vision to re-emerge as a global hub for shipbuilding, marine services, and blue economy
+initiatives.
+
+
+
+11
+    Need for the Policy
+Shipbuilding is a strategic sector with significant economic, industrial, and employment
+potential. Beyond its role as a standalone manufacturing industry, shipbuilding generates
+substantial positive externalities across multiple sectors, including steel, electrical and
+electronics, precision engineering, port infrastructure, logistics, and shipping services.
+
+
+It is estimated that approximately 65% of a ship’s-built value is contributed by ancillary
+and heavy engineering industries, underscoring the sector’s capacity to drive broad-
+based industrial development. The shipbuilding industry is also a significant employment
+generator, having the highest employment multiplier among manufacturing activities,
+estimated at 6.4. For instance, the construction of the indigenous aircraft carrier INS
+Vikrant engaged more than 500 MSMEs, employed 2,000 personnel directly in shipyard
+operations and employed another 12,000 personnel in ancillary and associated industries.
+
+
+This exemplifies the sector’s potential to create mass employment across skill levels,
+especially for coastal women and youth through skill-linked employment in fabrication,
+logistics, and port services.
+
+
+In addition to driving employment and industrial growth, shipbuilding holds critical
+strategic relevance. The advancement of the indigenisation of maritime assets,
+plays a vital role in enhancing energy security and strengthening of national defence
+preparedness.
+
+
+From a macroeconomic perspective, the sector exhibits high capital productivity,
+yielding an investment multiplier of approximately 1.82. This implies that investments
+in the sector can generate nearly double the economic output, thereby reinforcing the
+case for a dedicated policy framework.
+
+
+In lieu of the above-mentioned
+geographical       and      economical
+advantages combined with social
+benefits, a focused policy intervention
+will help the State to optimally unravel
+the sector’s potential to the fullest.
+A dedicated Shipbuilding Policy is
+therefore imperative to unlock and
+harness the latent potential of the
+sector.
+
+
+
+
+                                                                                        12
+13
+     Scope of the Policy
+The policy aims to make Tamil Nadu the most preferred destination for global shipyards
+by providing competitive incentives and world-class infrastructure. It also seeks to
+develop shipbuilding clusters that bring together design, fabrication, repair, research
+and development, and training. The policy places a strong emphasis on sustainability,
+ESG compliance, and Industry 4.0 practices, ensuring that innovation, environmental
+responsibility, and advanced technology are at the core of the State’s shipbuilding
+growth. “Shipyards” under the policy include any firms manufacturing, repairing and
+maintaining ships in the State.
+
+Type of Ships/Structures Covered Under the Policy
+1. Shipyards manufacturing the following categories of maritime structures will be eligible
+for incentives under the policy
+     a. Large ocean-going vessels catering to overseas as well as coastal trade;
+     b. Medium size specialized vessels
+     c. Defence /Naval crafts and Coast Guard
+   d. Luxury Yachts
+   e. Submarines and any kind of underwater equipment used for transportation
+    f. Mechanised Fishing Boats excluding trawlers and fiberglass (FRP) boats
+   g. Any other alternate fuel based boats/Ships and
+   h. Other offshore structures - Mobile Offshore Drilling Units (MODUs), Offshore Support
+Vessels (OSVs), Stationary Platforms, Subsea and auxiliary equipment, Offshore docks
+used for vessel repair and maintenance etc.,
+2. Any firm involved in the activity of Ship Maintenance, Repair and Recycling excluding
+recycled steel processing and similar activities.
+
+Special Purpose Vehicle (SPV) - NSHIPTN
+The State shall create an SPV with separate legal existence under SIPCOT. An agency
+nominated by the Government of India may also be invited as a major stakeholder. The
+SPV shall facilitate and enable smoother establishment of shipyards in the identified
+clusters through sea side facilities enabled by the Government of India and land side
+facilities enabled by the State government represented by SIPCOT. The SPV shall also
+play a crucial role in enabling smoother financing of shipyards being established in the
+State.
+
+
+The activities of the company shall include
+a. Development of infrastructure facilities on both landside and seaside
+b. Entering into joint ventures with shipbuilding companies
+c. Leasing of critical assets to shipyards
+d. Facilitating capital raising and investor pooling to fund/Invest in the shipyards
+established in the State
+e. Any other crucial activity pertaining to shipbuilding in the State.
+                                                                                        14
+     Incentives for Promotion of Shipyard Construction
+     in Tamil Nadu
+Tamil Nadu’s incentive framework draws inspiration from leading maritime nations
+that have successfully developed world-class shipyard infrastructure and shipbuilding
+capabilities. South Korea’s K-Shipbuilding Super Gap Vision 2040 is supported by a 2
+Trillion Won (USD 1.3 Billion) national shipyard fund. Japan’s ¥1 Trillion (USD 6.5 Billion)
+“National Shipyard” model features government-built infrastructure leased to private
+operators. Singapore’s Maritime Cluster Fund offers up to 90% co-funding, particularly
+focused on upskilling, digital transformation and infrastructure development. These
+international models demonstrate that competitive maritime industries require
+substantial government support during the establishment phase, particularly for capital-
+intensive shipyard infrastructure and technology-intensive vessel construction and
+repair. Tamil Nadu’s approach builds upon these proven frameworks while incorporating
+State-specific advantages and addressing local industrial development priorities.
+
+A shipyard engaged in manufacturing, repairing, and maintaining maritime structures
+as outlined in the scope of the policy, with a minimum committed investment of Rs.
+1,000 Crore and the creation of at least 1,000 jobs, will qualify for a Structured Package of
+Assistance (SPA) under the policy.
+
+
+Shipyards can choose to avail one of the four incentives/Financial support options as
+listed below as part of the SPA:
+
+
+Option 1: Equity Participation
+The State government directly (or) through an identified government agency may
+become a minority equity stakeholder in the proposed facility. Shipyards can submit
+business proposals to an identified entity as notified in the implementation guidelines
+seeking equity investment.
+In case the equity participation is extended in the form of Cash, the same shall be initially
+extended as debt in tranches with clearly defined milestones. The debt shall be converted
+to equity for up to 49% subsequent to the achievement of the milestone and subsequent
+tranches of debt shall be released.
+Projects having higher capital requirements may also be offered a hybrid security
+financing or mezzanine financing like convertible debentures, on a case-to-case basis
+with an associated investment and exit plan. The equity shall also be brought in as land
+or any kind of physical critical Infrastructural Assets, including but not restricted to the
+below mentioned:
+
+List 1: Critical Infrastructural Assets
+
+a.    Dry Docks or ship lifts                  c.    Gantry Systems
+b.    Heavy Lift cranes                        d.    Quays, Jetties and slipways
+
+15
+The State, in consultation with the investing shipyards, shall co-develop the required
+infrastructure through the aforementioned forms.
+
+Option 2: Asset Leasing
+The State through an identified entity shall buy and lease back critical shipyard assets
+except for land but not limited to the assets listed as Critical Infrastructural Assets in LIST
+1, of value up to Rs. 6,000 Crore or 20% of the total cost of the project whichever is lower.
+The asset lease shall be structured on a case-to-case basis as a mix of
+
+
+                                 a) Fixed Lease percentage and
+                                 b) Variable Lease percentage
+
+
+eventually achieving a mutually acceptable IRR to both the investor and the Government
+of Tamil Nadu. The total State outflow shall be limited to Rs. 1,000 Crore per year across
+all projects established within the State. Any unutilized annual allocation may be carried
+forward to subsequent years.
+
+
+Under this arrangement, the shipbuilding company setting up the shipyard may acquire
+critical shipyard assets based on its operational needs and subsequently sell these
+assets to the SPV. The SPV will then immediately lease the assets back to the shipbuilding
+company under mutually agreed contractual terms. The leasing terms, including the
+lease rate and other conditions, will be determined through benchmarking against
+major shipyards or by an empaneled committee of critical asset vendors, taking into
+account the depreciation and useful life of the respective assets.
+
+
+Option 3: Capital Subsidy on the Eligible Fixed Assets and Other
+Incentives
+    Project         Investment Commitment Range             Minimum              Capital
+ Category and               (in Rs. Crore.)                Employment           Subsidy*
+   Standard
+  Investment           Minimum            Maximum
+  Period (SIP)        Investment         Investment
+
+ Kappal - SIP of       Greater than or equal to Rs.            4,000         25% of Eligible
+    15 years                  12,000 Crore                                    Fixed Assets
+
+  Vangam - SIP           5,000              11,999             2,000         20% of Eligible
+   of 12 Years                                                                Fixed Assets
+
+ Navaai - SIP of         2,000              4,999              1,000          15% of Eligible
+   10 Years                                                                    Fixed Assets
+
+ Kalam - SIP of 8        1,000              1,999                             10% of Eligible
+     Years                                                                     Fixed Assets
+
+
+                                                                                                16
+In addition, Shipyards that achieve a minimum of 450 tonnes of DWT as green vessels*
+within six (6) years from the launch of their first vessel, inclusive of the first vessel, shall
+be eligible for an additional capital incentive of 2% of the Cumulative Eligible Fixed Asset
+(EFA) at the end of the investment period, subject to a maximum cap of Rs. 300 Crore.
+
+
+Each tranche of incentive shall be disbursed over a period of 10 years. The tranches shall
+be defined on the basis of project implementation milestones which will be detailed in
+the implementation guidelines.
+
+
+In addition to the capital subsidy under option 3, shipyards will be eligible for the following
+incentives:
+
+Interest Subvention
+Ship yards shall be eligible for an interest subvention of 2% as a rebate in the rate of
+interest on actual loans taken for the purpose of financing the project, up to Rs. 10 Crore
+per annum for 15 years.
+
+Green Industry Incentives
+Shipyards investing a minimum of Rs. 100 Crore for undertaking green initiatives/
+implementing green technologies in the ship or any activity detailed as per the
+implementation guidelines as a green initiative shall be eligible for a 50% subsidy, subject
+to a limit of 2% of the total project cost or Rs. 50 Crore per project whichever is lower as a
+one-time disbursement post completion of the committed investment.
+
+
+Investments into green assets as mandated by the law shall not be considered eligible
+for green industry incentives as per the policy.
+
+
+Option 4: Production linked Incentives
+Shipyards investing in the Kappal Category as defined above in Option 3, shall be eligible
+to avail a production-linked incentive up to 15% of the value of the vessel capped to 2.5%
+of the cumulative EFA per annum for 10 years post the date of commercial production. The
+vessels incentivised under the Shipbuilding Financial Assistance Scheme, shall become
+eligible for PLI under this policy. The final value of the vessel as ascertained under SBFAS
+shall be considered for calculation of the incentive.
+
+
+The annual cap of incentives shall roll over to subsequent years if the shipyard does not
+avail the incentive for a particular year(s).
+
+
+Further process and procedures for availing each option will be detailed in the
+implementation guidelines.
+
+
+
+
+17
+Common Financial Incentives as Part of the Structured Package
+of Assistance
+Training Subsidy
+Shipyards shall be eligible for a training subsidy of Rs. 10,000 per domiciled employee per
+month for a period of 2 years.
+
+Electricity Tax Incentive
+
+Shipyards shall be given an electricity tax exemption for a period of 5 years on power
+purchased from the Tamil Nadu Power Distribution Corporation Limited (TNPDCL) or
+generated and consumed from captive sources.
+
+Industrial Housing
+The State supports the walk-to-work concept to decongest the cities and improve
+work-life balance. Shipyards will be encouraged to develop accommodation and hostel
+facilities for employees within a 5 km radius of the work area.
+
+
+Residential facilities developed within the shipyard or accommodation and hostel facilities
+for employees within a 5 km radius of the work area (i.e. entrance of the housing facility
+should be within 10 km of direct distance from the entrance of the project premises),
+shall be considered as Eligible Fixed Assets under option 3 - Capital subsidy, provided
+that this does not exceed 5% of EFA.
+
+Support and Incentives for Allied Industries
+1. Incentive to Promote Design Institutions
+Ship design firms shall be eligible for a Payroll Subsidy of 30% in the first year, 20% in the
+second year, and 10% in the third year on the payroll cost of high-paying jobs created
+within the State with clearly demarcated facility (ies), subject to the following conditions:
+
+
+a. It must provide direct employment to 200 persons within the first 3 years of operation.
+
+
+b. The Project must not have availed of Structured Package of Assistance from the
+Industries, Investment Promotion & Commerce Department.
+
+
+High paying jobs shall be defined as jobs where payroll cost is greater than or equal
+to Rs.1 lakh per month per employee. Payroll Cost shall be the “basic wages” received
+by the employees as defined in Section 2(b) of the Employees Provident Funds and
+Miscellaneous Provisions Act, 1952.
+
+
+
+
+                                                                                           18
+2. Incentives to Promote R&D Institutions and Global Capability Centres (GCCs)
+
+Eligibility Criteria for R&D
+R&D firms meeting the eligibility criteria listed herein shall be eligible for incentives
+outlined in this section, subject to the following conditions:
+1. Must have a Minimum Investment of Rs. 50 Crore. in Eligible Fixed Assets within a
+Standard Investment Period of 4 years and creation of Employment for 50 persons
+2. Clearly demarcated facilities in or outside the Projects
+3. Must be engaged in maritime transport related R&D in Tamil Nadu
+
+Eligibility Criteria for GCCs
+The GCC must commence operations during the policy period and create a minimum
+500 jobs within the Standard Investment Period of 4 years.
+
+Special Incentives Applicable
+A. Special Capital Subsidy
+To support eligible firms, a special capital subsidy of 25% on the Eligible Fixed Assets
+shall be disbursed in equal installments of over 10 years from the date of achievement of
+minimum employment, subject to a ceiling of Rs. 25 Crore, whichever is lesser.
+
+
+B. Training Incentive
+Eligible firms shall avail a Training Incentive of Rs. 10,000 per person per month for 12
+months for the residents of Tamil Nadu. The incentives shall be applicable on net new
+employment.
+
+
+C. Quality Certification Incentive
+Projects obtaining certifications like ISO, ISI, BIS, FPO and BEE, or any other national or
+international certification relevant for the shipping industry shall be given a subsidy of
+50% of the total cost incurred for obtaining the certification, as certified by the Chartered
+Accountant, limited to Rs. 1 Crore for the period of investment.
+
+
+D. Intellectual Property Incentive
+The Government will reimburse 50% of the expenditure incurred by the Project subject to
+a maximum of Rs. 1 Crore for the period of investment for a patent, copyright, trademark,
+and Geographical Indicators registration.
+
+
+E. Innovation Lab Incentive
+To promote these labs that cater to the needs of innovation clusters and act as a catalyst
+for the research and development, 50% of the EFA created on innovation labs shall be
+reimbursed, up to Rs. 1 Crore. The incentive is available only to innovation labs that are
+accredited/certified as per NABL, ISO certified or any other national or international
+applicable for shipping/shipbuilding Industry.
+
+
+19
+F. License Cost Incentive
+Eligible firms shall avail a license cost incentive of 50% of the expenditure incurred on the
+purchase of a specialized software license within the Standard Investment Period of 4
+years subject to a ceiling of Rs. 1 Crore.
+
+
+G. Product Testing & Prototyping Incentive
+To encourage prototyping within the State, eligible firms shall avail a subsidy of 25% of
+the EFA on establishing product testing and prototyping facilities, subject to a ceiling of
+Rs. 1 Crore.
+
+
+H. Other Standard Incentives
+The Project shall also be eligible for standard incentives, namely, electricity tax exemption
+for 5 years, stamp duty exemption, and green industry incentives of up to Rs. 1 Crore.
+
+
+
+
+                                                                                          20
+     Facilitation Support and other Assistance
+To complement targeted incentives, Tamil Nadu will provide a holistic support ecosystem
+encompassing facilitation services, infrastructure enablement, among others.
+
+1. Single-Window Project Facilitation
+All approvals (environmental clearances, land use, building permits, utilities hookups)
+will be processed through a dedicated interface within the State Single Window Portal,
+guaranteeing end-to-end tracking and mandated decision timelines.
+­
+Dedicated Liaison Officers assigned to each project will coordinate with line department
+ports, industries, environment, utilities, and labor to resolve queries and expedite
+clearances.
+
+2. Integrated Infrastructure Clusters
+Maritime Industrial Parks in shipbuilding clusters will be established, each equipped with
+pre-laid roads, power substations, water networks, common effluent treatment plants,
+and heavy-lift quay walls.
+ ­
+xShared Common User Facilities will be set up by the SPV which will include facilities such
+as plate-processing workshops, blasting and painting lines, and centralized hazardous-
+material disposal units, reducing capital outlays for component manufacturers.
+
+3. Land and Utility Support
+Eligible projects shall be accorded priority in the allocation of coastal and port-adjacent
+land parcels on long-term leases of up to 99 years.
+
+
+
+     Incentives and Subsidies to Promote Green Ship
+     Recycling
+The government will promote Green ship recycling clusters in the State. In addition to
+the Ship breaking credit note issued by the Union government for ships recycled in the
+State, The State shall offer capital subsidy of up to 15% of EFA disbursed over 15 years as
+equal installments. The first 5 ship recycling yards investing a minimum of Rs. 50 Crore
+and employing a minimum 100 employees shall be eligible for incentives. The facilities
+must achieve certification under the Hong Kong International Convention for the Safe
+and Environmentally Sound Recycling of Ships (first adopted 15th May 2009) and the EU
+Ship Recycling Regulation (first adopted on 20th November 2013).
+
+
+
+
+21
+   Incentives and Subsidies to Promote Marine
+   Component Manufacturing Industry
+Any investment made in component manufacturing, supplying at least 50% of its
+production (in terms of invoice value) to shipyards with a minimum committed investment
+of Rs. 50 Crore and Minimum committed employment of 100 jobs shall be eligible for
+incentives. The incentives shall be as applicable under the Tamil Nadu Industrial Policy,
+2021 with the recognition of Sunrise sector. Any investments ranging between Rs. 50
+Crore and Rs. 499 Crore shall be treated as a ‘large project’ and investments above Rs.
+500 Crore shall be considered as per the classification under the TNIP 2021.
+
+
+
+
+                                                                                       22
+     Skill Development and Ecosystem Building
+To meet the growing demands of the global shipbuilding industry, the Government
+of Tamil Nadu will collaborate with the Indian Maritime University (IMU) to design and
+deliver specialized courses aligned with industry requirements. The State’s shipbuilding
+skill development strategy will establish a multi-level, multi-agency ecosystem that
+connects Industrial Training Institutes (ITIs), Polytechnic Colleges, Engineering Colleges,
+and State Universities.
+
+
+Around the identified port locations where the ship building hubs are proposed, the
+following interventions shall be undertaken:
+
+
+a. Mapping of ITIs, polytechnic and engineering colleges that will act as feeders for skilled
+manpower
+
+
+b. Development of specific infrastructure such as labs/ workshops in the identified
+institutions
+
+
+c. Specially designed curriculum for the job roles identified along with industry
+collaboration shall be imparted in these institutions with joint certification by TNSDC
+
+
+d. Further, On job training through internships/apprenticeships shall be integrated into
+the course schedules.
+
+
+The above initiative will leverage the Naan Mudhalvan platform, the Department of
+Employment and Training (DET), and the Directorate of Technical Education (DOTE) to
+create a seamless skill development pathway from entry-level trades to advanced
+engineering programs. The focus will be on modernizing shipbuilding and repair
+practices by adopting advanced technologies and innovative methods that enhance
+productivity, precision, and innovation. The State will also partner with global maritime
+and allied technology institutions and international industry leaders to offer specialized
+training programs.
+
+
+Institutional Framework
+A State Shipbuilding Skill Council will be established with representation from IMU, DET,
+DOTE, and the Tamil Nadu Skill Development Corporation (TNSDC). This council will
+coordinate curriculum design, standard setting, certification, faculty development, and
+technology integration across institutions. It will also ensure the adoption of international
+best practices in maritime skill development.
+
+
+
+
+23
+Key Features of the Curriculum
+
+1. Focus on Industry 4.0
+The curriculum will emphasize digital transformation in shipbuilding and will be
+developed in collaboration with global industry experts. Core areas will include ship
+design, predictive maintenance, robotic fabrication, and advanced automation. The
+curriculum will incorporate Japanese craftsmanship principles (Monozukuri) for quality
+assurance and European software tools for digital design. Courses will be continuously
+updated to keep pace with emerging technologies and industry trends.
+
+
+2. Range of Training Programs
+The program will include both short-term certification courses for quick skill upgrades
+and longer diploma and degree programs that prepare highly skilled professionals
+such as marine engineers, digital designers, and robotics specialists. Emphasis will be
+placed on developing cross-functional skills that combine traditional craftsmanship
+with modern shipbuilding techniques.
+
+
+To ensure inclusive growth, targeted upskilling of fishermen and coastal communities is
+essential. The candidates who are identified shall be provided with incentives such as
+training stipends, priority enrolment under Naan Mudhalvan and Vetri Nichayam, and
+placement-linked programs in ports, shipyards, and logistics.
+
+
+3. Simulation-Based Learning
+Modern training facilities, including simulation laboratories and AR/VR setups, will provide
+immersive, hands-on experiences. Students will train with technologies used in global
+shipyards, such as robotic welders, CNC machines, and IoT-based systems, ensuring
+readiness for real-world applications.
+
+
+4. Industry Collaboration and Knowledge Sharing
+The academy will collaborate with both domestic and international shipyards to
+promote knowledge sharing, technology integration, and real-time industry alignment.
+Partnerships with global shipbuilders and technology firms will ensure that training
+programs reflect the latest developments in shipbuilding, maintenance, and repair.
+
+5. Integration with the National Skills Qualification Framework
+All programs will be aligned with the National Skills Qualification Framework (NSQF) from
+Levels 3 to 8, ensuring clear progression from technician to engineer.
+
+
+•   ITIs will provide trade-level training in partnership with IMU and industry experts.
+•   Polytechnic and Engineering Colleges will offer advanced diplomas and degree-
+    linked programs in marine design, automation, and digital shipbuilding.
+•   The Naan Mudhalvan platform will host bridge and finishing school modules to
+    support continuous learning, upskilling, and placement opportunities.
+                                                                                         24
+Industry Partnership and Public-Private Collaboration
+To enhance industry participation, the State will encourage shipyards and allied
+industries to set up Skill Development Centres within government institutions through
+public-private collaboration.
+
+
+During the initial three years, partner industries may receive:
+
+
+•    Access to infrastructure such as workshop space, utilities, and co-branding rights.
+
+
+•    Training subsidies or cost-sharing support for faculty, equipment, and trainees.
+
+
+•    Fast-track recognition under the Naan Mudhalvan or NSDC frameworks.
+
+
+These partnerships will promote the design of industry-specific curricula aligned with
+manpower needs and global certification standards.
+
+
+Incentive Framework
+Industries that establish skill development centres or centres of excellence in government
+institutions will be eligible for additional training subsidies of Rs. 1,000 per employee per
+month. These incentives will be linked to measurable outcomes such as placement
+rates, number of certified candidates, and the extent of technology transfer achieved.
+This integrated and forward looking strategy will build a globally competitive workforce,
+promote local employment, and position Tamil Nadu as a leading hub for modern
+shipbuilding and maritime innovation.
+
+
+
+     Policy Implementation
+The Tamil Nadu Shipbuilding Policy will be implemented as per the implementation
+guidelines document which will be released subsequent to notification of the policy.
+
+
+
+
+     Policy period
+The policy is valid for a period 5 years from the date of notification of the policy or until a
+new policy is announced, whichever is later. The Policy may be periodically revised from
+time to time based on industry requirements.
+
+
+
+
+25
+26
+GOVERNMENT OF TAMIL NADU
+
+
+
+
+www. investingintamilnadu.com
+

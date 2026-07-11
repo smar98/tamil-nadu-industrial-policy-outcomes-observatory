@@ -1,0 +1,2185 @@
+ GOVERNMENT OF TAMIL NADU
+
+
+
+
+TAMILNADU
+ INDUSTRIAL
+   POLICY
+         2 0 21
+TAMIL NADU INDUSTRIAL
+      POLICY 2021
+
+
+
+
+   INDUSTRIES DEPARTMENT
+ GOVERNMENT OF TAMIL NADU
+                              CONTENTS
+
+1.    PREAMBLE                                               1
+2.    OBJECTIVES                                             3
+3.    BUILDING RESILIENCE TO BLACK SWAN EVENTS               5
+4.    APPROACH                                               5
+5.    INFRASTRUCTURE                                         6
+6.    FOCUS & SUNRISE SECTORS                               11
+7.    INNOVATION & ECOSYSTEM DEVELOPMENT                    11
+8.    SKILL DEVELOPMENT                                     14
+9.    EASE OF DOING BUSINESS                                15
+10.   RELAXATION IN PLANNING NORMS                          17
+11.   SUSTAINABLE FINANCING OF INVESTMENTS                  17
+12.   INCENTIVES FOR INDUSTRIES                             20
+13.   STRUCTURED PACKAGE FOR LARGE & ABOVE PROJECTS         22
+14.   SPECIAL INCENTIVES FOR SUNRISE SECTORS                28
+15.   SPECIAL INCENTIVES FOR INDUSTRIAL PARKS               30
+16.   SPECIAL INCENTIVES FOR R&D PROJECTS                   31
+17.   SPECIAL INCENTIVES FOR LOGISTICS INFRASTRUCTURE       33
+18.   SPECIAL INCENTIVES FOR FOREIGN DIRECT INVESTMENT      34
+19.   STANDARD INCENTIVES FOR SUB-LARGE PROJECTS            36
+20.   POLICY IMPLEMENTATION                                 38
+Annexure I – List of Industries Ineligible for Incentives   39
+Annexure II – List of Sunrise Sectors                       40
+Annexure III – Flexible Capital Subsidy Framework           41
+Annexure IV – Implementation Guidelines                     45
+Annexure V – Components of an Approved Industrial Park      55
+     TAMIL NADU INDUSTRIAL POLICY 2021
+
+
+    1     PREAMBLE
+
+1.1 Tamil Nadu – A Leading State and An Industrial Powerhouse
+   Tamil Nadu is one of the most advanced and admired states in India. Its success is
+driven by a self-sustained and self-propelled industrial growth process. Tamil Nadu
+is home to the highest number of factories and industrial workers in the country, and
+a leader in terms of industrial output. From this vantage-ground, it is the industrial
+powerhouse of the nation and the second-largest state economy in the country
+contributing to 8.4% of India’s GDP. Tamil Nadu has been a significant contributor
+to India’s growth story and has witnessed consistent economic growth for decades.
+The State’s real GSDP has grown at a real compounded annual growth rate of nearly
+8% since the previous Industrial Policy in 2014. The growth in the manufacturing and
+service sector has spurred and in turn, benefited from the rise in the standard of living
+of the people of Tamil Nadu.
+
+   Tamil Nadu has a highly developed industrial manufacturing eco-system. It has
+evolved into the largest hub for the production of automobiles and auto-components,
+textiles, leather products, light and heavy engineering, pumps and motors, electronic
+software, and hardware. The State continues to be a national leader in exports of
+automobiles and automotive components, leather products, software, and ready-made
+garments. Many globally renowned companies have set up their manufacturing facilities
+in Tamil Nadu. The State is home to over 70 Fortune 500 companies.
+
+   It also has nearly 2500 educational institutions and is home to institutes such as
+IIT, IIM, NIT, Anna University, TNAU, NIFT, and other public and private sector
+universities. The state’s talent pool adds over a million graduates every year and has the
+largest annual turnout of skilled workforce in India catering to various sectors.
+
+  The State is one of Asia’s most preferred investor destinations anchoring 9% of
+Foreign Direct Investment in India since 2000 and has tremendous investment potential.
+The State’s investment potential and strengths have won it laurels and accolades over
+
+
+1
+    Nominal GSDP CAGR is 11.4% between 2013-14 and 2018-19
+2
+    National Council of Applied Economic Research State Investment Potential Index
+
+                                                   1
+the years. Tamil Nadu ranked second in the State Investment Potential Index (N-SIPI)
+2018, moving up by four places from N-SIPI- 2017; second in Growth, Innovation
+and Leadership Index 2019 for Economic Development in India, and first in the State
+of States 2020 ranking for the third consecutive year. Tamil Nadu topped the Good
+Governance Index 2019 launched by the Department of Administrative Reforms and
+Public Grievances, Government of India. Tamil Nadu has retained the third rank in the
+Sustainable Development Goals (SDG) India Index 2019, released by NITI Aayog, and
+was ranked second in the NITI Aayog’s Innovation Index 2019. Tamil Nadu is in the
+top 10 for the availability of employable talent, employability, preferred state to work,
+and where maximum hiring occurs. Further, Chennai ranks second in terms of cities
+with high employability, according to the India Skills Report 2019-20.
+
+   The Global Investors Meet 2019 was a testament to Tamil Nadu’s investment
+attractiveness, during which investment commitments amounting to over Rs. 3 lakh cr.
+(US$ 42.85 billion) and 304 Memoranda of Understanding were signed. This
+success was further reinforced with investment commitments of Rs. 8,835 cr.
+(US$ 1.26 billion) from 41 MoUs signed during the international investor roadshows
+in USA and UAE and Rs. 11,350 cr. (US$ 1.62 billion) for 24 industrial projects in
+the State. This momentum continued despite COVID-19, as the State signed 55 MoUs
+amounting to over Rs. 40,719 cr. in investments.
+
+   This can be attributed to the state’s conducive business environment, an endowment
+of capital and human resources, and the state’s strategic location on the Coromandel
+Coast. Tamil Nadu has a strong infrastructure setup with four international airports,
+four large seaports, and several minor seaports. This has spurred export-oriented growth,
+making Tamil Nadu the third-largest exporting state of the country, contributing 9.8%
+to India’s outbound shipments. Tamil Nadu’s export prowess is unique, with its ability
+to produce a wide product spectrum of value-added goods. It is well connected with
+the road network of National Highways and State Highways. The Chennai-Bangalore
+Industrial Corridor Project and the Chennai-Kanyakumari Industrial Corridor Project
+are expected to further transform the economic landscape of the state in the next few
+years. Amongst all states, Tamil Nadu’s economic growth and path towards achieving
+economic prosperity have been consistent.
+
+
+3
+  Frost & Sullivan Growth, Innovation and Leadership Index for Economic Development 2018
+4
+  India Today Group States of State Ranking
+5
+  A joint initiative by a private independent study – Wheebox, a global talent assessment company
+6
+  USDINR FX Rate of 70 has been used in this Policy for reference. For values cited in the Policy or in
+   case of any discrepancy, the amount quoted in Indian Rupees shall prevail.
+
+                                                    2
+1.2 Need for A New Policy
+   The Industrial Policy serves as a critical instrument that will help achieve Tamil
+Nadu’s Vision 2023. Tamil Nadu’s Vision 2023 is a roadmap for state’s development,
+encompassing themes like economic prosperity, inclusive growth, world-class
+infrastructure, a healthy investment climate, and improving the quality of governance
+to improve and sustain the growth of both manufacturing and associated services. It
+aims for an 11 percent annual growth rate in the State’s economy, a 14 percent growth
+rate in manufacturing, and targets investments worth INR 15,00,000 cr. (US$ 214.286
+billion) in numerous projects over ten years. Growth shall be balanced across regions
+with a stronger focus on reducing poverty and inequality.
+
+   As a leading industrialized State, Tamil Nadu periodically revises its Industrial Policy
+to respond to the changing economic scenario and technology; and to offer direction
+and support for future growth. This Policy aims to build on the momentum generated
+by the State through the Industrial Policy of 2014 in upholding its position as a preferred
+destination for investment in India. Intending to be contemporary and progressive,
+this Policy incorporates recent changes in the regional and national economy, new
+initiatives and policy changes like Make in India, Ease of Doing Business, and Goods
+and Services Tax, and provides direction for future development. With this Industrial
+Policy, Tamil Nadu reaffirms its commitment to creating new jobs, improving labour
+quality, fostering innovation, and ensuring inclusive and balanced growth.
+
+1.3 Scope of the Policy
+   This Policy is applicable for projects establishing or expanding industrial units,
+industrial parks, R&D projects, warehousing and logistics except those specified in the
+negative list in Annexure I. Investments made from January 1, 2021, will be considered
+eligible for availing incentives. This Policy supersedes the Tamil Nadu Industrial Policy
+2014 and will be valid till 31.03.2025. The Policy may be periodically revised from time
+to time.
+
+ 2    OBJECTIVES
+
+2.1 Vision
+  Make Tamil Nadu the numero uno destination to invest, innovate and create products
+and associated services
+
+
+                                             3
+2.2 Mission
+  - Evolve Tamil Nadu into the most preferred destination for investors
+  - Enhance the investment climate that beats the best in the world
+  - Continuously improve ease of doing business
+  - Enable and accelerate the state’s knowledge and innovation ecosystem into
+    becoming India’s foremost hub for high-tech industries in the sunrise sector
+  - Harness the state’s skilled human resources for economic development
+  - Enable balanced regional development
+
+2.3 Progress & New Goals
+  Given the progress that the state has made with respect to the objectives set out in the
+previous Industrial Policy, we retain, raise and refocus our goals as follows:
+
+  Progress    Tamil Nadu has achieved a compounded annual growth rate of 13% in
+              manufacturing between 2014-15 and 2019-20 and is well-positioned to
+              attain a target growth of 14%, in line with Vision 2023.
+
+  Goal        Achieve annual growth rate of 15% in the manufacturing sector during
+              the policy term.
+
+  Progress    The State has surpassed its target, attracting incremental investments of
+              over 10% every year in manufacturing, by achieving an annual growth
+              rate of 14% in incremental investments in manufacturing and 25.74%
+              across all sectors since 2013.
+
+  Goal        Attract investments worth INR 10 lakh cr. (US$ 135 billion) between
+              2020 and 2025.
+
+  Progress    The Government of Tamil Nadu has strived to create gainful employment
+              opportunities for 20 lakh persons and has over 45,000 registered factories
+              employing 21.65 lakh persons as of Feb 2020. The State has renewed this
+              effort with a push towards skill development.
+
+  Goal        Create employment opportunities for 20 lakh (2 million) people by 2025.
+
+  Progress    Manufacturing sector’s contribution to the State has been consistently
+              increasing for the past decade. In 2019-20, the manufacturing sector
+              contributed to 25% of GSVA.
+
+  Goal        Increase the contribution of the Manufacturing Sector to 30% of GSVA
+              by 2030
+
+                                             4
+ 3 BUILDING RESILIENCE TO BLACK SWAN EVENTS
+   The COVID-19 pandemic hit the world in late 2019, impacting all major economies
+during the first quarter of 2020. Besides throwing a challenge on the health front, the
+black swan event has severely affected economic and industrial activity and growth.
+
+   The Government of Tamil Nadu recognized the need to revive industrial production
+affected during the national lockdown on an urgent basis. The State introduced
+immediate measures to remove supply chain bottlenecks and operational restrictions
+for essential commodities facilities and continuous process industries. The industries
+were permitted to operate in a phased and safe manner. The Government of Tamil Nadu
+launched a special scheme “CORUS” to support the immediate working capital needs
+of businesses. Standard Operating Procedures were provided to industries to ensure
+worker safety. Besides facilitating accommodation for workers closer to the factories,
+industrial housing projects were prioritized.
+
+   In the long run, Tamil Nadu sees an opportunity to not just return to its normal
+growth trajectory but to leverage disruption in technology for resurgence and driving
+growth through a robust manufacturing ecosystem. This will include a shift to digital
+services and leveraging R&D for disruptive industrial innovation. Hence, this Policy
+focuses on encouraging R&D and adoption of technology in the manufacturing sector.
+
+ 4    APPROACH
+  Keeping these goals and recent events in mind, the policy has been developed with
+the following pillars:
+
+  a) Achieve inclusive and balanced regional growth,
+
+  b) Accelerate industrial growth through incentives and facilitation measures
+
+  c) Promote resilient industrial development that aligns with environmental
+     sustainability,
+
+  d) Develop an innovation ecosystem and promote investment in technology adoption
+
+  e) Encourage FDI & exports
+
+  f) Implementation mechanism that delivers incentives in an objective, transparent
+     and timebound manner.
+
+
+                                           5
+  The policy uses the following levers aligned with these pillars:
+
+  • Structured Package                      • Incentives for Logistics Infrastructure
+
+  • Incentives for Sunrise Sector           • Incentives for Foreign Direct Investment
+
+  • Incentives for Industrial Parks         • Incentives for Sub-Large Projects
+
+  • Incentives for R&D Projects
+
+  High-level implementation guidelines have been provided in this Policy and detailed
+operational guidelines/clarifications will be issued from time to time.
+
+
+ 5    INFRASTRUCTURE
+   The trajectory of the State’s economic growth is built on strong linkages between
+industry, infrastructure, and academic institutions. Tamil Nadu, being an industrial
+powerhouse of the country has built and continues to develop a robust industry with
+buoyant and resilient infrastructure. The State has made tremendous progress in both
+social and economic infrastructure. This has resulted in the rapid expansion of roadways,
+railways, and capacity enhancement of ports. The State’s approach to augmenting
+industrial infrastructure is through the development of industrial parks, transport and
+logistics, energy and utilities, and communication infrastructure.
+
+5.1 Industrial Parks & Land Bank Creation
+   Tamil Nadu has a wide network of industrial parks and estates offering developed plots
+with supporting infrastructure. The state has 57 formally approved Special Economic
+Zones (SEZ). State Industries Promotion Corporation of Tamilnadu Ltd (SIPCOT)
+& Small Industries Development Corporations (SIDCO) Industrial Parks have a
+cumulative land bank of nearly 40,000 acres out of which 3500 acres is available. SIPCOT
+is also in the process of establishing industrial parks in the districts of Kancheepuram,
+Tiruvallur, Madurai, Villupuram, Tiruchirappalli, Vellore, Krishnagiri, Dharmapuri,
+Perambalur, Ramanathapuram, Dindigul, Theni, Virudhunagar, Thoothukudi &
+Tirunelveli. The Government is also developing industry-specific parks to help promote
+cluster-based development. Public and private industrial parks in the state are also
+looking at providing plug & play facilities to attract export-oriented industries. SIPCOT
+now allows allottees who have used up 50% of their allotted area, to construct Plug &
+Play facilities and sublease it to others . A special incentive package shall be provided to
+developers of private industrial parks in this Policy.
+
+
+
+                                              6
+5.2 Transport and Logistics
+     5.2.1 Industrial Corridors
+
+   The Government of Tamil Nadu is pursuing a corridor and node-based development
+model that spatially converges investment growth and infrastructure development. The
+State is developing industrial corridors with modern road and rail connectivity, specific
+investment regions, and other industrial and social infrastructure like townships,
+schools, hospitals, etc. As of the date of this policy release, there are multiple long-term
+mega infrastructure projects in Tamil Nadu, typically spanning 20 years or more, that
+are in different stages of development.
+
+
+
+                                     TN Industrial Corridors
+        Corridor-based development is expected to transform the economic
+        landscape of the state in the next few years.
+
+        • Chennai-Bengaluru Industrial Corridor (CBIC) – The special purpose
+          vehicle to develop the Ponneri node has been created and the master
+          planning is underway. CBIC will be extended to the western region of the
+          state as Kochi-Coimbatore Industrial Corridor including an Integrated
+          Manufacturing Cluster in Salem.
+
+        • Chennai–Kanniyakumari Industrial Corridor (CKIC) – CKIC is being
+          implemented in partnership with the Asian Development Bank as the
+          second phase of the East Coast Economic Corridor to promote port-
+          based economic development. This Corridor covers 23 districts of Tamil
+          Nadu. The Comprehensive Development Plan has been prepared and the
+          preparation for Phase II is near completion.
+
+        • Tamil Nadu Defence Industrial Corridor (TNDIC) - The Tamil Nadu
+          Defence Industrial Corridor (TNDIC) launched in 2019 covers 5 nodal
+          cities, namely, Chennai, Hosur, Salem, Coimbatore, and Tiruchirappalli.
+          This has attracted investment proposals worth Rs 3,123 cr. from the
+          ordnance factory boards, defence public sector undertakings, and private
+          sector projects.
+
+
+
+7
+    https://sipcot.in/webroot/img/Policy_on_Sublease.pdf
+
+                                                   7
+  5.2.2 Connectivity
+
+   Tamil Nadu has 5,324 km of National Highways, 11,830 km of State Highways, 46,496
+km of District roads, and 1,49,446 km of rural roads. The Government of Tamil Nadu
+has planned a Chennai Peripheral Ring Road connecting a stretch of 133.38 km between
+Ennore and Kattupalli Ports. The Tamil Nadu Road Sector Project, with assistance from
+World Bank, has been taken up at a cost of Rs. 5171 cr. Using the Performance-Based
+Maintenance Contract programme, 1768 km of roads have been improved at a cost of
+Rs.3074 cr. The State Government has also undertaken steps to improve Panchayat and
+Panchayat Union roads to the standard of Other District Roads for improving 2958 km
+of roads at a cost of Rs. 1490 cr. Further, an Industrial Ecosystem Fund shall be set up as
+a part of this Policy to improve last-mile connectivity.
+
+    Tamil Nadu also has an excellent airport and seaport connectivity. It has four
+international airports in Chennai, Madurai, Coimbatore, and Trichy. Chennai Airport
+is the third busiest airport in the country in terms of cargo movement and has a capacity
+to handle 1.1 MTPA. Therefore, it has a huge potential to improve its export and import
+handling activities. A new greenfield airport has been proposed which would handle 40
+million passengers annually. Tamil Nadu also has four large seaports (Chennai port,
+Kamarajar port and VOC port, Kattupalli). These, along with Karaikal port have a total
+container handling capacity of 5.5 MTPA.
+
+  The Government of Tamil Nadu aims to create high-speed railway corridors with
+support from the Government of India to connect major cities of Tamil Nadu. The
+Government is undertaking the construction of 44256 railway over bridges at a cost of
+Rs. 726 cr. in 2019-20 under the Railway Works programme.
+
+5.3 Energy and Utilities
+  5.3.1 Power
+
+   Tamil Nadu is a power surplus state with an installed capacity of 31,990 MW. The
+Government of Tamil Nadu has achieved this through State & Central projects, power
+purchase agreements & renewable energy generation, and ensured an increase of 15,587
+MW since 2011. Tamil Nadu is among India’s top renewable power generating states
+accounting for 17.2% of the renewable power generation in the country. Tamil Nadu is
+poised to increase power generation through new projects using both non-renewable &
+renewable sources and is expected to remain power surplus during the next decade. The
+TN Solar Policy 2019 aims to increase the solar power generation capacity of the state
+to 9,000 MW by 2023.
+                                             8
+  TANGEDCO has issued a Policy for 24x7 power to Industries/Developers with a
+demand of 10 MVA or with an investment of Rs.100 cr. or more for companies with an
+MoU with the Government of Tamil Nadu with the following highlights:
+
+
+                       24x7 Power to Industrial Consumers
+     - TANGEDCO / TANTRANSCO will set up Sub-Stations and associated
+     transmission and distribution networks in various locations at the cost of
+     Industrial consumers/ Government wherever the industries are proposed
+     to be set up in the State based on the industrial demand requirement.
+     TANGEDCO/ TANTRANSCO will establish Sub-Stations at the cost of
+     investors on the land provided by them.
+
+     - Industries/developers will also be permitted to establish Sub-Stations,
+     transmission, and distribution power networks on their own if they comply
+     with technical specifications of TANGEDCO / TANTRANSCO.
+
+     - Uninterrupted Power Supply shall be provided through a dedicated dual
+     network.
+
+     - Digital meters with AMR facility will be provided at the feeder level.
+
+     - Industries / developers will be free from power cuts, peak hour load
+     restrictions, power holidays, and other similar restrictions. However, the
+     above conditions will not be applicable under force-majeure conditions such
+     as cyclone, flood, strikes, grid disturbance, etc., and feeder tripping due to
+     technical faults.
+
+
+
+  5.3.2 Water Resource Management
+
+   Water is a precious commodity, and the State recognizes the need for augmenting
+supply of industrial water in its path towards industrial infrastructure development.
+The Government of Tamil Nadu has been proactively planning for water augmentation.
+It has undertaken various initiatives towards sustainability of industrial water such as
+i) desalination plants in coastal districts, ii) recycling of water for industry reuse in
+interior districts (TTRO, TT plants, etc.), and iii) recharge and restoration of water
+bodies.
+
+   The State launched Treated Wastewater Reuse Policy 2019 and was awarded first
+place under the ‘Best State’ category under the National Water Awards (NWAs) 2019,
+
+                                            9
+presented by Department of Water Resources, River Development and Ganga
+Rejuvenation, Government of India.
+     The Government of Tamil Nadu through the Combined Water Supply Scheme
+  supplies 148 MLD water to nearly 541 industries. The 45 MLD plants at Koyambedu
+& Kodungayur are operational and the sewage generated in Chennai is recycled, making
+it one of the leading cities in terms of recycling & reuse of wastewater. Thus, there is no
+water shortage for industrial use and Tamil Nadu intends to be weather-independent
+in water availability.
+
+                    Tamil Nadu is undertaking several projects
+                      to improve water supply to industries
+     -150 MLD desalination plant at Nemmeli is being implemented at a cost of
+     Rs. 1259.38 cr. with grants from the Government of India & KfW. The plant
+     will address the water requirements of nearly 9 lakh people living in south
+     Chennai as well as the IT corridor areas- Sholinganallur, Madipakkam,
+     Ullagaram- Puzhuthivakam; 10 MLD tertiary treatment Ultrafiltration plant
+     in Perungudi. Another 400 MLD project has also been proposed in Nemmeli/
+     Perur and 260 MLD under Sustainable Water Management of Chennai City.
+
+     -60 MLD desalination plant at Thoothukudi to cater to the Tuticorin
+     Industrial Park and surrounding industries near the Port.
+
+     -20 MLD desalination plant at Manakudi to cater to the needs of water
+     supply for Manakudi and Sakkarakottai Industrial Parks.
+
+     -20 MLD desalination plant at Cuddalore to cater to the needs of water
+     supply for Cuddalore Industrial Park.
+
+     -20 MLD TTRO conveyance system to service Manallur Township.
+
+     -1.3 MLD Freshwater supply from Thervoykandigai reservoir for Manallur
+     Industrial Park
+
+     -20 MLD Tertiary Treatment Plant to treat the water drawn from KPRP
+     Dam, Kelavarappalli and supply to about 355 industries located in Hosur
+     Industrial Complex.
+
+     -Capacity enhancement of STPs, viz 2 x 120 MLD STP in Kodungaiyur,
+     50 MLD STP in Nesapakkam and 60 MLD in Perungudi and works are
+     expected to be completed by 2022.
+
+                                            10
+5.4 IT Infrastructure
+   The State offers state-of-the-art telecommunications infrastructure for high-speed
+large volume data transfer. Tamil Nadu has an excellent Optical Fibre Cable (OFC)
+network and availability of reliable large bandwidth. With 3 Submarine landing cables,
+Tamil Nadu has one of the largest bandwidths amongst Indian states. The total bandwidth
+available is about 14.8 Tbps connecting Tamil Nadu with international locations. The
+Government of Tamil Nadu has undertaken the implementation of BharatNet through
+Tamil Nadu Fibrenet Corporation, which will connect all Village Panchayats through
+Optical Fibre and will be extended to all urban local bodies that will have connectivity
+of 1 GBPS by 2020. Chennai is a stellar performer in IT/ITeS and has earned the name
+– “SaaS (Software as a Service) capital of India”.
+
+ 6    FOCUS & SUNRISE SECTORS
+
+6.1 Focus Sectors
+  The Policy shall continue to promote the existing focus sectors, which are drivers of
+economic growth and development in the state. These focus sectors are Automobile and
+Auto Components, Chemicals, Electronics & Hardware, Heavy Engineering, Leather,
+Textiles, Financial Services, and Software.
+
+6.2 Sunrise Sectors
+   Rapid technological developments are bringing to the fore new sectors that can
+become drivers of future growth. The state has identified sectors that are a part of or
+overlap the focus sectors where the State has demonstrated capability. Some of these
+sectors that have a high potential for growth, diversification and investment have been
+identified as Sunrise Sectors in Annexure-II. The Government has launched dedicated
+policies for some of the identified focus and sunrise sectors. To provide a thrust to the
+sunrise sectors, a special package of incentives has been proposed in this Policy.
+
+ 7 INNOVATION & ECOSYSTEM DEVELOPMENT
+   The State is actively encouraging firms to explore and push the frontiers of technology
+that can transform the industrial eco-system. The Tamil Nadu Startup and Innovation
+Policy 2018-2023 aims to provide an enabling, innovative ecosystem in the State.
+Chennai ranks 4th nationally in the startup ecosystem with a significant representation
+from startups in e-commerce, mobile-based technology, and education. The State strives
+
+                                            11
+to position itself as one of the leading start-up hubs in the country by leveraging the
+attractive investment climate in the state to develop a world-class ecosystem for such
+companies. The Government of Tamil Nadu shall undertake the following initiatives to
+focus on R&D, innovation, and developing enabling ecosystems.
+
+7.1 Innovation Centres
+   SIPCOT is planning to establish Industrial Innovation Centres at the Sriperumbudur
+& Hosur Industrial Parks. SIPCOT is working alongside a suitable technology partner
+to design, operate and maintain these Innovation Centres. Through this initiative,
+the Government of Tamil Nadu intends to accelerate the adoption of technology in
+Industrial Projects in the State.
+
+   Tamil Nadu is cognizant of its advantage as an industrial powerhouse and is well-
+positioned to leverage Industry 4.0 technologies to improve total factor productivity
+while scaling and moving up the value chains. The State has initiated this process by
+launching policies such as Blockchain Policy 2020 and Artificial Intelligence Policy
+2020. The Government of Tamil Nadu shall encourage the adoption of innovative
+technologies such as Industry 4.0 for focus and sunrise sectors under the Research and
+Technology Adoption Fund. Further, incentives shall be provided to industries in sunrise
+sectors and emerging segments that seek to promote advanced technologies.
+
+   The State is home to IIT-M Research Park, one of the most successful models of
+Research Parks or innovation hubs in the country. The Government of Tamil Nadu
+shall encourage grant-based development of university-affiliated Research Parks under
+the Industrial Ecosystem Fund that would serve as a catalyst for radical and high-tech
+development envisioned.
+
+7.2 MSME Ecosystem
+   Micro Small & Medium Enterprises (MSMEs) are significant drivers of growth in
+Tamil Nadu’s economy. Tamil Nadu has an established presence of a diversified and
+robust MSME ecosystem with about 50 lakh MSMEs. MSMEs support the industrial
+ecosystem synergistically through their complementarity to the large industries as
+ancillary units as well by attracting large greenfield projects with a well-established supply
+chain. The growth of MSMEs in tandem with large industries is vital for sustainable
+and balanced regional development. The existing policy for reservation of 20% of land
+area in SIPCOT Industrial Parks for MSMEs shall continue. The Government of Tamil
+Nadu supports MSMEs through a separate policy.
+
+                                              12
+7.3 Industrial Parks and Townships
+   In the past, the State has seen companies such as India Cements, SPIC, DCW, Ramco,
+and PSUs such as BHEL and NLC promoting self-contained residential colonies with
+housing, playground, healthcare, shopping, and recreational facilities while setting up
+their plants. These integrated industrial townships with safe and regulated working
+and living environments are also better positioned to control pandemics. The State
+Government and its promotional agencies shall develop integrated townships with
+social infrastructure facilities in the new and existing growth centres and industrial
+complexes in Tamil Nadu. Initially, 15% of industrial parks' area exceeding 500 acres
+shall be reserved for social infrastructure.
+
+7.4 Industrial Housing
+   The State supports the walk-to-work concept to decongest the cities and improve
+work-life balance. Industrial projects will be encouraged to develop accommodation and
+hostel facilities for employees within a 5 km radius of the work area. The Government
+of Tamil Nadu has taken the initiative to develop two industrial housing facilities to
+accommodate 20,000 workers to cater to the housing needs of five industrial parks in
+the Sriperumbudur belt. This shall be provided on a rental basis to the industry and its
+workers. The Report of the High-level Committee on the Impact of Covid on Tamil
+Nadu’s Economy chaired by Dr. C. Rangarajan , hereinafter referred to as Dr. C.
+Rangarajan Committee Report, has recommended that the Government through its
+various institutions may also support Industrial Housing projects through PPP models.
+
+7.5 Export Readiness
+   Tamil Nadu is the third-largest exporter in India contributing 9.38% of India’s exports
+in 2018. It accounted for a value of over INR 2 lakh cr. (US$ 30.45 billion) in exported
+goods and services. Tamil Nadu is a major exporter of Leather and Leather Goods,
+Textiles and Garments, Automobiles and Components, Engineering Goods, Castings,
+Pharmaceuticals, Spices, Agro-Products, Marine Products, Electronic Hardware,
+and Software. Tamil Nadu exports goods where it has a comparative advantage. The
+State recognizes the need for the upgradation of infrastructure and quality in export-
+focused regions. As such, the State shall encourage industries to be set up in EOUs,
+SEZs, and near ICDs and CFSs. It shall provide market development assistance to
+firms for development and promotional activities to promote export of their products
+and commodities. Guidance has also created an Export Cell with regional investment
+facilitators to facilitate exporters.
+
+                                            13
+ 8 SKILL DEVELOPMENT
+   As the State makes efforts to grow its focus sectors and create new capabilities in
+sunrise sectors, a skilled and efficient workforce is a pre-requisite to achieve this vision.
+The State already has the highest number of technical universities in the country and
+more than 2400 colleges across various courses. Tamil Nadu has a total of 475 ITIs
+spread across the state providing vocational training. Nearly 85% of the state ITIs
+are privately owned, which demonstrates the contribution of the private sector in
+the skilling ecosystem. The State has nearly 2 million students who enrol for higher
+education on an annual basis and adds nearly a million students to the workforce
+every year. In addition to the existing infrastructure and initiatives, the Tamil Nadu
+Skill Development Corporation oversees skill development in the state. The State is
+developing a comprehensive ecosystem around skill development enabled by support
+infrastructure and increased labour participation of women and differently-abled
+persons in the industrial workforce.
+
+8.1 Apex Skill Development Centres
+  The Government has accorded administrative sanction for establishing Apex Skill
+Development Centres (ASDC) with the assistance of Japan International Co-operation
+Agency (JICA) as part of the Tamil Nadu Investment Promotion Programme (TNIPP)
+Phase II for imparting hi-end training in various sectors. ASDCs for three sectors,
+namely, Auto, Auto Components & Machine tools; Hospital and Health Care Services
+and Transportation & Logistics are being structured as Centres of Excellence through a
+special purpose vehicle.
+
+8.2 Creating Opportunities for Inclusive Employment
+   Tamil Nadu is among the states with the highest labour participation from women.
+However, the levels of labour participation in absolute terms remain low. The
+Government of Tamil Nadu has issued amendments to the Tamil Nadu Factories Rules,
+1950 in 2017 which provides guidelines for employing women during night shifts in
+factories. This is intended to promote labour force participation through flexibility in
+labour laws, without compromising labour welfare. There is an expressed need from
+industries in the Skilling for the Future- Action Plan for Tamil Nadu (2019-2025) for
+promoting employment for locals in supervisory roles in the skilled workforce.
+
+   Subject to applicable labour laws, flexibility in employment conditions including
+flexible working hours, 24x7 operations (3 shifts), employment of women in the night
+                                             14
+shifts and flexibility in hiring contract labour will be permitted. Further, incentives will
+be provided to industries that encourage employment for locals, women, transgenders,
+and persons from the SC/ST communities in the workforce. It is also important to
+engage and accommodate differently-abled persons in industrial activities to achieve
+inclusivity. In this Policy, employment for persons with benchmarked disabilities
+gets double weightage for employment-based-incentives employment boosters and
+eligibility criteria for investment promotion subsidies and higher training subsidies,
+where applicable.
+
+ 9 EASE OF DOING BUSINESS
+   The Government of Tamil Nadu accords the highest priority to the interest of the
+investors. The State is on course to meet global standards for ease of doing business by
+undertaking 301 reforms suggested under World Bank and DPIIT’s Business Reform
+Action Plan (BRAP) 2020-21, 45 reforms suggested under District Reforms Action Plan
+(DRAP) 2020, and other regulatory and process reforms beyond these. The reforms are
+spread across thematic areas such as access to information and transparency, single
+window system, land availability and land allotment, registering property, construction
+permit, environmental registration, utility permits, labour regulations, sector-specific
+reforms, inspection, indirect taxes filing, contract enforcement, and procurement.
+
+   Further, the State is implementing new initiatives such as completely digitizing
+government-to-business (G2B) interactions through the development of a New Single
+Window Portal, development of Central Inspection System to monitor compliance
+inspection, Deemed Clearances, Comprehensive Land Portal, Construction Permit
+Portal, creation of Investment Facilitation Desks across countries and sectors and
+automatic renewal of select licenses. These initiatives are aimed at easing the experience
+of the investors for doing business in Tamil Nadu and demonstrates the State’s interest
+in creating a conducive investor-friendly climate that is aligned to domestic and global
+market demands.
+
+9.1 Single Window Facility
+   In its continued effort to improve the investment climate and facilitate rapid
+industrialization in the State, the Government of Tamil Nadu introduced the Tamil
+Nadu Business Facilitation Act and Rules in 2017-18. This covers 87 services offered
+by various departments with defined timelines for granting approvals/clearances at
+various stages of the business lifecycle.
+
+                                             15
+   All enterprises with a proposed investment in ‘plant and machinery or equipment’
+that exceeds Rs.50 cr., and turnover that exceeds Rs.250 cr. are eligible to make use of
+the current Single Window Portal. The current Single Window Portal offers 38 services/
+clearances pertaining to 14 Departments. As of August 2020, the State has received
+more than 160 applications through the Single Window Portal since its launch in 2018.
+About 70% of these eligible applications received (excluding incomplete and rejected
+applications) with a combined proposed investment of over 15,000 cr. and employment
+for 64,000 persons have been provided all the requisite clearances. By 2021, the New
+Single Window Portal will be providing more than 180 services (includes sector-
+specific and sector-agnostic clearances) offered by 38 departments making the process
+completely faceless, contactless, and paperless.
+
+   As part of BRAP/DRAP, and based on the feedback received from industry
+stakeholders and investors, the following interventions shall ensure that the requisite
+services are delivered in a timely, transparent, and consistent manner to industries:
+
+  • Ensuring adequate availability of information needed by investors for securing
+    necessary clearances in English/Tamil
+  • Onboarding all relevant government service providers to integrate the remaining
+    services
+  • Providing time-bound clearances and providing deemed approvals prior to
+    commencement of commercial operations for all identified clearances
+  • Developing a repository for common documents required for clearances
+  • Online facility for application for incentives
+  • Deploying an online tracking mechanism for all clearances, incentives, and
+    communication.
+
+9.2 Investor Facilitation Desk
+   Investor Facilitation Desks have been set up to provide information to entrepreneurs
+regarding the scope of setting up of industries in the state of Tamil Nadu, give them
+guidance on the procedural aspects of starting industries, incentives and facilities
+available and, assist them in resolving any problems they may face in setting up an
+industry. Desks for Taiwan and the USA have already been created. A dedicated desk
+and portal for Non-Resident Tamils – “Yaadhum Oorae” has been constituted to
+encourage and facilitate investments in Tamil Nadu by the substantial Tamil diaspora
+spread across the globe. The State also has joint working committee agreements with
+Japan, U.S.A., U.K., U.A.E., Korea, and Germany to further international cooperation
+for industries.
+                                           16
+9.3 Biz Buddy
+   Biz Buddy is Tamil Nadu’s industry help desk portal designed to help businesses
+report operational issues for resolution by various government departments, disbursal of
+incentives, and approval of pre-establishment, establishment and operation clearances
+required, within 30 days on a best effort basis. The platform offers features for tracking
+and monitoring the status of the application through SMS and email notifications. Biz
+Buddy will also serve as a mechanism for industries to share their ideas and suggestions
+for improving the industrial climate in the state and to crowdsource solutions for
+specific challenges. With business-centricity at its core, Biz Buddy is developed on
+robust IT infrastructure to ensure seamless service for facilitating all regulatory services
+throughout the life-cycle of the investment and operation. As of August 2020, the portal
+has 103 officers across 15 departments, 48 agencies and including all district collectors.
+Biz Buddy has reduced the processing time of pending applications by over 80%.
+
+ 10.     RELAXATION IN PLANNING NORMS
+
+   The Government will implement a planning system that encourages investment and
+promotes Ease of Doing Business. All restrictions on plot coverage ratio for industries
+have been removed. To encourage the setting up of industries along transit corridors,
+25% parking space relaxation will be provided for all industries set up within 3 km of
+railway stations. Also, the height of non-habitable structures will not be counted for
+classifying industrial buildings as high-rise buildings. As a significant step to ease the
+process of obtaining planning permission, industrial units set up in SIPCOT/ SIDCO/
+ELCOT /TIDCO / SIPCOT JV Parks and other Government agency promoted/partnered
+industrial parks will be given online planning permission and building approval without
+inspections. To promote establishment of Plug & Play facilities for manufacturing,
+Plug & Play facilities set up in SIPCOT/ SIDCO/ ELCOT/ TIDCO/ SIPCOT JV Parks
+and other Government agency partnered industrial parks will be permitted maximum
+FSI (including premium FSI) free of cost.
+
+ 11. SUSTAINABLE FINANCING OF INVESTMENTS
+   While Tamil Nadu has invested in its infrastructure and industries over the years,
+industries face a challenge in mobilizing adequate funds for investment. The investment
+gaps in the industrial infrastructure and industrial ventures have been addressed
+through various innovative approaches with the collaboration of both public and
+private sector. To improve access to sustainable finance for industries, the following
+options are available to manufacturing Projects investing above Rs. 500 cr. (Mega /
+Ultra-Mega Projects) in the State.
+                                             17
+11.1 Equity Financing
+  Investors can submit business proposals to Tamil Nadu Industrial Development
+Corporation (TIDCO) to come onboard their Project as an equity investor. This is
+with a view to facilitate the investment process and provide financial support to Mega
+Projects. Equity participation by TIDCO in the Joint Sector projects ranges from 11-26
+% and in the associate Sector ranges 2-11% equity. The Escort Sector includes ventures
+with 1% equity from TIDCO. Projects that have a high capital requirement in the initial
+years of the investment may also be offered hybrid security financing in the form of
+convertible debentures, or land as equity projects with an associated investment plan,
+and exit plan, on a case to case basis.
+
+11.2 Industrial Ecosystem Fund
+   The Government recognises that major investments can be attracted only if there
+is a well-developed ecosystem for the industry. Under the Tamil Nadu Investment
+Promotion Program, the Small Infrastructure Project Empowered Committee (SIPEC)
+supported many small-scale infrastructure projects and can be replicated/scaled
+up. Following the recommendation of the Dr. C. Rangarajan Committee Report, the
+Government shall create an Industrial Ecosystem Fund with a corpus of Rs. 500 cr. to
+support small infrastructure projects and ecosystem creation.
+
+  • Small Infrastructure Projects
+     Last mile connectivity is extremely important to develop industries and
+     industrial clusters as it reduces logistics costs and makes the investment viable
+     and products more competitive. Such connectivity may also serve a larger public
+     purpose by connecting nearby rural and suburban localities in some cases. The
+     Government shall support such projects to create physical connectivity and
+     other infrastructure needs of standalone industries or industrial clusters/parks or
+     industrial warehousing/logistics projects. The fund shall be used to provide grants
+     to support the development of public roads, power, water supply, sewerage, and
+     other infrastructure facilities.
+  • Ecosystem Creation
+     Projects that create or enable the ecosystem like the creation of innovation centres
+     or research parks or those that support the creation of common facilities/ecosystem
+     for industries in sunrise sectors for purposes of prototyping, testing, etc. shall also
+     be eligible for partial funding under this fund.
+
+
+                                             18
+   The fund will be created through contributions from SIPCOT and TIDCO with
+matching grants from the Government of Tamil Nadu and scaled through funding
+from external agencies and profits to the fund.
+
+11.3 Research & Technology Fund
+   The Government shall create a Research & Technology Fund with a corpus of Rs. 100
+cr. to support research and development in sunrise sectors and technology adoption in
+existing industries.
+
+  • Research & Development
+   Projects in sunrise sector that invest heavily in R&D in the initial years of the project
+shall be eligible for support toward R&D investment through this fund. This shall help
+in bridging the viability gap for such projects.
+
+  • Technology Adoption
+  Existing sub-large suppliers of large companies that seek to improve their product,
+processes, and performance efficiency across their supply chain by adopting advanced
+Industry 4.0 technologies such as IoT shall be supported through this fund.
+
+11.4 Venture Capital Fund
+   Entrepreneurs play an important role in catalysing technology adoption in the early
+stages and supporting anchor industries in setting up supply chains in the state. They
+take higher risks, and the Government recognises the need to participate in de-risking
+to the extent possible. The Government shall support the pioneers and first movers
+of industries by providing risk capital to futuristic technologies that are accompanied
+by high uncertainty but have the potential to succeed. A Venture Capital Fund will be
+created with a corpus of Rs. 500 cr., to support entrepreneurs undertaking ventures in
+sunrise sectors.
+
+11.5 Digital Accelerator under Yaadhum Oorae
+   Tamil Nadu must create a conductive ecosystem for innovation to further
+technological advancement of the manufacturing sector. Government of Tamil Nadu
+has already announced a ‘Digital Accelerator’ scheme under Yaadhum Oorae with
+American Tamil Entrepreneurs Association (ATEA) to promote startups investing in
+Tamil Nadu from US in various fields such as IT/Healthcare/EV/emerging areas on IoT,
+AI, Cloud Computing /SDGs. It is proposed that a grant of 10% of capital raised may
+
+                                             19
+be provided towards operational and capital expenditure, up to Rs. 1 cr. per startup.
+Similar funds may be created for startups that contribute to innovation, from other
+countries with Tamil diaspora. The sanction of the grants shall be evaluated by a special
+committee and funded from the Tamil Nadu Startup Fund of Funds.
+
+11.6 Term Loans
+  Tamil Nadu Industrial Investment Corporation Limited (TIIC) offers term loan of
+up to Rs. 40 cr. (US$ 5.7 million) under the General Term Loan Scheme.
+
+   Implementation guidelines for Para 11.2, Para 11.3, Para 11.4 and Para 11.5 shall be
+issued separately.
+
+ 12     INCENTIVES FOR INDUSTRIES
+   Government of Tamil Nadu intends to support the projects in manufacturing with
+the potential for positive externalities in the State, through the following Incentive
+Packages:
+  • Structured Package
+  • Incentives for Sunrise Sector
+  • Incentives for Industrial Parks
+  • Incentives for R&D Projects
+  • Incentives for Logistics Infrastructure
+  • Incentives for Foreign Direct Investment
+  • Incentives for Sub-Large Projects
+
+12.1 Eligibility & Definitions
+  For the purpose of administering the incentives, the following four investment
+commitment ranges have been identified:
+
+  Table 1: Investment Commitment Range for Project Category
+
+                        Investment Commitment Range                        Standard
+    Project
+                                  (Rs. in cr.)                            Investment
+   Category
+                  Minimum Investment      Maximum Investment                Period
+  Sub-Large               50                     300                        4 years
+    Large                300                     500                        4 years
+    Mega                 500                    5000                        4 years
+  UltraMega             5000                      -                         7 years
+                                           20
+  12.1.1 Eligibility for Incentives
+
+   Projects in Manufacturing located in Tamil Nadu creating Employment for at least
+50 persons will be eligible for incentives under this Policy.
+
+  12.1.2 Project Category & Standard Investment Period
+
+  The Project Category for (Sub-Large, Large, Mega, Ultra-Mega) shall be determined
+based on Investment in Eligible Fixed Assets made within the Standard Investment
+Period as defined in Table 1.
+
+  12.1.3 District Category
+
+   For the purpose of administering the fiscal incentives, the districts of the state are
+classified as follows:
+
+   “A” Category Districts (4 districts) - Chengalpattu , Chennai, Kancheepuram and
+Tiruvallur.
+
+  “B” Category Districts (12 districts) - Coimbatore, Erode, Karur, Krishnagiri,
+Namakkal, The Nilgiris , Ranipet, Salem, Tiruchirappalli, Tirupattur, Tiruppur, and
+Vellore.
+
+  “C” Category Districts (22 districts) – Ariyalur, Cuddalore, Dharmapuri, Dindigul,
+Kallakurichi, Kanniyakumari, Madurai, Mayiladuthurai, Nagapattinam, Perambulur,
+Pudukkottai, Ramanathapuram, Sivagangai, Tenkasi, Thanjavur, Theni, Thiruvarur,
+Thoothukudi, Tirunelveli, Tiruvannamalai, Villupuram and Virudhunagar.
+
+   In case of notification of new districts during the policy period, the District Category
+of the parent district (in case of sub-division) or majority of constituent district by area
+(in case or merger or re-division), shall apply, or as notified by the Government.
+
+  12.1.4 Investment Period
+
+   Investment Period refers to the actual continuous time taken by the Project from the
+commencement of investment/ sanction of the G.O./date of MoU in case of structured
+package, till the completion of the investment commitment. The Investment Period can
+be different from the Standard Investment Period.
+
+  12.1.5 Investment Range & Investment
+
+   The Investment Range is range of investment as in Table 1 inclusive of the Minimum
+Investment and up to but not including the Maximum Investment. Investment refers
+to the cumulative Investment in Eligible Fixed Assets committed by the Project within
+the Investment Period.
+
+                                             21
+  12.1.6 Employment
+
+  Employment shall have the same meaning as defined in Annexure IV
+
+
+ 13     STRUCTURED PACKAGE FOR LARGE & ABOVE
+        PROJECTS
+   The Government of Tamil Nadu recognizes the need to develop manufacturing
+capabilities across the state by promoting industrial dispersion. The classification of
+District Category has been revised to further equitable industrial dispersion, especially
+in the Southern Districts and districts with low levels of industrialization, considering
+the strengths of the industrial workforce and per-capita income of the region as a proxy
+for industrialization and poverty, respectively. As a pathbreaking initiative, the number
+of “C” Districts have been expanded to cover 22 districts, which will usher investments
+to all regions of the State. Projects that are Mega and Ultra-Mega in “A” Districts, or
+Large, Mega and Ultra-Mega in “B” and “C” Districts shall be eligible for Structured
+Package of Incentives. The Structured Package of Incentives includes:
+
+  • Investment Promotion Subsidy          		• Standard Incentives
+  • Training Subsidy                          			◉ Electricity Tax Incentive
+  • Land Cost Incentive                       			◉ Stamp Duty Incentive
+  • Interest Subvention                       			◉ Green Industry Incentive
+  • SGST Refund on Capital Goods              			◉ Quality Certification Incentive
+                                              ◉ Intellectual Property Creation Incentive
+
+13.1 Investment Promotion Subsidy
+  There are 4 possible options for availing Investment Promotion Subsidy. The
+company can choose one of the following options:
+
+      I. SGST Reimbursement for Final Products            III. Fixed Capital Subsidy
+      II. Flexible Capital Subsidy                        IV.Turnover-based Subsidy
+   These options are mutually exclusive, and a one-time choice has to be exercised at
+the beginning of the Project by the investor.
+
+  13.1.1 SGST Reimbursement for Final Products
+
+   100% SGST payable on the sale of final products manufactured, sold, and registered
+in the State shall be reimbursed for a period of 15 years from the date of commercial
+
+                                           22
+production or upon achieving the minimum eligible investment for Structured Package
+in the given District, whichever is later. This shall be applicable only to Projects that
+manufacture final products with a traceable end-use in the State. In case of expansion
+projects, base volume principle will be applicable.
+
+                                             OR
+
+  13.1.2 Fixed Capital Subsidy
+
+  Projects can avail a fixed capital subsidy as provided in the Table below:
+
+                             Fixed Capital Subsidy (%EFA)
+                               Large                  Mega             Ultra-Mega
+    Project/ District
+                        (Rs. 300 cr.– Rs.      (Rs. 500 cr. – Rs    (>Rs. 5000 cr. &
+      Category
+                       500 cr. & 150 jobs) 5000 cr. & 400 jobs)        2000 jobs)
+      “A” District                -                   10%                  20%
+      “B” District              10%                   12%                  22%
+      “C” District              12%                   15%                  25%
+The Fixed Capital Subsidy will be disbursed in equal annual instalments over the period
+prescribed below:
+
+  • 10 years for Large Projects in “B” and “C” districts and Mega Projects in “A”
+    districts,
+  • 12 years for Mega Projects in “B” districts and “C” districts, and
+  • 15 years for Ultra Mega Projects in all districts
+   Large Projects in “A” District shall be eligible for a back-ended fixed capital subsidy
+of Rs. 1 cr.
+
+   The company can choose to avail the Fixed Capital Subsidy from the date of commercial
+production or upon achieving the minimum eligible investment for Structured Package
+in the given District, whichever is later. If the company chooses to avail the Fixed Capital
+Subsidy prior to the completion of the investment and employment commitment, the
+Fixed Capital Subsidy shall be disbursed in tranches corresponding to the cumulative
+investment made until then and subsequent tranches for actual annual incremental
+investment within the investment period.
+
+                                             OR
+
+  13.1.3 Flexible Capital Subsidy
+
+  This option is a flexible, objective, transparent, and risk-free subsidy for investors
+compared to the indirect-tax based reimbursements that are subject to market risk
+                                             23
+and extended over a long period of time. This provision is the first of its kind as it
+provides the investor choice of customizing incentive package by choosing the weights
+of boosters that are best suited to maximise the subsidy based on their business mode.
+This will enable investors to plan their cash flow in a much more predictable manner.
+The Policy offers a maximum Capital Subsidy of 35% of EFA for “A” Districts, 37% for
+“B” Districts and 40% of EFA for “C” Districts. This comprises Standard Subsidy of
+5% to all eligible projects and additional incentives of up to 35% of EFA depending on
+boosters based on location, employment, exports, ecosystem creation and if it is in a
+sunrise sector.
+
+   Flexible Capital Subsidy is a percentage of the Eligible Fixed Assets and shall
+be disbursed over the incentive disbursal period equal to 2.5 times the investment
+period. The company can choose to avail the Flexible Capital Subsidy from the date
+of commercial production or upon achieving the minimum eligible investment for
+Structured Package in the given District, whichever is later. If the company chooses
+to avail the Flexible Capital Subsidy prior to the completion of the investment and
+employment commitment, the Flexible Capital Subsidy shall be disbursed in tranches
+corresponding to the cumulative investment made until then and subsequent tranches
+for actual annual incremental investment within the investment period. The framework
+for Flexible Capital Subsidy is provided in Annexure-III; this is based on verifiable data
+and flexible with respect to factor inputs such as labour, capital, and technology.
+
+                                            OR
+
+  13.1.4 Turnover-based Subsidy (TBS)
+
+   Mega and Ultra Mega projects creating a minimum Employment of 2000 jobs within
+the Investment Period can avail the Turnover-based Subsidy instead of the Fixed or
+Flexible Capital Subsidy. Turnover-based Subsidy shall be applicable as a percentage
+of the Turnover in each financial year. The company can choose to avail the Turnover
+based Subsidy from the date of commercial production or upon achieving the minimum
+eligible investment for Structured Package in the given District, whichever is later,
+up to a cap of 4% of cumulative investment in Eligible Fixed Assets per annum for a
+period of 10 years. If the Project creates employment for more than 4000 jobs within
+the investment period, the company shall be eligible for drawing a higher percentage
+of turnover subsidy depending upon the District Category, from the year of achieving
+the higher employment, as specified in the Table below. Turnover-based Subsidy for
+expansion projects shall be determined on a case to case basis and base volume principle
+will be applicable.
+
+                                            24
+       Turnover-based Subsidy (% Turnover) for Mega and Ultra Mega Projects
+                           (Investment >Rs. 500 cr.)
+       District Category      Employment >2000 jobs    Employment >4000 jobs
+         “A” District                 1.5%                     1.75%
+         “B” District                1.75%                      1.8%
+         “C” District                 1.8%                       2%
+
+
+13.2 Training Subsidy
+   Skilling support can be availed in form of a Training Subsidy of Rs. 4000 per worker
+per month for 6 months for residents of Tamil Nadu. For women and transgender
+employees, persons with benchmarked disabilities, persons from SC/ST communities
+the training subsidy shall be Rs. 6000 per worker per month for 6 months.
+
+13.3 Land Cost Incentive
+   The Government strives to provide land to industries at competitive rates. For
+eligible projects in SIPCOT in “A” & “B” districts, land allotment will be made at a 10%
+concessional rate and at a 50% concessional rate in “C” districts for land up to 20% of
+EFA. The timelines for allotment of Land in SIPCOT Industrial Area shall be as per
+Tamil Nadu Business Facilitation Rules 2018 and a deemed approval shall be issued on
+expiry of the time limit.
+
+13.4 Interest Subvention
+  Interest Subvention of 5% as a rebate in the rate of interest shall be provided to Ultra-
+Mega Projects only on actual term loans taken for the purpose of financing the project,
+up to Rs. 4 cr. per annum for a period of 6 years
+
+13.5 Standard Incentives
+  The following incentives shall also be available to Large, Mega and Ultra-Mega
+projects.
+
+  13.5.1 Electricity Tax Incentive
+
+   New or expansion manufacturing projects will be given an electricity tax exemption
+for a period of 5 years on power purchased from the Tamil Nadu Generation and
+Distribution Corporation Ltd. (TANGEDCO) or generated and consumed from captive
+sources.
+
+                                            25
+  13.5.2 Stamp Duty Incentive
+
+  50% Concession on Stamp duty payable on lease or purchase of land/shed/buildings
+meant for industrial use shall be offered in parks promoted by SIPCOT in “A” & “B”
+Category Districts.
+
+   In all “C” districts, 100% Concession on Stamp duty payable on lease or purchase
+of land/shed/buildings meant for industrial use shall be offered in parks promoted by
+SIPCOT/SIPCOT JV/ SIDCO.
+
+  13.5.3 Green Industry Incentive
+
+   Industrial projects undertaking green initiatives for recycling waste and water for
+industrial use and sustainable energy usage, coupled with online monitoring (wherever
+applicable) indicated below, shall be eligible for a 25% subsidy on the cost of setting up
+such environmental protection infrastructure in the following solution areas subject to a
+limit of Rs. 1 cr.
+
+  Safety & Energy Efficiency Solutions
+
+  i.		 Mechanised Systems for Sewage Cleaning such as jet rodding machines etc. to
+       replace Manual Scavenging
+  ii.		Passenger and Utility Electric Vehicles for the transport of goods and
+       personnel within the facility premises and EV buses for the transport of personnel
+       from and to the facility.
+  Water Conservation Solutions
+
+  iii.		 Wastewater treatment and recycling systems using technologies such as Activated
+         Sludge Process (ASP), Membrane Bio-Reactors (MBR), Reverse Osmosis (RO),
+         etc. to increase supply and use of treated water.
+  iv.		Smart Solutions/IoT for Water and Wastewater to reduce dependency on
+       manpower, enhance business continuity and remote operations using smart
+       meters/ pumps/ sensors, data analytics, and cloud solutions.
+  v.		 Adopting rainwater harvesting; restoring water bodies by de-silting defunct
+       water bodies within the premises
+  vi.		 Zero Liquid Discharge Solutions
+  Greening Solutions
+
+  vii. Green Buildings which obtain green rating under the Indian Green Building
+       Council (IGBC/LEED Certification)
+                                            26
+  viii. Green Buildings which obtain green rating for Integrated Habitat Assessment
+        (GRIHA) systems.
+  Pollution Control Solutions
+
+  ix.		 Installation of pollution control devices (PCD).
+  13.5.4 Quality Certification Incentive
+
+   Industrial projects obtaining certifications like ISO, ISI, BIS, FPO, BEE, AGMARK,
+and ECOMARK, or any other national or international certification as notified from
+time to time, shall be given a subsidy of 50% of the total cost incurred for obtaining the
+certification, as certified by the Chartered Accountant, limited to Rs. 25 lakh for the
+period of investment.
+
+  13.5.5 Intellectual Property Creation Incentive
+
+   The Government will reimburse 50% of the expenditure incurred by the Project
+subject to a maximum of Rs. 30 lakh for the period of investment for a patent, copyright,
+trademarks, Geographical Indicators registration.
+
+13.6 SGST Refund on Capital Goods
+   The Government recognises that there is no provision of refund of input tax paid on
+capital goods, as the formula prescribed in Rule 89(5) of the Tamil Nadu Goods and
+Services Rules 2017, as applicable now, does not take into account input taxes paid on
+capital goods in the term Net ITC (Input Tax Credit). Consequently, a company faced
+with an inverted tax structure is unable to utilise the ITC paid on capital goods, even
+though such a company could have utilised the ITC for payment of tax, had there been
+no inverted tax structure.
+
+   Therefore, if the company faces an inverted tax structure due to which it is neither
+able to utilise the ITC on capital goods for payment of output tax nor able to obtain a
+refund of the same, the State Government will refund the Input SGST paid on capital
+goods within the standard investment period, to the extent input tax credit is admissible
+under TNGST Act 2017. The company shall have to reverse the credit of input tax
+from the SGST credit ledger to the extent refunded. The refund shall be provided from
+commercial production, in five equal annual instalments.
+
+
+
+
+                                            27
+ 14 SPECIAL INCENTIVES FOR SUNRISE SECTORS
+  The Government of Tamil Nadu strives to stimulate technological innovation by
+supporting technology-driven manufacturing projects in the State. The following
+incentives are in addition to the Structured Package above (Section 13) and are
+applicable to projects in Sunrise Sector (Annexure-II) that are Mega and Ultra-Mega
+Projects for “A” Districts, or Large, Mega and Ultra-Mega Projects for “B” & “C”
+Districts. The State has launched various specialised policies for sunrise sectors such as
+Biotechnology Policy 2014, Aerospace & Defence Policy 2019, Electric Vehicle Policy
+2019, and Electronics Hardware Manufacturing Policy 2020. A company can choose to
+avail incentives under these policies or under this package.
+
+
+14.1 Investment Promotion Subsidy - Sunrise Booster
+
+  Projects in Sunrise Sector industries opting for Flexible Capital Subsidy shall get a
+Sunrise Booster of one which implies an additional capital subsidy of up to 7.5% of EFA
+(Section 13.1.3), depending upon the investment and employment.
+
+
+14.2 Land Cost Subsidy
+
+  For eligible projects in SIPCOT, land allotment will be made at 10% concessional
+rate in “A” & “B” districts and at a 50% concessional rate in “C” districts for land up to
+20% of EFA. For private land in “C” districts, 50% subsidy will be offered on the cost
+of land as per guideline value up to an extent of 50 acres and subject to land cost not
+exceeding 20% of EFA and a cap of Rs. 2 cr. provided that at least 70% of the land is
+used for manufacturing operations. In case the investor chooses to avail the land cost
+subsidy, land will be excluded from Eligible Fixed Assets for the purpose of Investment
+Promotion Subsidy.
+
+
+14.3 Stamp Duty Incentive
+
+  100% stamp duty exemption will be given for lease or purchase of land/ shed/
+buildings meant for industrial use in land obtained from SIPCOT. In the case of private
+lands, stamp duty concession will be given as a 100% back ended subsidy for up to 50
+acres on fulfilment of investment and employment commitment.
+
+
+                                            28
+14.4 Enhanced Incentive for Quality Certification
+   Projects obtaining certifications like ISO, ISI, BIS, FPO, BEE, AGMARK, and
+ECOMARK or any other national or international certification shall be given a subsidy
+of 50% of the total cost incurred for obtaining the certification, as certified by the
+Chartered Accountant, limited to Rs. 1 cr. for the period of investment.
+
+14.5 Enhanced Incentive for Intellectual Property Creation
+   The Government will reimburse 50% of the expenditure incurred by the Project for
+the investment period for a patent, copyright, trademarks, Geographical Indicators
+registration subject to a maximum of Rs. 1 cr. for the period of investment.
+
+14.6 Interest Subvention
+   Interest Subvention of 5% as a rebate in the rate of interest shall be provided be on
+actual term loans taken for the purpose of the financing the project, for a period of 6
+years subject to the limits provided in the next Table.
+
+  Project Category     Interest Subvention      Maximum         Ceiling per annum
+                       (% Rate of Interest) Incentive Disbursal     (Rs, lakhs)
+                                              Period (Years)
+        Large                   5%                   6                   20
+        Mega                    5%                   6                  100
+     Ultra-Mega                 5%                   6                  400
+
+
+14.7 Standard Incentives
+   The Project shall also be eligible for standard incentives, namely, electricity tax
+exemption for 5 years (Para 13.5.1) and green industry incentives of up to Rs. 1 cr. (Para
+13.5.3) as specified in Para 13.5. Projects availing the Enhanced Quality Certification/
+IP Incentive shall not be eligible for Quality Certification/IP Incentive under Standard
+Incentives, respectively.
+
+14.8 SGST Refund on Capital Goods
+   The Project shall also be eligible for SGST refund on capital goods as specified in Para
+13.6.
+
+
+
+
+                                            29
+ 15 SPECIAL INCENTIVES FOR INDUSTRIAL PARKS
+   The Government of Tamil Nadu is actively promoting the use of private land for
+industrial use through the development of integrated Industrial Parks in the State. As
+recommended in the Dr. C. Rangarajan Committee Report, industrial parks are the centre
+of economic activity and contribute heavily towards value addition and employment
+creation in the State. The following incentives shall be offered to developers of Mega
+and Ultra-Mega Industrial Parks, i.e. investment greater than Rs. 500 cr. (including
+the cost of land), in “B” & “C” Category Districts, in addition to Standard Incentives.
+The criteria for an Approved Industrial Park are provided in Annexure-V.
+
+15.1 Capital Subsidy
+   Industrial Park developers shall be eligible for a Capital Subsidy of 12% or 15%
+of investment in internal infrastructure (such as internal roads, water distribution
+infrastructure, street lighting, drainage facilities, landscaping, and green areas, but
+excluding the cost of land and landfilling/levelling) in “B” or “C” Category Districts,
+respectively. This shall be provided based on the following milestones:
+
+  i. 50% of the amount determined as Capital Subsidy upon paid-up allotment of
+     50% park area along with 10% operational units, i.e. either 10% of units achieving
+     commercial production or units occupying 10% of park area achieving commercial
+     production. This shall be distributed in equal annual instalments over 5 years.
+  ii. 50% of the amount determined as Capital Subsidy upon paid-up allotment of 75%
+      park area with 25% operational units, i.e. either 25% of units achieving commercial
+      production or units occupying 25% of park area achieving commercial production.
+      This shall be distributed in equal annual instalments over 5 years.
+
+15.2 Industrial Housing Incentive
+   In addition to Capital Subsidy, Industrial Park developers will be eligible for Industrial
+Housing Incentive of 10% on the cost of developing the residential facilities developed
+within the Industrial Park over 10 years from the date of completion of the investment
+in the housing facility, subject to a ceiling of Rs. 10 cr.
+
+15.3 Green Industry Incentive
+  Industrial Park Developers undertaking green and sustainable initiatives as listed in
+Para 13.5 shall be eligible for a 25% subsidy on cost of capital of setting up undertaking
+such initiatives, subject to a limit of Rs. 5 cr.
+                                             30
+ 16 SPECIAL INCENTIVES FOR R&D PROJECTS
+   Tamil Nadu is emerging as a hub for industrial R&D. Upgradation, advancement,
+and innovation in technology for industrial use is a key focus area for the State. This
+provides a pathway to leapfrog industrial development and to accelerate Tamil Nadu’s
+integration into the global value chains. The transformative potential of technology in
+improving productivity and capacity utilization has shifted the paradigm of viewing
+R&D expenditure as an investment. As one of the pioneering States in R&D, this Policy
+includes R&D as part of Eligible Fixed Assets. The Government of Tamil Nadu shall
+provide incentives to R&D Projects in the State to further the development of intellectual
+property and adoption of technology in industries.
+
+   Stand-alone R&D projects shall be eligible for the following Incentives, in addition to
+the Standard Incentives, subject to the following conditions:
+
+  - Must have a Minimum Investment of Rs. 50 cr. in Eligible Fixed Assets and
+    creation of Employment for 50 persons
+  - Clearly demarcated facilities inside or outside the industrial unit.
+  - Must be located in Tamil Nadu
+  - Must be Registered with the Department of Scientific and Industrial Research,
+    Government of India (DSIR)
+
+16.1 Land Cost Incentive for Standalone R&D Projects
+   R&D projects shall be given an incentive of 50% of the cost of purchase or lease of
+land for up to 20 acre, subject to a ceiling of Rs. 50 lakh/acre. This shall be provided as
+a reimbursement upon commencement of the R&D Centre. R&D projects shall also be
+given priority in land allotment in SIPCOT Industrial Parks.
+
+16.2 R&D Training Incentive
+  R&D Training Incentive of Rs. 10,000 per person per month can be availed for 12
+months. This incentive is intended for employees engaged in core R&D who have:
+
+  • Undergraduate degree in technology/sciences and work experience of 7 years, or
+  • Post-graduate degree in technology/sciences and work experience of 5 years, or
+  • Doctorate in sciences/technology
+
+
+
+                                            31
+  It excludes employees in administration or in support services deployed in R&D
+projects. Projects availing the R&D Training Incentive shall not be eligible for Training
+Subsidy under the Structured Package.
+
+16.3 Enhanced Quality Certification Incentive
+   Projects obtaining certifications like ISO, ISI, BIS, FPO, BEE, AGMARK, and
+ECOMARK or any other national or international certification shall be given a subsidy
+of 50% of the total cost incurred for obtaining the certification, as certified by the
+Chartered Accountant, limited to Rs. 1 cr. for the period of investment.
+
+16.4 Enhanced Intellectual Property Incentive
+   The Government will reimburse 50% of the expenditure incurred by the Project
+subject to a maximum of Rs. 1 cr. for the period of investment for in-house R&D for a
+patent, copyright, trademarks, and Geographical Indicators registration and up to Rs 5
+cr. for standalone R&D assets.
+
+16.5 Standard Incentives
+   The Project shall also be eligible for standard incentives, namely, electricity tax
+exemption for 5 years (Para 13.5.1), stamp duty exemption (Para 13.5.2 and Para 14.3),
+and green industry incentives of up to Rs. 1 cr. (Para 13.5.3), as specified in Para 13.5.
+In-house R&D units shall not be eligible for standard incentives if the Industrial Unit
+has also availed the incentives. Projects availing the Enhanced Quality Certification
+Incentive/Enhanced IP Incentive shall not be eligible for Quality Certification/IP
+Incentive under Standard Incentives, respectively.
+
+16.6 SGST Refund on Capital Goods
+   The Project shall also be eligible for SGST refund on capital goods as specified in Para
+13.6.
+
+
+
+
+                                            32
+ 17     SPECIAL INCENTIVES FOR LOGISTICS
+        INFRASTRUCTURE
+   Warehousing & Logistics are an important service that supports the manufacturing
+sector. The Dr. C. Rangarajan Committee Report recognises Logistics sectors as a key
+emerging sector, which encompasses transportation, storage and distribution, and
+value-added services. As per the revised Harmonized Master List of Infrastructure Sub-
+sectors of the Department of Economic Affairs, “Logistics Infrastructure” refers to:
+
+  a. Multimodal Logistics Park comprising Inland Container Depot (ICD) with a
+     minimum investment of Rs. 50 cr. and minimum area of 10-acre and/or,
+  b. Cold Chain Facility with a minimum investment of Rs. 15 cr. and minimum area
+     of 20,000 sq. ft, and/or
+  c. Warehousing Facility with a minimum investment of Rs. 25 cr. and minimum
+     area of 1 lakh sq. ft.
+  The following incentives shall be provided to logistics providers (as under a. & b.
+above) and industrial warehousing (under c. above).
+
+17.1 Industry Status
+  i.		 Electricity Tariff – Efforts will be made to include Logistics in I A Category for
+       Electricity Tariff applicable to Industries.
+  ii.		 Access to finance for infrastructure and industry – the sector will be eligible for
+        affordable loans from TIIC.
+  iii.		 Eligible for Exemption under Sec 37-A under the Land Ceiling Act
+  iv.		 Facilitating Change of Land Use for Industrial Purpose in Unplanned Areas
+        shall also be applicable to the logistics sector
+  v.		 Single window clearances for Building and Operational approvals will increase
+       the speed of deployment of world-class logistics infrastructure for businesses
+  vi.		SIPCOT industrial estates/ clusters to permit allotment for industrial
+       warehousing facilities.
+  vii. Logistics and Warehousing facilities shall be allowed to operate 24 X 7 (three
+       shifts)
+
+
+
+
+                                            33
+17.2 Incentive for Integrated Logistics Parks
+   The Developer of an Integrated Logistics Parks in “B” & “C” Category Districts shall
+also be eligible for Special Incentives for Warehousing & Logistics in Para 15 subject to
+meeting the criteria for an Approved Industrial Park as specified in Annexure-V with
+relaxation on the non-processing area (including warehousing) of up to 50% of the park
+area.
+
+17.3 Skilling & Capacity Building
+  i. To ensure the availability of skilled manpower across the logistics and warehousing
+     value chain, State Government through TNSDC shall collaborate with Logistics
+     and Warehousing associations to impart necessary skills to the youth.
+  ii. Training Subsidy - Reimbursement of 50% of the training cost shall be provided to
+      logistics and warehousing projects (set up in “C” Districts) for technical training
+      of the employee (mainly in the operational, frontline, supervisory roles) subject to
+      a maximum of Rs. 10,000 per employee. The training cost can be claimed by the
+      Project within one year from the date of commencement of commercial operations.
+      Training can be arranged from any Government recognized/approved institution.
+      The incentive shall only be applicable to residents of Tamil Nadu.
+
+17.4 Apex Skill Development Centre for Transportation & Logistics
+   An Apex Skill Development Centre is being established for Transportation and
+Logistics and an SPV has been registered in Chennai for this purpose. As recommended
+in the Dr. C. Rangarajan Committee Report, ASDC for Transportation & Logistics
+would be scaled up to Southern and Western Tamil Nadu in a phased manner.
+
+ 18     SPECIAL INCENTIVES FOR FOREIGN DIRECT
+        INVESTMENT
+   Tamil Nadu offers attractive investment opportunities to companies that seek to
+diversify their business operations and supply chain in the context of Covid-19. A special
+scheme has been designed to provide targeted support to companies with ultimate
+beneficiary ownership and control from foreign countries. The following incentives are
+applicable to FDI investments in projects that are Mega and above. The scheme shall
+be in place for a period of 1 year from the date of notification of this Policy and shall
+include the following incentives.
+
+
+                                            34
+18.1 Investment Promotion Subsidy
+   The Project shall be eligible for an Investment Promotion Subsidy of up to 40% of
+EFA specified in Para 13.1. Investment proposals from companies having relocation
+plans may be provided a higher set of incentives on a case-to-case basis.
+
+18.2 Imported Machinery
+   Relocation of industrial projects would include the relocation of machinery from the
+country of relocation. Thus, new and second-hand machinery can be included under
+Eligible Fixed Assets.
+
+18.3 Transport Subsidy
+   Transport and logistics is a significant operating expenditure for companies. To
+facilitate the transition of foreign companies to Tamil Nadu, 75% of the cost incurred
+on transportation and logistics towards the relocation of capital goods from the source
+country to Tamil Nadu within the investment period, shall be reimbursed. It will be
+subject to a total limit of Rs. 10 cr.
+
+18.4 Land Cost Subsidy
+   For eligible projects in SIPCOT, land allotment will be made at a 10% concessional
+rate in “A” & “B” districts and at a 50% concessional rate in “C” districts for land up
+to 20% of EFA. For private land in “C” districts, 50% subsidy will be offered on cost
+of land as per guideline value up to an extent of 50 acres and subject to land cost not
+exceeding 20% of EFA and a cap of Rs. 1 cr., provided that at least 70% of the land is used
+for manufacturing operations. In case the investor chooses to avail land cost subsidy,
+the land will be excluded from Eligible Fixed Assets for the purpose of Investment
+Promotion Subsidy.
+
+18.5 R&D Training Incentive
+  R&D Training Incentive of Rs. 10,000 per person per month can be availed for 12
+months. This incentive is intended for personnel engaged in core R&D for employees
+who have:
+
+  • Undergraduate degree in technology/sciences and work experience of 7 years, or
+  • Post-graduate degree in technology/sciences and work experience of 5 years, or
+  • Doctorate in sciences/technology
+                                            35
+  It excludes personnel in administration or in support services deployed in R&D
+projects. Projects availing the R&D Training Incentive shall not be eligible for Training
+Subsidy under Structured Package.
+
+
+18.6 Standard Incentives
+   The Project shall also be eligible for standard incentives, namely, electricity tax
+exemption for 5 years (Para 13.5.1), stamp duty exemption (Para 13.5.2 and Para 14.3),
+green industry incentives of up to Rs. 1 cr. (Para 13.5.3), quality certification incentive
+(Para 13.5.4) and IP incentive (Para 13.5.5), as specified in Para 13.5.
+
+
+18.7 SGST Refund on Capital Goods
+   The Project shall also be eligible for SGST refund on capital goods as specified in Para
+13.6.
+
+
+ 19 STANDARD INCENTIVES FOR SUB-LARGE PROJECTS
+  All projects with investment in projects that are Sub-Large, i.e. greater than Rs. 50 cr.
+and less than Rs. 300 cr. in Eligible Fixed Assets and Employment for at least 50 persons
+engaged in Manufacturing and / or in Manufacturing Services, that are located in Tamil
+Nadu, shall be eligible for the following Standard Incentives:
+
+19.1 Capital Subsidy
+   Sub-Large projects shall be eligible for a back-ended capital subsidy of Rs. 1 cr. upon
+the completion of the investment within the standard investment period of 4 years.
+Sub-Large Projects in “C” Districts can avail a Fixed Capital Subsidy of 5% of EFA upon
+the completion of the investment, disbursed in equal annual instalments over 5 years.
+
+
+19.2 Electricity Tax Incentive
+   New or expansion manufacturing projects will be given an electricity tax exemption
+for a period of 5 years on power purchased from the Tamil Nadu Generation and
+Distribution Corporation Ltd. (TANGEDCO) or generated and consumed from captive
+sources.
+
+
+19.3 Stamp Duty Incentive
+  50% Concession on Stamp duty payable on lease or purchase of land/shed/buildings
+meant for industrial use shall be offered in parks promoted by SIPCOT/SIDCO.
+                                            36
+19.4 Green Industry Incentive
+   Industrial projects undertaking green initiatives for recycling waste and water
+for industrial use and for sustainable energy usage, coupled with online monitoring
+(wherever applicable) indicated below, shall be eligible for a 25% subsidy on the cost of
+setting up such environmental protection infrastructure in the following solution areas
+subject to a limit of Rs. 1 cr.
+
+Safety & Energy Efficiency Solutions
+
+  i.		 Mechanised Systems for Sewage Cleaning such as jet rodding machines etc. to
+       replace Manual Scavenging
+  ii.		 Passenger and Utility Electric Vehicles for the transport of goods and personnel
+        within the facility premises and EV buses for the transport of personnel from
+        and to the facility.
+Water Conservation Solutions
+
+  iii.		 Wastewater treatment and recycling systems using technologies such as Activated
+         Sludge Process (ASP), Membrane Bio-Reactors (MBR), Reverse Osmosis (RO)
+         etc. to increase supply and use of treated water.
+  iv.		Smart Solutions/IoT for Water and Wastewater to reduce dependency on
+       manpower, enhance business continuity and remote operations using smart
+       meters/ pumps/ sensors, data analytics and cloud solutions.
+  v.		 Adopting rainwater harvesting; restoring water bodies by de-silting defunct
+       water bodies within the premises
+  vi.		 Zero Liquid Discharge Solutions
+Greening Solutions
+
+  vii. Green Buildings that obtain green rating under the Indian Green Building
+       Council (IGBC/LEED Certification) or Green Rating for Integrated Habitat
+       Assessment (GRIHA) systems.
+
+Pollution Control Solutions
+
+  viii. Installation of pollution control devices (PCD).
+
+
+
+
+                                           37
+ 20 POLICY IMPLEMENTATION
+  Tamil Nadu is dedicated to creating a simplified regulatory environment that
+businesses can navigate with ease and efficiency. To further reinforce Tamil Nadu’s
+commitment to being a business-friendly state, a clear governance and implementation
+mechanism of the Policy has been laid out.
+
+Application & Sanction
+
+   Application for incentives shall be received by Guidance and forwarded with its
+recommendations to the Industries Department for sanction of incentives for Structured
+Package of Incentives/ Special Incentives under Para 13-18 of this Policy for Large,
+Mega and Ultra-Mega Projects. Application for Standard Incentives for Sub-Large
+Projects under Para 19 of this Policy shall be coordinated and sanctioned by SIPCOT.
+
+Inter-Departmental Committee
+
+   The Inter-Departmental Committee constituted under the Tamil Nadu Industrial
+Policy 2014 and modified herein shall serve as a recommendatory body to the Cabinet
+for sanction of incentives for special circumstances upon the request of the Principal
+Secretary, Industries Department.
+
+Implementing Agency
+
+   SIPCOT is mandated to act as the implementing and disbursal agency for all the
+incentives listed in the Policy.
+
+Incentives Disbursal Mechanism
+
+    A company can apply online for claiming incentives, subject to eligibility. The
+Implementing Agency shall process the application based on self-certification by the
+company and documentary evidence of the investment, employment, and expenditure,
+if applicable, furnished by the company. With a view to supporting digital payments,
+efforts will be made to evolve a cashless mechanism for the disbursal of incentives.
+
+Implementation Guidelines
+
+   A set of high-level implementation guidelines for the Industrial Policy are provided
+in Annexure-IV. The Government is in the process of business process re-engineering
+to ensure prompt and seamless disbursal of incentives. Further guidelines required, if
+any, for implementing the Policy will be formulated by SIPCOT, in concurrence with
+the Industries Department.
+
+
+                                          38
+      Annexure I – List of Industries Ineligible for Incentives
+
+
+1.   Sugar mills
+2.   Edible oil industries
+3.   Rice, wheat and flour mills
+4.   Mineral water and aerated soft drinks
+5.   Alcoholic beverages
+6.   Fertiliser and animal feed manufacture
+7.   Mining and beneficiation
+8.   Steel re-rolling, steel fabrication, stainless steel utensils
+9.   Tobacco processing, cigarette or Beedi manufacture
+10. Timber or wood processing except furniture manufacturing
+11. Services sector or Servicing or repair facilities except Logistics Infrastructure and
+    R&D which are specifically made available in the Policy
+12. Cement Industry
+13. Power Generation Projects such as thermal, hydel, solar and onshore wind
+    generation projects.
+14. Any other industries as may be notified by Government from time to time.
+
+
+
+
+                                              39
+      Annexure II – List of Sunrise Sectors
+
+
+1.   Aerospace and Defence applications
+2.   Agro & Food Processing except Edible oil industries
+3.   Renewable Energy Components Manufacturing
+4.   Electronics System Design & Manufacturing
+5.   Medical Electronics, Devices and Equipment
+6.   Electric Vehicles, EV Cell & Battery Manufacturing or any green fuel technology
+     such as hydrogen fuel
+7.   Biotechnology
+8.   Pharmaceuticals, Bulk Drugs and Nutraceuticals
+9.   Petrochemicals and Speciality Chemicals
+10. Footwear, Finished Leather Goods and Polyurethane Fabric
+11. Technical Textiles including Medical Textiles
+12. Any other industries as may be notified by Government from time to time
+
+
+ The list of Sunrise Sectors can be revised from time to time.
+
+
+
+
+                                          40
+       Annexure III – Flexible Capital Subsidy Framework
+  The Flexible Capital Subsidy comprises standard subsidy and subsidy boosters.
+
+
+
+                                         Standard Susbidyt
+                                                +
+                                                  Employment Boostert
+                                                           +
+                                                    Exports Boostert
+      FCSt=               (Scale Factor) X                 +
+                                                   Ecosystem Boostert
+                                                           +
+                                                    Sunrise Boostert
+
+
+
+
+  Where FCSt is the Flexible Capital Subsidy in the year ‘t’. This varies for each year ‘t’
+depending upon the actual investment, employment and other factors.
+
+  Flexible Capital Subsidy Range 5%-40% of EFA
+
+1. Standard Subsidy
+  Depending on the location of the project, the standard subsidy shall be 5% for “A”
+Districts for Projects that are Mega and above, 7% for “B” Districts and 10% for “C”
+Districts for Projects that are Large and above.
+
+2. Scale Factor
+   The Scale Factor amplifies the Boosters as a function of size or scale of the Project
+measured in terms of Investment and Employment in reference to an Ultra Mega
+Project as provided in the table below. The Scale Factor shall be limited to a maximum
+of 7.5%, i.e. each booster can have a maximum additional boost of 7.5% of EFA (except
+employment which can provide a boost of 15% of EFA).
+
+
+
+
+                                             41
+     Table 1: Scale Factor8                                  Employment (jobs) →
+     Investment (Rs. cr.)                100              500       1000         1500                     2000
+                        300             0.41%            0.92%     1.30%        1.59%                    1.84%
+                        500             0.53%            1.19%     1.68%        2.05%                    2.37%
+                       1000             0.75%            1.68%     2.37%        2.90%                    3.35%
+                       1500             0.92%            2.05%     2.90%        3.56%                    4.11%
+                       2000             1.06%            2.37%     3.35%        4.11%                    4.74%
+                       2500             1.19%            2.65%     3.75%        4.59%                    5.30%
+                       3000             1.30%            2.90%     4.11%        5.03%                    5.81%
+                       3500             1.40%            3.14%     4.44%        5.43%                    6.27%
+                       4000             1.50%            3.35%     4.74%        5.81%                    6.71%
+                       4500             1.59%            3.56%     5.03%        6.16%                    7.12%
+                       5000             1.68%            3.75%     5.30%        6.50%                    7.50%
+
+3. Subsidy Boosters
+   Subsidy Boosters are provided to boost Scale Factor up to a factor of 4. They incentivize
+investment, employment, production, and technology adoption through Employment
+Booster, Production Booster, and Technology Booster respectively. The sum of the four
+Boosters is limited to 4. If the value of the boosters changes in any year, then the Flexible
+Capital Subsidy shall be recalculated accordingly for the given year.
+
+     • Employment Booster
+   If the Project employs more than thrice the minimum employment for the given
+project category, it shall get an Employment Booster of 1, and proportionately if
+otherwise.
+
+     Table 2: Employment Criteria for Project Categories
+
+        Project Category                        Investment Range                 Minimum Employment
+                                                   (Rs. in cr.)                   (number of persons)
+              Large                                  300-500                             150
+              Mega                                  500-5000                             400
+           Ultra-Mega                                 5000+                             2000
+
+
+
+
+ 8
+  In case of other combinations, Scale Factor will be estimated as 7.5%   (Investment (Rs.cr.)X Employment(jobs)
+                                                                                       (5000 X 2000)
+
+                                                             42
+  • Exports Booster
+   The Exports Booster would be determined as a ratio of revenue from exports to total
+revenue for the given year. If the company receives more than 25% of its revenue through
+exports, then it shall get an Exports Booster of 1, and proportionately if otherwise.
+
+  • Ecosystem Booster
+   If the Project brings in more than 25% of its own investment commitment through
+its vendor ecosystem within the same or nearby premises (within 10 km) within its
+investment period, then it shall get an Ecosystem Booster of 1, and proportionately, if
+otherwise
+
+  • Sunrise Booster
+  If the Project is in a sunrise sector as specified in Annexure-II, then it shall get a
+Sunrise Booster of 1, or zero if otherwise.
+
+4. Weights
+  This Policy provides the Project the flexibility of choosing its own weights for the
+Boosters that are best suited to their business model subject to the following conditions:
+
+  i.		 Weight for Boosters shall be a one-time choice exercised by the Company at
+       the time of investment. Boosters change every year and shall be determined by
+       actual employment, exports, and investment by ancillaries in a given year except
+       for Sunrise Booster, which is binary and fixed.
+  ii.		 Sum of Weights for Boosters and sum of Boosters must be positive and not
+        exceed 4,
+  iii.		 Each booster shall be capped to 1.
+  iv.		 Weights for Employment Booster will be between 1 and 2 (included). Weights
+        for other Boosters should each be greater than or equal to 0 but less than or equal
+        to 1.
+
+5. Incentive Disbursal Period
+    The Flexible Capital Subsidy estimated using the formula above shall be disbursed in
+equal annual investments over the Incentive Disbursal Period. This shall be 2.5 times
+the Investment Period, subject to a minimum incentive disbursal period of 10 years for
+Ultra Mega project and 5 years for other projects. The company can choose to avail the
+Flexible Capital Subsidy from the date of commercial production or upon achieving the
+minimum eligible investment for Structured Package in the given District, whichever
+is later.
+                                              43
+                                   Illustration
+  Consider a renewable energy equipment manufacturing project with an
+  investment of Rs. 1500 cr. in eligible fixed assets and creating 3000 jobs
+  in 4 years in Tenkasi. The company receives 15% of annual revenue from
+  exports. The company also brings two of its suppliers in the same industrial
+  park, who also invest Rs. 50 cr. each (total Rs. 100 cr.) in 4 years. Based on
+  these parameters, the flexible capital subsidy shall be calculated as follows:
+
+• Standard Capital Subsidy = 10% (“C” District)
+• Scale Factor = 7.5% X   √(   1500 X 3000
+                               5000 X 2000   )=7.5% X 0.67=5.03%
+• Boosters
+                                                  3000- 400
+		 ο      Employment Booster= min (1,              2 X 400    ) = min(1,3.25)=1
+		 ο      Exports Booster = 15%
+                            25% =0.6
+                                    100
+		 ο      Ecosystem Booster = (25% X 1500) =0.27
+		 ο      Sunrise Booster = 1
+  Assuming the company chooses the following weights for the boosters:
+
+		 ο      Employment Weight = 2
+		 ο      Exports Weight = 1
+		 ο      Ecosystem Weight = 0
+		 ο      Sunrise Weight = 1
+  Boosters = Employment Weight X Employment Booster + Exports Weight
+  X Exports Booster + Sunrise Weight X Sunrise Booster = (2 x 1) + (1 x 0.6)
+  + (0 x 0.27) + (1 x 1) =3.6
+
+  Flexible Capital Subsidy = Standard Capital Subsidy + Scale Factor X
+  Boosters = 10% + 5.03% x 3.6 = 10% + 18.1% = 28.1%
+
+  Investment Disbursal Period = Investment Period X 2.5 = 4 x 2.5 = 10 years
+
+
+
+
+                                             44
+       Annexure IV – Implementation Guidelines
+
+1. Definitions
+
+1.1 ﻿Eligible Fixed Assets
+   “Eligible Fixed Assets” or “EFA” shall mean and include land (including development
+costs such as fencing, construction of internal roads, and other basic infrastructure
+facilities); permanent buildings; plants, indigenous machinery & equipment,
+imported equipment, computer equipment, material handling equipment (like forklifts,
+cranes, etc); tools, dies, moulds, jigs, and fixtures and similar production tools owned
+and used within the plant or elsewhere within Tamil Nadu; appliances; electrical
+installations; pollution control, quality control and laboratory equipment; fixtures,
+tubes, pipes, fittings, and storage tanks, to the extent paid for by the project.
+
+   The terms “Eligible Fixed Assets”/ “EFA” shall also mean and include waste treatment
+facilities, transformers, generators, captive power plants, etc., and other supportive
+facilities installed for use in the premises and includes installation charges.
+
+  EFA shall include investment in R&D such as land, building, and plant and
+machinery. Unless otherwise specified, EFA shall exclude intangible assets including,
+without limitation, Intellectual Property rights and goodwill.
+
+  All fixed assets should have been paid for and should be owned or leased by the
+project, provided that the duration of such lease shall be:
+
+  a.   For land and building, no less than 10 years; and
+
+  b. For all other fixed assets – no less than half the estimated residual lifetime of
+     the asset (where such residual lifetime shall be estimated by a licensed engineer,
+     in the manner that may be specified by the Government of Tamil Nadu, from
+     time to time).
+
+   Fixed assets that are leased shall be valued at the Net Present Value of said assets, as
+on the date of execution of the lease deed or date of MoU (if applicable), whichever is
+later, using a discount rate of 10%, or as may be notified from time to time, provided
+that the lease is executed within the investment period.
+
+   All fixed assets (except tools, dies, moulds, jigs and fixtures and similar production
+tools) should be used and installed only within the Project Site.
+
+
+                                            45
+  1.1.1 Second-hand machinery
+
+    No more than 20% of the total Eligible Fixed Assets of a project shall consist of
+indigenous second-hand machinery purchased by the unit/project. To decide the
+percentage of second-hand machinery that will constitute Eligible Fixed Assets, the
+market value of such second-hand machinery, shall be as certified by an independent
+chartered/licensed engineer, chartered accountant, or such other authority or person
+authorised by the Government of Tamil Nadu from time to time. This is subject to the
+condition that such indigenous second-hand machinery shall have a minimum residual
+life of 10 years (as certified by the independent chartered/licensed engineer, chartered
+accountant, or such other authority or person authorised by the Government of Tamil
+Nadu from time to time).
+
+   In the case of imported machinery, all imported second-hand plant, machinery, and
+equipment will be considered as new indigenous machinery, if it is imported directly
+by the unit/project. 100% of the value of imported plant, machinery, and equipment
+shall be allowed under Eligible Fixed Assets. This value of imported plant, machinery,
+and equipment shall include custom duty and insurance paid, freight charges from the
+port of arrival till destination, and installation charges in addition to the CIF value of
+such plant & machinery, provided that the freight and installation of charges would be
+limited to 10% of the basic price.
+
+  1.1.2 Captive Power Plants
+
+    Up to 20% of EFA will be allowed for the Investment made in captive power plants
+(including windmills / solar farms), provided that no less than 50% of power so generated
+is for captive consumption.
+
+   1.1.3 Industrial Housing
+
+   Residential facilities developed within the Industrial Park or accommodation and
+hostel facilities for employees within a 5 km radius of the work area (i.e. entrance of
+the housing facility should be within 10 km of direct distance from the entrance of the
+project premises), shall be considered as Eligible Fixed Assets, provided that this does
+not exceed 10% of EFA.
+
+  1.2 Employment
+
+  Employment under this Policy shall mean all jobs that are performed by Direct
+Employees and Contract Labour subject to the following conditions:
+
+
+
+                                            46
+  i. “Direct employees” refers to employees who are in a direct contractual
+      relationship with the company.
+     This shall include employees engaged in the production line and employees not
+     engaged in the production line but shall exclude all members of the board of
+     directors of the company and all Key Managerial Personnel (as defined in the
+     Companies Act, 2013).
+  ii. For the purposes of this Industrial Policy, contract labour is one who is hired
+      in connection with the work or “contract for service” of an establishment by or
+      through a contractor, or persons who are hired, supervised, and remunerated by a
+      contractor who, in turn is compensated by the company. Contract labour may be
+      getting wages paid indirectly through the contractor.
+     However, “Contract Labour” shall exclude
+  		(a) casual labourers and temporary workers
+  		(b) out-workers, that is, a person to whom any articles or materials are given out
+    by or on behalf of the principal employer to be made up, cleaned, washed, altered,
+    ornamented, finished, repaired, adapted, or otherwise processed for sale for the
+    purposes of the trade or business of the principal employer, and the process is to
+    be carried out either at the home of the out-worker or in some other premises,
+    not being premises under the control and management of the principal employer.
+  		(c) not working on-site of the Project premises
+  Both direct employees and contract labour will constitute the “Employees” of a
+company for the purpose of incentives under this Policy.
+
+  1.3 Turnover
+
+  Turnover means the aggregate value of all taxable supplies (excluding the value of
+inward supplies on which tax is payable by a person on a reverse charge basis) and
+exempt supplies made within Tamil Nadu by the Project, exports of goods or services or
+both and inter-State supplies of goods or services or both made from Tamil Nadu by the
+Project but excludes central tax, State tax, Union territory tax, integrated tax and cess.
+
+2. General Conditions for Sanction of Incentives
+  The following general conditions shall apply for sanction of incentives to eligible
+projects apart from other specific eligibility criteria, terms and conditions stated for a
+particular scheme elsewhere in these guidelines:
+
+                                            47
+a)		 Projects/companies classified as MSME under the new/prevailing definition
+     shall not be eligible for incentives under this Policy.
+b)		 Payroll Subsidy may be provided on a case to basis in special circumstances for
+     Ultra-Mega projects.
+c)		 The ceiling of all incentives offered under the Structured Package including
+     Special Incentives, if applicable, shall not be more than the total investment in
+     Eligible Fixed Assets.
+d)		 The Government may at its discretion approve higher incentives /concessions
+     and relax the conditions mentioned in the Policy in exceptional circumstances
+     for deserving cases, giving due weightage to investment, direct and indirect
+     employment generated, and potential for attracting further investment through
+     vendors and ancillaries.
+e)		 The investment period may be extended by the Government in deserving cases,
+     for valid reasons.
+f)		 Projects in existence in Tamil Nadu for over 10 years will be given suitable extra
+     benefits for expansion projects over and above the normal structured package of
+     incentives, subject to investing the minimum level of investment.
+g)		 New manufacturing facilities set up by an existing company within the existing
+     facility (or) in a new site (or) in an adjacent vacant site for manufacturing a
+     product already being manufactured in the existing facility or an entirely new
+     product, would be treated as an expansion project for the purpose of incentives
+     under the Policy, subject to the preservation of production volume/value in the
+     older unit.
+h)		 The investment period will be reckoned from the date of executing an MoU with
+     the Government or any other date, as may be defined by the Government.
+i)		 If the project is eligible for a package of incentives under two or more policies,
+     the choice will be left to the company to choose the package of incentives under
+     one prevailing policy, either - Tamil Nadu Industrial Policy 2021 or the Policies
+     issued by the Government of Tamil Nadu, but not both, for the same Project.
+     This should be a one-time choice and should be exercised at the beginning itself.
+j)		 Projects with an Investment Period of more than 10 years will be considered on
+     a case-to-case basis.
+k)		 Projects and businesses for which any package of incentives has already been
+     sanctioned under Tamil Nadu Industrial Policy 2014 (TNIP 2014) or earlier
+
+                                         48
+       policies or for which the Commercial Production has commenced before the
+       notification of this Policy, shall not be eligible for benefits under this Policy but
+       will be entitled to benefits under TNIP 2014 or earlier policies, as the case may
+       be.
+  l)		 If the Project is eligible for and avails financial assistance from Govt. of India,
+       this shall be in addition and independent of its eligibility under this Policy
+
+3. General Conditions for Availing Incentives
+  Following general conditions shall apply in all cases for availing incentives to eligible
+projects apart from other specific eligibility criteria, terms and conditions stated for a
+particular scheme elsewhere in these guidelines:
+
+  a)		 Projects should have filed IEM with Department for Promotion of Industry and
+       Internal Trade, Government of India for the Project(s).
+  b)		 All the entrepreneurs should have a Permanent Account Number (PAN)/Goods
+       and Services Tax Number (GSTIN) and should regularly file returns.
+  c)		 Training subsidy/incentive can be availed even prior to the date of commercial
+       production.
+  d)		 The company should be in regular production at the time of disbursement of the
+       incentive except for those incentives that are in the pre-production stage, namely,
+       Stamp Duty and training subsidy.
+  e)		 All eligible Projects should furnish a registered sale/lease deed for a period equal
+       to/ more than the period of incentives.
+  f)		Investment Promotion Subsidy (IPS) will become payable from the
+      commencement of commercial production, provided the investment and
+      employment commitments are fulfilled. In case these commitments are not
+      fulfilled at the time of commercial production, the company may still draw IPS
+      against equivalent corporate guarantee unless Bank Guarantee is specified in
+      the Government Order. In the event of failure of achieving the investment and
+      employment commitments within the investment period, IPS paid to the
+      company shall be refunded to the Government.
+  g)		 Land Cost Subsidy/Incentive for private land will be eligible only if the land
+       is purchased or leased for the manufacturing Project within three years before
+       the commencement of construction. This subsidy will be extended against an
+       irrevocable Bank Guarantee of an amount equal to the land subsidy, which will
+
+                                             49
+         only be released upon fulfilment of investment and employment commitment.
+         The land cost will be excluded from the Eligible Fixed Assets if this subsidy is
+         availed.
+     h)		 For projects located in Industrial parks promoted by SIPCOT, the concession
+          on stamp duty shall be offered as a waiver at the time of lease or purchase or
+          the land/shed/buildings. For the computation of stamp duty, property in such
+          SIPCOT industrial parks would be valued at actual land or building value paid
+          by the manufacturing projects to such industrial parks. Stamp duty concessions
+          in private industrial parks/lands shall be provided as a back-ended subsidy after
+          the completion of the investment.
+     i)		 Achievement of committed Investment and Employment by the Project within
+          the Investment Period, as submitted at the time of sanction of incentives, is
+          mandatory for claiming all incentives listed in the Policy. If the Employment
+          falls below the minimum employment criteria of 50 jobs, then the Project shall
+          not be Eligible for Incentives other than Standard Incentives under this Policy
+          for that year.
+     j)		 Packages may be structured at the company or group or project level. If the
+          proposal involves multiple locations that shall be within Tamil Nadu, the project
+          category thresholds and criteria that apply to the majority or highest investment
+          in a manufacturing facility shall apply to the rest of the project.
+     k)		 Incentives sanctioned to Projects under this Policy shall automatically stand
+          withdrawn in case the Project is not completed, or the Park is not developed in
+          accordance with the sanctioned plan within the committed investment period.
+     l)		 In case any interpretation or clarification is required under this Policy, that
+          shall be done by Principal Secretary to Government, Industries Department,
+          Government of Tamil Nadu whose decision shall be final in this regard.
+
+4.       Conditions for Changes in the Company or Investment Plan After
+         Sanction of Incentives
+   A unit, which has been granted incentives will require the approval of the
+Implementation Agency (see Para 20) in case of any of the following changes during
+the Investment Period or Incentive Disbursal Period. A revised eligibility certificate will
+be issued after approval in case of changes during the Incentive Disbursal Period.
+
+
+
+
+                                              50
+a)		 Change of Constitution/ Management/ Name or Style of Unit/ Transfer of Assets
+  The company shall take prior approval of the Implementation Agency and submit
+  a copy of the Certificate of Incorporation from Registrar of Companies (ROC)/
+  Registrar of Firms as the case may be.
+b)		 Lease/Sell-out of Unit
+  The company shall take prior approval of the Implementation Agency before lease
+  out/ sell-out to another management within the incentive period.
+c) Change of Location of Project
+  The Change of location shall be allowed only in special circumstances with the
+  approval of Implementation Agency. Shifting of the Project outside the State is
+  not allowed.
+d)		 Merger/ Amalgamation of Companies
+  The approval of the Implementation Agency will be required for any merger/
+  amalgamation of companies. The Company shall submit an Application with
+  necessary legal orders and other documents.
+e) Change of Line of Activity/Inclusion of Additional Line of Activities
+  If a Company starts manufacturing new eligible items without any additional
+  machinery or equipment, with the same plant & machinery, then such items shall
+  be considered provided the proportion of ineligible items in the total production
+  is less than 10% in value of the total turnover during each financial year as per
+  annual return.
+f)		 Change in Investment Period
+  If the Company fulfils its investment and employment commitments ahead
+  of the committed investment period and would like to apply for the Eligibility
+  Certificate or is unable to fulfil its investment and employment commitments
+  within the committed investment period, the Company may approach the
+  implementation agency for change in the investment period. The investment
+  period may be extended by the Government in deserving cases, for valid reasons.
+  The implementation agency shall process the application in concurrence with the
+  Industries Department.
+g) Change in Investment or Employment Commitment
+  If the Company wishes to decrease its investment or employment commitments
+  prior to the disbursal of incentives, the Company may approach the implementing
+
+                                        51
+       agency for a revised structured package. If the Company wishes to decrease its
+       investment or employment commitments subsequent to the commencement
+       of incentives disbursal, then the incentives shall be adjusted according to the
+       project category applicable with effect from the given Financial Year. Any excess
+       incentives availed by the company shall be refunded with interest as decided by
+       the Government of Tamil Nadu. The change in commitment shall be scrutinised
+       by the Government and may be accepted in deserving cases, for valid reasons.
+       The implementation agency shall process the application in concurrence with the
+       Industries Department.
+
+5. Eligibility Criteria and Procedure for Applying for Eligibility Certificate
+  a) Eligible projects will have to apply online for issuance of Eligibility Certificate
+     within 6 (six) months from the date of Commencement of Commercial
+     Production for availing the incentives under the Policy. The relevant website
+     for online submission of the Eligibility Certificate and other incentives shall be
+     notified by the Department.
+  b) All Incentives/ Subsidies/ Concessions/Financial support under this Policy shall
+     apply to entities registered as company, corporation, Co-operatives, Partnership
+     firm, Proprietorship firm, Trust, FPO/FPC as well as entities set up by the State
+     Government. Central Public Sector undertakings shall not be eligible for any
+     incentives under the Policy.
+  c) Payments made in cash for any transaction shall be treated as ineligible for being
+      considered as Eligible Fixed Assets.
+  d) Subsidy will be disbursed only to the company which are functional at the time
+     of disbursement of the subsidy.
+  e) No right or claim for any incentives under the Policy shall be deemed to have
+     been conferred by the Policy, merely by virtue of the fact that the project has
+     fulfilled on its part the conditions of the Policy and the incentives/subsidies
+     cannot be claimed as a matter of right.
+  f)    The incentives under the Policy cannot be claimed unless the Eligibility Certificate
+        has been issued under the Policy by the implementing agency concerned and the
+        company has complied with the stipulation/conditions of Eligibility Certificate
+        to the satisfaction of the competent authority.
+
+
+
+
+                                             52
+6. Procedure for Sanction of Incentives and Sanctioning Authorities
+   Industries will be able to apply for incentives through the Single Window Portal
+after registration. Application for Incentives shall be scrutinized and sanctioned by
+the relevant empowered authorities. The authorities empowered to sanction incentive/
+assistance under this Policy for the various incentives listed out in this Policy shall be
+based on investments /type of package.
+
+  6.1. Sanctioning Authority for Sub-Large Projects
+
+   SIPCOT shall be the sanctioning authority for approving the applications submitted
+for Standard Incentives for Sub-Large Project and Structured Package of Incentives/
+Special Incentives for Sub-Large Projects.
+
+  6.2 Sanctioning Authority for Structured Package of Incentives/Special Incentives
+
+  The sanctioning authority for all structured package/special incentives (other than
+sub-large projects) shall be Industries Department, Government of Tamil Nadu. A
+Government Order shall be issued for Structured/Special Package of Incentives in
+concurrence with Finance Department.
+
+  6.3 Special Circumstances
+
+   Under special circumstances where the incentives to be provided are beyond this
+Policy, the Cabinet may sanction customized package or make suitable changes in the
+terms and conditions of the incentives beyond the Policy based on the recommendations
+of the Inter-Departmental Committee (IDC) constituted. The list of members and
+permanent invitees are mentioned below: -
+
+  • Principal Secretary to Government, Industries Department - Chairman
+  • Additional Chief Secretary, Finance Department - Member
+  • Managing Director & CEO, Guidance – Member, Convener
+  • Managing Director, SIPCOT – Member
+  • Chairman, TNEB - Member
+  • Commissioner, Commercial Taxes and Registration Department – Member
+  The Chairman at its discretion may invite any other Government department /
+agency as an Invitee.
+
+
+
+
+                                            53
+7. Procedure for Claiming Incentives and Implementation Agencies
+   State Industries Promotion Corporation of Tamil Nadu Limited (SIPCOT) is
+mandated to act as the implementation agencies for the various incentives listed out
+in this Policy for all Project Categories. SIPCOT shall be the implementation agency
+for processing claims and disbursal of incentives. The firms to whom G.O.s are issued,
+after commencement of commercial production during the obligation period / after
+completion of the obligation period shall submit an application for the Structured
+Package of Incentives to SIPCOT. SIPCOT shall issue an Eligibility Certificate upon
+completion of the obligations as adjudged during inspection. The incentives shall be
+disbursed after obtaining the Eligibility Certificate from SIPCOT.
+
+
+
+
+                                          54
+          Annexure V – Components of an Approved
+          Industrial Park
+
+1. Criteria for approval
+  (a) Minimum area of 100 acres in legal possession of applicant
+
+  (b) Should be meant primarily for manufacturing activities
+
+  (c) Should have provision for at least 5 major manufacturing units and 20 SMEs
+
+  (d) Should not have more than 10% wet land or double crop land
+
+  (e) Should not include (for contiguity) more than 5% of Government land
+
+2. Processing Area: not less than 65% of total area
+  • Industrial plots for manufacturing
+  • Ready built sheds for industrial use
+  • R&D Centres
+  • Testing & Certification Centres
+  • Pathways and Roads
+
+3. Non- Processing Area: not more than 35% area
+  • Business related non-processing area – not more than 20% of total area
+      ο      Office space for business support to processing area
+
+      ο      Customs bonded warehouses and ICDs
+
+      ο      Convention Centres
+
+      ο      Business centres – financial services
+
+      ο      Education and Skill training centres related to processing area
+
+      ο      Guest houses for use by businesses in processing area
+
+  • Social Infrastructure – not more than 15% of total area
+      ο      Housing
+
+      ο      Schools
+
+                                           55
+ο   Hospitals
+
+ο   General purpose education and training institutions
+
+ο   Entertainment & shopping centres
+
+ο   Open spaces, roads, and pathways
+
+
+
+
+                                56
+

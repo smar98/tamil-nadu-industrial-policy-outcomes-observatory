@@ -1,0 +1,14 @@
+year,year_label,current_rupees_crore,current_growth_pct,current_share_gsva_pct,constant_2011_12_rupees_crore,real_growth_pct,constant_share_gsva_pct,estimate_status,source_url
+2011,2011-12,151768,,21.90,151768,,21.90,final,https://des.tn.gov.in/node/346
+2012,2012-13,178261,17.46,22.72,169456,11.65,23.37,final,https://des.tn.gov.in/node/346
+2013,2013-14,181417,1.77,20.43,166329,-1.84,21.42,final,https://des.tn.gov.in/node/346
+2014,2014-15,182189,0.43,18.54,162092,-2.55,19.89,final,https://des.tn.gov.in/node/346
+2015,2015-16,220554,21.06,20.49,199706,23.20,22.72,final,https://des.tn.gov.in/node/346
+2016,2016-17,249759,13.24,21.10,224514,12.42,23.90,final,https://des.tn.gov.in/node/346
+2017,2017-18,281979,12.90,21.19,248985,10.90,24.54,final,https://des.tn.gov.in/node/346
+2018,2018-19,316265,12.16,21.23,269681,8.31,24.97,final,https://des.tn.gov.in/node/346
+2019,2019-20,317622,0.43,19.83,267973,-0.63,24.03,final,https://des.tn.gov.in/node/346
+2020,2020-21,317753,0.04,19.20,264617,-1.25,23.05,final,https://des.tn.gov.in/node/346
+2021,2021-22,381249,19.98,19.94,289350,9.35,24.14,revised,https://des.tn.gov.in/node/346
+2022,2022-23,433022,13.58,19.65,316235,9.29,24.44,quick,https://des.tn.gov.in/node/346
+2023,2023-24,462701,6.85,18.57,336364,6.37,24.10,advance,https://des.tn.gov.in/node/346

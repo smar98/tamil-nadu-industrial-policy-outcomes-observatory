@@ -1,0 +1,225 @@
+{
+  "schema_version": 1,
+  "scope": "Headline state-level outcome commitments only. Project eligibility thresholds and subsidy rates are not treated as policy outcomes.",
+  "evidence_classes": {
+    "independent_direct": "A non-implementing official statistical source measures the same outcome and deadline.",
+    "independent_partial": "An official survey measures a relevant subset, but not the policy's exact universe or attribution.",
+    "official_proxy": "An official series exists, but its geography or concept differs from the target.",
+    "administrative_required": "A verdict requires project-level records held by the implementing department.",
+    "directional": "The policy states an ambition without a numeric outcome, deadline, or testable denominator."
+  },
+  "assessments": [
+    {
+      "policy_id": "industrial-2007",
+      "asi_sector_id": "all-manufacturing",
+      "coverage_note": "ASI measures registered factories; GSVA measures the full manufacturing economy.",
+      "targets": [
+        {"id": "industrial-2007-jobs", "statement": "Create 2 million additional jobs by 2011.", "page": 4, "deadline": "2011", "evidence_class": "independent_partial", "outcome_dataset": "ASI plus labour-force data", "assessment": "The baseline and job universe are not specified, so the increment cannot be reconstructed exactly."},
+        {"id": "industrial-2007-share", "statement": "Raise manufacturing's GSDP share from 21% to 27% by 2011.", "page": 4, "deadline": "2011", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES state domestic product", "assessment": "Testable in principle, but the current 2011-12-base series starts after the deadline; an archived vintage is required."},
+        {"id": "industrial-2007-exports", "statement": "Double annual exports to Rs 140,000 crore by 2011.", "page": 4, "deadline": "2011", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Customs origin is not validated as state of production, so it is a proxy rather than proof."}
+      ]
+    },
+    {
+      "policy_id": "msmi-2008",
+      "asi_sector_id": null,
+      "coverage_note": "ASI has no stable MSME flag; enterprise definitions changed and informal firms are outside ASI.",
+      "targets": [
+        {"id": "msmi-2008-growth", "statement": "Sustain annual MSME growth above 10%.", "page": 13, "deadline": "XI Plan period", "evidence_class": "administrative_required", "outcome_dataset": "Historical SSI/EM registration records", "assessment": "The policy does not define whether growth means units, output, employment or value added."},
+        {"id": "msmi-2008-jobs", "statement": "Promote 10 lakh direct and indirect jobs during the XI Plan.", "page": 13, "deadline": "2012", "evidence_class": "independent_partial", "outcome_dataset": "Employment surveys plus historical MSME records", "assessment": "Indirect jobs and policy attribution are not observable in a standard public series."}
+      ]
+    },
+    {
+      "policy_id": "industrial-2014",
+      "asi_sector_id": "all-manufacturing",
+      "coverage_note": "GSVA tests economy-wide growth; ASI decomposes registered-factory outcomes.",
+      "targets": [
+        {"id": "industrial-2014-growth", "statement": "Achieve 14% annual average manufacturing growth.", "page": 11, "deadline": "Superseded in 2021", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2014-15 to 2020-21, CAGR was 9.7% nominal and 8.5% real. The target did not specify a price basis; it was below 14% on both.", "verdict": "below_target"},
+        {"id": "industrial-2014-jobs", "statement": "Create 2 million additional jobs before 2016.", "page": 11, "deadline": "2016", "evidence_class": "independent_partial", "outcome_dataset": "ASI plus employment surveys", "assessment": "The baseline and coverage of 'gainful employment' are not defined."},
+        {"id": "industrial-2014-exports", "statement": "Double Tamil Nadu exports by 2016.", "page": 11, "deadline": "2016", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "State export origin is a customs proxy and cannot establish where production occurred."}
+      ]
+    },
+    {
+      "policy_id": "automobile-2014",
+      "asi_sector_id": "automobile-core",
+      "coverage_note": "ASI identifies motor vehicles and components but not the full supply chain or indirect employment.",
+      "targets": [
+        {"id": "auto-2014-jobs", "statement": "Generate about 5 lakh additional automobile and component jobs by 2015.", "page": 11, "deadline": "2015", "evidence_class": "independent_partial", "outcome_dataset": "ASI automobile employment", "assessment": "ASI is a defensible registered-factory lower bound, not the policy's full direct-and-indirect universe."},
+        {"id": "auto-2014-exports", "statement": "Double automobile and component exports by 2016.", "page": 11, "deadline": "2016", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS commodity exports by customs origin", "assessment": "Product coverage can be defined, but state origin remains a proxy."}
+      ]
+    },
+    {"policy_id": "biotechnology-2014", "asi_sector_id": "life-sciences", "coverage_note": "ASI captures pharmaceuticals and some medical devices, not biotech services or standalone research.", "targets": []},
+    {
+      "policy_id": "export-strategy-2014",
+      "asi_sector_id": null,
+      "coverage_note": "Direct-export share in ASI is diagnostic; DGCIS state origin is not validated production geography.",
+      "targets": [
+        {"id": "exports-2014-double", "statement": "Double exports from USD 35.9 billion to USD 70 billion within five years.", "page": 13, "deadline": "2019", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Useful for monitoring, not a clean state-production outcome."}
+      ]
+    },
+    {"policy_id": "food-processing-2018", "asi_sector_id": "food-processing", "coverage_note": "ASI can track registered food and beverage factories, jobs, capital and value addition. The policy has no headline numeric outcome target.", "targets": []},
+    {"policy_id": "it-2018", "asi_sector_id": null, "coverage_note": "IT and ITeS are services outside ASI. PLFS, STPI exports and company records are the relevant sources; the policy has no headline numeric outcome target.", "targets": []},
+    {
+      "policy_id": "startup-2018",
+      "asi_sector_id": null,
+      "coverage_note": "Startup recognition is an administrative status, not an ASI concept.",
+      "targets": [
+        {"id": "startup-2018-count", "statement": "Facilitate at least 5,000 startups, including 10 global high-growth startups, by 2023.", "page": 8, "deadline": "2023", "evidence_class": "administrative_required", "outcome_dataset": "StartupTN registry reconciled with DPIIT Startup India", "assessment": "A credible verdict requires deduplication, survival checks and a pre-specified definition of 'global high growth'."}
+      ]
+    },
+    {
+      "policy_id": "ev-2019",
+      "asi_sector_id": "automobile-core",
+      "coverage_note": "ASI cannot separate electric from conventional vehicle manufacturing.",
+      "targets": [
+        {"id": "ev-2019-investment", "statement": "Attract Rs 50,000 crore in EV manufacturing and create 1.5 lakh jobs.", "page": 13, "deadline": "Superseded in 2023", "evidence_class": "administrative_required", "outcome_dataset": "Guidance project ledger with commissioning, investment and payroll evidence", "assessment": "The document calls jobs 'expected' and gives no target deadline; MoUs alone cannot verify realization."}
+      ]
+    },
+    {
+      "policy_id": "textiles-2019",
+      "asi_sector_id": "textiles-apparel",
+      "coverage_note": "ASI covers registered textiles and apparel but not handloom and home-based production.",
+      "targets": [
+        {"id": "textiles-2019-exports", "statement": "Double the share of textile exports from Tamil Nadu.", "page": 9, "deadline": null, "evidence_class": "official_proxy", "outcome_dataset": "DGCIS textile exports by customs origin", "assessment": "No deadline or denominator is specified, preventing a pass/fail verdict."}
+      ]
+    },
+    {
+      "policy_id": "solar-2019",
+      "asi_sector_id": null,
+      "coverage_note": "Electricity capacity is outside ASI and is directly measured by MNRE.",
+      "targets": [
+        {"id": "solar-2019-capacity", "statement": "Reach 9,000 MW of installed solar capacity by 2023.", "page": 8, "deadline": "2023", "evidence_class": "independent_direct", "outcome_dataset": "MNRE state renewable capacity", "assessment": "MNRE reported 6,736.43 MW on 31 March 2023, 74.85% of target and 2,263.57 MW short.", "verdict": "not_met"},
+        {"id": "solar-2019-consumer", "statement": "Earmark 40% of the 9,000 MW target for consumer-category systems.", "page": 8, "deadline": "2023", "evidence_class": "official_proxy", "outcome_dataset": "MNRE rooftop/off-grid categories", "assessment": "MNRE technology categories do not map cleanly to the policy's consumer-category definition, so this is not scored."}
+      ]
+    },
+    {
+      "policy_id": "electronics-2020",
+      "asi_sector_id": "electronics-core",
+      "coverage_note": "ASI measures registered electronics factories but not the full ESDM ecosystem or state-wide sector turnover.",
+      "targets": [
+        {"id": "electronics-2020-output", "statement": "Increase electronics industry output to USD 100 billion by 2025.", "page": 9, "deadline": "2025", "evidence_class": "administrative_required", "outcome_dataset": "Firm-level production or GST turnover ledger", "assessment": "ASI output is a useful lower bound but does not match the policy universe."},
+        {"id": "electronics-2020-exports", "statement": "Contribute 25% of India's electronics exports by 2025.", "page": 9, "deadline": "2025", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS electronics exports by customs origin", "assessment": "The numerator is customs origin, not verified production origin."},
+        {"id": "electronics-2020-skills", "statement": "Train more than 100,000 people by 2024.", "page": 9, "deadline": "2024", "evidence_class": "administrative_required", "outcome_dataset": "Training-provider completion records", "assessment": "Counts require unique learners, completion and placement outcomes."},
+        {"id": "electronics-2020-fabs", "statement": "Attract at least two major semiconductor fabs within three years.", "page": 10, "deadline": "2023", "evidence_class": "administrative_required", "outcome_dataset": "Commissioned-project and incentive-sanction records", "assessment": "A press announcement or MoU is not a commissioned fab."}
+      ]
+    },
+    {
+      "policy_id": "industrial-2021",
+      "asi_sector_id": "all-manufacturing",
+      "coverage_note": "GSVA tests statewide manufacturing outcomes; ASI explains registered-factory composition without claiming causality.",
+      "targets": [
+        {"id": "industrial-2021-growth", "statement": "Achieve 15% annual manufacturing growth during the policy term.", "page": 9, "deadline": "Policy term", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2020-21 to 2023-24, CAGR was 13.4% nominal and 8.3% real. The target omits the price basis; both are below 15% through the latest comparable year.", "verdict": "below_target_so_far"},
+        {"id": "industrial-2021-investment", "statement": "Attract Rs 10 lakh crore of investment between 2020 and 2025.", "page": 9, "deadline": "2025", "evidence_class": "administrative_required", "outcome_dataset": "Project-level realized investment ledger", "assessment": "ASI GFCF is an independent outcome check, but cannot identify policy-assisted projects or all investment."},
+        {"id": "industrial-2021-jobs", "statement": "Create 20 lakh employment opportunities by 2025.", "page": 9, "deadline": "2025", "evidence_class": "independent_partial", "outcome_dataset": "PLFS plus ASI", "assessment": "Neither source identifies policy-created jobs; administrative payroll evidence is needed for attribution."},
+        {"id": "industrial-2021-share", "statement": "Raise manufacturing to 30% of GSVA by 2030.", "page": 9, "deadline": "2030", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "Manufacturing was 18.57% of current-price GSVA and 24.10% at constant prices in 2023-24. The target is not yet due and does not specify price basis.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "msme-2021",
+      "asi_sector_id": null,
+      "coverage_note": "ASI cannot apply the turnover-and-investment MSME definition consistently across years.",
+      "targets": [
+        {"id": "msme-2021-investment", "statement": "Attract Rs 2,00,000 crore of new MSME investment by 2025.", "page": 10, "deadline": "2025", "evidence_class": "administrative_required", "outcome_dataset": "Udyam and state incentive records with realization checks", "assessment": "Registration declarations are not verified realized investment."},
+        {"id": "msme-2021-jobs", "statement": "Create 20 lakh additional MSME employment opportunities.", "page": 10, "deadline": null, "evidence_class": "independent_partial", "outcome_dataset": "ASUSE and PLFS", "assessment": "No deadline is stated and survey estimates cannot attribute jobs to the policy."},
+        {"id": "msme-2021-exports", "statement": "Increase the share of MSME exports from Tamil Nadu by 25%.", "page": 10, "deadline": null, "evidence_class": "administrative_required", "outcome_dataset": "GST/customs linkage with enterprise-size history", "assessment": "There is no public annual state export series linked to MSME status."}
+      ]
+    },
+    {"policy_id": "data-centre-2021", "asi_sector_id": null, "coverage_note": "Data centres are services outside ASI. The policy states directional goals without a headline numeric state outcome.", "targets": []},
+    {
+      "policy_id": "fintech-2021",
+      "asi_sector_id": null,
+      "coverage_note": "FinTech is outside ASI; MCA incorporation and administrative infrastructure records are relevant.",
+      "targets": [
+        {"id": "fintech-2021-city", "statement": "Develop a FinTech city with at least 1 million square feet of workspace.", "page": 12, "deadline": "2025 policy validity", "evidence_class": "administrative_required", "outcome_dataset": "TIDCO construction and occupancy records", "assessment": "Built, certified and occupied area should be reported separately."},
+        {"id": "fintech-2021-leading", "statement": "Become the leading state in growth of newly incorporated FinTech firms during the policy period.", "page": 12, "deadline": "2025", "evidence_class": "official_proxy", "outcome_dataset": "MCA company registrations with a reproducible FinTech classifier", "assessment": "FinTech has no clean industry code; rankings depend on a disclosed text classifier and peer universe."}
+      ]
+    },
+    {
+      "policy_id": "export-strategy-2021",
+      "asi_sector_id": null,
+      "coverage_note": "ASI direct-export shares illuminate factory orientation; DGCIS provides only a state-origin proxy.",
+      "targets": [
+        {"id": "exports-2021-100bn", "statement": "Increase exports from USD 26 billion in 2021 to USD 100 billion by 2030.", "page": 14, "deadline": "2030", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Trackable as an official proxy, but not independently verified production within Tamil Nadu.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "aerospace-defence-2022",
+      "asi_sector_id": "aerospace-defence",
+      "coverage_note": "ASI's narrow NIC definition misses dual-use suppliers and many defence services.",
+      "targets": [
+        {"id": "aerospace-2022-investment", "statement": "Attract Rs 75,000 crore and nearly 1 lakh direct and indirect jobs over ten years.", "page": 8, "deadline": "2032", "evidence_class": "administrative_required", "outcome_dataset": "Project commissioning, audited fixed assets and payroll records", "assessment": "ASI is a lower-bound trend check; indirect jobs and policy attribution require a documented model.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "rd-2022",
+      "asi_sector_id": "all-manufacturing",
+      "coverage_note": "ASI captures factory R&D expenditure from 2015-16; it excludes universities, government laboratories and standalone service R&D.",
+      "targets": [
+        {"id": "rd-2022-double", "statement": "Double state R&D expenditure across government, higher education and the private sector by 2030.", "page": 14, "deadline": "2030", "evidence_class": "independent_partial", "outcome_dataset": "DST Research and Development Statistics plus ASI", "assessment": "A defensible baseline must be fixed before testing; DST state estimates are infrequent and ASI covers only factory R&D.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "lifesciences-2022",
+      "asi_sector_id": "life-sciences",
+      "coverage_note": "ASI covers pharmaceuticals and selected medical devices, not the whole life-sciences ecosystem.",
+      "targets": [
+        {"id": "lifesciences-2022-goal", "statement": "Attract Rs 20,000 crore and generate 50,000 life-sciences jobs.", "page": 11, "deadline": null, "evidence_class": "administrative_required", "outcome_dataset": "Project-level investment and payroll ledger", "assessment": "No deadline is stated; ASI can provide sector trends but not a target verdict."}
+      ]
+    },
+    {
+      "policy_id": "footwear-leather-2022",
+      "asi_sector_id": "leather-footwear",
+      "coverage_note": "ASI captures registered manufacturing, while the policy's employment ambition may include a wider cluster economy.",
+      "targets": [
+        {"id": "footwear-2022-goal", "statement": "Attract Rs 20,000 crore and 2 lakh footwear jobs.", "page": 12, "deadline": null, "evidence_class": "administrative_required", "outcome_dataset": "Project-level investment and payroll ledger", "assessment": "No deadline is stated. ASI employment is an independent registered-factory outcome, not proof of target delivery."}
+      ]
+    },
+    {
+      "policy_id": "ev-2023",
+      "asi_sector_id": "automobile-core",
+      "coverage_note": "ASI cannot identify EV powertrains separately.",
+      "targets": [
+        {"id": "ev-2023-goal", "statement": "Attract Rs 50,000 crore of EV investment and create 1.5 lakh jobs during the policy period.", "page": 9, "deadline": "2028", "evidence_class": "administrative_required", "outcome_dataset": "Guidance project ledger with audited investment and payroll", "assessment": "MoU amounts are commitments, not realized investment; the policy is not yet due.", "verdict": "not_due"}
+      ]
+    },
+    {"policy_id": "logistics-2023", "asi_sector_id": null, "coverage_note": "The policy lists outcomes such as lower logistics cost but sets no numeric baseline or deadline. ASI does not cover the logistics service economy.", "targets": []},
+    {
+      "policy_id": "ethanol-2023",
+      "asi_sector_id": "food-processing",
+      "coverage_note": "ASI can observe registered distillery activity only within broader beverage/chemical classifications; capacity and procurement data are better suited.",
+      "targets": [
+        {"id": "ethanol-2023-capacity", "statement": "Become self-sufficient for an estimated 130 crore litres of blending requirement.", "page": 10, "deadline": "2028 policy term", "evidence_class": "administrative_required", "outcome_dataset": "DFPD/OMC contracted supply and commissioned capacity", "assessment": "Installed capacity, contracted supply and actual delivery must not be conflated."},
+        {"id": "ethanol-2023-investment", "statement": "Attract Rs 5,000 crore in ethanol production capacity.", "page": 10, "deadline": "2028 policy term", "evidence_class": "administrative_required", "outcome_dataset": "Commissioned-project investment ledger", "assessment": "The policy is not yet due; approvals and announcements are not realized investment.", "verdict": "not_due"}
+      ]
+    },
+    {"policy_id": "m-sand-2023", "asi_sector_id": null, "coverage_note": "The policy is regulatory and states no headline numeric state outcome. Mining and quarrying are outside the observatory's ASI manufacturing panel.", "targets": []},
+    {"policy_id": "technical-textiles-scheme-2023", "asi_sector_id": "textiles-apparel", "coverage_note": "The document defines project eligibility thresholds and subsidies, not a state-level outcome target. ASI cannot isolate technical textiles consistently.", "targets": []},
+    {
+      "policy_id": "semiconductor-2024",
+      "asi_sector_id": "electronics-core",
+      "coverage_note": "ASI cannot cleanly separate semiconductor fabrication, design and packaging from broader electronics and is available only through 2023-24.",
+      "targets": [
+        {"id": "semiconductor-2024-exports", "statement": "Contribute 40% of India's electronics exports by 2030.", "page": 10, "deadline": "2030", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS electronics exports by customs origin", "assessment": "State-origin exports are a proxy; the target is not yet due.", "verdict": "not_due"},
+        {"id": "semiconductor-2024-skills", "statement": "Create a skilled sector talent pool of 2 lakh people by 2030.", "page": 10, "deadline": "2030", "evidence_class": "administrative_required", "outcome_dataset": "Unique training completions and sector placements", "assessment": "Training counts alone do not establish a skilled employed talent pool.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "space-2025",
+      "asi_sector_id": "aerospace-defence",
+      "coverage_note": "ASI is a narrow manufacturing lower bound and predates the policy.",
+      "targets": [
+        {"id": "space-2025-goal", "statement": "Attract Rs 10,000 crore and nearly 10,000 direct and indirect jobs within five years.", "page": 11, "deadline": "2030", "evidence_class": "administrative_required", "outcome_dataset": "Commissioned-project investment and payroll ledger", "assessment": "No post-policy ASI observation exists yet; indirect jobs require a disclosed model.", "verdict": "not_due"}
+      ]
+    },
+    {
+      "policy_id": "toys-2025",
+      "asi_sector_id": "toys",
+      "coverage_note": "ASI toy cells are too small for annual disclosure and the data predate the policy.",
+      "targets": [
+        {"id": "toys-2025-anchors", "statement": "Attract at least 10 anchor toy manufacturers and establish a dedicated toy park.", "page": 8, "deadline": null, "evidence_class": "administrative_required", "outcome_dataset": "Commissioned anchor projects and park-operational records", "assessment": "The policy defines neither 'anchor' nor a deadline; announcements should not be counted as operating projects."}
+      ]
+    },
+    {"policy_id": "textiles-2025", "asi_sector_id": "textiles-apparel", "coverage_note": "The policy sets directional short-, medium- and long-term goals without headline numeric state outcomes. Post-policy ASI data do not yet exist.", "targets": []},
+    {"policy_id": "shipbuilding-2026", "asi_sector_id": "shipbuilding", "coverage_note": "The policy's numeric figures are project eligibility conditions, not state outcome targets. Existing ASI shipbuilding cells are disclosure-suppressed.", "targets": []},
+    {"policy_id": "circular-economy-2026", "asi_sector_id": "material-recovery", "coverage_note": "The policy's Rs 20 crore and 25-job figures are project eligibility thresholds, not state outcome targets. Post-policy data do not yet exist.", "targets": []}
+  ]
+}

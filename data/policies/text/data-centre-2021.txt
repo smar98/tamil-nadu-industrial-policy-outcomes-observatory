@@ -1,0 +1,1007 @@
+NADU                 TAMIL NADU
+
+ENTRE
+   DATA CENTRE
+     TAMIL
+ICY POLICY NADU
+
+              DATA CENTRE
+                POLICY
+     I N F O R M AT I O N T E C H N O L O G Y D E PA R T M E N T
+LOGY     D E PA R T M E N T
+           G O V E R N M E N T O F TA M I L N A D U
+ TA M I L       NADU
+
+
+
+
+     I N F O R M AT I O N T E C H N O LO G Y D E PA RT M E N T
+
+           GOVERNMENT OF TAMIL NADU
+
+                                                                   1
+ CONTENTS
+CONTENTS
+             Abstract
+        Abstract                                                03
+                                                            03 03
+
+              Definitions
+        Definitions and and    Eligibility
+                         Eligibility underunder
+                                           the the policy
+                                              policy           05
+                                                            07 07
+
+
+    1   1    Preamble
+        Preamble                                                06
+                                                            08 08
+
+
+    2   2 Objectives
+        Objectives                                              10
+                                                            12 12
+
+
+    3   3 Facilitation
+        Facilitation     Measures
+                     Measures &   & Enabling
+                                Enabling     Ecosystem
+                                         Ecosystem              11
+                                                            13 13
+
+
+    4    4 Incentives
+        Incentives                                              15
+                                                            17 17
+
+
+    5   5 Building
+        Building     Regulations
+                 Regulations                                    18
+                                                            20 20
+
+
+    6   6    Implementation
+        Implementation of theofPolicy
+                                the Policy                      20
+                                                            22 22
+
+            Appendix
+        Appendix       A - Eligible
+                 A - Eligible FixedFixed Assets
+                                    Assets                      21
+                                                            23 23
+
+
+
+
+2                                                                    2   2
+                                          ABSTRACT
+Information Technology Department – Data Centre Policy of Tamil Nadu,
+2021 – Approved -Orders – Issued
+         INFORMATION TECHNOLOGY (D1) DEPARTMENT
+ G.O.(Ms.) No. 33                                                       Dated: 23.11.2021
+                                                                        பிலவ, கார்த்திகக - 7,
+                                                                        திருவள்ளுவர்
+                                                                        ஆண்டு-2052.
+                                                                        Read:
+
+From the Managing Director, ELCOT, Ref: ELCOT/ITPD/ DCP/EPC-ENQ-1/2020, dated 20.05.2021
+
+
+ORDER:
+The Honorable Minister for Information Technology among other things has made the following
+announcement for framing of Data Centre Policy for the State of Tamil Nadu in the Legislative Assembly as
+given below:-
+
+தரவு கையக் ககாள்கக (Data Centre Policy)
+      தரவு உள்ளூர்ையைாக்கல் ததகவகள், மின் வாணிபத்தின் வளர்ச்சி ைற்றும் வாடிக்ககயாளர்களின் ததகவககள
+விகரவாகப் பூர்த்தி கெய்திடும் வககயில், தரவு கையங்கள் தவகைாக வளர்ந்து வருகின்றன. 2019-2025 ஆண்டு காலத்தில்,
+தரவு கையத்திற்கான ஆண்டு வளர்ச்சி விகிதம் 4 ெதவீதத்திற்கும் தைல் இருக்கும் என எதிர்பார்க்கப்படுகிறது. சிறந்த
+அகைவிடம், சிறந்த இகைப்பு வெதி ைற்றும் உபரி மின் ெக்தி ஆகியவற்றின் காரைைாக கென்கன நகரம் தரவு கைய
+முகனயைாக வளர்ந்து வருகிறது. இத்துகறயில் வளர்ச்சி, முதலீடு ைற்றும் தவகலவாய்ப்பிகன ஊக்குவித்திடும் வககயில்,
+ஒரு தரவு கையக் ககாள்கக கவளியிடப்படும்.
+        2. Pursuant to the above announcement, Electronics Corporation of Tamil Nadu (ELCOT) was
+entrusted with the task of formulating the Data Centre Policy for the State of Tamil Nadu. The draft ‘Data
+Centre Policy’ prepared by ELCOT was examined in great detail in consultation with various stakeholder
+Departments. The suggestions made by those Departments have been incorporated.
+        3. The Government, after careful examination have formulated the ‘Data Centre Policy-2021’ with the
+following Vision, Mission and Target:-
+
+
+
+
+                                                                                                              3
+                                                                                                                  3
+    Vision
+    Develop Tamil Nadu as the numero uno destination for Data Centres by catering to all the specific
+    requirements of Data Centres and providing them with an attractive business environment.
+
+
+    Mission
+    To promote Tamil Nadu as an ideal Data Centre investment destination, the Government will adhere to the
+    following strategies:
+    •   Enable power, land & connectivity infrastructure for Data Centres
+    •   Provide fiscal and non-fiscal incentives to Data Centre developers and operators to boost investment in
+        the Sector
+    •   Support research & development, innovation, and entrepreneurship
+    •   Create appropriate institutional measures and supportive technology framework
+    •   Promote usage of renewable energy for day-to-day operations
+    •   Encourage industries to collaborate with colleges in creating Centres of Excellence (CoE) in research on
+        data technologies
+    •   Encourage cloud computing & emerging technologies
+    •   Promote green Data Centres
+
+    Target
+    •   To make Tamil Nadu the destination of choice for investors within India and abroad in the Data Centre
+        market
+    •   To protect and safeguard the data generated in the country
+    •   To provide companies with the ideal business environment
+    •   To make available world class infrastructure with emphasis on sustainability through the promotion of
+        green technologies
+    •   To position Tamil Nadu as a cost-effective destination for Data Centres
+    •   To encourage research, development and innovation in the Data Centre segment in the State
+
+                 4. The provisions of the “Data Centre Policy, 2021” have been grouped under the following broad
+    heads:           i.     Facilitation Measures & Enabling Ecosystem
+                     ii.    Incentives
+                     iii.   Building Regulations
+                 5. The “Data Centre Policy, 2021” is annexed to this order.
+                 6. The Managing Director, ELCOT will be responsible for the administration of the policy,
+    monitor the implementation and report the status to Government periodically. Investment promotion for
+    Data Centre Policy will be done by Guidance and Memorandum of Understandings (MoUs) will be signed
+    by Guidance. Fiscal incentives will be disbursed through well established mechanism of State Industries
+    Promotion Corporation of Tamil Nadu Ltd (SIPCOT).
+                  7. This order issues with the concurrence of the Finance Department vide its U.O. No.
+    52074/Fin(Ind.)/2021, dated 23.11.2021. This Order comes into force with effect from 23.11.2021
+
+                                                                                  (By Order of the Governor)
+
+
+                                                                 NEERAJ MITTAL
+                                                   PRINCIPAL SECRETARY TO GOVERNMENT
+
+                                                                                                                   4
+4
+Definitions and Eligibility under the
+policy
+  Data Centre (DC) unit
+  Data Centre (DC) unit - A Data Centre unit with a minimum Eligible Fixed Assets (EFA) of Rs.500 crore with
+  a dedicated secure space in a dedicated building or within a building or a centralized location where
+  computing and networking equipment is concentrated for the purpose of collecting, storing, processing,
+  distributing or allowing access to large amount of data shall be eligible under the policy for incentives. Captive
+  Data Centres for in-house use by the parent organizations shall not be eligible under this policy.
+
+
+
+  Data Centre Parks
+  Data Centre Parks – An industrial park with a minimum EFA of Rs.500 crore shall be considered a Data
+  Centre park. This should provide land, park area (Water, Sewage, Road, Parking, Green Area, etc.),
+  provision of DC essentials setup / equipment (Electricity, Network / Fibre connectivity, Mechanical, Electrical
+  and Plumbing equipment (MEP)) to all Data Centre units in the park. The individual Data Centre units within
+  the park shall not be required to meet the Rs.500 crore eligibility criteria individually to be eligible under this
+  policy.
+
+
+
+  Edge Data Centres
+  Edge Data Centres – serve low latency centric computing applications, are smaller, are established near to
+  the place of application or consumption and serve specialized applications such as connected cars,
+  autonomous cars, smart cities, smart industry and home automation systems. This definition will be updated
+  in line with changing technology from time to time during annual policy review.
+
+
+
+
+                                                                                                                        55
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+1. Preamble
+1.1. Overview
+Tamil Nadu is a leading hub for Data Centres and is poised to become the Data Centre capital of the country. India
+has the world’s highest data usage per smartphone, averaging 9.8 GB per month in 2019 and is expected to double
+by 2024. India already has the world’s second largest Internet market, after China, with 687.6 million users as of
+January 2020 with a corresponding annual increase of 20% in wireless data subscribers in India increased from
+2013 to 2020. The Data Centre market in India is expected to increase to US$ 1.5 billion by 2022 at a growth rate of
+11.4%.
+
+Given the scale and quantum of data generated and national focus on localisation of data, there is a growing
+momentum to host data generated within the country and the State that will increase the demand for Data Centres.
+Data Centres, when co-located or located in closer proximity to the businesses, also offer enhanced efficiency in
+terms of cost and time for B2B and B2C transactions. They also lead to clustering through innovation, collaboration,
+data sharing and engender a talent pool of highly skilled individuals. In addition to the need for and benefits from
+establishing Data Centres as a critical digital infrastructure, Tamil Nadu’s focus on Data Centres stems from the
+State’s complementary prowess in manufacturing of electronics and electrical equipment such as server systems,
+mobile device handsets, tablets and storage devices such as hard drives and memory used in technology, media
+and telecom sector. Through this, the State provides a ready built and well-established supply chain for Data
+Centres to integrate with and scale within the State.
+
+
+The recent unprecedented demand for the data storage and processing infrastructure has further created a demand
+for Data Centres. More specifically the States that have a strong base of data-centric industries such as biopharma,
+banking and finance have felt the need of a strong data ecosystem with the growth in the application of artificial
+intelligence, machine learning and analytics. This policy is issued under the umbrella ICT Policy 2018, specifically to
+encourage investments in Data Centres.
+
+
+
+1.2. Competitive Advantages of Tamil Nadu
+Tamil Nadu offers an inherent advantage for Data Centres with high submarine cable network connectivity,
+extensive IT & ITeS Infrastructure, technically qualified workforce, State’s expertise in Data Centres, robust
+transport infrastructure and pro-investor policies.
+
+
+
+
+ 6
+
+                                                                                                                          6
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+1.2.1. Submarine Cable Network Connectivity
+Tamil Nadu has the second highest number of submarine cable landing stations in India housing over 30% of India’s
+subsea cables which connect to 264 landing stations globally. Submarine cables offer two advantages over
+communication satellites: shorter communication distance and lower susceptibility to weather conditions ensuring
+that the former is a more secure, reliable infrastructure with lower latency. The State has an excellent Optical Fibre
+Communication (OFC) network and availability of reliable, large bandwidth. With 6 Submarine Cables offering 14.8
+TBPS capacity in Chennai and 1-TBPS in Tuticorin, these cities offer the largest bandwidth connectivity among the
+Indian cities and are the closest landing stations connected with the West Coast of the United States of America.
+Some of the notable cables are mentioned below:
+
+•    The Submarine Cable that links Chennai with Singapore has the bandwidth of 8.4 Terabit Per Second (TBPS).
+     This Cable connects with C2C Cable network, SEA-ME-WE 3 and Asia Pacific Cable Network.
+
+•    Southeast Asia–Middle East–Western Europe 4 (SEA-ME-WE 4) is an Optical Fibre Submarine Communications
+     Cable System that carries telecommunications between India (Chennai) and Singapore, Malaysia, Thailand,
+     Bangladesh, Sri Lanka, Pakistan, United Arab Emirates, Saudi Arabia, Sudan, Egypt, Italy, Tunisia, Algeria and
+     France.
+
+•    The India- Singapore Cable System has a landing station in Chennai. This Cable has significantly increased the
+     existing bandwidth capacity into India by 5.12 TBPS and is the second fastest growing communications route in
+     the world.
+•    Tuticorin is connected by Bharat Lanka Cable System (which is 325 km long).
+
+
+
+Strategic location, OFC network and surplus power have ensured the dominance of Tamil Nadu as a hub for
+commissioning, operation and maintenance of Data Centres.
+
+
+
+1.2.2. State’s Expertise in Data Centres and Network Connectivity
+The Government of Tamil Nadu has set up the State Data Centre (SDC), Disaster Recovery Centre (DRC), Cloud
+Computing Facilities and Common Service Centres (CSC) for improving the access of citizens to online
+Government services. The State Government is undertaking efforts such as the Tamil Nadu State-Wide Area
+Network (TNSWAN), National Knowledge Network (NKN), BharatNet and TamilNet to improve tele-density and
+broadband penetration and ensure reliable and efficient telecom network throughout the State.
+
+
+
+
+                                                                                                                         7
+
+                                                                                                                         7
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+1.2.3. Pro-Investor Policies
+The State has signed MoUs for an investment of over Rs. 18,000 Crore in Data Centres during FY 2020-21.
+
+
+Tamil Nadu has always been proactive and quick to adopt strategies that encourage IT and ITeS which is evidenced
+in the recent policies on Block Chain (2020) and Artificial Intelligence (2020) and policies for manufacturers of
+electronics and electrical equipment such as Tamil Nadu Electronics Hardware Manufacturing Policy (2020) and
+Tamil Nadu Industrial Policy (2021). The umbrella ICT policy 2018 that is already in force already covers Data
+Centres. This Data Centre policy adds on to the suite of pro-investor policies that puts Tamil Nadu on the path
+towards innovation led growth and technological transformation especially for promoting Data Centres.
+
+
+
+1.2.4. IT & ITeS Infrastructure
+With 11 % share of total IT investments in India, Tamil Nadu is the preferred IT destination in the Country. Currently
+there are 18 dedicated IT/ITeS Special Economic Zones (SEZs) in the State. Chennai is the SaaS Capital of India
+and a leading Outsourcing Hub as well.
+
+
+The IT Industry in Tamil Nadu offers direct employment to nearly 7 lakh individuals and is home to integrated IT
+infrastructure consisting of the State Data Centre, State-wide Area Network, Cloud Computing and Disaster Data
+Recovery Centre. Electronics Corporation of Tamil Nadu Limited (ELCOT) has developed IT Parks in Tier-I and
+Tier-II cities spread across 1,377 acres of land in eight locations.
+
+
+The IT Industry witnessed FDI influx of USD 6 billion in 2017-18 and has experienced an export growth rate of 8.6%
+over the period of 2013-2018. The revenue for 2017-18 was USD 18 billion. Well-developed Tier II cities with a
+lower real estate cost and availability of technically qualified English-speaking workforce have been a huge
+attraction to BPO companies. Meanwhile, the Government has encouraged the IT Industry to collaborate with
+academia in creating Centres of Excellence in Emerging Technologies (CEET).
+
+
+
+
+1.2.5. Technically Qualified Work Force
+Tamil Nadu offers the largest pool of technically qualified professionals in the Country. Around 1.16 lakh students
+specialize in Information Technology, Computer Science, Electronics & Telecommunication annually. Post graduate
+courses like MCA (Master of Computer Applications) are specially designed to suit the needs of IT-BPO industry.
+ICT Academy of Tamil Nadu has been established on PPP basis for furthering industry- academia interface.
+
+
+
+
+ 8
+
+                                                                                                                         8
+1.3. Scope
+The Data Centre policy will specifically cover firms
+engaged in the business of developing and operating Data
+Centres. These shall broadly include the following:
+
+•   Greenfield Data Centre unit or Data Centre parks
+•   Brownfield expansions of existing Data Centre units
+    shall be eligible for concessions/relaxations subject to
+    certain restrictions
+•   Edge Data Centres
+
+
+To keep pace with the evolution of technology, there would
+be an annual review of policy measures and definitions by
+the Information Technology Department.
+
+
+The Data Centre Policy will be applicable for all Data
+Centres incorporated from 01.04.2021 and will be
+applicable to all Data Centres units/parks incorporated
+until 31.03.2026. Operational guidelines and clarifications
+as may be required will be issued from time to time by
+Information Technology department.
+
+
+
+
+                                                               9
+2. Objectives
+  2.1. Vision
+  Develop Tamil Nadu as the numero uno destination for Data Centres by catering to all the specific
+  requirements of Data Centres and providing them with an attractive business environment.
+
+
+
+
+  2.2. Mission
+  To promote Tamil Nadu as an ideal Data Centre investment destination, the Government will adhere to the
+  following strategies:
+  •   Enable power, land & connectivity infrastructure for Data Centres
+  •   Provide fiscal and non-fiscal incentives to Data Centre developers and operators to boost investment in
+      the Sector.
+  •   Support research & development, innovation and entrepreneurship
+  •   Create appropriate institutional measures and supportive technology framework
+  •   Promote usage of renewable energy for day-to-day operations
+  •   Encourage industries to collaborate with colleges in creating Centres of Excellence (CoE) in research on
+      data technologies
+  •   Encourage cloud computing & emerging technologies
+  •   Promote green Data Centres
+
+
+
+
+  2.3. Target
+  •   To make Tamil Nadu the destination of choice for investors within India and abroad in the Data Centre
+      market
+  •   To protect and safeguard the data generated in the country
+  •   To provide companies with the ideal business environment
+  •   To make available world class infrastructure with emphasis on sustainability through the promotion of
+      green technologies
+  •   To position Tamil Nadu as a cost-effective destination for Data Centres
+  •   To encourage research, development and innovation in the Data Centre segment in the State.
+
+
+
+
+                                                                                                                 10
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+3. Facilitation Measures & Enabling
+3. Facilitation Measures & Enabling
+Ecosystem
+Ecosystem
+The Government of Tamil Nadu recognises Data Centres as critical infrastructure and their importance in the
+enhanced digital global economy. The State Government shall ensure that Data Centres obtain access to power,
+The Government of Tamil Nadu recognises Data Centres as critical infrastructure and their importance in the
+people and other resources to establish and operate in the State seamlessly. The TN Data Centre Eco-system shall
+enhanced digital global economy. The State Government shall ensure that Data Centres obtain access to power,
+be promoted to make the State as a destination of choice of IT investments by the State.
+people and other resources to establish and operate in the State seamlessly. The TN Data Centre Eco-system shall
+be promoted to make the State as a destination of choice of IT investments by the State.
+3.1. Ease of Doing Business – Single Window Clearances
+3.1.up of
+Setting Ease
+          a Data of  Doing
+                 Centre           Business
+                        requires multiple              – different
+                                          approvals from Single         Window
+                                                                   departments.        Clearances
+                                                                                The Government of Tamil Nadu
+offers a single window facilitation to provide end-to-end facilitation support, including information related to
+Setting up of a Data Centre requires multiple approvals from different departments. The Government of Tamil Nadu
+clearances at State level.
+offers a single window facilitation to provide end-to-end facilitation support, including information related to
+clearances at State level.
+The current single window portal offers more than 100 services/clearances from 14 departments. The key objective
+of the single window portal is to ensure time-bound processing of applications and coordination with various
+The current single window portal offers more than 100 services/clearances from 14 departments. The key objective
+agencies such as Chennai Metropolitan Development authority (CMDA), Directorate of Town and Country Planning
+of the single window portal is to ensure time-bound processing of applications and coordination with various
+(DTCP), Tamil Nadu Fire and Rescue Services (TNF&RS), Tamil Nadu Police, Tamil Nadu Pollution Control Board
+agencies such as Chennai Metropolitan Development authority (CMDA), Directorate of Town and Country Planning
+(TNPCB), Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB) and Tamil Nadu Water Supply and
+(DTCP), Tamil Nadu Fire and Rescue Services (TNF&RS), Tamil Nadu Police, Tamil Nadu Pollution Control Board
+Drainage Board (TWAD) to get the clearances from them.
+(TNPCB), Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB) and Tamil Nadu Water Supply and
+Drainage Board (TWAD) to get the clearances from them.
+Renewable energy projects need to obtain various statutory approvals from multiple State agencies (Example:
+TANGEDCO/TANTRANSCO, Chief Electrical Inspectorate General, Forest Department) for setting up a renewable
+Renewable energy projects need to obtain various statutory approvals from multiple State agencies (Example:
+energy plant. Clearance for setting up Renewable Energy plant for Data Centres has been onboarded to the Single
+TANGEDCO/TANTRANSCO, Chief Electrical Inspectorate General, Forest Department) for setting up a renewable
+Window Portal.
+energy plant. Clearance for setting up Renewable Energy plant for Data Centres has been onboarded to the Single
+Window Portal.
+The Single Window Portal hosted in Guidance shall be used for the purposes of obtaining single window clearances
+as per Tamil Nadu Business Facilitation Rules 2018 and deemed approvals shall be granted as mandated under the
+The Single Window Portal hosted in Guidance shall be used for the purposes of obtaining single window clearances
+rules.
+as per Tamil Nadu Business Facilitation Rules 2018 and deemed approvals shall be granted as mandated under the
+
+3.2. Establishment of Data Centre Parks
+rules.
+
+3.2.    Establishment
+With growing demand of Data Centresof   Data
+                                    in the Country,Centre      Parks
+                                                   Data Centre parks require facilitation of innovation, ease of
+accessibility, adequate power capacity by way of sub-stations and overall connectivity. The Government shall
+With growing demand of Data Centres in the Country, Data Centre parks require facilitation of innovation, ease of
+establish dedicated Data Centre parks with unique infrastructural requirements.
+accessibility, adequate power capacity by way of sub-stations and overall connectivity. The Government shall
+establish dedicated Data Centre parks with unique infrastructural requirements.
+
+                                                                                                                    1111
+
+                                                                                                                     11
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+The following support shall be provided to Data Centre parks by the Government:
+
+•    Uninterrupted Water Supply: The State shall make water available on payment of cost subject to the
+     developmental procedures and regulation in force. Data Centres shall be encouraged to recycle water.
+
+
+•    Sub-leasing of Land / Building in Data Centre Parks: Data Centre parks shall be allowed to sub-lease the
+     land/buildings to Data Centre units without any sublease or transfer charges in case of lands allotted by
+     ELCOT/SIPCOT/SIDCO.
+
+
+
+
+3.3. Setting Up of Data Centre within State Promoted
+ELCOSEZs
+Data Centre Developers shall be encouraged to setup Data Centres within the IT SEZs developed by ELCOT. To
+achieve inclusive development, ELCOT has established ELCOSEZs (IT Specific Special Economic Zones) across
+Chennai and in 6 Tier II cities.
+The details of developed IT Parks in Tier-I and Tier-II cities are furnished below:
+
+    City                               Location                                              Extent
+    Chennai                            Sholinganallur                                      377 acres
+    Coimbatore                         Vilankurichi                                         61 acres
+    Madurai                            Ilandhaikulam                                        29 acres
+    Madurai                            Vadapalanji                                         245 acres
+    Tiruchirappalli                    Navalpattu                                          148 acres
+    Tirunelveli                        Gangaikondan                                        290 acres
+    Salem                              Jagirammapalayam                                     53 acres
+    Hosur                              Viswanathapuram                                     174 acres
+
+
+
+3.4. Research and Development
+The State shall co-ordinate with authorised agencies such as Electronics Test and Development Centre (ETDC),
+National Informatics Centre (NIC), Society for Electronics Transaction and Security (SETS), Standardisation Testing
+and Quality Certification (STQC), National Association of Software and Service Companies (NASSCOM) and
+Centre for Development of Advanced Computing (CDAC) to create a collaborative eco-system for Research and
+Development in evolving Data Centre technologies.
+
+
+
+
+    12
+
+                                                                                                                      12
+     IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+3.5. Skill Development
+The expertise of ELCOT in establishing State Data Centre (SDC) and Disaster Recovery Centre (DRC) shall be
+utilized for addressing the skill gap of trained manpower to meet the demands of Data Centres and Cloud
+Computing Platform. The Data Centre industry requires a diverse range of technical skillsets encompassing multiple
+engineering disciplines. Given the growth of the sector, skilled manpower availability is projected to be a major
+challenge. The State shall aim to create a pool of skilled manpower in this sector which will help in attracting
+investors to Tamil Nadu. ELCOT will work with ICT Academy to design and conduct courses specific for Data
+Centre operations.
+
+
+
+3.6. Administrative and Labour Support
+As per the Tamil Nadu ICT Policy 2018, Data Centres/Data Centre parks will be permitted to self-certify that they are
+maintaining the registers and forms as contemplated under the following:
+
+i.       Tamil Nadu Shops and Establishment Rules, 1947
+ii.      Tamil Nadu Payment of Gratuity Rules, 1972
+iii.     Tamil Nadu Maternity Benefits Rules, 1964
+iv.      Tamil Nadu Contract Labour Rules, 1975
+v.       Tamil Nadu Minimum Wages Rules, 1953
+vi.      Contract Labour Act, 1970
+vii.     Payment of Gratuity Act, 1972
+viii.    Tamil Nadu Industrial Establishment (National and Festival) Holidays Act, 1958.
+ix.      Tamil Nadu Industrial Establishments (National and Festival) Holidays Rules, 1959
+x.       Tamil Nadu Payment of Wages Rules, 1937
+xi.      Employment Exchange Act, 1959
+xii.     Equal Remuneration Act, 1976
+xiii.    The Workmen’s Compensation Act, 1923
+xiv.     Employees’ Provident Fund & Miscellaneous Provisions Act, 1952
+
+
+Flexibility in labour laws shall be adopted without compromising labour welfare, subject to applicable labour laws
+and within the parameters of the Industrial Employment (Standing Orders) Act, 1946 (Central Act 20 of 1946).
+
+
+
+
+                                                                                                                        13
+
+                                                                                                                         13
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+The flexibility in working hours, working in three shifts and employment in night shifts may be allowed for women
+employees, provided; all necessary security arrangements, facilities of rest room and safe transportations are
+arranged; the employers must ensure that night shift work may be carried out under the supervision of women
+supervisors and ensure the presence of women security officers.
+
+The employers may also constitute Internal Complaints Committee (ICC) as per the Sexual Harassment of Women
+at Workplace Act, 2013. The self-certification by the Data Centres/ Data Centre parks will be regarded as sufficient
+compliance with the requirements of the different Acts and the Rules made there under regarding the maintenance
+of registers and filing of the returns.
+
+
+E-filing of returns will be implemented progressively after all the offices of the concerned Inspectors are
+computerized for receiving such returns to make the process efficient, effective, transparent and citizen- friendly.
+
+
+Government will also take necessary action for introduction of Common Annual Returns in place of multiple returns
+and reduction in the number of registers maintained at present.
+
+
+
+
+ 14
+
+                                                                                                                       14
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+4. Incentives
+4. Incentives
+To support the endeavour of Data Centres, the Government shall provide incentives targeted towards the needs of
+the industry.
+To support the endeavour of Data Centres, the Government shall provide incentives targeted towards the needs of
+
+4.1. Power
+the industry.
+
+
+4.1.    Power
+The State Government recognizes the power-intensive nature of the Data Centres. Tamil Nadu is a power surplus
+State and a frontrunner in renewable energy. The State shall encourage and support the operations of Data Centres,
+The State Government recognizes the power-intensive nature of the Data Centres. Tamil Nadu is a power surplus
+especially those that utilise renewable energy for their projects, through the following incentives to the projects with
+State and a frontrunner in renewable energy. The State shall encourage and support the operations of Data Centres,
+an investment above Rs.500 crores and those who meet at least 30% of their energy consumption from renewable
+especially those that utilise renewable energy for their projects, through the following incentives to the projects with
+energy sources:
+an investment above Rs.500 crores and those who meet at least 30% of their energy consumption from renewable
+•energy
+   Electricity Tariff: Data Centre units/parks can purchase power from Tamil Nadu Generation and Distribution
+        sources:
+     Corporation Ltd. at prevailing industrial tariff rates as per the governing TNERC regulations.
+•    Electricity Tariff: Data Centre units/parks can purchase power from Tamil Nadu Generation and Distribution
+•    Electricity Tax Waiver: Data Centre facility/Data Centre park shall be eligible for 100% subsidy of Electricity Tax
+     Corporation Ltd. at prevailing industrial tariff rates as per the governing TNERC regulations.
+     on power purchased from the Tamil Nadu Generation and Distribution Corporation Ltd. or generated and
+•    Electricity Tax Waiver: Data Centre facility/Data Centre park shall be eligible for 100% subsidy of Electricity Tax
+     consumed from captive sources for 5 years from the date of commencement of commercial operation.
+     on power purchased from the Tamil Nadu Generation and Distribution Corporation Ltd. or generated and
+•    Concessional Open Access Charges: As per the latest Tariff Order this charge is 50% of the conventional
+     consumed from captive sources for 5 years from the date of commencement of commercial operation.
+     charges for Data Centre units.
+•    Concessional Open Access Charges: As per the latest Tariff Order this charge is 50% of the conventional
+•    Cross subsidy: As per the latest tariff order, State Government charges 60% of the conventional cross-subsidy
+     charges for Data Centre units.
+     charge for Wind Energy and 70% of the conventional charge for Solar Energy respectively, for third-party open
+•    Cross subsidy: As per the latest tariff order, State Government charges 60% of the conventional cross-subsidy
+     access consumers. The same shall be extended to Data Centre units /Data Centre parks.
+     charge for Wind Energy and 70% of the conventional charge for Solar Energy respectively, for third-party open
+•    Dual power from grid: Data Centre units or parks with a sanctioned load of 50 MW or more shall be provided
+     access consumers. The same shall be extended to Data Centre units /Data Centre parks.
+     with dual power (two different grids from two different locations/providers).
+•    Dual power from grid: Data Centre units or parks with a sanctioned load of 50 MW or more shall be provided
+•    An additional feeder shall be provided to developer if the sanctioned load of the Data Centre unit /Data Centre
+     with dual power (two different grids from two different locations/providers).
+     park is more than 100 MW as a Deposit Contribution Work (DCW).
+•    An additional feeder shall be provided to developer if the sanctioned load of the Data Centre unit /Data Centre
+•    Augmentation of Power: TANGEDCO on best effort basis will augment the supply of power to Data
+     park is more than 100 MW as a Deposit Contribution Work (DCW).
+     Centres/parks (in MVA) from 11 kV, 33kV, 110 kV and 220 kV substations by 50%.
+•    Augmentation of Power: TANGEDCO on best effort basis will augment the supply of power to Data
+     Centres/parks (in MVA) from 11 kV, 33kV, 110 kV and 220 kV substations by 50%.
+4.2. Stamp Duty Concession
+4.2.Centre
+Data  Stamp        Duty
+           development         Concession
+                       is capital intensive and the facilities are built on large land parcels in resourceful localities.
+To facilitate the development of the Data Centre market in the State, concessions on Stamp duty/ Registration fee
+Data Centre development is capital intensive and the facilities are built on large land parcels in resourceful localities.
+paid on sale/lease/transfer of land for Data Centres and parks shall be offered as follows:
+To facilitate the development of the Data Centre market in the State, concessions on Stamp duty/ Registration fee
+paid on sale/lease/transfer of land for Data Centres and parks shall be offered as follows:
+
+
+
+                                                                                                                               15
+                                                                                                                             15
+
+                                                                                                                              15
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+ District Category1                                     Stamp Duty Exemption
+                         50% stamp duty concession will be given for purchase/lease of land obtained from ELCOT
+  District               / SIDCO/ SIPCOT.
+     & “B” Category                                     Stamp Duty Exemption
+                    1
+ “A”       Category
+ Districts               50%the
+                         *In       caseduty
+                                stamp    of private  lands,
+                                            concession        stamp
+                                                            will be    dutyforconcession
+                                                                    given                will be
+                                                                               purchase/lease     given as
+                                                                                               of land     50% from
+                                                                                                       obtained  backELCOT
+                                                                                                                       ended
+                         /subsidy
+                            SIDCO/(disbursed
+                                     SIPCOT. after full investment of Rs.500 crore is achieved) for up to 10 acres for
+ “A” & “B” Category      Data
+                          *In the case units/parks.
+                                Centre   of private lands, stamp duty concession will be given as 50% back ended
+ Districts               100%
+                         subsidystamp     duty after
+                                   (disbursed   exemption      will be given
+                                                      full investment           for purchase/
+                                                                        of Rs.500              lease offor
+                                                                                    crore is achieved)   land  obtained
+                                                                                                           up to        from
+                                                                                                                 10 acres for
+                         ELCOT /
+                          Data      SIDCO/
+                                Centre       SIPCOT.
+                                        units/parks.
+ “C” Category
+                         *In
+                         100%the stamp
+                                  case ofduty
+                                           private lands, stamp
+                                               exemption    will beduty concession
+                                                                    given           will belease
+                                                                           for purchase/     givenofasland
+                                                                                                        100% back ended
+                                                                                                           obtained from
+ Districts
+                         subsidy / SIDCO/
+                         ELCOT     (disbursed after
+                                             SIPCOT.full investment of Rs.500 crore is achieved) for up to 10 acres for
+ “C” Category            Data  Centre
+                         *In the  case units/parks.
+                                        of private lands, stamp duty concession will be given as 100% back ended
+ Districts
+                        subsidy (disbursed after full investment of Rs.500 crore is achieved) for up to 10 acres for
+                        Data Centre units/parks.
+This incentive shall have to be refunded if the Data Centre operations ceases or changes its use of land to a non-
+Data Centre land use within 10 years from the date of incorporation.
+This incentive shall have to be refunded if the Data Centre operations ceases or changes its use of land to a non-
+*This will only be available if the private land is leased or purchased within three years before the date of
+Data Centre land use within 10 years from the date of incorporation.
+incorporation or commencement of operations whichever is earlier.
+*This will only be available if the private land is leased or purchased within three years before the date of
+incorporation or commencement of operations whichever is earlier.
+
+4.3. Land Cost Subsidy
+4.3.      Land Cost Subsidy
+In Category C districts, Data Centres /parks can avail a 50% subsidy on land cost from ELCOT/SIPCOT/SIDCO. On
+private lands procured for Data Centre/parks, 50% subsidy on the cost of land as per guideline value shall be given
+In Category C districts, Data Centres /parks can avail a 50% subsidy on land cost from ELCOT/SIPCOT/SIDCO. On
+up to an extent of 10 acres and subject to land cost not exceeding 20% of EFA and a cap of Rs.2 crore and with at
+private lands procured for Data Centre/parks, 50% subsidy on the cost of land as per guideline value shall be given
+least 70% of land being used for Data Centre operations.
+up to an extent of 10 acres and subject to land cost not exceeding 20% of EFA and a cap of Rs.2 crore and with at
+least 70% of land being used for Data Centre operations.
+
+4.4. MSME sector
+4.4. MSME sector
+The Government would like to encourage the maintenance of sophisticated hardware and auxiliary services required
+by Data Centre to involve the Participation of Service Sector local MSMEs. Therefore, the Government will take
+The Government would like to encourage the maintenance of sophisticated hardware and auxiliary services required
+special initiatives to develop an MSME - Centric service ecosystem for Data Centres. Local MSMEs who are already
+by Data Centre to involve the Participation of Service Sector local MSMEs. Therefore, the Government will take
+in the business of facility management and Hardware Maintenance will be specially trained to suit the requirement of
+special initiatives to develop an MSME - Centric service ecosystem for Data Centres. Local MSMEs who are already
+Data Centres. Data Centres that use the services of Tamil Nadu based MSMEs for on - site services as sub -
+in the business of facility management and Hardware Maintenance will be specially trained to suit the requirement of
+contractors to the Facility Manager will be reimbursed 10% of the remuneration paid to them, subject to a maximum
+Data Centres. Data Centres that use the services of Tamil Nadu based MSMEs for on - site services as sub -
+of Rs.10 lakhs per Data Centre. This subsidy shall be applicable only for the first two years of operation.
+contractors to the Facility Manager will be reimbursed 10% of the remuneration paid to them, subject to a maximum
+of Rs.10 lakhs per Data Centre. This subsidy shall be applicable only for the first two years of operation.
+
+
+
+
+       1 The definition of District Categories shall be as per Tamil Nadu Industrial Policy 2021.
+
+
+                                                                                                                                16
+ 16    1 The definition of District Categories shall be as per Tamil Nadu Industrial Policy 2021.
+
+
+                                                                                                                                16
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+4.5. Training Incentive
+A training subsidy of up to Rs.10,000/- per person trained per month (for up to 6 months) per Data Centre unit shall
+be provided, capped at Rs.1 Crore per Data Centre for the duration of the policy period.
+
+
+
+
+4.6. Structured Package of Assistance
+For projects of strategic importance, a structured package of assistance would be provided for investments greater
+than EFA of Rs. 2000 crore on a case-to-case basis. Edge Data Centre units where the technology is still maturing,
+will be considered for structured package of assistance but the onus of justifying it to be an edge Data Centre will be
+on the investor and decision will be on a case-to-case basis solely at the discretion of the Government.
+
+
+
+
+                                                                                                                          17
+
+                                                                                                                           17
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+5. Building Regulations
+Data Centres are critical infrastructure facilities demanding extensive planning to prevent interruptions and are
+significantly different from other buildings. Concepts of scalability, physical capacity, power, connectivity, design,
+standard and security are crucial aspects of developing and while building Data Centres. To improve spatial
+efficiency and optimise operational costs, tailor-made building regulations shall be offered through the creation of a
+separate category for Data Centres under the Tamil Nadu Combined Development and Building Rules, 2019.
+
+
+These shall include:
+•    Floor Space Index (FSI) provided to IT/ ITeS developments as per Tamil Nadu Combined Development Building
+     Rules (TNCDBR), 2019 shall be extended to Data Centre parks/units.
+•    Car Parking for Data Centres shall be considered as 1 Parking Space per 100 Square meters of designated
+     office area as a threshold requirement in the approved Plan (OR) 1 Parking Space per 300 square meters of total
+     Built-up Area at the option of the developer.
+•    Multi-level Diesel Generator Stacking structure up to G + 5 shall be permissible, subject to necessary
+     clearances and orders of the Government in this regard.
+•    Open Space Reservation (OSR) area and internal roads will be handed over to the local body, but the same
+     would be maintained by the Data Centre developer only as OSR area or road without any kind of development in
+     the OSR land except as a green space (park).
+•    Floor to Ceiling Height: There will be no restriction on floor to ceiling height (for single floor) subject to there
+     being no mezzanine floor and compliance with overall height regulations, suitable structural and fire safety
+     regulations.
+•    Boundary walls: The maximum permissible height of boundary walls as per the TNCDBR 2019 is 2.0m. Height
+     of boundary wall up to 3.6 meters with 600 mm fencing (Y or spherical) on top of that boundary wall can be
+     considered in specific cases for those sides of the site where the adjoining plot is an industry or has a building on
+     stilts.
+•    Installation of Chillers on roof top shall be permitted without inclusion in FSI, subject to structural safety and
+     TNCDBR, 2019.
+•    Data Centre units/parks zoning: Selection of land parcels for Data Centres is dependent on factors such as
+     availability of dense fibre networks, seismically safe zones, availability of uninterrupted Electricity and Water
+     Supply etc. In view of the above, setting up of Data Centres would be permitted in any land zone including
+     Commercial, Industrial and Institutional.
+
+
+
+
+    18
+
+                                                                                                                             18
+    IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+•    Data Centre/parks in Commercial Buildings shall be permitted provided they satisfy TNCDBR, 2019. Partially
+     occupied Leased commercial buildings and related infrastructure shall be qualified as Data Centre buildings on a
+     case-to-case basis but they will not be extended the building incentives as available in section 4 of this policy.
+•    Windows in Data Centre part of building: The Data Centre building shall be allowed to install minimum
+     number of windows (5% of building facade), subject to compliance with building and fire safety regulations.
+•    Green Building Data Centres: Data Centre Units undertaking green and sustainable initiatives as listed below
+     shall be eligible for a 25% subsidy on cost of undertaking such initiatives, subject to an upper limit of Rs. 5 Crore.
+
+     i. Green Buildings which obtain green rating under the Indian Green Building Council (IGBC/LEED Certification)
+     ii. Green Buildings which obtain green rating for Integrated Habitat Assessment (GRIHA) systems
+
+
+
+
+                                                                                                                              19
+
+                                                                                                                               19
+6. Implementation of the Policy
+ELCOT shall be the State level nodal agency for the
+administration of the Data Centre Policy. Investment
+promotion for Data Centre policy shall be done by
+Guidance and MOUs will be signed by Guidance.
+Sanction of default incentives as per the policy:
+ELCOT shall sanction incentives which are available by
+default under this policy.
+Sanction of Structured package of incentives under
+the policy: To consider and sanction structured
+incentives under this policy, the Inter-Departmental
+Committee constituted for the implementation of the
+Tamil Nadu Industrial Policy, 2021 shall serve as a
+recommendatory body to the Cabinet for sanction of
+incentives. Principal Secretary, Information Technology
+(IT) Department shall be a member of the IDC.
+GUIDANCE shall send the proposal for IDC in
+consultation with ELCOT.
+Disbursement of Incentives: Disbursement of fiscal
+incentives shall be done through the established
+mechanism of SIPCOT.
+
+
+
+
+                                                          20
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+Appendix A - Eligible Fixed Assets
+“Eligible Fixed Assets” or “EFA” shall mean and include land (including development costs such as fencing,
+construction of internal roads and other basic infrastructure facilities); permanent buildings; plants, indigenous
+machinery & equipment, imported equipment, computer/networking/cabling equipment, material handling equipment
+(like forklifts, cranes, etc); tools, dies, moulds, jigs and fixtures and similar production tools owned and used within
+the plant or elsewhere within Tamil Nadu; appliances; electrical installations; pollution control, quality control and
+laboratory equipment; fixtures, tubes, pipes, fittings and storage tanks, to the extent paid for by the project.
+
+
+The terms “Eligible Fixed Assets”/ “EFA” shall also mean and include waste treatment facilities, transformers,
+generators, captive power plants and other supportive facilities installed for use in the premises and includes
+installation charges.
+
+
+EFA shall include investment in R&D such as land, building, plant and machinery. Unless otherwise specified, EFA
+shall exclude intangible assets including, without limitation, Intellectual Property rights and goodwill.
+
+
+All fixed assets should have been paid for and should be owned or leased by the project, provided that the duration
+of such lease shall be:
+
+a) For land and building, no less than 10 years; and
+b) For all other fixed assets – no less than half the estimated residual lifetime of the asset (where such residual
+   lifetime shall be estimated by a licensed engineer, in the manner that may be specified by the Government of
+   Tamil Nadu, from time to time).
+
+Fixed assets that are leased shall be valued at the Net Present Value of said assets, as on the date of execution of
+the lease deed or date of MoU (if applicable), whichever is later, using a discount rate of 10%, or as may be notified
+from time to time, provided that the lease is executed within the investment period. All fixed assets (except tools,
+dies, moulds, jigs and fixtures and similar production tools) should be used and installed only within the Project Site.
+
+
+
+Second-hand Machinery
+No more than 20% of the total Eligible Fixed Assets of a project shall consist of indigenous second-hand machinery
+purchased by the unit/project. To decide the percentage of second-hand machinery that will constitute Eligible Fixed
+Assets, the market value of such second-hand machinery, shall be as certified by an independent
+chartered/licensed engineer, chartered accountant, or such other authority or person authorised by the Government
+of Tamil Nadu from time to time.
+
+
+
+                                                                                                                           21
+
+                                                                                                                            21
+ IT DEPARTMENT - GOVERNMENT OF TAMIL NADU
+
+
+
+
+This is subject to the condition that such indigenous second-hand machinery shall have a minimum residual life of
+10 years (as certified by the independent chartered/licensed engineer, chartered accountant, or such other authority
+or person authorised by the Government of Tamil Nadu from time to time).
+
+
+In the case of imported machinery, all imported second-hand plant, machinery and equipment will be considered as
+new indigenous machinery, if it is imported directly by the unit/project. 100% of the value of imported plant,
+machinery and equipment shall be allowed under Eligible Fixed Assets. This value of imported plant, machinery and
+equipment shall include custom duty and insurance paid, freight charges from the port of arrival till destination, and
+installation charges in addition to the CIF value of such plant & machinery, provided that the freight and installation
+charges would be limited to 10% of the basic price.
+
+
+
+Captive Power Plants
+Up to 20% of EFA will be allowed for the FRESH Investment made in captive power plants (including windmills /
+solar farms), provided that no less than 50% of power so generated is for captive consumption.
+
+
+
+
+ 22
+
+                                                                                                                          22
+For information and enquiries:
+Principal Secretary to Government of Tamil Nadu,
+Information Technology Department
+Secretariat, Chennai 600 009 Tamil Nadu, India
+Tel: 91- 44- 25670783 E mail: secyit@tn.nic.in
+
+
+
+
+                                                   23
+                                                        23
+

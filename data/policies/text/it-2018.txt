@@ -1,0 +1,1618 @@
+                            GOVERNMENT OF TAMIL NADU
+
+
+
+
+     INFORMATION COMMUNICATION
+       TECHNOLOGY POLICY – 2018
+
+
+
+
+              INFORMATION TECHNOLOGY DEPARTMENT
+                     SECRETARIAT, CHENNAI - 600 009.
+
+INFORMATION COMMUNICATION TECHNOLOGY POLICY - 2018     1
+                               Government of Tamil Nadu
+
+
+
+
+          Information Communication
+            Technology Policy – 2018
+
+
+
+
+             Information Technology Department
+                     Secretariat, Chennai - 600 009.
+
+
+Information Communication Technology Policy - 2018        1
+    inside                       Information Communication
+                                 Technology (ICT) Policy
+
+
+     1. Preamble 06
+        1.1.     Competitive advantages of Tamil Nadu
+        1.1.1.   Well Established IT & ITeS Infrastructure in Tamil Nadu
+        1.1.2.   Educational Excellence:
+        1.1.3.   Communication Infrastructure
+
+
+     2. Vision for IT/ITeS sector 10
+        2.1. Vision objectives
+        2.2. Vision Targets
+
+
+     3. Strategies 13
+
+     4. Definitions 15
+        4.1. Definition of IT/ITeS Companies
+        4.2. Definition of Communication providers
+
+
+     5. Key Components and Focus
+        Areas of the Growth Driven Eco System 17
+        5.1. Areas of focus
+        5.2. Special Focus on Animation and Gaming
+        5.3. Infrastructure
+        5.3.1. Information Technology Specific Special Economic Zones
+        5.3.2. Transport
+        5.3.3. Power 		
+
+
+     6. Skill Development 20
+
+     7. Incentives 23
+        7.1. Standard Fiscal Incentives
+        7.2. Special Incentives for MSME units
+        7.3. Fiscal Incentives (Structured package)
+        7.4. Special Incentives for B &C locations
+        7.5. Reimbursement of Stamp Duty
+        7.6. Administrative Incentives
+        7.7. Quality Certification Financial Assistance for MSMEs
+        7.8. Patent Filing Fiscal Incentive
+        7.9. Market Development Assistance
+
+
+2                                                     Government of Tamil Nadu
+         8. Relaxation of FSI 28
+         9. Open Space Reservation (OSR) 28
+             9.1. OSR for SEZ
+             9.2. OSR for non SEZs
+
+         10. Maintenance of Roads and Common Utilities 28
+         11. Research and Development                  28
+         12. Green IT/ITeS 29
+         13. Annual and Special Awards 29
+         14. Single Window Facilitation 29
+         15. Corporate Social Responsibility 29
+         16. Mechanism for disbursal of Incentives 29
+         17. Tamil Computing and Tamil Virtual Academy (TVA) 30
+         18. Connectivity 30
+         19. New technologies 30
+         20. Conclusion 30
+         21. Annexure-I         31
+             Quality Certifications
+
+         22. Annexure-II 32
+             G.O.(Ms).No.200 Dated: 05.08.2013
+
+         23. Annexure-III 35
+             Abbreviations
+
+         24. Annexure-IV 36
+             Definitions of Communication Providers
+
+         25. National Policy 37
+             National Policy on Information Technology, 2012
+
+
+
+
+Information Communication Technology Policy - 2018                3
+4   Government of Tamil Nadu
+Information Communication Technology Policy - 2018   5
+6   Government of Tamil Nadu
+                              1. Preamble
+                              The Information Technology (IT) and Information
+                              Technology enabled Services (ITeS) industry has been one of
+                              the key driving forces fuelling India’s economic growth. The
+                              industry has transformed India’s image on the global platform.
+                              It has employed almost 10 million Indians and has consequently
+                              contributed a lot to social transformation in the country.
+                                The Government of Tamil Nadu (hereinafter referred to
+                              as the Government or the State Government) on its part, has
+                              integrated its policy initiatives for the IT/ITeS sector with its
+                              own ‘Vision 2023’ in order to provide inclusive and all round
+                              development. The incentives have been carefully formulated to
+                              promote investment, employment and creation of intellectual
+                              capital in the IT/ITeS sectors. The Government has also focused
+                              on providing specific incentives towards Startups and MSME
+                              entities in the sector.
+                                In the above setting, the State Government has proposed to
+                              formulate a new Information Communication Technology (ICT)
+                              Policy with measures to address the specific needs of various
+                              segments within the industry.
+
+
+
+                              1.1. Competitive advantages of Tamil Nadu
+                              Following are the major advantages of Tamil Nadu:
+                                  • Proactive, investor friendly and visionary leadership.
+                                  • Stable Government with investor-friendly policies.
+                                  • Large pool of English speaking and technically qualified
+                                    work force.
+                                  • Reliable infrastructure.
+
+
+
+Information Communication Technology Policy - 2018                                           7
+                                    Incentivizing
+                                     investment,
+                                  employment and
+                                 intellectual capital
+                                       creation
+
+                                                            Integration
+    POLICY
+                                                          with initiatives
+    PILLARS
+                                                          of Vision 2023
+
+                                       Special
+                                  attention to Start
+                                  ups, MSME and
+                                   employment of
+                                       women
+
+
+
+
+       • Availability of international and domestic bandwidth for communication
+         with well-developed telecom network and high tele-density.
+       • High rate of urbanization.
+       • Establishment of Back offices of several Multi-National Corporations
+         (MNCs).
+       • Institutional framework to promote industry academia interface
+      The following are the other advantages available to the industry in Tamil Nadu:
+
+
+    1.1.1. Well Established IT & ITeS Infrastructure
+    in Tamil Nadu
+    There are 38 operational SEZs, out of which 18 SEZs are the IT / ITeS sector
+    specific SEZs in the State. Around 246 IT Parks are in the Pipeline with a built-
+    up space of 146 million sq. feet in Tamil Nadu.
+      IT parks are exclusively Export Oriented Units which focus mainly on Computer
+    software and services related to them. Software Technology Parks of India (STPI)
+
+
+
+8                                                           Government of Tamil Nadu
+has established its parks in Chennai (headquarters), Trichy, Madurai,
+Tirunelveli, & Coimbatore.
+  On the other hand, SEZ particularly provides companies with many
+incentives, which in turn promote Foreign Direct Investment (“FDI”) and
+technology into the state. Tamil Nadu houses many IT & ITeS specific
+SEZs.
+
+
+1.1.2. Educational Excellence
+Tamil Nadu offers the largest pool of technically qualified professionals
+in the country. The annual intake of 573 Engineering Colleges at
+
+
+                                                                               38
+Under Graduate level is 2.6 lakh students. Out of this around 37%
+students (~90,000) specialize in IT, Computer Science, Electronics &
+Telecommunication. Post Graduate courses like MCA (Master of Computer
+Applications) specially designed to suit the needs of IT-BPO industry have     operational SEZs,
+an intake of around 18,000 students. ICT Academy of Tamil Nadu has             out of which
+been established on PPP basis for furthering Industry-Academia interface
+
+
+1.1.3. Communication Infrastructure                                            18
+                                                                               SEZs are the
+Tamil Nadu has an excellent OFC network and availability of reliable           IT / ITeS sector
+large bandwidth. With 3 Submarine Cables, Chennai has one of the largest
+                                                                               specific SEZs in
+bandwidth connected among Indian cities. One of these submarine cable
+has the largest bandwidth of 8.4 terabit per second (tbps). This cable links   the State.
+
+
+                                                                               246
+Chennai with Singapore. The Cable consists of 8 fibre pairs using DWDM
+Multiplexing with full capacity of 8.4 tbps when all 105 wavelengths are
+used. This cable connects with C2C Cable network, SEA-ME-WE 3 and
+Asia Pacific Cable Network. South East Asia–Middle East–Western Europe         IT Parks are in the
+4 (SEA-ME-WE 4) is an optical fibre submarine communications cable             Pipeline with a
+system that carries telecommunications between Singapore, Malaysia,            built-up space of
+Thailand, Bangladesh, India, Sri Lanka, Pakistan, United Arab Emirates,
+
+
+                                                                               146
+Saudi Arabia, Sudan, Egypt, Italy, Tunisia, Algeria and France. This cable
+also has a landing point in Chennai. The third submarine cable that has
+a landing point in Chennai is an India-Singapore Cable System. The
+cable with 5.12 terabit per second has significantly increased the existing    million sq. feet in
+bandwidth capacity into India, which is the second fastest growing             Tamil Nadu.
+communications route in the world. All the three Submarine Cables
+offer a combined bandwidth of over 14.8 tbps. Reliable availability of
+bandwidth has ensured emergence of Chennai as a Data Centre hub.
+  The Government will provide necessary co-ordination and ground work
+to improve tele-density and Broadband penetration and ensure 100%
+reliable and efficient telecom network throughout the State including
+through the Tamil Nadu State Wide Area Network (TNSWAN), National
+Knowledge Network (NKN), BharatNet and TamilNet Projects. The
+Government of Tamil Nadu has set up a State Data Centre and Disaster
+Recovery Centre, Cloud computing facilities, Common Service Centres
+etc. for enhancing citizen access to online Government services.
+
+
+Information Communication Technology Policy - 2018                                            9
+10   Government of Tamil Nadu
+                                     2. Vision for
+                                     IT/ITeS sector
+                                     2.1. Vision objectives
+                                     The Government of Tamil Nadu as part of its Vision
+                                     2023 has envisioned the following for development of
+                                     IT/ITeS sector in the state.
+
+                                        • Availability     of   a    dynamic     information
+                                          architecture
+                                        • Availability of Skilled workforce
+                                        • Knowledge Ecosystem comprising research
+                                          organisations, universities, think tanks, and
+                                          business organisations that focus on enhancing
+                                          the knowledge base
+                                        • An economic and institutional regime
+                                          that incentivises knowledge creation and
+                                          entrepreneurship
+
+
+
+                                     2.2. Vision Targets
+                                     The following have been identified as the targets for IT/
+                                     ITeS sector in Tamil Nadu:
+                                        • To make Tamil Nadu the number one State in the
+                                          sector in India.
+                                        • To make Tamil Nadu the destination of choice
+                                          for foreign investors in the IT/ITeS sector
+
+
+
+Information Communication Technology Policy - 2018                                          11
+• To attract incremental direct
+  investment from foreign and
+  domestic investors across the
+  state
+• To create large scale employment
+  opportunities.
+• To ensure world       class   skill
+  availability.
+• To provide IT/ITeS companies
+  with the best business climate.
+• To make Tamil Nadu as a cost
+  effective      destination   with
+  marginal operating cost, low cost
+  of living and safe and secured
+  social life for the development of
+  IT/ITeS.
+• To encourage IT/ITeS for masses,
+  especially for youth of the state.
+• To make available world class
+  infrastructure with emphasis on
+  promotion of Green IT & ITeS.
+• To enhance the quality of life of
+  citizens through IT & ITeS.
+• To foster mass scale adoption of
+  IT & ITeS for achieving inclusive
+  growth.
+• To encourage new entrepreneurs
+  to establish Warehouse for Start-
+  ups
+• To facilitate growth and usage of
+  Tamil Computing
+• To achieve rapid development of
+  IT & ITeS sector in the southern
+  districts of Tamil Nadu.
+
+
+
+
+12                                      Government of Tamil Nadu
+                                             3. Strategies
+                                              In order to promote Tamil Nadu as an
+                                              ideal investment destination, the following
+                                              strategies are planned:-
+                                                 • Provide industry-grade skill up-
+                                                   gradation and training to the students
+                                                   to suit the requirements of industry and
+                                                   for obtaining gainful employment.
+                                                 • Support Research & Development,
+                                                   Innovation and Entrepreneurship in IT/
+                                                   ITeS Sector
+                                                 • Widen the scope of IT base by
+                                                   encouraging new verticals such
+                                                   as Animation, Gaming & Digital
+                                                   Entertainment, IT Products & Services
+                                                   in    Engineering,   Retail,  Health
+                                                   Management, etc.
+                                                 • Encourage innovative entrepreneurs,
+                                                   Small & Medium Enterprises (SMEs),
+                                                   Women and socially challenged
+                                                   sections, etc., of the society, through
+                                                   special incentives and facilitation.
+                                                   Create     appropriate     institutional
+                                                   measures and supportive technology
+                                                   frameworks for Tamil Computing
+                                                   including standards and specifications
+                                                 • To support early stage Technology
+                                                   Startups in Chennai with high quality
+                                                   physical working infrastructures and
+                                                   ancillary support with cost advantage.
+                                                 The Government envisions setting up
+                                              of hubs for Information Technology (IT)
+                                              services like Software development and
+                                              Product development and IT enabled Services
+                                              (ITeS) like Business Process Outsourcing
+                                              and Knowledge Process Outsourcing. The
+                                              endeavor is to make Tamil Nadu the back-
+                                              office capital of the world by attracting large
+                                              scale information technology based back
+                                              offices for knowledge intensive businesses.
+
+
+
+
+Information Communication Technology Policy - 2018                                        13
+14   Government of Tamil Nadu
+                                         4. Definitions
+                                         4.1. Definition of IT/ITeS
+                                         Companies
+                                         IT/ITeS companies will include IT Services (ITS), IT
+                                         enabled Services (ITeS), Cloud Computing Services,
+                                         Remote Infrastructure Management (RIM), and
+                                         Software Industries, IT maintenance and servicing
+                                         units and Hardware units. IT Services are broadly
+                                         defined as Systems Integration, Processing Services,
+                                         Information Services (IS) outsourcing, Packaged
+                                         Software support and installation, Hardware support
+                                         and installation.
+                                           IT enabled Services are human intensive services
+                                         that are delivered over telecom networks or the
+                                         internet for a range of business segments. IT/ITeS
+                                         as a core business or the IT/ITeS component of the
+                                         business alone shall be included within the scope of
+                                         this Policy.
+                                            1. IT/ITeS component of Medical Transcription
+                                            2. IT/ITeS component       of   Legal   Database
+                                               processing
+                                            3. Digital content development / animation
+                                            4. Digital technology component of media and
+                                               entertainment industry
+                                            5. IT/ITeS component of Remote Maintenance
+                                               activity
+                                            6. Back office operations - Accounts/Financial
+                                               services
+                                            7. Knowledge Process Outsourcing
+                                            8. Data Processing
+                                            9. Call Centres
+
+Information Communication Technology Policy - 2018                                        15
+        10. Engineering and Design element of IT/ITeS infrastructure
+        11. Geographic Information Services
+        12. IT/ITeS component of Human Resources Services
+        13. Insurance Claim Processing
+        14. Payroll Processing
+        15. Revenue Accounting
+        16. IT/ITeS Support Centres
+        17. Website Services
+        18. Business Process Outsourcing ( BPO)
+        19. Animation (a movie using a series of drawings, computer
+            graphics, or photographs of two and three dimensional
+            objects that are recorded in analog or digital media limited
+            to the IT/ITeS component)
+        20. Visual Effects (computer generated imagery using user
+            friendly animation and compositing software limited to
+            the IT/ITeS component)
+        21. Gaming (A game involves human interaction with a user
+            interface to generate visual feedback on a video device
+            using electronic medium limited to the IT/ITeS component)
+        22. Digital Comics (visual medium used to express ideas via
+            images, often combined with text or visual information
+            limited to the IT/ITeS component)
+        23. Data Centre
+        24. Social, Mobile, Analytics and Cloud (SMAC)
+        25. IT/ITeS component of E-Commerce
+        26. Digital Content creation
+        27. E-Learning and Massive Open Online Course Content
+            (MOOC)
+        28. Digital Management and Technology
+        29. Tamil Computing
+
+
+
+     4.2. Definition of Communication providers
+     Communication Providers include Class A, Class B and Class
+     C - Internet Service Providers, Right of Way Memorandum of
+     Understanding (MOU) holders, Basic Service Providers and
+     Value added service providers like the Common Service Centres
+     operators in the State.
+
+
+
+
+16                                            Government of Tamil Nadu
+              5. Key Components
+              and Focus Areas of
+              the Growth Driven
+              Eco System
+              5.1. Areas of focus
+              In the future, to improve IT/ITeS Industries in Tamil Nadu, ELCOT and other
+              Agencies will give more thrust in the following fields/areas in addition to
+              existing business operations:-
+                 • Social, Mobile, Analytics and Cloud (SMAC)
+                 • E-Commerce portal for Government Departments
+                 • e-Learning
+                 • Massive Open Online Course content (MOOC)
+                 • Content Creation
+                 • Digital Management and Technology
+                 • Business Intelligence Software and Analytics
+
+
+
+
+                        E-Commerce         e-Learning         MOOC             Content
+         SMAC              Portal                                              Creation
+
+
+
+
+         Digital           Business          Data                               Tamil
+       Management        Intelligence     Warehousing         ESDM
+                                                                              Computing
+
+
+Information Communication Technology Policy - 2018                                        17
+                         • Data warehousing
+                         • ESDM (Electronics System Design and Manufacturing)
+                           Training
+                         • Tamil Computing
+
+
+                      5.2. Special Focus on Animation and Gaming
+                      The Government of Tamil Nadu will actively encourage Animation
+                      and Gaming Industry in the state. The incentives for investment in
+                      the animation and gaming space will be governed as per this Policy.
+                         To attract and retain IT and ITeS investments in the State,
+                      necessary thrust will be given by the Government in the areas such
+                      as IT specific SEZs, power, telecom, legal including anti-piracy,
+                      data security mechanisms, IP rights, Foreign ownership rights and
+                      transportation infrastructure. Specific initiatives have been briefly
+                      described as under.
+
+
+
+                      5.3. Infrastructure
+Companies
+                      The Government in Information Technology Department has
+desiring to set       accorded administrative sanction and approval for establishing
+up units in the       Warehouse for Startups at Chennai and Coimbatore and Startup
+state can avail       Warehouse Board. Infrastructure facilities required for SMAC and
+themselves of the     Data Centers are being provided by the Government. It has also set
+facilities provided   up rural BPOs and Common Service Centres.
+in ELCOSEZs.            In order to facilitate overall infrastructure development,
+The possibility       the Government has enacted the Tamil Nadu Infrastructure
+                      Development Act (TNIDA) and has also constituted the
+of setting up
+                      Tamil Nadu Infrastructure Development Board (TNIDB). The
+ELCOSEZs in new       Government has also identified priority infrastructure projects
+locations will be     across sectors and many of them are under implementation
+explored based
+on demand and
+viability.
+                      5.3.1. Information Technology Specific Special
+                      Economic Zones
+                      In order to make development more inclusive, Tier II cities such as
+                      Coimbatore, Madurai, Trichy, Tirunelveli, Hosur and Salem have
+                      been promoted as IT investment destinations apart from the Chennai
+                      region. To facilitate this, ELCOT has established ELCOSEZs (IT
+                      Specific Special Economic Zones) in the following eight locations:
+                         • Chennai - Sholinganallur
+                         • Coimbatore - Vilankurichi
+                         • Madurai -Ilandhaikulam
+                         • Madurai - Vadapalanji-Kinnimangalam
+                         • Trichy - Navalpattu
+
+18                                                            Government of Tamil Nadu
+
+
+
+
+        Map
+       • Tirunelveli - Gangaikondan
+       • Salem - Jagirammapalayam
+       • Hosur - Viswanathapuram
+
+      ELCOT       has   created    necessary     basic
+    infrastructural facilities in all the above
+    ELCOSEZs. Companies desiring to set up units
+    in the state can avail themselves of the facilities
+    provided in these ELCOSEZs. The possibility of
+    setting up ELCOSEZs in new locations will be
+    explored based on demand and viability.
+
+
+    5.3.2. Transport
+    Tamil Nadu has well connected rail and road
+    system. The Government will focus on developing
+    Tier-II & Tier-III cities of Tamil Nadu as well as
+    IT hubs around Chennai, by developing required
+    infrastructure. Government is focused on further
+    improving transport infrastructure in Tier II and
+    III Cities to cater to the needs of Sector and spur
+    investments in the state.
+      Tamil Nadu has also the unique distinction of
+    being home to four International Airports
+
+
+    5.3.3. Power
+    The Government of Tamil Nadu / TANGEDCO will
+    give priority to good quality and uninterrupted
+    power supply to IT/ITeS Companies located
+    throughout the State of Tamil Nadu. Dedicated
+    feeders will be provided for units requiring more
+    than 10 MVA if they pay the entire cost. The
+    electricity supply will be extended as per the
+    norms fixed by TNERC. Industries that seek a
+    second feeder from an independent source will
+    be provided the same on payment of the feeder
+    infrastructure cost. The Power tariff applicability
+    for IT and ITES units shall be as per notification
+    issued by Tamil Nadu Electricity Regulatory
+    Commission (TNERC).
+       The Government of Tamil Nadu will fast-
+    track power projects and endeavour to provide
+    uninterrupted power supply to IT/ITeS units.
+
+                   IT Specific Special Economic Zones
+
+
+
+Information Communication Technology Policy - 2018        19
+20   Government of Tamil Nadu
+               6. Skill Development
+                Skill Development is an important focus area of the Government. Assistance for
+                skill enhancement is being provided as per the Tamil Nadu Rural BPO Policy.
+                The Government is committed to skill development through the following
+                initiatives:
+                   • The Government has implemented the Skill Development Mission with
+                     strong industry linkages for Training and Skill Development. Emphasis
+                     will be given to ensure that students going to vocational streams can
+                     eventually link up with the academic stream and realize their aspiration
+                     for obtaining technical degrees through “Learn While You Work”
+                     programmes.
+                   • Government of Tamil Nadu has already launched the scheme for Free
+                     distribution of Laptop Computers to the +2 School students studying
+                     in Government and Government aided schools and students studying
+                     in Government and Government aided colleges to facilitate their
+                     acquisition of better computer skills. This will make them ready to meet
+                     the expectations of IT/ITeS sector.
+                   • The Government of Tamil Nadu has instituted the ICT Academy of
+                     Tamil Nadu (ICTACT). This is a joint initiative of Government of India,
+                     Government of Tamil Nadu and IT Industry. Its prime focus is to improve
+                     the quality of students graduating from various institutions in the State,
+                     to make them industry ready and immediately employable in the ICT
+                     industry.
+                      The Government will also provide skill development and upgradation in
+                      the following areas to meet the expectations of the IT & ITeS sector:
+                   • The Government will take necessary efforts to impart employability
+                     skills to address the challenges of the IT/ITeS industry.
+                   • The Government will encourage industries to collaborate with colleges
+                     in creating centers of excellence in new technologies and research.
+                   • Creation of Skilled workforce with a knowledge of foreign languages will
+                     be encouraged to enable them to compete in the international arena
+                   • The National Knowledge Network (NKN) which is a National Level High
+                     speed Network for connecting academic institutions across India and
+                     also for linking with the global scientific community, will be leveraged
+                     for industry - academia interface.
+
+
+
+
+Information Communication Technology Policy - 2018                                          21
+22   Government of Tamil Nadu
+                      7. Incentives
+                      In order to promote employment throughout the State and for the benefit
+                      of the rural students, the Government has decided to extend higher levels
+                      of incentives and subsidies to the companies which are ready to invest
+                      in Tier II and Tier III cities such as Coimbatore, Madurai, Trichy, Salem,
+                      Tirunelveli and Hosur as well as in rural locations.
+
+
+                      7.1. Standard Fiscal Incentives
+                      All IT/ITeS industries in Tamil Nadu (those who otherwise do not qualify
+                      for the structured package as defined in this Policy) will be eligible for
+                      the following standard incentives:
+                      i. Capital Subsidy and Electricity Tax Exemptions: Irrespective of the
+                         location of the project, new or expansion manufacturing units will be
+                         given a back ended capital subsidy and electricity tax exemption on
+                         power purchased from the Tamil Nadu Generation and Distribution
+                         Corporation Ltd. (TANGEDCO) or generated and consumed from
+                         captive sources based on employment and investment in fixed assets/
+                         eligible assets as the case may be, made within the investment period
+                         as detailed below:
+
+                            Investment in          Direct    Capital      Electricity tax
+                             fixed assets /    employment subsidy exemption (in number
+                             eligible fixed    (in numbers) (` crore) of years) from date of
+                            assets (` crore)                          commercial operation
+                                 5-50              500         0.30            2 years
+                               50 - 100        500 – 1000      0.60            3 Years
+                               100 - 200       1000 – 2000     1.00            4 Years
+                               200 - 500       2000 - 4000     1.50            5 Years
+
+                      ii. The proof of employment shall be provided in the form of EPF
+                          transactions or TDS deductions and payments. The subsidy shall be
+                          paid at the end of 3 years in A&B locations and 4 years in C location
+                          subject to satisfaction of conditions mentioned in the table above.
+                          (Please refer to 7.3 for classifications)
+                      iii. New or expansion IT/ITeS industries located in ELCOT promoted
+                           SEZs/IT Parks in A districts will be provided an additional capital
+
+
+Information Communication Technology Policy - 2018                                          23
+        subsidy of 50% over and above the eligible limit, enumerated in
+        the table above.
+     iv. New or expansion IT/ITeS industries located in B & C districts
+         will be provided an additional capital subsidy of 10% and 25%
+         respectively over and above the eligible limit, enumerated in the
+         table above.
+
+
+     7.2. Special Incentives for MSME units
+     Financial Assistance will be provided to new and expansion MSME
+     units in B and C locations subject to the following conditions:
+        • Units attaining a level of at least 50 employees within 3 years
+          alone shall be eligible for this incentive
+        • Training would be provided free of cost through Tamil Nadu
+          Skill Development Corporation (TNSDC) as per National
+          Skill Development Corporation (NSDC) Norms (which
+          include transport subsidy) to prospective employees who
+          have requisite qualifications and need skill up-gradation.
+       The above mentioned assistance would be capped at 100
+     employees per year per unit for a maximum of 3 years.
+        • Startups and MSMEs will be provided a subsidy of 10% on
+          lease rentals subject to a maximum of `2 lakhs per annum
+          for a period not exceeding three years, on built up office
+          space ranging from 1000 sq.ft to 5000 sq.ft leased by these
+          units in Government promoted IT SEZs.
+        • The Government would facilitate tie up with reputed Business
+          Analyst Firms to evaluate the strengths of MSMEs, so that
+          MSMEs can market themselves in international markets.
+        • Government would support linkages of smaller IT/ITeS
+          companies with bigger firms.
+
+
+     7.3. Fiscal Incentives (Structured package)
+     a) For the purpose of administering this Structured package of
+        incentives based on mandatory investment and employment
+        criteria mentioned in this policy, the districts have been
+        classified as under:
+
+          Locations    Description – Districts classification
+
+              A        Chennai, Tiruvallur and Kancheepuram
+
+              B        Other than A & C (20 Districts)
+
+              C        Madurai, Theni, Dindigul, Sivagangai,
+                       Ramanathapuram, Virudhunagar, Tirunelveli,
+                       Thookthukudi and Kanniyakumari.
+
+
+24                                           Government of Tamil Nadu
+b) “Mega Project” for the purpose of this incentive means an IT/ITeS
+   project, new or expansion, with the following investment ranges
+   and employment criteria for the above locations as defined in
+   the table below.
+
+               Criteria                         Location
+                                        A          B           C
+    Investment range (` crore)       500 and    350 and     200 and
+                                      above      above       above
+    Employment (Minimum               6,000      4,000       2,000
+    number of employees)
+    Timeline within which target        3           3          4
+    is to be achieved (years)
+
+c) The IT/ITeS companies which make the investment for own use
+    alone will be eligible for the incentives and subsidies.
+d) The structured package of incentives would be extended to
+   industries on a case to case basis
+e) The investment period will be reckoned from the date of executing
+    an MoU with the Government or any other date, as may be
+    defined by the Government.
+f) IT/ITeS industries in existence in Tamil Nadu for over 10 years
+    will be given suitable extra benefits for expansion projects over
+    and above the normal structured package of incentives, subject
+    to investing the minimum level of investment mentioned above.
+g) Employment criteria is a mandatory condition to claim fiscal
+   inventive. The proof of employment shall be provided in the
+   form of EPF transactions or TDS deductions and payments. The
+   subsidy shall be paid at the end of 3 or 4 years.
+  The clause “c” to “g” are general in nature and applicable to all
+the three categories of districts uniformly.
+
+
+7.4. Special Incentives for B &C locations
+IT/ITeS units coming up in B and C locations will be given special
+incentives for setting up Sewerage Treatment Plant and Reverse
+Osmosis (RO) Plant.
+
+
+7.5. Reimbursement of Stamp Duty
+• 50% reimbursement of stamp duty and registration fee will be
+  given on transaction of land/building for IT/ITeS in C districts
+  for first transaction of a particular land/building for the purposes
+  of development of IT/ITeS industrial unit(s) considered in
+  this policy. No reimbursement would be given for subsequent
+  transactions for the same land/building. This will be conditional
+  to the concerned entity putting up the facilities to commence the
+
+Information Communication Technology Policy - 2018                       25
+        operations within three years from the date of the transaction.
+        The certification in this regard will be undertaken by ELCOT.
+        Category A,B and C locations are as defined as in clause 7.3 of
+        this Policy.
+     • The rules for administration of this exemption will be notified
+       subsequently
+
+
+     7.6. Administrative Incentives
+     • IT/ITeS companies are exempted from the provisions of Chapter
+       II and III of the Tamil Nadu Shops and Establishments Act, 1947.
+     • IT/ITeS companies are exempted from the provisions of Section
+       5 (2) (a) (i) and (ii) of the Tamil Nadu Industrial Establishment
+       (National and Festival Holidays) Act, 1958.
+     • IT/ITeS companies will be permitted to self-certify that they are
+       maintaining the registers and forms as contemplated under
+         i.    Tamil Nadu Shops and Establishment Rules, 1947
+         ii.   Tamil Nadu Payment of Gratuity Rules, 1972
+         iii. Tamil Nadu Maternity Benefits Rules, 1964
+         iv.   Tamil Nadu Contract Labour Rules, 1975
+         v.    Tamil Nadu Minimum Wages Rules, 1953
+         vi. 	Contract Labour Act, 1970
+         vii. Payment of Gratuity Act, 1972
+         viii. Tamil Nadu Industrial Establishment (National and
+               Festival) Holidays Act, 1958.
+         ix. Tamil Nadu Industrial Establishments (National and
+             Festival) Holidays Rules, 1959
+         x.    Tamil Nadu Payment of Wages Rules, 1937
+         xi. 	Employment Exchange Act, 1959
+         xii. 	Equal Remuneration Act, 1976
+         xiii. The Workmen’s Compensation Act, 1923
+         xiv. 	Employees’ Provident Fund & Miscellaneous Provisions
+               Act, 1952
+        Flexibility in labour laws shall be adopted without compromising
+     labour welfare, subject to applicable labour laws and within the
+     parameters of the Industrial Employment (Standing Orders) Act,
+     1946 (Central Act 20 of 1946). The flexibility in working hours,
+     working in three shifts and employment in night shifts may be
+     allowed for women employees, provided; all necessary security
+     arrangement, facilities of rest room and safe transportations are
+     arranged; the employers have to ensure that night shift work may
+     be carried out under the supervision of women supervisors and
+     ensure the presence of women security officers. The employers may
+     also constitute internal complaints committee as per the Sexual
+     Harassment of Women at Work place Act, 2013.
+
+26                                            Government of Tamil Nadu
+  This self-certification by the IT/ITeS companies will be regarded
+as sufficient compliance with the requirements of the different
+Acts and the Rules made there under regarding the maintenance of
+registers and filing of the returns.
+  E-filing of returns will be implemented progressively after all the
+offices of the concerned Inspectors are computerized for receiving
+such returns to make the process efficient, effective, transparent
+and citizen- friendly.
+  Government will also take necessary action for introduction of
+Common Annual Returns in place of multiple returns and reduction
+in the number of registers maintained at present.
+   The Government will evolve appropriate mechanisms for ensuring
+the job security of IT Professionals at the same time keeping in
+mind the interests of the IT industry and industry practice in other
+States. The interventions will include encouraging movement away
+from services to product based industries, re-skilling of middle
+level employees, creating eco-systems for Start-ups and Angel
+Investments and so on.
+
+
+7.7. Quality Certification Financial
+Assistance for MSMEs
+MSMEs shall be reimbursed 50% of the costs towards certification
+subject to a maximum of ` 5 lakh for certifications listed in Annexure
+I. This incentive can be availed only once.
+
+
+7.8. Patent Filing Fiscal Incentive
+MSMEs shall be reimbursed 50% of the statutory fees for filing
+of patents. The reimbursement amount will be limited to `3 lakh
+for domestic patent and ` 5 lakh for international patent. This
+incentive can be availed up to 5 times in a period of 5 years. The
+headquarters of the IT/ITeS unit must be located in Tamil Nadu to
+avail this benefit.
+
+
+7.9. Market Development Assistance
+The state shall strive to promote IT sector by specialized exhibitions,
+stalls and seminars in state sponsored events and encourage
+marketing to the best possible extent.
+
+
+
+
+Information Communication Technology Policy - 2018                        27
+     8. Relaxation of FSI
+     Relaxation of FSI (Floor Space Index) to a maximum extent of 100% will
+     be given in designated IT - ITeS Parks all over the State. The certification
+     in this regard will be undertaken by ELCOT.
+
+
+
+     9. Open Space Reservation (OSR)
+     9.1. OSR for SEZ
+     The provisions pertaining to OSR for SEZ’s shall be as per the provisions
+     of the G.O. (Ms).No. 200, Housing and Urban Development [UD4(1)]
+     Department, dated 05.08.2013 included in the Annexure II to this Policy.
+
+
+     9.2. OSR for non SEZs
+     The request of the IT/ITeS companies for maintaining the Open space
+     will be considered as per the Open Space Reservation (OSR) Rules under
+     the Development Regulations of the Chennai Metropolitan Development
+     Authority favorably. A similar provision will also be made in respect of
+     areas falling outside the CMDA.
+
+
+
+     10. Maintenance of Roads and
+     Common Utilities
+     The Government will adopt an eco-system development approach
+     and attempt to develop the physical infrastructure required for the
+     development of IT/ITeS industry. In case of SEZ or IT Parks, the
+     developer shall be responsible for proper maintenance of internal roads,
+     water distribution infrastructure, street lighting, drainage facilities,
+     landscaping, and Green area, etc. The developers will be exempted from
+     transferring the same to the Local bodies. But link roads to public roads
+     should be handed over to Local Bodies. However, property tax shall be
+     payable to Local bodies.
+
+
+
+     11. Research and Development
+     The Government will foster an environment that is conducive to IT
+     Innovation and Research by instituting IT Innovation Awards, making
+     space available in ELCOT promoted ELCOSEZ for innovators and
+     researchers, creating a fund that can support and help incubate innovators
+     etc. The Government of Tamil Nadu will explore the feasibility of
+     setting up of research parks in the State. The Government will facilitate
+     interaction between educational institutions and industries to set up
+     research labs in a Public Private Partnership (PPP) model.
+
+
+
+28                                                  Government of Tamil Nadu
+12. Green IT/ITeS
+In order to ensure growth of the IT/ITeS Sector in an environmental friendly,
+sustainable and responsible manner, the Government will take steps to
+facilitate Green IT Parks as well as the stand alone units in such parks to get
+clearance relating to environment and other benefits. The Government will
+also institute Awards for promoting Green IT industry.
+
+
+
+13. Annual and Special Awards
+The Government will institute / select Annual Awards for excellence in
+export performance to the best IT/ITeS industry in order to encourage IT/ITeS
+companies to achieve maximum export from the State of Tamil Nadu.
+  Special awards will be given to IT/ITeS units which give at least 4%
+employment opportunities to the differently abled persons.
+
+
+
+14. Single Window Facilitation
+To avoid procedural delays for creation of IT infrastructure, Single
+window facilitation will be available for all IT/ITeS industries
+through Tamil Nadu Industrial Guidance and Export Promotion
+Bureau for coordination with various Agencies such as Chennai
+Metropolitan Development Authority (CMDA), Directorate of
+Town and Country Planning (DTCP), Tamil Nadu Fire and Rescue
+Services (TNF&RS), Tamil Nadu Police, Tamil Nadu Pollution Control Board,
+Chennai Metropolitan Water Supply and Sewerage Board (CMWSSB) and
+Airport Authority of India (AAI) to get the clearances from them.
+
+
+
+15. Corporate Social Responsibility
+Government recognizes that companies assisted through a structured package
+of assistances have a responsibility to the society and community around
+their IT / ITeS facilities. Investing IT/ITeS companies in Tamil Nadu will be
+encouraged to participate in community and social development activities.
+Suitable provisions will be incorporated in the Memoranda of Understanding
+signed with such companies by following the provisions indicated in the
+Companies Act 2013 pertaining to Corporate Social Responsibility.
+
+
+
+16. Mechanism for disbursal of Incentives
+A suitable mechanism that ensures speed and transparency for disbursal of
+incentives will be put in place. ELCOT is mandated to act as the implementation
+agency for the various incentives listed out in this policy. A committee will
+be constituted for this purpose to evaluate the proposals. Detailed guidelines
+governing this will be issued separately.
+
+
+
+Information Communication Technology Policy - 2018                                29
+ 17. Tamil Computing and
+ Tamil Virtual Academy (TVA)
+ TVA will coordinate Tamil Computing related sectors with the following aims:
+     • To create necessary standard and architecture for Tamil Computing.
+     • To Develop Tamil Software for Government applications in the areas
+       of Education, Commerce, Technology etc., and Maintenance and up
+       gradation of software for Web server
+     • To create Incubation facilities for young entrepreneurs
+     • To facilitate online collaboration and dissemination in respect of Tamil language,
+       culture and heritage.
+
+
+
+ 18. Connectivity
+     • The Government of Tamil Nadu will facilitate single window clearance of all Right
+       of Way applications for facilitating faster roll-out of connectivity in the State.
+     • The Government of Tamil Nadu will facilitate for installation of Base Transceiver
+       Station (BTS) Towers and Exchanges by the Communication Service Providers.
+
+
+
+ 19. New Technologies
+ Government will encourage innovation and research in emerging technologies and also
+ create an eco-system for these technologies to thrive. The Government will encourage
+ IT/ITeS Companies in Tamil Nadu to take all steps to enhance awareness and impart
+ training to their employees to upgrade the employability skills of their employees in the
+ emerging technologies like:
+     • Artificial Intelligence, Machine learning and Robotics
+     • 3D Printing
+     • IT application in different sectors
+        • Banking Financial Service Industries (BFSI)(FinTech)
+        • Health and medicine (MedTech)
+        • Agriculture ( AgriTech)
+        • Online Education and training (Edutech) etc.
+     • Internet of Things (IoT)
+     • Block Chain Technology
+     • Data analytics
+
+
+
+ 20. Conclusion
+ The Policy endeavors to strengthen the position of Tamil Nadu in the IT/ITeS space and
+ help in becoming the most preferred investment destination in the country. n
+
+
+
+30                                                                   Government of Tamil Nadu
+                                Annexure – I
+
+
+
+  The following certifications to be eligible to avail reimbursement incentive
+
+
+                              Quality Certifications
+   ISI                 Provided by BSI certifying conformity with Indian standards
+
+   ISO 9000            Quality Management Systems standard related to quality of product
+
+   ISO 27001           Standard pertaining security of information assets of organizations
+
+   CMM                 Framework for assessing and improving operational processes’
+   (level 2 upwards)   effectiveness.
+
+   P-CMM               Framework for assessing and improving organization’s human
+                       capabilities.
+
+   BS                  Pertaining Information Security Management System
+
+   COPC                Performance linked standard certification in call centre industry.
+
+   eSCM                Performance linked standard certification in ITeS industry
+
+   CCC & CE            Certification pertaining conformity with Chinese and European
+                       standards respectively.
+
+
+
+
+Information Communication Technology Policy - 2018                                           31
+                              Annexure – II
+
+G.O.(Ms) No.200, Housing and Urban Development (UD4(1)
+             Department, Dated 05.08.2013
+
+
+
+
+                                       ABSTRACT
+Urban Development – Development of Special Economic Zone (SEZ) - Special Economic Zone
+Act, 2005 – Handing over of Open Space Reservation (OSR) Area and Roads by Special Economic
+Zone Developers Exemption from relevant Development Regulations and Development Control
+Regulations Notifications - Issued.
+                    Housing and Urban Development [UD4(1)] Department
+G.O.(Ms).No.200                                                              Dated: 05.08.2013
+
+
+
+
+Read:
+  1. G.O.(Ms). No.192, Housing and Urban Development Department, dated 08.09.2010.
+  2. G.O.(Ms.) No.23, Housing and Urban Development Department, dated 24.01.2012.
+  3. From the Additional Secretary, Government of India, Ministry of Commerce and Industry,
+      Department of Commerce letter No.D12/32/2009-SEZ, dated 30.04.2012.
+
+ORDER:
+
+The Government of Tamil Nadu have given their consent for functioning of Special Economic
+Zones in the State under the Special Economic Zone (SEZ) Act 2005. As per the rules and
+procedures in force in the State, for according approval to any layout exceeding 3000 sq.m, in
+Chennai Metropolitan Area and 2500 sq.m. in Commissioner of Town and Country Planning areas,
+10% of land area has to be reserved as Open Space Reservation (OSR) area and all the internal
+roads in the layout have to be gifted to local body through a gift deed.
+
+2.	As the SEZ developers represented for maintenance of OSR area and roads by themselves,
+   orders were issued in Government Order first read above that Open Space Reservation area
+   and roads shall be handed over to respective local bodies by SEZ Developers and local bodies
+   in turn shall give the same back on lease to respective SEZ developers for maintenance. The
+   above Government Order was rendered impracticable as it contravenes SEZ Act 2005.
+
+
+
+
+32                                                                  Government of Tamil Nadu
+3.	Later, the Government vide Government Order second read above issued orders requiring 10%
+   of land within SEZs to be handed over to respective local bodies by SEZ developers as Open
+   Space Reservation land through a registered lease deed for a period of 99 years.
+
+4. 	Now, in the letter third read above, the Additional Secretary to Government of India, Ministry
+    of Commerce & Industry, Department of Commerce has stated that this order is in conflict with
+    certain explicit provisions of the SEZ Act, 2005 and SEZ Rules 2006 under which a developer
+    is permitted only to lease SEZ land either to a co-developer or a unit. The local body, being
+    neither a co-developer nor a unit of an SEZ, is not permitted to be a lessee of the SEZ land.
+
+	Further, SEZs are custom bounded areas and, therefore handing over to any person, who is not
+  a co-developer or unit or allowing access to persons not otherwise authorised to be in SEZ, is
+  not permitted under the SEZ Act / Rules. Moreover, Section 51 of the SEZ Act provides that
+  the provisions of the SEZ Act will have effect notwithstanding anything inconsistent therewith
+  contained in any other law for the time being in force or in any instrument having effect by
+  virtue of any law other than the SEZ Act and had therefore requested to keep the Government
+  Order 2nd cited in abeyance.
+
+5. The Government after careful consideration of the request of the Additional Secretary, Ministry
+    of Commerce and Industry mentioned in para 4 above, have decided to accept the above
+    request. Accordingly, in supersession of orders issued earlier vide Government Order second
+    read above the Government lay down the following stipulations in respect of handing over of
+    OSR area and roads in SEZs in Tamil Nadu.
+   a. In respect of existing SEZ, the OSR area and internal roads need not be handed over to the
+      local body, but the same would be maintained by the SEZ developer only as the OSR area
+      or road without any kind of development in the OSR land except as a green space (park).
+   b. The space covered under OSR would be entered in the caution register and the planning
+      authority should never issue development permission in this space.
+   c. SEZ developer and the Development Commissioner of SEZ would give separate under-
+      takings to maintain the OSR land and internal roads during the operation of the SEZ and
+      handover the OSR area and internal roads to the local body in case the SEZ is denotified.
+   d. In respect of future SEZs, the developer should handover 10% of the total area as OSR area in
+      a place abutting a public road with a minimum of 10m width and it should not be included
+      in the SEZ notified area, and the developer should handover a road in the periphery of the
+      SEZ to provide access to rear lands. This road should be handed over to local body. In respect
+      of internal roads, the procedure as proposed for existing SEZ would apply i.e., maintenance
+      and ownership will be with SEZ developer but with separate undertakings signed by the SEZ
+      developer and by the Development Commissioner, SEZ to hand over the same to the local
+      body in case the SEZ is denotified.
+
+6. The Director of Town and Country Planning and the Member Secretary, Chennai Metropolitan
+   Development Authority are directed to pursue action accordingly.
+
+7. The Works Manager,  Government Central Press, Chennai - 600 079 is directed to publish the
+   appended Notification in the next issue of Tamil Nadu Government Gazette and send   ten
+   copies  of the Gazette notification to Government.
+
+                                (BY ORDER OF THE GOVERNOR)
+
+                                                             THANGA KALIYAPERUMAL
+                                                              SECRETARY TO GOVERNMENT
+
+Information Communication Technology Policy - 2018                                              33
+                                         APPENDIX
+                                       NOTIFICATION
+In exercise of the powers conferred by section 113 of Tamil Nadu Town and Country Planning
+Act, 1971 (Tamil Nadu Act 35 of 1972), the Governor of Tamil Nadu hereby exempts the SEZ
+Developers from Regulation 29 (7) (a) of Development Regulations of Master Plan 2026 for
+Chennai Metropolitan Area and Regulation 9 (3) (ii) of Development Control Rules of Master Plan
+of other areas regarding handing over of Open Space Reservation and Roads, in supersession of
+earlier notification issued vide in Notification No.II(2)/HOU/110/2012 in Tamil Nadu Government
+Gazette, No.6, Part-II, Section 2, dated 15th February 2012, subject to the following conditions:-
+
+     a. In respect of existing SEZ, the OSR area and internal roads need not be handed over to the
+        local body, but the same would be maintained by the SEZ developer only as the Open Space
+        Reservation area or road without any kind of development in the Open Space Reservation
+        land except as a green space (park).
+
+     b. The space covered under Open Space Reservation would be entered in the caution register
+        and the planning authority should never issue development permission in this space.
+
+     c. SEZ developer and the Development Commissioner of SEZ would give separate undertakings
+        to maintain the Open Space Reservation land and internal roads during the operation of the
+        SEZ and handover the Open Space Reservation area and internal roads to the local body in
+        case the SEZ is denotified.
+
+     d. In respect of future SEZs, the developer should handover 10% of the total area as Open
+        Space Reservation area in a place abutting a public road with a minimum of 10m width
+        and it should not be included in the SEZ notified area, and the developer should handover
+        a road in the periphery of the SEZ to provide access to rear lands. This road should be
+        handed over to local body.
+
+In respect of internal roads, the procedure as proposed for existing SEZ would apply i.e.,
+maintenance and ownership will be with SEZ developer but with separate undertakings signed
+by the SEZ developer and by the Development Commissioner, SEZ to hand over the same to the
+local body in case the SEZ is denotified.
+
+
+
+
+                                                            THANGA KALIYAPERUMAL,
+                                                              SECRETARY TO GOVERNMENT
+
+
+
+
+34                                                                     Government of Tamil Nadu
+                                  Annexure – III
+
+
+Abbreviations:
+1. AAI - Airport Authority of India
+2. BPO - Business Process Outsourcing
+3. BTS - Base Transceiver Station
+4. BFSI - Banking Financial Service Industries
+5. BSI - British Standards Institution
+6. CMM - Capability Maturity Model
+7. CMDA - Chennai Metropolitan Development Authority
+8. CMWSSB - Chennai Metropolitan Water Supply and Sewerage Board
+9. COPC - Customer Operations Performance Centre
+10. DTCP - Directorate of Town and Country Planning
+11. DWDM - Dense Wavelength Division Multiplexing
+12. EPF - Employees Provident Fund
+13. ESDM - Electronics System Design and Manufacturing
+14. FDI - Foreign Direct Investment
+15. ICT - Information Communication Technology
+16. ICTACT - ICT Academy of Tamil Nadu
+17. IoT - Internet of Things
+18. ISI - Indian Standards Institute
+19. ISO - International Organization for Standardization
+20. IT - Information Technology
+21. ITeS - Information Technology enabled Services
+22. MVA - Mega Volt Amp
+23. MCA - Master of Computer Applications
+24. MNCs - Multi-National Corporations
+25. MOOC - Massive Open Online Course
+26. MOU - Memorandum of Understanding
+27. MSME - Micro , Small and Medium Enterprises Department
+28. NKN - National Knowledge Network
+29. NOFN - National Optical Fibre Network
+30. NSDC - National Skill Development Corporation
+31. OFC – Optical Fiber Cable
+
+
+Information Communication Technology Policy - 2018                 35
+  32. OSR - Open Space Reservation
+  33. PPP - Public-Private Partnership
+  34. RIM - Remote Infrastructure Management
+  35. RO - Reverse Osmosis
+  36. SEZs - Special Economic Zones
+  37. SMAC - Social, Mobile, Analytics and Cloud
+  38. SSA – Secondary Switching Area
+  39. STPI - Software Technology Parks of India
+  40. TANGEDCO - Tamilnadu Generation and Distribution Corporation Ltd.
+  41. TDS - Tax Deducted at Source
+  42. TNSWAN - Tamil Nadu State Wide Area Network
+  43. TNIDA - Tamil Nadu Infrastructure Development Act
+  44. TNIDB - Tamil Nadu Infrastructure Development Board
+  45. TNERC - Tamil Nadu Electricity Regulatory Commission
+  46. TNSDC - Tamil Nadu Skill Development Corporation
+  47. TNF&RS - Tamil Nadu Fire and Rescue Services
+  48. TVA - Tamil Virtual Academy
+
+
+
+
+                              Annexure – IV
+
+Definitions of Communication Providers:
+1. Class A (National Area) – This license is for Pan India operations.
+
+2. Class B (Telecom Circle/Metro Area) – Class B license is issued for a total of 20 major states
+   or any of the following Metro Cities – Mumbai, New Delhi, Kolkata, Chennai, Bengaluru. The
+   Government keeps issuing notifications regarding territories declared as telecom circles and
+   metro areas from time to time.
+
+3. Class C (Secondary Switching Area (SSA)) – This license is for only a particular secondary
+   switching area. A secondary switching area is a government defined territory which could
+   comprise several small villages, towns or even districts. A class C license holder will have
+   access to any 1 particular SSA only, unless he applies for multiple authorizations under one
+   unified License.
+
+
+
+
+36                                                                       Government of Tamil Nadu
+                             NATIONAL POLICY
+
+
+         National Policy on Information Technology, 2012
+                           (NPIT 2012)
+
+PREAMBLE
+Information Technology is a key driver of an increasingly knowledge based global economy. A
+knowledge based economy is now a sine qua non for leadership. Given its current global position in
+the IT and ITES sector, India is well positioned to enhance and leverage its IT capabilities towards
+this end. Technology has transformational power. It is a great leveler of opportunity within and
+across economies. Recognizing this potential of IT, several economies in the Asia-Pacific region
+have invested in infrastructure and adopted proactive policies to foster adoption of IT pervasively.
+Consequently their economies have experienced much faster and more equitable growth and their
+development indices have moved up rapidly.
+
+India aspires to become a knowledge economy with a global role. The Indian economy has
+achieved a growth rate of around 8 % over the last decade, and the contribution of IT Sector to
+this growth is significant. The Indian IT industry is a USD 100 Billion industry (2011-12) with
+80% of the revenues coming from exports. The Indian IT & ITES sector employs over 2.8 million
+skilled people. The IT sector has been one of the major employment generators in the last two
+decades. The global IT-ITES market has been growing. Current negative trends in many economies
+around the globe provide both challenges and new opportunities. New competitors emerge, often
+unpredicted. This flux in the global economy highlights the need for constant reappraisal of
+strategy and the imperative of identifying new markets and new services and seeking ways to
+leverage and extend the reach of domestic non-IT services like engineering, health, education,
+skill development, security, legal, financial, accounting, transport & logistics etc. There is room for
+growth but no room for complacency. A conducive policy environment and a concerted strategy is
+needed for the country to remain a global player on a long term basis.
+
+While IT export growth is satisfactory despite global recession in the last few years, the impact of
+IT within the country is uneven. Despite relatively sluggish growth of the domestic market and
+low levels of ICT usage and penetration in the past, today there are very encouraging signs of
+accelerating recourse to ICTs in most sectors of the economy and society. There are many drivers
+propelling this change. Global competition, pressure to cut costs and improve efficiency, need to
+address IT-savvy global and domestic markets and compulsion to provide client-centric services to
+a large number of customers are some of the factors responsible.
+
+However, the bulk of Indian IT exports is still targeted towards North America and Europe. Besides,
+major IT hubs like Bangalore, Chennai, Hyderabad, Mumbai, Pune and NCR which account for
+nearly 90% of the total Industry in India are near saturated and face infrastructural challenges
+and human resource constraints for further expansion. This necessitates the absolute imperative
+
+
+
+Information Communication Technology Policy - 2018                                                 37
+for Indian IT and ITES Industry to diversify into Tier II and Tier III cities. Emerging technologies
+such as Mobile Technology, Localization, Virtualization, and Cloud Computing provide Indian IT /
+ITES industry a major opportunity to become partners in value creation and drive transformation
+domestically.
+
+India today stands at the cusp of development. The Indian workforce is young - with 50% of the
+population below 25 years. The younger generation is also quick to adopt new technologies. This
+factor is one of our core competitive strengths. Relying on this advantage, enhanced use of ICT
+(Information & Communication Technologies) can help usher in sustained growth of the Indian
+economy.
+
+ICT is known to have transformed businesses and created new products and markets and improved
+the productivity and efficiency in other sectors. Sectors like Finance, Retail, Courier, Media are
+just a few examples in this context. For India to retain its competitive edge in sectors in which
+it is traditionally strong like textiles as also in emerging sectors, it is imperative that ICTs are
+appropriately adopted. Similarly, the importance of ICTs in strategic sectors like Defence, Atomic
+Energy, Space etc is paramount.
+
+The National Policy on IT focuses on application of technology-enabled approaches to overcome
+monumental developmental challenges in education, health, skill development, financial
+inclusion, employment generation, governance etc. to greatly enhance efficiency across the board
+in the economy. The policy seeks to achieve the twin goals of bringing the full power of ICT within
+the reach of the whole of India and harnessing the capability and human resources of the whole
+of India to enable India to emerge as the Global Hub and Destination for IT and ITES Services by
+2020. The focus of the IT policy is therefore on deployment of ICT in all sectors of the economy
+and on providing IT solutions to the world. The Policy aims at attaining these objectives through
+coordinated action on the part of both the Central and State governments.
+
+Emerging technology trends will make it possible for millions of citizens to access services
+electronically in self-service mode using mobile phones and the Internet or through assisted
+service points such as Common Services Centers etc. This goal is made possible through ubiquitous
+network connectivity based on mobile technology, broadband Internet, fiber penetration to all
+villages, high-technology and low-cost affordable devices and software solutions which enable
+electronic access to services including e-payments.
+
+A unique AADHAAR based electronic authentication framework would be an integral part of
+systems providing services to the people. Cloud computing will significantly speed up design
+and roll out of services, enable social networking and participative governance and eCommerce
+on a scale which was just not possible with traditional technology solutions. 	Adoption of IT by
+civil society is also increasing by leaps and bounds. Rising use of social media presents a unique
+opportunity to reach a large percentage of the population in ways that were not possible earlier.
+Used appropriately, they could substantially enhance the democratic and governance fabric of the
+country.
+
+In keeping with these trends, Governments at all levels in the country are aggressively adopting
+e-Governance to improve accessibility, transparency and efficiency. Social Media could also be
+utilised to facilitate peer-to-peer interaction and thereby promote horizontal communication to
+foster the growth of a connected society.
+
+There is a strong synergy between IT adoption and the growth of Broadband Infrastructure. Mobile
+telephony is now well spread out all over the country due to a combination of factors – including
+low cost devices and low tariff. Over 850 million subscribers can benefit from Mobile Internet with
+
+
+38                                                                     Government of Tamil Nadu
+a supportive development environment with low cost smartphones/handheld devices, competitive
+tariffs and provision of value added services at affordable prices. Policy-driven convergence of ICT
+based business models and service capabilities with the rapidly evolving Telecom infrastructure
+has the potential to create an environment which will foster the growth of citizen-services and
+business models to bring about transformational change in governance and markets.
+
+The National Policy on IT aims to maximally leverage the power of ICT to help address
+monumental economic and developmental challenges the country faces. It is rooted in the
+conviction that ICT has the power to transform India and improve the lives of all Indians.
+
+
+I. VISION
+To strengthen and enhance India’s position as the Global IT hub and to use IT and cyber
+space as an engine for rapid, inclusive and substantial growth in the national economy.
+
+
+II. MISSION
+1.   To consolidate India’s position as the global IT & ITES hub and leverage IT to contribute
+     significantly to GDP and employment.
+2.   To create a sustainable ecosystem for R&D and Innovation to emerge as a global leader
+     in the conception, design and development of new products, services, processes and
+     business models.
+3.   To leverage ICT for enhanced competitiveness and productivity of key economic and
+     strategic sectors.
+4.   To provide ubiquitous affordable access to information and public services for
+     enhancing efficiency, transparency, accountability and reliability and leverage use of
+     ICT as a driver for social inclusion
+5.   To be the leading resource base for IT and ITES talent for domestic and global markets.
+6.   To ensure a secure cyber space to facilitate trust and enable sustained growth of ICT.
+7.   To transform India into a Knowledge Society.
+
+
+III. OBJECTIVES
+1.   To increase revenues of IT and ITES Industry from 100 Billion USD at present to 300
+     Billion USD by 2020 and expand exports from 69 Billion USD at present to 200 Billion
+     USD by 2020.
+2.   To gain significant global market-share in emerging technologies and Services.
+3.   To promote innovation and R&D in cutting edge technologies and development of
+     applications and solutions in areas like localization, location based services, mobile
+     value added services, Cloud Computing, Social Media and Utility models.
+
+
+
+
+Information Communication Technology Policy - 2018                                              39
+4.   To encourage adoption of ICTs in key economic and strategic sectors to improve their
+     competitiveness and productivity.
+5.   To provide fiscal benefits to SMEs and Startups for adoption of IT in value creation
+6.   To create a pool of 10 million additional skilled manpower in ICT.
+7.   To make at least one individual in every household e-literate.
+8.   To provide for mandatory delivery of and affordable access to all public services in
+     electronic mode.
+9.   To enhance transparency, accountability, efficiency, reliability and decentralization in
+     Government and in particular, in delivery of public services.
+10. To leverage ICT for key Social Sector initiatives like Education, Health, Rural
+    Development and Financial Services to promote equity and quality.
+11. To make India global hub for development of language technologies, to encourage and
+    facilitate development of content accessible in all Indian languages and thereby help
+    bridge the digital divide.
+12. To enable access of content and ICT applications by differently-abled people to foster
+    inclusive development.
+13. To leverage ICT for expanding the workforce and enabling life-long learning.
+14. To strengthen the Regulatory and Security Framework for ensuring a Secure and
+    legally compliant Cyberspace ecosystem.
+15. To adopt Open standards and promote open source and open technologies
+
+
+IV. STRATEGIES
+1. Creating ecosystem for a globally competitive IT/ITES Industry
+     1.1 To make requisite policy changes to make India a preferred destination to establish
+         and operate IT/ITES enterprises including a stable tax regime and strengthening
+         of the enabling infrastructure.
+     1.2 To formulate Fiscal and other Policies to attract investment in IT Industry in Tier
+         II & Tier III cities and rural areas for expanding the base of IT and for creating
+         employment opportunities across the country.
+     1.3 To promote ICT companies in accessing new markets through bilateral agreements
+         enhancing smooth trade and facilitating mobility for skilled workforce and
+         creating awareness
+     1.4 To formulate policies to provide fiscal benefits to SMEs and Startups in the key
+         industrial sectors for adoption of IT in value creation
+     1.5 To evolve sector specific strategies in areas like engineering, health, education,
+         skill development, security, legal, financial, accounting, etc. with the ministries
+
+
+
+40                                                                 Government of Tamil Nadu
+       and representative sector bodies concerned to create/ open up the remote services
+       market in new fields / services and to enhance value addition in existing services
+   1.6 To evolve new region/ market specific strategies with the ministries and industry
+       bodies concerned in order to enter/expand new markets
+   1.7 To integrate Indian IT products, services and expertise in Indian foreign aid
+       programs
+
+2. Human Resource Development
+   2.1 To create necessary physical and institutional infrastructure for creating a pool
+       of 10 million trained persons in IT sector by the year 2020 through formal and
+       nonformal sectors, with focus on skill development and expertise creation.
+   2.2 To set up Centers of Excellence in institutes of higher learning to promote high-end
+       research in specialized ICT areas and producing quality doctoral and postdoctoral
+       level researchers.
+   2.3 To create a mechanism to ensure that at least one individual in every household
+       is e-literate.
+   2.4 To create a framework a to certify the level of applied knowledge and skills of
+       personnel inspecific areas of ICT.
+   2.5 To catalyse continuous updation of curriculum and syllabi at all levels to include
+       the current developments and relevant knowledge of ICT as an integral part of the
+       educational programmes.
+
+3. Promotion of Innovation and R&D in IT Sector
+   3.1 To support SMEs and startup companies to equip them for competitive environment
+       through fiscal benefits, innovation fund and incubation facilities.
+   3.2 To create an Innovation Challenge Agenda to promote innovation in ICT sector.
+   3.3 To build R&D infrastructure and test facilities for development and adoption
+       of emerging technologies like: Next Generation Computing Systems, High
+       Performance Computing (HPC), Cloud Computing, GIS, Mobile Technologies,
+       Inter-operable Infrastructure for Small Financial Transactions, Switch, Language
+       Technologies etc.
+   3.4 To incentivize innovation in public supported research.
+   3.5 To promote industry-academia collaborative R&D with emphasis on innovation,
+       products, patents and IPs
+   3.6 To encourage adoption of ICT based Green technologies as well as to promote
+       green technologies by making them competitive through appropriate fiscal &
+       nonfiscal policies.
+   3.7 To strengthen the ecosystem for creation as well as protection of Intellectual
+       Property.
+
+Information Communication Technology Policy - 2018                                      41
+4. Enhancing productivity and competitiveness in key sectors through ICT
+     4.1 To leverage ICT including mobile technology to enable outreach of secure and
+         interoperable financial and banking services in remote areas at affordable cost.
+     4.2 To enable long term partnership with Industry for:
+         i.   use of ICT in cutting edge technology and
+         ii. driving development of new ICT technologies through strategic sectors
+             (defence, atomic energy, space etc).
+         iii. facilitate growth of IT SMEs and use of IT across all SMEs
+     4.3 To promote use of IT in key economic sectors such as Construction, Textiles,
+         Pharmaceuticals, Banking, Finance, Retail, Energy, Automobiles, Healthcare,
+         Education, Agriculture, Engineering Services, Transport and Logistics for
+         improved efficiency and productivity.
+     4.4 To promote the availability and use of Public Key Infrastructure, payment gateways
+          and authentication systems leveraging Aadhaar.
+
+5. Creating an ecosystem for Internet and mobile driven Service Industry
+     5.1 To leverage Internet and Web technologies for developing new products,
+         technologies and businesses.
+     5.2 Enable seamless, ubiquitous, secure and personalized delivery of government
+         and non-government services through  Internet based and mobile based delivery
+         of services through out the country.
+     5.3 Foster an ecosystem for innovation in services by leveraging Aadhaar as well as
+         financial and location-based services
+     5.4 To leverage mobile devices as instruments for enabling secure transactional
+         services including financial services.
+     5.5 To promote development of an ecosystem for enabling innovation and
+         entrepreneurship related to mobile Value added Services.
+
+6. Enabling Service Delivery through e-Governance
+     6.1 To implement the National e-Governance Plan (NeGP) and mandate provision
+         of all Government Services through Electronic mode within a fixed time frame
+         by enactment of the Electronic   Delivery of Services (EDS) Bill and through
+         reengineering processes to enhance efficiencies of service delivery.
+     6.2 To mandate public procurement through electronic mode across all departments
+         to enhance transparency and competition.
+     6.3 To set up a widespread network of Common Service Delivery Access points for
+         enabling assisted access to electronic services.
+
+
+
+42                                                               Government of Tamil Nadu
+   6.4 To accelerate and standardize delivery of electronic services by providing
+       Common Shareable Service Delivery Platforms by leveraging technologies like
+       Cloud Computing.
+   6.5 To develop, adopt, evolve and notify standards for seamless interoperability of
+       data and applications.
+   6.6 To promote open standards and open technologies.
+   6.7 To enhance institutional framework for Capacity Building Programme for
+       imparting training across all levels.
+   6.8 To design and create a citizen engagement framework for   utilization of social
+       media by the government and its agencies.
+   6.9 To design and implement policy framework for placing data in public domain for
+       use and value addition.
+   6.10 To promote Public Private Partnerships in e-Governance projects and facilitate
+       flow of private sector financial and technical capabilities into the national
+       egovernance effort especially in areas where viable investments are feasible.
+
+7. Development of Language Technologies
+   7.1 To undertake development of language technologies that enable text to speech
+       and speech to text conversion, voice recognition, machine translation, Voice Web,
+       Inter lingua etc to enable language independent delivery of services.
+   7.2 To make India the global hub for language technologies.
+
+8. GIS based IT Services
+   8.1 To develop GIS platform for facilitating location based planning, service delivery,
+       information availability and disaster management
+   8.2 Enabling availability of public spatial data for value addition and innovation.
+
+9. Security of Cyber Space
+   9.1 To undertake policy, promotion and enabling actions for compliance to international
+       security best practices and conformity assessment (product, process, technology
+       & people) and incentives for compliance.
+   9.2 To promote indigenous development of suitable security techniques & technology
+       through frontier technology research, solution oriented research, proof of concept,
+       pilot development etc. and deployment of secure IT products/processes.
+   9.3 To create a culture of cyber security for responsible user behavior & actions
+       including building capacities and awareness campaigns.
+   9.4 To create, establish and operate an ‘Information Security Assurance Framework.
+
+
+
+Information Communication Technology Policy - 2018                                       43
+     For information and enquiries:
+     For information and enquiries:
+     Secretary
+     Secretary to
+               to Government
+                  Government of
+                             of Tamil
+                                Tamil Nadu,
+                                      Nadu,
+     Information Technology Department,
+     Information Technology Department,
+     Secretariat, Chennai 600 009, Tamil Nadu, India.
+     Secretariat, Chennai 600 009, Tamil Nadu, India.
+     7HO(PDLOVHF\LW#WQQLFLQ
+     7HO(PDLOVHF\LW#WQQLFLQ
+     website - www.ittamilnadu.tn.gov.in
+     Managing Director
+     Managing Director
+     Electronics Corporation of Tamil Nadu Ltd.., (ELCOT),
+     Electronics Corporation of Tamil Nadu Ltd.., (ELCOT),
+     (A Government of Tamil Nadu undertaking)
+     (A Government of Tamil Nadu undertaking)
+     $QQD6DODL1DQGDQDP&KHQQDL7DPLO1DGX,QGLD
+     $QQD6DODL1DQGDQDP&KHQQDL7DPLO1DGX,QGLD
+     7HO)D[
+     7HO)D[
+     (PDLOPG#HOFRWLQLQIR#HOFRWLQ
+     (PDLOPG#HOFRWLQLQIR#HOFRWLQ
+     website - www.elcot.in
+
+
+
+
+44
+44
+                                               GOVERNMENT OF TAMIL NADU
+                                               GOVERNMENT OF TAMIL NADU
+     For information and enquiries:
+
+     Secretary to Government of Tamil Nadu,
+     Information Technology Department,
+     Secretariat, Chennai 600 009, Tamil Nadu, India.
+     Tel: 91- 44- 25670783 E mail: secyit@tn.nic.in
+
+
+
+
+46                                           GOVERNMENT OF TAMIL NADU
+

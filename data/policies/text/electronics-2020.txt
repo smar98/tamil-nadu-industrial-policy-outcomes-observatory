@@ -1,0 +1,774 @@
+Table of Contents
+
+
+Glossary		                                                      1
+
+List of Acronyms                                                 3
+
+Electronics Hardware Manufacturing Policy of Tamil Nadu, 2020   4
+
+1. Vision, Mission and Objectives                                4
+   Vision		                                                      4
+   Mission		                                                     4
+   Objectives                                                   4
+   Priority sectors                                              5
+
+2. Administration of Incentives                                  6
+
+3. Financial Incentives                                          7
+
+   3.1. Financial Incentives for MSMEs                           7
+
+   3.2. Financial Incentives for Large and Mega Categories       8
+
+   3.3. Financial Incentives for EMCs                           10
+
+   3.4. Financial Incentives for Private ESDM park developers   10
+
+4. Facilitation Measures                                        11
+
+5. Research and Development Support                             14
+
+6. Skill Upgradation and Training                               15
+
+7. Exemption from Acts and Self Certifications                  18
+
+8. Start-ups and Venture Capital                                19
+Glossary
+
+Definitions
+Electronics Manufacturing Clusters (EMC): Under Modified Electronics
+Manufacturing Clusters (EMC 2.0) Scheme notified vide Notification No.86
+[CG-DL-E-01042020-218991] [F.No. 36(7)/2018-IPHW (Vol.II)] dated 1st
+April, 2020 issued by the Ministry of Electronics and Information Technology,
+Government of India; EMC Project would be an undeveloped / underdeveloped
+geographical area, preferably contiguous, where the focus is on development of
+basic infrastructure, amenities and other common facilities for the ESDM units.
+
+Electronic System Design and Manufacturing (ESDM): The entire value
+chain of all electronic verticals/ products covered under the National Policy
+on Electronics and related notifications issued by the Ministry of Electronics &
+Information Technology, Government of India and will also include computers
+and peripherals, communication devices, electronic manufacturing services,
+strategic electronics and its components, industrial electronics, automotive
+electronics, telecom electronic equipment, information and broadcasting
+electronic equipment, medical electronics, electronic gaming, solar PVs and
+electronic toys.
+
+EMS: Electronic Manufacturing Services - Key activities under EMS include
+Engineering and design of PCBs; PCB assembly, including sub-assemblies;
+Functional testing, Maintenance services such as warranty and repair services,
+etc; Product and component design.
+
+
+
+
+                                       1
+FAB unit: FAB unit is Semiconductor fabrication plant where devices such as
+Integrated Circuits (IC) chips are manufactured.
+
+Investment in Eligible Fixed Assets (EFA): Investment in Eligible Fixed Assets
+(EFA) means the investment made in building, plant and machinery and other
+related fixed assets by eligible unit within the Investment period as defined by the
+prevailing Industrial policy.
+
+National Policy on Electronics, 2019 – The National policy on Electronics,
+2019 notified by Ministry of Electronics and Information Technology (MeitY),
+Government of India vide notification No.26(1)/2019-IPHW dated 25th February,
+2019.
+
+Start-up: As per the Government of Tamil Nadu’s Start-up and Innovation policy
+2018-2023, an entity will be recognised as start-up only if it satisfies the following
+conditions:
+
+The company/entity is registered in the State under the Tamil Nadu Start-up
+and Innovation Mission (TANSIM); and If it is incorporated as a private limited
+company (as defined in the Companies Act, 2013) or registered as a partnership
+firm (registered under section 59 of the Partnership Act, 1932) or a limited liability
+partnership (under the Limited Liability Partnership Act, 2008) in India; and Up
+to seven years from the date of its incorporation/ registration; however, in the case
+of start-ups in the biotechnology, Artificial Intelligence (AI) & Machine Learning
+(ML) sectors, the period shall be up to ten years from the date of its incorporation/
+registration; and If its turnover for any of the financial years since incorporation/
+registration has not exceeded Rs. 25 crores; Provided that any such entity formed
+by splitting up or reconstruction of a business already in existence shall not be
+considered a ‘Start-up’.
+
+
+
+
+                                          2
+List of Acronyms
+
+ Acronym                               Expansion
+Bn         Billion
+CFC        Common Facility Centre
+EDII       Entrepreneurship Development Institute of India
+ELCOT      Electronics Corporation of Tamil Nadu Limited
+ELCOSEZ    ELCOT SEZ
+EMC        Electronics Manufacturing Cluster
+ESDM       Electronics System Design & Manufacturing
+FSI        Floor Space Index
+IC         Integrated Circuits
+IDC        Inter Departmental Committee
+GUIDANCE Tamil Nadu Investment Promotion Agency
+LED        Light Emitting Diode
+MeitY      Ministry of Electronics and Information Technology
+MEC        Mega Electropreneur Centre
+MiEC       Mini Electropreneur Centre
+MSME       Micro, Small and Medium Enterprises
+NEM        National Electronics Mission
+           National Initiative for Development and Harnessing
+NIDHI
+           Innovations
+NPE        National Policy on Electronics
+PCB        Printed Circuit Board
+R&D        Research and Development
+SEZ        Special Economic Zone
+           Tamil Nadu Small Industries Development Corporation
+SIDCO
+           Limited
+SIPCOT     State Industries Promotion Corporation of Tamil Nadu Limited
+TANSIM     Tamil Nadu Start-up Innovation Mission
+USD        United States Dollar
+
+                                   3
+Electronics Hardware Manufacturing
+Policy of Tamil Nadu, 2020
+
+    1. Vision, Mission and Objectives
+Vision
+To transform Tamil Nadu into an innovative and a globally competitive Electronics
+System Design and Manufacturing (ESDM) destination.
+
+Mission
+-    Provide adequate infrastructure and supporting ecosystem to ESDM
+     companies
+-    Attract global major ESDM players to invest in Tamil Nadu
+-    Incentivize home-grown start-ups in the ESDM sector both in the component
+     and Original Equipment / product manufacturing subsectors
+-    Catalyse the growth of innovation led enterprises involved in the manufacturing
+     of hardware products & solutions
+-    To develop the semiconductor fabrication (FAB) industry in Tamil Nadu
+
+Objectives
+The following targets are set for Tamil Nadu Electronics & Hardware
+manufacturing policy:
+
+•    To increase Tamil Nadu’s electronics industry output to USD 100 billion
+     by 2025
+•    To contribute 25% of India’s total electronic exports to the world by 2025
+•    To undertake skill training for more than 1,00,000 people (semi-skilled and
+     skilled) by 2024 to meet the incremental human resource requirement projected
+     by NSDC for Tamil Nadu in Electronics and Hardware Manufacturing sector
+•    To increase the level of value addition that is done in Tamil Nadu, especially
+     across focus sectors such as Mobile Handsets, LED Products, Fabless Chip
+
+                                          4
+    Design, PCBs, Solar Photovoltaic Cells, Medical Electronics, and Automotive
+    Electronics
+•   To undertake a focused research and development program to achieve the
+    above objectives, and foster an environment of research and innovation
+•   To foster a conducive environment for ESDM Start-ups, especially promoting
+    the rapid growth of innovation-led technology enterprises involved in the
+    design, development and manufacturing of technologically advanced solutions
+•   To attract at least two major FAB investments to Tamil Nadu in the next
+    three years
+
+Priority sectors
+Aligned to the National Policy of Electronics 2019, Government of Tamil Nadu
+shall provide special support for developing core competencies in the following
+sub sectors:
+•   Semiconductor fabrication (FAB)
+•   Assembly, Test, Marking and Packaging (ATMP)
+•   Fabless Chip Design
+•   Medical Electronics
+•   Automotive, Aerospace and Aviation Electronics
+•   Power Electronics for Mobility
+•   Telecom/ Communication Equipment
+•   Consumer Electronics and Appliances
+•   Strategic Electronics
+•   Renewable Energy Electronics
+•   Electronic Manufacturing Services (EMS)
+•   Electronic Components Manufacturing
+•   Electronics Test and Calibration Labs
+•   Electronics Product Design & Intellectual Property (IP) registration
+
+
+
+
+                                        5
+Option to Select Policies
+Investors may choose to avail incentives under any one policy of the state
+government including this policy or the extant Industrial Policy or any other
+applicable State Government Policy.
+
+ 2. Administration of Incentives
+All incentives offered by the Government of Tamil Nadu to ESDM units shall be
+in addition to the incentives offered by the Government of India to those units.
+Investments made from January 1, 2020 will be considered eligible for availing
+incentives. The Government of Tamil Nadu, through its agencies, shall handhold
+ESDM companies during the set-up stage and continue to assist them after the
+setup has been completed.
+
+I. For the purpose of administering state level incentives, classification of
+districts in the state is as below:
+ Classification                             Districts
+       A          Chennai, Tiruvallur, Kancheepuram and Chengalpet
+                  Coimbatore, Cuddalore, Erode, Karur, Krishnagiri,
+        B         Namakkal, Ranipet, Salem, Tiruchirapalli, Tirupattur,
+                  Tiruppur, The Nilgiris, and Vellore
+                  Dharmapuri, Madurai, Theni, Dindigul, Sivagangai,
+                  Ramanathapuram, Virudhunagar, Tirunelveli, Thoothukudi,
+       C          Kanniyakumari, Pudukottai, Ariyalur, Perambulur,
+                  Tenkasi, Thanjavur, Thiruvarur, Kallakurichi, Viluppuram,
+                  Mayiladuthurai, Nagapattinam and Tiruvannamalai
+
+II. For the purpose of administering the financial incentives, the following
+3 categories of investment and employment ranges have been considered:
+“MSME” means a manufacturing unit, new or expansion, as defined by the
+Ministry of MSME, Government of India from time to time.
+
+“Large” means a manufacturing project, new or expansion, with the following
+investment and employment range.
+
+    Category       Investment range (in Rs. crores)      Employment Range
+      Large                   200 to 500                         >500
+
+                                        6
+“Mega” means a manufacturing project, new or expansion with the following
+investment and employment range.
+
+    Category         Investment range (in Rs. crores)   Employment Range
+      Mega                        >500                          >2000
+
+III. Governance mechanism
+The incentives for MSME sector shall be sanctioned by the Commissioner of
+Industries and Commerce.
+
+The incentives for Large and Mega Industries shall be sanctioned by the
+Industries department and the structured package shall be sanctioned as per the
+recommendation of the Inter Departmental Committee (IDC) convened by the
+Industries department and the related incentives will be disbursed by SIPCOT.
+
+The single window facilitation for large & mega industries shall be done by
+Guidance (https://investingintamilnadu.com/) through its single window portal
+(https://www.easybusiness.tn.gov.in/).
+
+The single window facilitation for MSME sector shall be done by the Commissioner
+of Industries and Commerce & District Industries Center (https://easybusiness.
+tn.gov.in/msme/).
+
+ 3. Financial Incentives
+3.1. Financial Incentives for MSMEs
+The Government will formulate a special package of incentives for ESDM units
+in the MSME sector. This will include Capital subsidy, Interest Subvention,
+Low Tension Power Tariff Subsidy, Generator Subsidy, assistance for obtaining
+intellectual property and assistance in obtaining certifications. MSMEs will also
+be assisted to scale up their business to serve as vendor base for large and Mega
+investors in this sector.
+
+3.2. Financial Incentives for Large and Mega Categories
+i. Capital Subsidy
+Government of Tamil Nadu shall provide capital subsidy based on investment
+ranges and location for new or expansion manufacturing units in Tamil Nadu.
+Capital subsidy will be back ended and based on investment in Eligible Fixed
+
+                                         7
+Assets (EFA) as defined in the prevailing Industrial Policy, as detailed below:
+                                       Capital Subsidy
+     Category wise                (as a percentage of EFA)
+        incentives                                                   Employment
+                                “A”                      “C”
+ (Investment in Rs. Crs)                 “B” district
+                              district                 district
+   Large (200 to 500) #        15%           20%        25%              >500
+     Mega (≥ 500) #             18%          24%           30%           >2000
+
+#The capital subsidy will be disbursed in equal annual instalments in 12 years for
+A districts and in 15 years in B and C category districts from the date of fulfilment
+of Investment and employment criteria.
+
+ii. Subsidy on Land Lease Cost
+For eligible projects in ELCOT /SIPCOT/ SIDCO or any other government owned
+industrial parks in C districts, land allotment will be made at 50% subsidised rate
+for land up to 20% of EFA. For private land in C category districts, 50% subsidy
+will be offered on cost of land as per guideline value up to an extent of 50 acres
+and subject to land cost not exceeding 20% of EFA and a cap of Rs.2 crores. The
+land cost will be excluded from the EFA calculation if this subsidy is availed.
+
+Note: Subsidy for Private land will be eligible only if the land is purchased or
+leased for the manufacturing unit within three years before commencement
+of construction. This subsidy will be extended against an irrevocable Bank
+Guarantee of an amount equal to the land subsidy, which will only be released
+upon fulfilment of investment and employment conditions under the policy.
+
+iii. Stamp Duty Exemption
+                     50% stamp duty exemption will be given for purchase/lease
+                     of land obtained from ELCOT / SIDCO/ SIPCOT.
+                     In the case of private lands, stamp duty concession will
+   A&B districts
+                     be given as 50% back ended subsidy for up to 50 acres
+                     on fulfilment of investment and employment conditions
+                     under this policy.
+
+
+
+
+                                         8
+                      100% stamp duty exemption will be given for purchase/
+                      lease of land obtained from ELCOT / SIDCO/ SIPCOT.
+                      In the case of private lands, stamp duty concession will
+    C Districts
+                      be given as 100% back ended subsidy for up to 50 acres
+                      on fulfilment of investment and employment conditions
+                      under this policy.
+
+iv. Training subsidy
+Training subsidy of Rs. 4,000 per first time employee per month up to 6 months;
+and Training Subsidy for Women of Rs. 6,000 per first time employee per month
+can be availed up to 6 months. Training subsidy shall be disbursed from the actual
+date of commercial production, but can be claimed for employees recruited and
+trained before date of commercial production. This subsidy is provided only for
+Native Residents of Tamil Nadu.
+
+v. Interest Subsidy
+                  Maximum 5% interest subvention on actual term loans capped
+    Large
+                  to 0.2 Cr per annum for a period up to 6 years can be availed.
+                  Maximum 5% interest subvention on actual term loans capped
+    Mega
+                  to 1 Cr per annum for a period up to 6 years can be availed.
+
+Interest Subsidy will be given against Corporate Guarantee, which will be released
+upon fulfilment of employment and investment conditions under the policy.
+
+vi. Exemption of Electricity tax
+All new or expansion ESDM units will be given electricity tax exemption for a
+period of 5 years from the date of commercial production on power purchased
+from the Tamil Nadu Generation and Distribution Corporation (TANGEDCO)
+or generated and consumed from captive sources.
+
+vii. Environment Protection Infrastructure
+Environment protection infrastructure like Dedicated Effluent Treatment Plants
+(ETP) and / or Hazardous Waste Treatment Storage and Disposal Facilities
+(HWTSDF) set up by individual manufacturing units would be eligible for an
+Environment Protection Infrastructure subsidy and other incentives as per the
+prevailing Industrial policy.
+
+                                         9
+viii. Subsidy for Intellectual Capital and Enhanced Quality Certification:
+
+   a. 50% subsidy on the expenses incurred for patent applications limited to a
+      maximum of Rs. 5 Lakh per application to a maximum of Rs 50 lakhs per
+      company
+
+   b. 50% subsidy on the expenses incurred for quality certifications such as
+      ISO, ISI, BIS, BEE and ECOMARKor any other national or international
+      certification up to Rs. 1 crore per company.
+
+3.3. Financial Incentives for EMCs
+EMCs shall be established in accordance to the Modified Electronics
+Manufacturing Clusters (EMC 2.0) scheme issued by Government of India dated
+1st April 2020. Apart from the assistance provided under the EMC2.0 scheme, the
+state Government shall extend the following additional incentives to the project
+implementation agency:
+1. Subsidy on Land lease cost as per provision No. 3.2 (ii) of this policy
+2. Stamp duty exemption as per provision No. 3.2 (iii) of this policy
+3. Interest subsidy as per provision No. 3.2 (v) of this policy
+4. Facilitation through the Single Window Portal of Guidance
+3.4. Financial Incentives for Private ESDM park developers
+The state Government will encourage development of Private ESDM parks with
+common infrastructure, amenities and waste handling facilities. The developers
+shall be eligible to apply for the following incentives prior to commencement of
+the park and will be sanctioned by the state Government through the IDC. The
+financial incentives shall be reimbursed to the developer subject to occupancy of
+the park by ESDM units to a minimum extent of 75% of allottable area, no later
+than four years from date of sanction of the package by IDC:
+
+1. Reimbursement of Subsidy on Land lease cost (Amount as per provision No.
+   3.2 (ii) of this policy)
+2. Reimbursement of Stamp duty (Amount as per provision No. 3.2 (iii) of this
+   policy)
+3. Reimbursement of Interest subsidy (Amount as per provision No. 3.2 (v) of
+   this policy)
+
+                                        10
+4. Facilitation through the Single Window Portal of Guidance
+Apart from the standard incentives mentioned above, the Government may in
+its discretion, approve higher incentives/concessions and relax the conditions
+mentioned in the policy for deserving projects giving due weightage to investment,
+employment, value addition and potential for attracting further investment
+through vendors and ancillaries.
+
+
+    4. Facilitation Measures
+i. Ease of doing Business
+All clearances that are required for setting up new ESDM units or expansion of
+existing ESDM units under this policy shall be processed as per the Tamil Nadu
+Business Facilitation Act 2017 via the Single Window Portal of Guidance.
+
+ii. Land
+Land shall be offered in ELCOT / SIDCO/ SIPCOT / notified Greenfield and
+Brownfield EMCs / any other government owned industrial parks in A, B, C
+districts by the Government of Tamil Nadu.
+
+iii. Floor Space Index (FSI)
+FSI shall be governed by of Tamil Nadu Combined Development and Building
+Rules, 2019.
+
+iv. Open Space Reservation (OSR)
+•    OSR shall be as per the provisions of Tamil Nadu Combined Development
+     and Building Rules, 2019.
+•    The treatment for OSR in ESDM units/EMC clusters/ESDM parks shall be in
+     accordance to Provision (3b) vide of GO. (Ms) No. 88 dated 13th March 2020
+     of Industries department which allows the developer to retain roads and open
+     spaces for the purpose of maintenance subject to conditions including access
+     to the public.
+
+v. Infrastructure
+•    Government of Tamil Nadu will promote creation of EMCs through ELCOT,
+     SIPCOT, SIDCO and other agencies to provide world class infrastructure
+     facilities necessary to attract investment in ESDM sector including EMS and
+
+                                        11
+    component manufacturing.
+•   Government of Tamil Nadu proposes to promote the development of EMCs
+    across the state by 2023, by providing single window clearances to all project
+    proposals by entrepreneurs. Some of the proposed EMCs include:
+    o Greenfield EMC in Hosur
+    o Greenfield EMCs in Chennai/Tiruvallur/Kancheepuram region;
+    o Brownfield EMCs in Sriperumbudur and Oragadam
+    o ELCINA industrial park as Brownfield EMC in Coimbatore region
+•   The EMCs shall provide internal and external infrastructure, inclusive of
+    multimodal logistics and shared testing and training facilities. Government
+    of India shall provide financial assistance for the creation of world class
+    infrastructure along with common facilities and amenities as per EMC 2.0
+    scheme. Government of Tamil Nadu shall extend support to investors through
+    various ease of doing business initiatives to avail GoI and GoTN incentives
+    and approvals, and develop complimentary external infrastructure on best
+    effort basis, such as roads, railways etc. ensuring proper connectivity between
+    the cluster and the appropriate transport gateway (airport/ seaport/ railways)
+    and supply chain centres.
+•   Government of Tamil Nadu will specifically facilitate on best effort basis:
+    o 4 or 2 lane road connectivity to the EMCs from the nearest national
+      highways/ state highways
+
+
+
+
+                                        12
+    o Reliable power supply of required quantity by way of 230/110 kV
+      substations with power source from minimum of 2 different circuits to
+      provide redundancy
+    o Last mile water supply system and continuous good quality industrial
+      water supply to the EMCs
+    o Incentivize EMCs to establish testing and training centres within EMC by
+      treating them as part of EFA.
+    o Financial assistance for establishing testing and training centres within
+      the EMC
+    o High speed internet connectivity through the BharatNet and TamilNet
+•   Industrial parks developed by ELCOT, SIPCOT and SIDCO will have ready
+    built ‘plug- and-play’ facilities so that ESDM industries can commence
+    production immediately.
+•   Additionally, Government of Tamil Nadu through ELCOT shall strive to
+    promote electronic hardware manufacturing industries in the 8 existing
+    ELCOSEZs as well as market the remaining extent of land available in all the
+    ELCOSEZs at following locations:
+    1) Sholinganallur, Chennai
+    2) Vilankurichi, Coimbatore
+    3) Ilandhaikulam, Madurai
+    4) Vadapalanji, Madurai
+    5) Navalpattu, Tiruchirappalli
+    6) Gangaikondan, Tirunelveli
+    7) Jagirammapalayam, Salem
+    8) Viswanathapuram, Hosur
+
+vi. Industrial Housing
+The Government through ELCOT, SIPCOT and SIDCO will promote industrial
+housing projects near existing and new ESDM hubs. The Government will also
+promote bespoke industrial housing projects for the electronics industry based
+on the demand and requirements given by a specific company or group of
+
+
+                                       13
+companies. The Government will use Tamil Nadu Shelter Fund and funds from
+Government of India for industrial housing for this project.
+
+vii. Promotion of Electronics Repair Parks & Facilities for E waste
+management
+The state accords high importance to circular economy and with this objective,
+private investments in Development of Electronic repair parks with facilities for
+e waste management shall be encouraged through viability gap funding/revenue
+sharing mechanisms.
+
+Government of Tamil Nadu shall strive to promote an Eco-park for processing
+e-waste in an environmentally friendly manner in Public Private Partnership
+(PPP) mode to integrate formal and informal operators.
+
+viii. Promotion of Environment Protection Infrastructure within
+Industrial Parks
+Developers of Industrial Parks / SEZs / Industry clusters, etc. will be provided
+incentives for development of Environment protection infrastructure as per
+prevailing Industrial policy. Government shall encourage developers of Industrial
+Parks / SEZs / Industry clusters, etc. to undertake large wastewater treatment and
+recycling plants in the Public Private Partnership (PPP) mode for treating urban
+sewage for industrial grade water supply. Industries shall be encouraged to use
+treated water from municipalities and adopt measures for rainwater harvesting to
+recharge the aquifers in the industrial areas.
+
+ 5. Research and Development Support
+i. Twin city agreements
+To promote research and development in the electronics space, Tamil Nadu
+Government through its investment promotion agency will strive to enter into
+twin city agreements with electronics manufacturing cities in countries such as
+Japan, Vietnam, South Korea, Taiwan, Israel, Singapore etc. Such agreements will
+promote collaborations through exchange of experience and information, joint
+cooperation plans, industry-specific programmes and projects, establishment
+of joint expert groups, implementation of skill development programmes and
+regular expert-level consultations.
+
+
+                                       14
+ii. University and Industry collaboration in R&D
+The state shall strive to promote R&D in the ESDM sector in the state by encouraging
+collaborations between industry units and technical institutions. In line with the
+National Policy of Electronics 2019, the GoTN shall strive to promote research,
+grassroots level innovations and early stage start-ups in emerging technology areas
+such as 5G, IOT/ sensors, Drones, Artificial Intelligence (AI), Machine learning,
+Augmented Reality (AR), Virtual Reality (VR), Additive manufacturing, Gaming
+and Entertainment, photonics, nano-based devices as well as thrust areas such as
+Medical Electronics, Defence Electronics, Automotive and Aviation Electronics,
+Strategic Electronics, Power Electronics and Automation having major economic
+potential, with a special focus on applying the outcomes, including frugal
+solutions, to solve real life problems
+
+iii. Common Facility Centres
+The state shall encourage private sector participation for creation of at least one
+common facility centre within greenfield/ brownfield EMCs with facilities such
+as tool rooms, precision and testing centres, quality certification centre, repair
+workshops, etc.
+
+iv. Electronics Testing Centre
+The Government of Tamil Nadu through ELCOT shall also establish a state-
+of-the-art electronics testing facility preferably in an EMC to support start-ups,
+industries, academia etc. involved in the ESDM sector.
+
+ 6. Skill Upgradation and Training
+i. Skill Development in Electronics System Design and Manufacturing
+(ESDM) sector
+Aligned to the Government of India’s Scheme for Financial Assistance for Skill
+Development in Electronics System Design and Manufacturing (ESDM) sector,
+Tamil Nadu shall target to skill over 1,00,000 persons each year for the next 4
+years in five skilling levels. Tamil Nadu Skill Development Corporation shall
+act as the State Implementing Agency (SIA) for implementing Schemes on Skill
+Development in ESDM sector in Tamil Nadu.
+
+A skill and training centre shall be established within every green-field/ Brownfield
+EMC.
+
+                                         15
+ii. Collaborations with private sector
+Tamil Nadu Skill Development Corporation shall collaborate with multinational
+companies in the ESDM sector to conduct joint training programs and certification
+courses.
+
+iii. Train the trainer
+Through sister-state agreements, the state government shall strive to implement
+“Train the trainer” programs, and subsidize on case to case basis international
+faculty travel and stay in India and expenditure incurred by Indian faculty for
+training programs abroad, subject to a maximum expenditure of Rs. 2Lakh
+through the Tamil Nadu Skill Development Corporation (TNSDC).
+
+iv. Innovation centred Skills & Competencies Development
+By combining the need to harness the latent innovation capacity within students
+in higher technical education with the demand for upgraded capacity, curriculum,
+and infrastructure to meet the skills and competencies development objectives,
+the state aims to transform the latent talent pool available to fuel the growth of
+the ESDM sector.
+
+The state shall encourage the active promotion of an Innovation led approach
+to technical education, achieving experiential learning through technology/
+product prototyping activities, guided by technology practitioners and industry/
+domain experts. The MEC and the MiECs proposed in this policy shall serve
+as nodal centres to implement such curriculum linked skills and competencies
+
+
+
+
+                                         16
+development working in close association with the public and private institutions
+in their vicinity. The state shall encourage the implementation of such programs
+on a state wide basis with the recognition and guidance of Anna University or
+other reputed institutions. The university is recommended to enable necessary
+provisions in the engineering curriculum to facilitate the introduction of such
+innovative models of learning, wherein the institutions engage with independent
+research labs, incubators etc. to aid in effective implementation. Private sector
+players in the ESDM sector are encouraged to join hands with private institutions
+as partners to implement such skill development initiatives indicated above. The
+state government shall offer financial incentives for such initiatives through the
+Innovation Vouchers scheme launched by the Dept. of MSME and managed
+by EDII-TN, and the said scheme shall be suitably modified to facilitate such
+Innovation centred skill development programs.
+
+v. Special Focus on Semiconductor Fabrication
+The Government will take focussed efforts to promote the FAB industry in Tamil
+Nadu. For this purpose, the Government will constitute a Special Task Force
+to enable the creation of an appropriate eco system. Also, a special package of
+incentives will be offered to investors in the FAB sector.
+
+
+
+
+                                       17
+    7. Exemption from Acts and Self Certifications
+•    ESDM companies are exempted from the provisions of Chapter II and III of
+     the Tamil Nadu Shops and Establishments Act, 1947
+•    ESDM companies are exempted from the provisions of Section 5 (2) (a) (i)
+     and (ii) of the Tamil Nadu Industrial Establishment (National and Festival
+     Holidays) Act, 1958
+•    The Government of Tamil Nadu will allow self- certification, 3rd party
+     verification for labour related clearances and approvals under the following
+     acts of Labour Department in Tamil Nadu
+     o Tamil Nadu Shops and Establishment Rules, 1947
+     o Tamil Nadu Payment of Gratuity Rules, 1972
+     o Tamil Nadu Maternity Benefits Rules, 1964
+     o Tamil Nadu Contract Labour Rules, 1975
+     o Tamil Nadu Minimum Wages Rules, 1953
+     o Contract Labour Act, 1970
+     o Payment of Gratuity Act, 1972
+     o Tamil Nadu Industrial Establishment (National and Festival) Holidays
+       Act, 1958.
+     o Tamil Nadu Industrial Establishments (National and Festival)) Holidays
+       Rules, 1959
+     o Tamil Nadu Payment of Wages Rules, 1937
+     o Employment Exchange Act, 1959
+     o Equal Remuneration Act, 1976
+     o The Workmen’s Compensation Act, 1923
+     o Employees’ Provident Fund & Miscellaneous Provisions Act, 1952
+•    Self-certification by ESDM companies will be regarded as sufficient compliance
+     with the requirements of the different Acts and the Rules made there under
+     regarding the maintenance of registers and filing of the returns
+•    Flexibility in labour laws shall be adopted without compromising labour
+     welfare. Subject to applicable labour laws and within the parameters of the
+
+                                         18
+     Industrial Employment (Standing Orders) Act, 1946 (Central Act 20 of 1946),
+     flexibility in employment conditions including flexible working hours for
+     women and shorter and longer duration of working hours, 24x7 operations
+     (3 shifts) employment of women in the night shifts
+•    The flexibility in working hours, working in three shifts and employment in
+     night shifts may be allowed for women employees, provided; all necessary
+     security arrangement, creche facilities for children, facilities of restroom and
+     safe transportations are arranged; the employers have to ensure that night
+     shift work may be carried out under the supervision of women supervisors
+     and ensure the presence of women security officers.
+•    E-filing of returns will be implemented progressively after all the offices of the
+     concerned Inspectors are computerized for receiving such returns to make
+     the process efficient, effective, and transparent and citizen- friendly.
+•    Government of Tamil Nadu will also take necessary action for introduction
+     of Common Annual Returns in place of multiple returns and reduction in the
+     number of registers maintained at present.
+
+    8. Start-ups and Venture Capital
+Promoting Incubation and Seed Investments in Innovative Hardware
+Products & Ventures
+To catalyse higher growth of the ESDM sector, the GoTN recognizes the need
+to provide the impetus to Electronics start-ups under the start-up policy of the
+MSME department.
+
+In line with the National Policy of Electronics 2019, the GoTN shall strive to
+promote innovation of technologically advanced solutions leading to the
+indigenous design and manufacturing of hardware products in the emerging
+technology areas such as 5G, IOT/sensors, Bio sensors, Drones, Artificial
+Intelligence-Machine Learning, Machine Vision, Augmented Reality (AR), Virtual
+Reality (VR), Additive Manufacturing, Gaming and Entertainment, photonics,
+Electric Mobility, Nanotechnology devices as well as thrust areas such as Medical
+Electronics, Defence Electronics, Automotive/Aviation/Aerospace Electronics,
+Strategic Electronics, Power Electronics, and Automation paving way for the rise
+of world-class products to emerge from the ESDM sector in Tamil Nadu.
+
+
+                                           19
+To realise this vision, GoTN shall provide support through the following enabling
+provisions in the state’s policy:
+
+i. Establishment of world-class Product Innovation, Design and
+Development facilities
+Through this policy, the state government proposes to bring greater thrust into
+the establishment of world-class infrastructure and facilities for hardware product
+innovation & design, with the requisite equipment, resources and expertise
+offered for hardware & electronics product design, specifically facilitating
+desktop manufacturing and assembly required for low-volume production of
+pre-commercial designs of industrial grade hardware solutions. To do so, it
+is proposed to establish a state-wide Hardware Product Innovation Network
+consisting of several standalone centres operating in a hub-and-spoke model.
+The network shall include a Mega Electropreneur Centre (MEC), that will be
+setup by ELCOT and established in the form of a Centre of Excellence (CoE) for
+Hardware Products & Ventures to facilitate easy access and to make it practical to
+
+                                        20
+build a robust ecosystem for start-ups and entrepreneurs. This CoE shall include
+a fully self-contained facility to support end-to-end design, development, testing
+& certification of innovative hardware products.
+
+As an extension of this central node it is proposed to establish Mini Electropreneur
+Centre (MiEC) shall be setup by ELCOT in each of the existing and future
+ELCOSEZs to scale up the footprint of innovation activities to further boost the
+generation of new hardware and electronics systems, products and solutions.
+These innovations shall be centred around solving local challenges sourced from
+the industry, society, or government and shall be undertaken by students in the
+neighbouring science, engineering and polytechnic institutions, serving as a
+major boost to skills and competencies development.
+
+Each of these MiECs shall provide necessary office facilities for innovators and
+start-ups to operate, apart from offering the essential technical infrastructure in
+the form of innovation labs covering equipment, tools, and other resources apart
+from access to technical training, support and expertise. The centre shall offer
+on a self-contained basis all requisite resources for innovators coming up with
+innovative new hardware product ideas to rapidly develop product prototypes
+ready for completing customer/field trials, test and certification, and become
+ready for the first batch of factory manufactured units. This centre shall also serve
+as the ‘Rapid Product Prototyping Lab’ for the enterprises operating in the
+ELCOSEZ, made available on a subsidized rental/subscription basis. In addition,
+this centre shall also serve as a Skills Development Hub on the lines described in
+the section further below on skills upgradation and training.
+
+ii. Financial support for operating Incubation and Acceleration Programmes
+The state shall encourage the implementation of Hardware start-ups focused
+accelerator programs combined with Seed capital investments, and shall provide
+financial assistance in the form of complementary funds offered to mature
+Technology Business Incubators in TN, which shall avail financial assistance
+from the schemes such as TIDE 2.0 scheme launched by MeitY Start-up Hub,
+Govt of India, NIDHI TBI, NIDHI CoE, NIDHI Accelerator, NIDHI PRAYAS
+and/or NIDHI EIR schemes launched by Dept of Science and Technology, Govt.
+of India. The support from GoTN shall be used to augment the operating funds
+sourced by these incubators.
+
+
+                                         21
+iii. Innovation Grants & Seed Capital Investments for Hardware Products &
+Ventures
+The state shall adopt an Investment Portfolio approach covering Innovation
+Grants (grants for prototyping stage hardware product innovators), Start-up
+Grants (grants for advanced prototyping stage and market entry stage hardware
+products), and Seed Capital (financial support in the form of Convertible Debt
+implemented through the Convertible Note or CCPS instruments or in the form
+of Equity investments). This scheme will be implemented through EDII-Tamil
+Nadu under the aegis of the TANSIM policy implementation framework.
+
+ELCOT will also support start-ups in the electronics and hardware space in the
+following ways:
+•   Promote the development and acquisition of IPs in ESDM sector
+•   Support well-functioning ATAL Tinkering Labs for procurement of new
+    electronic equipment.
+•   Establish a cloud server to connect all the incubation centres across the State
+    and make it available to all the start-ups, at low or nominal costs.
+
+
+
+
+                                        22
+23
+24
+

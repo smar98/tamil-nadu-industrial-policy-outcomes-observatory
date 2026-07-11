@@ -1,0 +1,20 @@
+year,metric,official_value,unit,source_url,scope_note
+2014,employees,2127703,number,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2014,workers,1741427,number,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2014,fixed_capital,22131634,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2014,total_input,59039075,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2014,total_output,70038085,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2014,gva,10999010,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published output minus input
+2014,emoluments,4148667,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/2/download/3520,Published Tamil Nadu factory-sector total
+2015,employees,2326458,number,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2015,workers,1930431,number,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2015,fixed_capital,23796264,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2015,total_input,56765113,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2015,total_output,69900096,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2015,gva,13134983,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published output minus input
+2015,emoluments,4679218,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/143/download/3490,Published Tamil Nadu factory-sector total
+2023,employees,2984439,number,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
+2023,total_input,129722031,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
+2023,total_output,154939545,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
+2023,gva,25217514,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
+2023,emoluments,9431535,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total

@@ -1,0 +1,914 @@
+GOVERNMENT OF TAMIL NADU
+
+
+
+
+          TAMIL NADU
+           LIFE SCIENCES
+           PROMOTION POLICY
+                2022
+          GOVERNMENT OF TAMIL NADU
+
+
+
+
+             TAMIL NADU
+              LIFE SCIENCES
+              PROMOTION POLICY
+                   2022
+
+
+
+
+Industries, Investment Promotion and Commerce Department
+                  Government of Tamil Nadu
+Contents
+1. Preamble                                 4
+  1.1 Overview
+ 1.2 Need for a new policy
+  1.3 Scope of the policy
+
+
+2. Objectives                                7
+  2.1 Vision
+ 2.2 Mission
+  2.3 Goal
+
+
+3. Life Sciences Ecosystem                  8
+  3.1 Infrastructure
+ 3.2 Sustainable Financing
+  3.3 Education and Skill Development
+
+
+4. Ease of Doing Business                   11
+
+5. Incentives                               13
+
+6. Incentives for MSME                      19
+
+7. Governance Mechanism                     20
+
+8. Annexure – List of Eligible Industries   21
+Definitions
+Active Pharmaceutical Ingredient/ Bulk Drugs                                  Agricultural Biotechnology: Branch that uses a range of tools, including
+Any substance or mixture of substances intended to be used in the             traditional breeding techniques, that alter living organisms, or parts of
+manufacture of a drug (medicinal) product and that, when used in the          organisms, to make or modify products; improve plants or animals; or
+production of a drug, becomes an active ingredient of the drug product.       develop microorganisms for specific agricultural uses.
+Such substances are intended to furnish pharmacological activity              Environmental Biotechnology: A system of scientific and engineering
+or other direct effect in the diagnosis, cure, mitigation, treatment, or      knowledge related to the use of micro-organisms and their products in
+prevention of disease or to affect the structure or function of the body.     the prevention of environmental pollution through biotreatment of solid,
+The licensed product in bulk form is referred to as Bulk Drugs                liquid, and gaseous wastes, bioremediation of polluted environments,
+                                                                              and biomonitoring of environment and treatment processes.
+Biologics                                                                     Marine Biotechnology: Marine biotechnology, also referred to as “blue
+                                                                              biotechnology”, explores the diversity found in marine environments
+A biologic drug, or biologic, is a drug made from proteins or pieces of
+                                                                              in terms of the form, structure, physiology and chemistry of marine
+proteins (either natural or artificial). Unlike other drugs, biologic drugs
+                                                                              organisms, many of which have no equivalent on land, in ways which
+must be made in a living system, such as yeast, bacteria, or animal
+                                                                              enable new materials to be realised. It is the field of science that deals
+cells .
+                                                                              with ocean exploration for development of new pharmaceutical drugs,
+                                                                              chemical products, enzymes, and other products and processes
+Bio-Informatics
+                                                                              Animal Biotechnology: Animal biotechnology is a branch of biotechnology
+The application of computational tools to organize, analyze,                  in which molecular biology techniques are used to genetically engineer
+understand,visualize and store information associated with biological         (i.e. modify the genome of) animals in order to improve their suitability for
+macromolecules. It is a research field in which computer scientists,          agriculture, industrial, or pharmaceutical applications..
+biologists, physicians, mathematicians, and chemists combine
+their expertise to collaborate on diverse tasks, from the discovery           Generic
+of new facts on complex biological systems to the rationalization of          A generic drug is a medication created to be the same as an existing
+organization of health systems.                                               approved brand-name drug in dosage form, safety, strength, route of
+                                                                              administration, quality, and performance characteristics .
+Biosimilar                                                                    Life Sciences
+A biosimilar drug, or biosimilar, is a medicine that is very close in         Life Sciences is a broad, multi-faceted industry that, in the most general
+structure and function to a biologic drug.                                    sense, deals with the investigation of living things. It includes a range
+                                                                              of more specific scientific fields, like microbiology, zoology, biochemistry,
+Bio-services                                                                  cell biology, evolutionary biology, anatomy, biophysics, epidemiology,
+Aids and services rendered to improve the research and clinical trials        marine biology, genetics, botany, ecology and more. In a life sciences
+in biotech industries. The bio-services market comprises contract             laboratory, researchers are concerned with studying the structure and
+and clinical research organizations (CROs), as well as contract               function of living things, both on a macro scale (e.g., entire ecosystems)
+manufacturers (CMOs) to help the biotechnology industry.                      and a micro scale (e.g., individual cells)
+
+Biopharmaceuticals                                                            Medical Device
+                                                                              ‘Medical device’ means any instrument, apparatus, implement, machine,
+Biopharmaceuticals refers to pharmaceuticals produced in
+                                                                              appliance, implant, reagent for in vitro use, software, material or other
+biotechnological processes using molecular biology methods.
+                                                                              similar or related article, intended by the manufacturer to be used, alone or
+Biotechnology                                                                 in combination, for human beings, for one or more of the specific medical
+                                                                              purpose(s) of:
+Technology that utilizes biological systems, living organisms or parts        disease,
+of this to develop or create different products. The four major segments      • diagnosis, monitoring, treatment, alleviation of or compensation for
+of Biotechnology are Industrial Biotechnology, Medical Biotechnology,              an injury,
+Environmental Biotechnology and Agricultural Biotechnology.                   • investigation, replacement, modification, or support of the anatomy
+Industrial Biotechnology: Branch that uses enzymes, microorganisms,                or of a physiological process,
+and plants to produce energy, industrial chemicals, and consumer              • supporting or sustaining life,
+goods.                                                                        • control of conception,
+Medical Biotechnology: Branch that uses living cells and other cell           • disinfection of medical devices
+materials to find cures of diseases. Medical Biotechnology comprises          • providing information by means of in vitro examination of specimens
+research and manufacturing of vaccines and antibiotics.                            derived from the human body.
+Industrial Biotechnology: Branch that uses enzymes, microorganisms,           and does not achieve its primary intended action by pharmacological,
+and plants to produce energy, industrial chemicals, and consumer              immunological, or metabolic means, in or on the human body, but which
+goods.                                                                        may be assisted in its intended function by such means.
+2
+Medical Textile
+Medical textiles are fibre-based products and structures used in a medical environment either for the treatment of an injury or for the provision
+of an appropriate condition in the clinical treatment of a wound or an illness.
+
+Nutraceuticals
+Nutraceuticals are food based substances that have physiological benefits or provide protection against chronic diseases. Nutraceuticals
+may be used to improve health, delay the aging process, prevent chronic diseases, increase life expectancy, or support the structure or
+function of the body. In India, nutraceuticals have been defined under Clause 22 of the Food Safety and Standards Act (FSSA), 2006 . In the
+context of this policy, the scope of nutraceuticals shall be limited to food supplements for patients.
+Other Definitions
+The definitions of EFA and Employment from Tamil Nadu Industrial Policy 2021 (TNIP 2021) are applicable to this policy and are
+summarized below for reference:
+
+Eligible Fixed Assets
+Eligible Fixed Assets (EFA) shall mean and include land (including development costs such as fencing, construction of internal
+roads, and other basic infrastructure facilities); permanent buildings; plants, indigenous machinery & equipment, imported
+equipment, computer equipment, material handling equipment (like forklifts, cranes, etc); tools, dies, moulds, jigs, and fixtures
+and similar production tools owned and used within the plant or elsewhere within Tamil Nadu; appliances; electrical installations;
+pollution control, quality control and laboratory equipment; fixtures, tubes, pipes, fittings, and storage tanks, to the extent paid
+for by the project (For more details refer to Tamil Nadu Industrial Policy 2021).
+Employment
+Employment shall mean all jobs that are performed by Direct Employees and Contract Labour
+
+
+
+
+                                                                                                                                                    3
+1. Preamble
+     1.1 Overview
+Recent scientific advancements accompanied by the growing need for           support and amplify the Life Sciences research ecosystem, Tamil Nadu
+healthcare services and products, both domestically and internationally,     has established TICEL Bio-Park to focus on application of advanced
+and increasing use and adoption of digital technology have paved the         technology in the fields such as microbiology and molecular biology.
+way for revolution in Life Sciences. Life Sciences industry is an umbrella   Presently, there are more than 300 NABL accredited labs in Tamil Nadu
+term for companies, businesses, and research institutions engaged            that undertake testing and calibration activities in areas aligned with
+in areas such as pharmaceuticals, medical devices, medical textiles,         biology, clinical biology, cytogenetics, microbiology, molecular testing
+biotechnology, and biomedical technologies. Fundamentally, it consists       and medical devices.
+of units dedicating their efforts to creating products to improve health     The State is home to Dr. M.G.R. Medical University, the second largest
+and wellness.                                                                health sciences university in India. This includes outstanding medical
+While Life Sciences has come into sharp focus in the post Covid-19           colleges established and run by the State Government including some
+pandemic situation, the sector has been experiencing technological           of the oldest institutions in the country such as Madras Medical College,
+disruptions for some years now. Recent breakthroughs furthered by            which is the third medical college founded in India in 1835. These
+more R&D spending and collaborations in Life Sciences have addressed         institutions and their extensive networks have been the pillars of Tamil
+issues related to affordability and accessibility of treatment and           Nadu’s proud legacy in medical sciences. Further, with institutes such
+medication. For instance, recent advancements have made treatment            as IIT-Madras, Anna University, International Institute of Biotechnology
+of HIV, HPV and Hepatitis C, possible saving many lives in emerging and      and Toxicology (IIBAT), Tamil Nadu Agricultural University, Tamil Nadu
+developing countries. Genome and DNA sequencing, cell therapies and          Veterinary and Animal Services University, the State aims to become
+immunotherapy have led to improvements in speed, and accuracy of the         a leading destination for the research and development of various
+treatment alongside a drastic reduction in cost.                             spectrums of Life Sciences. With over 1.8 lakh graduates from Tamil Nadu
+Information     and   communication      technology,    and    advanced      in various streams such as medical sciences, nursing, pharmacology,
+manufacturing are fundamentally reshaping both consumption and               biotechnology and biochemistry and another 1 lakh graduates in
+delivery of services in Life Sciences through availability of electronic     Information Technology, the State has a rich supply for talent for Life
+health records, genomics, clinical insurance, analytics in personalized      Sciences.
+medicine, cloud computing and wearable devices for remote and self-          The established ecosystem of the high-performing sectors such as
+health monitoring systems.                                                   Electronics, Textiles, Information Technology, Automobiles and Auto-
+The State, in line with its commitment to achieve Sustainable Development    Components can cater to the needs of manufacturing in Life Sciences
+Goals (SDGs), recognises the importance of the Life Sciences sector and      with skilled labour, strong infrastructure, power generation capacity, and
+its contribution to improving healthcare and quality of life. While Tamil    connectivity. Tamil Nadu offers a location advantage with four airports
+Nadu has been an exceptional performer in the healthcare sector even         and major seaports. The State also offers state-of-the-art infrastructure
+globally, the State further aims to strengthen its position by investing     such as access to the golden quadrilateral and easy availability of air
+in drugs and medical devices manufacturing, skill development                and train connectivity.
+and construction of labs. Research and innovation in Life Sciences
+invariably contributes to SDGs by addressing issues pertaining to food
+security, health and well-being, climate change and cleaner energy. To
+4
+              1.2 Market Opportunities
+Life Sciences through its various segments offers opportunities for          science, and pharmaceutical science. Animal Biotechnology is an
+investors to access domestic and global markets. Recently, Biologics         emerging area of global focus due to growing importance of animal and
+(drugs made from proteins or pieces of proteins) have been gaining           poultry vaccine production. Genomics is expected to impact innovation
+importance both globally and nationally. According to the Association        in the biotechnology industry in coming times as it helps in identifying
+of Biotechnology Led Enterprises, India’s biologics market is expected       mutations linked to diseases and thus induce opportunities for drug
+to grow at a compound annual growth rate (CAGR) of 22 % and reach            design. Genomics has enormous potential to impact healthcare costs
+approximately US$ 12 billion by 2025 . At present, the contribution          as it is expected to be helpful in early diagnosis of illnesses like cancer.
+of biologics in the Indian market mainly comes from simple biologics         Another emerging sub-area of biotechnology is Marine Biotechnology.
+such as in the treatment of diabetes (insulin), oncology, autoimmune,        Marine sourced products have application in aquaculture and seafood
+and cardiovascular diseases. India has shown steady progress in the          safety, bioremediation, production of biofuels, antibiotics, antiviral
+manufacture and use of biosimilars over the last decade. The size of         medicines, anticancer medicines and analgesics.
+the Indian biosimilar market was approximately US$ 300 millionin             The Indian market size for technical textiles was estimated to be US$
+2015, of which, domestic sales were close to US$ 250 million. The            19 billion in 2020. The National Technical Textiles Mission aims for the
+global biosimilar market is expected to reach US$ 44.7 billion by 2026,      domestic market to expand to US$ 40-50 billion by 2024 with an annual
+up from US$ 15.6 billion in 2021, at a CAGR of 23%. With patents for         growth rate of 15-20 per cent. The State shall endeavour to set up
+many global biopharmaceutical companies expiring in the coming               dedicated parks with the thrust on medical textiles that is an important
+years, opportunities for others to explore this sector will grow. Some       part of the technical textile products.
+of the leading players in biosimilars manufacturing are already well-        The Indian medical devices market was the 4th largest in Asia in 2020
+established in Tamil Nadu.                                                   with a size of US$ 10.36 billion (as of 2020) and is heavily dependent
+The Indian biotechnology industry is forecasted to reach US$ 150             on imports. In 2018-19, India imported US$ 5.5 billion worth of medical
+billion by 2025, with a CAGR of 16.4%. Biopharmaceuticals is the             devices compared to just US$ 2.1 billion worth of exports. The medical
+largest segment, in the Indian biotechnology market, accounting for          devices sector is expected to grow at a 37% CAGR to reach US$ 50
+~62% in 2020 and ~58% in 2019. India has also emerged as a key               billion by 2025 . Diagnostic imaging (such as CT scan, X-Ray, MRI, USG,
+bulk vaccine manufacturer in recent times and already produces 60            X ray-tubes), in-vitro diagnostics (lab equipment and reagents), and
+percent of the world’s vaccines. The revenue from the Bio-Services           other medical devices (ECG, ophthalmic equipment) form a major share
+was US$ 10.5 billion in 2020 and is expected to further increase over        of the medical devices’ imports. In 2018-19, Tamil Nadu’s contribution to
+the coming years. While the State Government welcomes the growth of          the national output of Medical and Dental instruments’ manufacturing
+the Biotechnology sector, it is committed to ensuring that all the ethical   stood at 7.6% through the presence of manufacturing units of medical
+issues relating to the sector and impacting safety of human life, liberty,   devices such as implants, diagnostics, radiology, cardiology, critical
+justice, and environment are effectively addressed.                          care and operating room equipment.
+Genome or DNA sequencing is also gaining ground in the world of              The massive transformation in Life Sciences landscape both globally
+biotechnology. Genome sequencing has wide application in agricultural        and nationally has opened new opportunities for the State to increase
+biotechnology, animal biotechnology, medical biotechnology, forensic         its prominence in the sector.
+
+
+
+
+                                                                                                                                                            5
+      1.3 Need for a New Policy
+The recent outbreak of the pandemic and subsequent geopolitical                     issues specific to Life Sciences, firstly, the need to reduce transaction
+changes has brought to fore, the need and opportunity for Tamil Nadu                costs and secondly, incentivize firms engaged in Life Sciences to
+to expand the production of drugs, vaccines, and medical equipment.                 internalize the externalities, that will enable benefits for the broader
+Diversified and resilient supply chains are critical in this area. The State’s      public.
+demand for the medicines and medical equipment is also expected                     The efforts of pharmaceutical and biotechnology companies in the State
+to increase with the rise in number of people accessing healthcare                  to cater to international standards is expected to create a momentum for
+services. Life Sciences, especially pharmaceuticals, is a recession proof           exports. Therefore, there is significant scope to augment Tamil Nadu’s
+industry catering to essential services.                                            capacity to indigenize the production of Life Sciences products and
+Developing countries are leveraging the benefits of Biotechnology in                services such as medical textiles, medical devices, pharmaceutical
+realizing Sustainable Development Goals. Consequently, concepts such                and biotechnology given the State’s existing competence in textiles,
+as green (environmental) biotechnology and blue (marine) biotechnology              electronics, general manufacturing, chemical industries, and IT. Further,
+have gained prominence in the global market.                                        there is an immediate window for investors to capitalise on market
+Manufacturing in the Life Sciences sector invariably creates externalities          opportunities for biosimilars due to the imminent expiry of patents in
+and is faced with higher transaction costs (information or search cost,             biologics. A dedicated policy is required to address the needs of the
+brokerage fees, intellectual property laws, or compliances) that prevent            industry and to tap into the immense potential the sector has by creating
+the market from reflecting the true cost and from fully realizing the               an enabling ecosystem and infrastructure to support the sector.
+benefits. Hence, there is a need for a policy that addresses two broad
+
+
+
+
+                                Biotechnology                                                                    Medical
+                                     and                                                                         Textiles
+                                 Bio-Services
+
+                                                                       Scope of
+                                                                      the Policy
+                                 Pharmaceutical
+                                                                                                               Medical
+                                and Nutraceutical
+                                                                                                               Devices
+                                    Industry
+
+
+                                                 The list of eligible segments/industries is provided in Annexure 1.
+
+
+      1.4 Scope of the Policy
+This Policy is applicable for greenfield, or expansion projects engaged in the following areas of Life Sciences, namely, - 1) Biotechnology and Bio-
+Services 2) Pharmaceutical and Nutraceutical Industry, 3) Medical Devices, and 4) Medical Textiles. The list of eligible segments/industries is provided
+in Annexure 1. The Government of Tamil Nadu has always adhered to policies protecting the welfare of environment and human life. Hence, industries
+not committing to adopt pollution abatement technologies shall not be permitted to operate within the State.
+Investments made from April 1, 2022, will be considered eligible for availing incentives. This Policy supersedes the Tamil Nadu Biotechnology Policy
+2014 and will be valid for a period of 5 years from the date of notification. The Policy may be periodically revised from time to time.
+
+
+6
+2. Objectives
+ 2.1 Vision
+
+
+
+               Transform Tamil Nadu into an attractive destination for manufacturers in Life Sciences
+               to invest, innovate and create Life Sciences products.
+
+
+
+
+ 2.2 Mission
+               •    Transform Tamil Nadu into the most preferred destination for researchers in
+                    biologics, biosimilars, and medical technology.
+
+               •    Enhance the existing ecosystem by making it more conducive for the units to
+                    operate, produce and move higher in the value chain.
+
+               •    Improve ease of doing business for Life Sciences firms.
+
+               •    Build local production capacities and increase import substitution of Biologics
+                    and Biosimilars products, and cutting-edge medical equipment.
+
+
+
+
+ 2.3 Goal
+
+
+
+               Given the needs and aspirations of the State, the Government of Tamil Nadu shall strive
+               to attract Rs. 20,000 crores of investment in Life Sciences and generate 50,000 jobs.
+
+
+
+
+                                                                                                         7
+3. Life Sciences Ecosystem
+Ideally, industrial units engaged in Life Sciences are located in strategic locations that have proximity to the talent pool, are logistically well connected,
+
+and support a good quality of life. Thus, the Government aims to create a conducive environment for the growth of life-science manufacturing by
+
+catering to the requirements of the industry. The State Government shall endeavour to establish greenfield Life Sciences clusters, identify land parcels
+
+at strategic locations to build parks and take necessary steps for financing, enhancing ease of doing business, education, and skill development.
+
+
+      3.1 Infrastructure
+The competitiveness of Tamil Nadu is exemplified by the robust                        for Sterilization & Decontamination, Molecular biology and Tissue
+infrastructure within the State with access to modern facilities and                  culture, Biological Sample Analysis and Cold room and has utilities
+services. The State is already home to numerous bio-parks, research and               such as RO water, Compressed Air and Effluent treatment, and
+incubation parks with state-of-the-art infrastructure and plug and play               services for.
+facilities. To further boost the manufacturing of Life Sciences sector, the      •    BTCIF has incubation centres for Biopharma start-ups to minimize
+
+Government of Tamil Nadu shall establish dedicated industrial parks at                the capital requirement on creating laboratory infra structure,
+
+strategic locations with the required environmental clearances, trunk                 which is critical for startups to foster innovation by providing a
+
+infrastructure at the doorstep, and ancillary infrastructure, uninterrupted           common platform for entrepreneurs, scientists, and students.
+
+water and electricity supply. Currently pharmaceutical manufacturing             Located proximal to the IT Corridor, TICEL is well suited for bio-informatic
+
+industries are mostly categorized under red and orange category by               companies. Hence, bio-informatics companies will be encouraged to
+
+TNPCB. The State shall provide the parks with required environmental             establish their operations in these Bio Parks.
+
+clearances to accommodate relevant projects.                                     B. Incubation Parks for Life Sciences
+                                                                                 IIT-Madras has already established bio-incubator at IIT-M Research Park
+
+3.1.1 Biotechnology and Pharmaceutical and Parks                                 with cutting edge infrastructural and analytical facilities. To encourage
+
+A. TICEL Bio Parks                                                               women entrepreneurs in biotechnology, Golden Jubilee Biotech Park
+
+Tamil Nadu Industrial Development Corporation Limited (TIDCO) in                 for Women Society was established at Siruseri (near Chennai) by the
+
+association with TIDEL Park Limited had developed TICEL Bio Park Limited         Government of Tamil Nadu, Government of India and M.S. Swaminathan
+
+for providing dedicated facilities for Biotechnology / Pharmaceutical            Research Foundation. The Park has well established companies that
+
+Research & Development activities in Chennai and Coimbatore. TICEL               have their R&D and manufacturing units within the campus.
+
+Bio-Park is an ideal location for state-of-the-art research with the             C. Biologics and Pharmaceutical Parks
+
+following features:                                                              To increase its footprint in Biotechnology and Pharmaceuticals, the
+
+•    Facilities for pilot scale production of Biopharma products;                State shall focus on manufacturing of biologics by developing parks in
+     facilitation for setting up of food, water and soil testing labs;           strategic locations. These parks shall have common facilities such as
+     infrastructure suitable to create Good Laboratory Practice (GLP)            training centres, R&D centres, effluent treatment plants, common logistic
+     and Good Manufacturing Practice (GMP) facilities.                           centres, validation centres, common testing facilities and centralized
+•    Biotech Core Instrumentation Facility (BTCIF- jointly established           equipment. The Government shall also develop customised facilities
+     by TICEL and Department of Biotechnology (Government of                     on case to case basis such as Analytical and Microbiology Laboratory,
+     India)) offers a clean room facility that supports research for             Pharma Ink and Labelling Labs, and Biosafety Level 4 Lab, either directly
+     various branches of science like microbiology, molecular biology,           or through public private partnerships depending on the requirements of
+     biochemistry, and biotechnology. It provides infrastructural support        the stakeholders.
+
+8
+3.1.2 Medical Device Parks                                                    3.1.3 Medical Textile Parks
+To enhance the capacity of indigenous manufacturing of medical                The Indian market size for technical textiles is estimated to be US$ 16
+devices and equipment, and improve the cost efficiency of the medical         billion and is growing at 12 per cent annually. The National Technical
+devices, the Government of Tamil Nadu will develop a dedicated park for       Textiles Mission aims for the domestic market to expand to US$ 40-
+medical devices. These parks shall aim to achieve accelerated growth of       50 billion by 2024 with an annual growth rate of 15-20 per cent. Tamil
+medical devices manufacturing in the State to ensure higher access and        Nadu Small Industrial Development Corporation Limited (SIDCO), with
+affordability to beneficiaries.                                               assistance from JICA, has established an Integrated Technical Textile
+As a part of the initiative, SIPCOT is developing an exclusive greenfield     Park for technical textile manufacturing by Micro Small and Medium
+industrial park for medicals devices manufacturing at Oragadam in             Enterprises (MSMEs) at Thandarai (Kancheepuram) and Integrated
+an extent of 350 acres. The Medical Device parks shall have common            Textiles/Apparel Park at Punjaikalakurichi (Karur) with a total extent
+facilities such as Radiation Sterilization Facility, design and prototyping   of nearly 100 acres. SIPCOT shall develop a mega textile park at
+centre such as 3D designing and printing for medical grade products,          Virudhnagar. Units are offered common infrastructure, uninterrupted
+testing labs, incubation, technology development and Skill Development        supply of water and electricity and roads. This shall provide impetus to
+Centres to cater to the development of new products, either directly or       medical textiles manufacturing and research.(MSMEs). Units are offered
+through Public Private Partnerships depending on the requirements of          common infrastructure, uninterrupted supply of water and electricity
+the stakeholders. In addition, the Government shall ensure that the parks     and roads. This shall provide impetus to medical textiles manufacturing
+will have uninterrupted water and electricity supply.                         and research.
+
+
+
+
+3.1.4 Centre of Excellence for Organic Livestock Production
+Organic livestock production is the production of a healthy product           the area of organic livestock through highly-skilled individuals and
+without pesticides or medical drugs in order to enhance animal and            experts from academia and industry. Additionally, the COE will have an
+environmental welfare. The Animal Husbandry, Dairying and Fisheries           ‘Organic Livestock Food Certification Centre’ which would further help
+Department shall establish a Centre of Excellence to promote and enhance      the manufacturers of animal products obtain an organic tag and win the
+the application of biotechnology in organic livestock manufacturing,.         trust of national and international consumers.
+This would disseminate specialized knowledge and competency in
+
+
+      3.2 Sustainable Financing
+3.2.1 Ecosystem Fund                                                          the Biotechnology Policy 2014. TNIP 2021 recognizes Biotechnology,
+As per TNIP 2021, the Government of Tamil Nadu has created an Industrial      Pharmaceuticals and Nutraceuticals and Medical textiles and Medical
+Ecosystem Fund with a corpus of Rs. 500 crores to support small               Devices and Equipment as sunrise sectors. Hence projects under
+infrastructural projects, such as the construction of public roads and        aforementioned sectors can submit their investment proposal to TNIFMC
+building infrastructure for power supply, water supply, sewerage, and         for funding.
+other infrastructural facilities. Manufacturing projects in Life Sciences
+can avail funding under this as per their requirements.                       3.2.3 Research & Technology Fund
+                                                                              A Research & Technology Fund with a corpus of Rs. 100 cr. has been set
+3.2.2 Tamil Nadu Emerging Sector Seed Fund                                    up by the Government of Tamil Nadu to support R&D and technology
+Government has accorded approval to TIDCO for setting up of Emerging          adoption in sunrise sectors. The fund shall be used to aid research
+Sector Seed Fund with a corpus of Rs.500 crores as the successor of           and standalone industrial R&D projects operating in segments of Life
+the originally proposed Biotechnology Venture Capital Fund under              Sciences.
+                                                                                                                                                    9
+     3.3 Education and Skill Development
+3.3.1 Skill Development                                                     and international councils. The Government shall establish a finishing
+
+Tamil Nadu Government has accorded administrative sanction to               school through the Apex Skill Development Centre to support short-
+
+establish Apex Skill Development Centres (ASDC) with the assistance         term training for 8-12 months and skilling of life sciences and pharma
+
+of Japan International Co-operation Agency (JICA), as part of the           students to be ‘industry ready’.
+
+Tamil Nadu Investment Promotion Programme (TNIPP) Phase II, for
+                                                                            3.3.2 Institutes of National Importance
+imparting high-end training in key sectors including hospital and
+                                                                            Government of Tamil Nadu recognizes the importance of human capital
+healthcare services. TNSDC shall also include the other segments of Life
+                                                                            formation in growth of Life Sciences industry. To further accelerate
+Sciences such as Medical Devices, Medical Textiles, Biotechnology and
+                                                                            the existing momentum of academic research in Life Sciences in the
+Pharmaceuticals in the above-mentioned programme for establishing
+                                                                            State, Government of Tamil Nadu shall expedite the establishment of
+Apex Skill Development Centre in Life Sciences in collaboration with Life
+                                                                            the national institutes in disciplines closely aligned with Pharmaceuticals,
+Sciences Sector Skill Development Council (LSSSDC) and other national
+                                                                            Medical Devices and Bio-technology in the State.
+
+
+
+
+10
+4. Ease of Doing Business
+The Government of Tamil Nadu has undertaken various initiatives to simplify regulations and improve the ease of doing business for companies
+
+engaged in Life Sciences sector such as the launch of new Single Window Portal and creation of Life Sciences Promotion Cell.
+
+
+
+     4.1 Clearances on the Single Window Portal
+As part of the Ease of Doing Business initiatives, the new Single Window   The Government of Tamil Nadu has issued an amendment to Tamil Nadu
+
+Portal (TNSWP) shall provide more than 200 services (including sector-     Business Facilitation Rules in August 2021 and brought into fold various
+
+specific and sector-agnostic clearances) across 38 departments,            licenses/clearances related to Commissionerate of Prohibition and
+
+making the process completely faceless, contactless, and paperless.        Excise. The State has been continuously working towards streamlining
+
+As of August 2021, 17 clearances related to Drugs Control Department       the timeframe for granting DL2 license applicable for Methanol, which
+
+and Home, Prohibition and Excise Department are also available on          is a widely used solvent in the manufacture of key pharmaceutical
+
+TNSWP. The clearances required for sales of medical devices are already    ingredients and products such as streptomycin, vitamins, and hormones.
+
+onboarded on TNSWP. Other clearances essential for the Life Sciences       The timeline was set at 90 days previously (June 2020) and this has
+
+including manufacturing of medical devices shall also be onboarded         been (August 2021) revised to 30 days for granting the DL2 licence.
+
+on the Single Window Portal providing a one-stop-shop for companies        Further, the State shall undertake efforts to onboard DL2 license on
+
+engaged in Life Sciences.                                                  Single Window Portal.
+
+
+
+
+                                                                                                                                                 11
+     4.2 Renewal of Consent to Operate
+The validity of the Consent to Operate (CTO) provided by TNPCB is now being provided for a longer horizon. Renewal of CTO shall have a validity period
+
+of 5 / 10 / 14 years for Red / Orange / Green category industries respectively subject to the remittance of the total consent fee for the entire period in
+
+advance or have a shorter validity period restricted according to the amount of fees remitted.
+
+
+     4.3 Life Sciences Promotion Cell
+A dedicated Life Sciences Promotion Cell will be set up in Guidance to act as a single point of interface with investors
+
+
+
+
+                        Coordinate with concerned departments                         Partner with national and international IPAs
+                    for providing solutions and addressing concerns                    to facilitate investments in the sector and
+                         of the industry in a time-bound manner.                    help attract investments in the sector through
+                                                                                     roadshows, investor outreach programs, and
+                                                                                    dissemination of information to the community.
+
+
+
+
+12
+5. Incentives
+Projects that are ‘Large’ or above in “B” and “C” Category Districts (Rs. 300 crores +) and ‘Mega’ and above in “A” Category Districts (Rs. 500 crores
++) are eligible for “Structured Package of Assistance” as per Tamil Nadu Industrial Policy (TNIP) 2021. Medical Electronics, Devices and Equipment,
+Biotechnology, Pharmaceuticals, Bulk Drugs and Nutraceuticals, and Technical Textiles including Medical Textiles qualify as sunrise sectors under
+TNIP 2021 and are eligible for “Special Incentives for Sunrise Sector” which includes Investment Promotion Subsidy, Land Cost Subsidy, Stamp Duty
+Incentive, Enhanced Incentive for Quality Certification, Enhanced Incentive for Intellectual Property Creation, Interest Subvention, Electricity Tax
+Exemption, and SGST Refund on Capital Goods.
+
+Considering the technology-intensive nature of Life Sciences, the eligibility criteria for incentives shall be relaxed to include projects that are Sub-
+Large and above, i.e., investment greater than Rs. 50 crores and minimum employment of 50 jobs under a “Special Package of Incentives for Life
+Sciences” under this Policy.
+
+A company can choose to avail incentives under “Special Package of Incentives for Life Sciences” under this Policy or “Special Incentives for Sunrise
+Sector” under TNIP 2021, subject to satisfying the eligibility criteria of the applicable policy.
+
+
+     5.1 Special Package of Incentives for Life Sciences
+Investments made from April 1, 2022, will be considered eligible for            relaxations/provisions/enhancements to include Sub-Large Projects and
+
+availing incentives. The Special Package of Incentives for Life Sciences        additional incentives specified in Para 5.1.11 to Para 5.1.14. The list of the
+
+will include the following incentives applicable to Sunrise Sectors as          eligible industries is mentioned in the Annexure 1.
+
+per TNIP 2021 specified in Para 5.1.1 to Para 5.1.10 below, with suitable
+
+
+
+
+                                                                                                                                                            13
+Special Incentives Applicable based on TNIP 2021
+       5.1.1 Investment Promotion Subsidy
+The units can avail one of the following options for investment promotion – a) Fixed Capital Subsidy, or b) Flexible Capital Subsidy, or c) Turnover-based
+
+Subsidy. These options are mutually exclusive, and a one-time choice has to be exercised at the beginning of the Project by the investor.
+
+
+a. Fixed Capital Subsidy
+Projects can avail a fixed capital subsidy as provided in the Table below:
+
+
+                                                               Special Fixed Capital Subsidy
+                                                               (% Total EFA/Disbursal Period)
+
+     Project/ Category        District/ Sub-Large                             Large                                Mega                      Ultra-Mega
+                              (Rs. 50 crores– Rs. 300 crores       (Rs. 300 crores– Rs. 500 crores     (Rs. 500 crores – Rs. 5000 crores     (>Rs. 5000 crores
+                                        & 50 jobs)                           & 150 jobs)                          & 400 jobs                    & 1000 jobs)
+
+
+        “A” District                 5%/5 years                           7%/5 years                          10% /10 years                 20% /15 years
+
+        “B” District                 7%/5 years                          10% /10 years                        12%/12 years                  22% /15 years
+
+        “C” District                10% /10years                         12%/10 years                         15%/12 years                  25% /15 years
+
+The Fixed Capital Subsidy will be disbursed in equal annual instalments                c. Turnover-based Subsidy
+over the incentive disbursal period. The company can choose to avail the               Mega and Ultra Mega projects (Investment of more than Rs. 500 crores)
+
+Fixed Capital Subsidy from the date of commercial production or upon                   creating a minimum Employment of 2000 jobs within the Investment
+
+achieving the minimum eligible investment threshold of Rs. 50 crores,                  Period can avail the Turnover-based Subsidy instead of the Fixed or
+
+and minimum employment threshold of 50 jobs, whichever is later.                       Flexible Capital Subsidy. Turnover-based Subsidy shall be applicable as
+
+If the company chooses to avail the Fixed Capital Subsidy prior to the                 a percentage of the Turnover in each financial year. The company can
+
+completion of the investment and employment commitment, the Fixed                      choose to avail the Turnover based Subsidy from the date of commercial
+
+Capital Subsidy shall be disbursed in tranches corresponding to the                    production or upon achieving the minimum eligible investment for
+
+cumulative investment made until then and subsequent tranches for                      Structured Package in the given District, i.e., Rs. 50 crores, and minimum
+
+actual annual incremental investment within the investment period.                     employment threshold of 50 jobs, whichever is later, up to a cap of 4%
+
+                                 (OR)                                                  of cumulative investment in Eligible Fixed Assets per annum for a period
+b. Flexible Capital Subsidy                                                            of 10 years. Turnover-based Subsidy for expansion projects shall be
+Projects can avail Flexible Capital Subsidy as per TNIP 2021 and shall
+                                                                                       determined on a case-to-case basis and base volume principle will be
+get a Sunrise Booster of one, which implies an additional capital subsidy
+                                                                                       applicable.
+of up to 7.5% of Eligible Fixed Assets (EFA) (in addition to standard
+
+subsidy), depending upon the investment and employment. Further, to
+
+support Sub-large projects (investment between Rs. 50 crores and Rs.
+
+300 crores), the scale factor shall be 0.41%, or as per the investment/
+
+employment commitment numbers, whichever is higher. The employment
+
+criteria for Sub-Large projects to compute the Employment Booster shall
+
+be minimum employment of 50 persons.
+
+                                 (OR)
+14
+                        Turnover-based Subsidy (% Turnover) for Mega and Ultra Mega Projects
+                                   (Investment> Rs. 500 crores) and Employment > 2000 Jobs
+
+                             District Category                                                     % of Turnover Annually
+
+                                  “A” District                                                                1.75%
+
+                                 “B” District                                                                 1.8%
+
+                                 “C” District                                                                 2%
+
+
+
+     5.1.2 Inclusion of R&D in EFA
+As per TNIP 2021, EFA shall include investment in R&D such as land, building, plant, and machinery. To encourage R&D in Life Sciences, EFA shall
+include the following R&D expenditure, subject to a ceiling of up to 20% of EFA:
+
+
+  A. Expenditure incurred on new R&D                                           B.Expenditure related to Transfer of Technology (ToT) Agreements
+  Test and measuring instruments, prototypes used                              This shall include the cost of technology and initial
+  for testing, purchase of design tools, software cost                         technology purchase related to the manufactured
+  (directly used for R&D) and license fee, expenditure on                      goods that are related to manufacturing and R&D in
+  technology, IPR, patents, and copyrights for R&D.                            Life Sciences.
+
+
+All non-creditable taxes and duties would be included in such expenditure.
+
+
+     5.1.3 Training Subsidy
+Skilling support can be availed in form of a Training Subsidy of Rs.         disabilities, persons from SC/ST communities who are residents of Tamil
+
+4000 per worker per month for 6 months for residents of Tamil Nadu.          Nadu, the training subsidy shall be Rs. 6000 per worker per month for 6
+
+For women and transgender employees, persons with benchmarked                months.
+
+
+     5.1.4 Land Cost Incentive
+For eligible projects in SIPCOT/TIDCO/SIPCOT JV Parks, land allotment will   least 70% of the land is used for manufacturing operations. In case the
+
+be made at a 10% concessional rate in “A” & “B” districts and at a 50%       investor chooses to avail the land cost subsidy, land will be excluded from
+
+concessional rate in “C” districts for land up to 20% of EFA. For private    Eligible Fixed Assets for the purpose of Investment Promotion Subsidy.
+
+land in “C” districts, a 50% subsidy will be offered on the cost of land     The timelines for allotment of Land in the SIPCOT Industrial Area shall
+
+as per guideline value up to an extent of 50 acres and subject to land       be as per Tamil Nadu Business Facilitation Rules 2018 and a deemed
+
+cost not exceeding 20% of EFA and a cap of Rs. 2 cr. provided that at        approval shall be issued on expiry of the time limit.
+
+
+
+     5.1.5 Stamp Duty Incentive
+100% stamp duty exemption will be given for lease or purchase of land/       back ended subsidy for up to 50 acres on fulfilment of investment and
+
+shed/ buildings meant for industrial use in land obtained from SIPCOT. In    employment commitment.
+
+the case of private lands, stamp duty concession will be given as a 100%
+
+
+
+                                                                                                                                                      15
+       5.1.6 Enhanced Incentive for Quality Certification
+Projects obtaining certifications like ISO, ISI, BIS, FPO, BEE, AGMARK,        certification, as certified by the Chartered Accountant, limited to Rs. 50
+
+and ECOMARK or any other national or international certification shall         lakhs for Sub-Large projects and Rs. 1.25 cr. for Large, Mega, and Ultra
+
+be given a subsidy of 50% of the total cost incurred for obtaining the         Mega projects for the period of investment.
+
+
+       5.1.7 Enhanced Incentive for Intellectual Property Creation
+The Government will reimburse 50% of the expenditure incurred by the           lakhs for Sub Large projects and Rs. 1.25 cr. for Large, Mega, and Ultra
+
+project for the investment period for patents, copyrights, trademarks,         Mega projects for the period of investment.
+
+geographical indicators registration subject to a maximum of Rs. 50
+
+
+       5.1.8 Interest Subvention
+Interest Subvention of 5% as a rebate in the rate of interest shall be provided on actual term loans taken for the purpose of financing the project, for
+
+a period of 6 years subject to the limits provided in the Table below.
+
+
+     Project/ Category              Interest Subvention                   Maximum Incentive Disbursal                        Ceiling per annum
+                                        (% Rate of Interest)                          Period (Years)                                  (Rs)
+
+         Sub-Large                             5%                                           6                                       5 lakhs
+           Large                               5%                                           6                                      20 lakhs
+           Mega                                5%                                           6                                      100 lakhs
+         Ultra-Mega                            5%                                           6                                      400 lakhs
+
+
+
+       5.1.9 Standard Incentives
+The Project shall also be eligible for standard incentives, namely, electricity tax exemption for 5 years and green industry incentives of up to Rs. 1 cr.
+
+as specified in Para 13.5.1 and Para 13.5.3 as per TNIP 2021.
+
+
+       5.1.10 SGST Refund on Capital Goods
+The Project shall also be eligible for SGST refund on capital goods in case of inverted tax structure as specified in Para 13.6 as per TNIP 2021.
+
+
+
+
+16
+Additional Incentives over and above TNIP 2021
+
+     5.1.11 Overseas Training Subsidy
+A one-time Overseas Training Subsidy not exceeding Rs.50,000 per                  within a period of 3 years from the date of commercial production for up
+
+recruit who is a resident of Tamil Nadu may be provided for overseas              to 10 % of total employees.
+
+training / skill upgradation in manufacturing, quality control or leadership
+
+
+
+     5.1.12 Special Incentive for Certification Renewal
+Projects obtaining certifications like certification/accreditation or             total cost incurred for renewal of the certification, as certified by the
+
+approvals from WHO, GMP, GLP, USFDA, UKMHRA, CE, BIS or similar                   Chartered Accountant, for the period of 5 years, subject to the annual
+
+national/international agencies shall be given a subsidy of 50% of the            ceilings mentioned below:
+
+
+
+
+  Project/ Category                         Subsidy                        Maximum Incentive Disbursal                         Ceiling per annum
+                                           (% Total Cost)                                Period (Years)                                  (Rs)
+
+        Sub-Large                              50%                                             5                                       15 lakhs
+          Large                                50%                                             5                                       40 lakhs
+          Mega                                 50%                                             5                                       1 crore
+       Ultra-Mega                              50%                                             5                                       1 crore
+
+
+
+
+     5.1.13 Environmental Protection Infrastructure Subsidy
+The Government of Tamil Nadu, through its agencies such as Tamil Nadu             dedicated Effluent Treatment Plants (ETP) and/or Hazardous Waste
+
+Water Investment Company Limited (TWIC) and SIPCOT, shall develop                 Treatment Storage and Disposal Facility (HWTSDF) set up by individual
+
+and maintain environmental protection infrastructure for common use               manufacturing units would be eligible for an Environment Protection
+
+catering to the requirements of Life Sciences clusters.                           Infrastructure subsidy of 25% of capital cost of setting up such ETP/
+
+Further in areas where common infrastructure is not available,                    HWTSDF subject to the ceilings listed in the table below:
+
+
+
+
+        Project/ Category                                             Subsidy                                               Ceiling
+                                                                     (% Total Cost)                                            (Rs)
+
+              Sub-Large                                                 25%                                                  1 crore
+                  Large                                                 25%                                                 5 crore
+                  Mega                                                  25%                                                 10 crore
+             Ultra-Mega                                                 25%                                                 10 crore
+
+The subsidy can be availed upon completion of setting up and commissioning of the environmental protection infrastructure.
+
+
+
+
+                                                                                                                                                         17
+     5.1.14 Anchor Unit Subsidy
+Anchor units with an investment greater than Rs. 300 crores in each          for a maximum period of 5 years from the date of commencement of
+
+of the segments of Life Sciences - 1) Biotechnology & Bio-services,          commercial production/ operation subject to an overall ceiling of Rs. 10
+
+2) Pharmaceutical and Nutraceutical Industry, 3) Medical Textile             crores. The first few units (with investment greater than Rs. 300 crores)
+
+and 4) Medical Devices, shall be eligible for reimbursement of 25%           may be provided a customised package of incentives on a case-to-case
+
+insurance premium on insurance of the building and Plant & Machinery         basis.
+
+
+     5.2 Special Incentives for R&D Projects
+The Government of Tamil Nadu recognizes the importance of Research           industry incentives. Additionally, R&D Training Incentive of Rs. 10,000
+
+and Development in Life Sciences. TNIP 2021 includes R&D as part of          per person per month can be availed for R&D personnel for 12 months.
+
+Eligible Fixed Assets. To further the development of intellectual property   The Government is also in the process of formulating the Tamil Nadu R&D
+
+and adoption of technology in industries, TNIP 2021 provides incentives to   Policy which would also benefit Life Sciences industries that are highly
+
+R&D Projects such as land cost incentive, enhanced quality certification     dependent on core R&D. The R&D policy aims to enhance the innovation
+
+incentive, enhanced intellectual property incentive, electricity tax         ecosystem that can further encourage innovation in Life Sciences.
+
+exemption for 5 years, stamp duty exemption, SGST refund and green
+
+
+
+
+18
+6. Incentives for MSME
+The Government of Tamil Nadu offers a wide range of schemes and incentives for enterprises classified as Micro, Small or Medium Enterprise based
+
+on the following composite criteria:
+
+
+                                                                                                                Investment in Plant &                                                                                        Turnover not Exceeding
+                   Type of Enterprise
+                                                                                                               Machinery not Exceeding
+                                   Micro                                                                                           Rs. 1 cr                                                                                               Rs. 5 cr
+                                   Small                                                                                          Rs. 10 cr                                                                                               Rs. 50 cr
+                                Medium                                                                                           Rs. 50 cr                                                                                                Rs. 250 cr
+1 Thrust sector enterprises that are eligible for special subsidy under MSME policy and under the interest of this policy are drugs, pharmaceuticals and nutraceuticals, Medical Devices, Equipment and Components, Technical Textiles and Medical Textiles and Biotechnology.
+
+
+
+
+As per the MSME Policy 2021, the Micro, Small and Medium Enterprises are eligible for the following services, incentives and schemes:
+
+
+•         The MSME Department has developed and implemented a Single Window Portal for MSMEs as per the Tamil Nadu Business Facilitation Act, 2018,
+          to promote Ease of Doing Business,. The existing MSMEs can also avail these for renewal of their licences through the Single Window Portal.
+
+
+•         Innovation Voucher Program, Venture Capital Fund, Schemes for fund raising and leveraging IPR regime are available through MSME policy
+          to foster an innovation ecosystem for MSMEs. These schemes cover portions of the budget or total expenditure incurred on SME IPO, part of
+          cost of filing the patent registration, 50 % subsidy on the cost of filing application for Trade-Mark registration including the cost of first-time
+          maintenance fee / Geographical Indications registration / application.
+
+
+•         The enterprises in thrust sectors setup anywhere in the State are eligible for special capital subsidy up to Rs.150 lakhs in three instalments and
+          additionally micro enterprises anywhere in the State are eligible for payroll subsidy.
+
+
+•         Low Tension Power Tariff Subsidy is available to new micro enterprises / enterprises going in for expansion & diversification using Low Tension
+          Power Supply (Tariff III B) only, equivalent to 20% of power consumption charges for 36 months from the date of commencement of production
+          or date of receiving the power connection, whichever is later.
+
+
+•         Additional Capital Subsidy to promote cleaner and environmentally friendly technologies at 25% of plant and machinery value up to Rs 10 lakhs
+          is available for all new and existing micro enterprises located anywhere in the State, and small and medium manufacturing enterprise in select
+          locations.
+
+
+•         In addition to the above schemes, interest subsidy schemes for technology upgradation, terms loan availed from TIIC, credit linked subsidy,
+          stamp duty exemption, marketing support energy audit charges and implementation charges reimbursement, quality certification support,
+          technology development fund are also available for MSMEs.
+
+
+•         Other incentives under MSME Policy 2021, as applicable.
+
+                                                                                                                                                                                                                                                                                 19
+7. Governance Mechanism
+The incentives (Section-5) shall be provided to eligible industries by the Industries, Investment Promotion and Commerce Department based on the
+
+recommendation of Guidance to the Government / Inter-Departmental Committee and shall be disbursed by SIPCOT. The single window facilitation for
+
+Sub-Large, Large, Mega and Ultra Mega projects shall be undertaken by Guidance through its single window portal.
+
+
+The incentives for MSME sector (Section-6) shall be sanctioned by the Commissioner of Industries and Commerce. The single window facilitation for
+
+MSME sector shall be undertaken by the Commissioner of Industries and Commerce & District Industries Center.
+
+
+The existing institutional mechanism for sanction and disbursal of investment related incentives to industries and other implementation guidelines
+
+(as per TNIP 2021 or TN MSME Policy 2021 or the prevailing industrial policy) shall be applicable to the industries eligible under this Policy.
+
+
+
+
+20
+8. Annexure List of Eligible Industries
+1. Pharmaceuticals and Bulk Drugs
+  1.1. API/Bulk Drugs and Drugs intermediates
+  1.2. Nutraceuticals (Food Supplements only)
+  1.3. Biologics and Biosimilars
+  1.4. Drug formulations
+  1.5. Ethnoveterinary Drugs
+
+2. Medical Textile Manufacturing Drugs
+  Products or segments under medical textile
+  manufacturing that adhere to the standards
+  for Technical Textiles for MedTech as
+  published by the Bureau of Indian Standards
+  (BIS) (products such as clothing for protection
+  against contact with blood and body fluids,
+  bandage, surgical and first-aid dressings, and
+  face masks.)
+
+3. Biotechnology
+  3.1. Medical Biotechnology
+  3.2. Agricultural Biotechnology
+  3.3. Industrial Biotechnology
+  3.4. Environmental Biotechnology
+  3.5. Marine Biotechnology
+  3.6. Animal Biotechnology
+
+
+4. Medical Devices
+  4.1. Consumables & Disposables: High-volume items used in      4.4 Implants & Patient Aids: Devices manufactured to replace or support biological
+  health facilities that include syringes, needles, catheters,   functions such as cardiac stents, pacemakers, drug eluting stents, dental implants,
+  sutures, perfusion sets, extension lines, cannula, surgical    intraocular lenses, orthopaedic implants, prosthetics, and orthotics, hearing aids,
+  blades and feeding tubes.                                      and cochlear implants.
+  4.2. Diagnostics: In-vitro diagnostic devices, kits and        4.5Patient Monitoring devices: In-vitro diagnostic devices, kits and associated
+  associated reagents for diagnostic purposes and include        reagents for diagnostic purposes and include equipment for Biochemistry,
+  equipment for Biochemistry, Haematology, Auto-immune           Haematology, Auto-immune disorder diagnosis, Antibody testing kits, Antigen
+  disorder diagnosis, Antibody testing kits, Antigen testing     testing kits, New-born Screening Kits and Self-testing kits & reagents.
+  kits, New-born Screening Kits and Self-testing kits &
+  reagents.                                                      4.6 Other equipment: Medical devices used in various invasive procedures such
+                                                                 as Artificial dialysis apparatus, defibrillator, Lithotripsy equipment, anaesthesia
+  4.3. Diagnostic Imaging: Electro-diagnostic & radiation
+                                                                 equipment, Laparoscope, endoscope, colposcopes, central nursing stations, stress
+  apparatus, imaging apparatus and associated accessories
+                                                                 test systems, and oxygenators.
+  such as Linear Accelerators, CT scans, MRI machines,
+  Electro-cardiographs, Ultrasound machines & probes,
+  X-Ray.
+
+
+
+                                                                                                                                                  21
+        GOVERNMENT OF TAMIL NADU
+
+
+
+
+www.investingintamilnadu.com
+

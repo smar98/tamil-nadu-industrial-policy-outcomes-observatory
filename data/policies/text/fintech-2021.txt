@@ -1,0 +1,999 @@
+I
+ INDUSTRIES DEPARTMENT
+GOVERNMENT OF TAMIL NADU
+                           II
+III
+           Contents
+
+
+1   Preamble                         1
+
+
+2   Objectives                       6
+
+
+3   FinTech Initiatives              7
+
+
+4   Creating an Enabling Ecosystem   13
+
+
+5   Funding Support                  17
+
+
+6   Incentives                       19
+
+
+7   Governance Mechanism             25
+
+
+A   Annexures                        27
+
+
+
+
+                                          IV
+V
+      1          Preamble
+1.1. Overview
+Tamil Nadu is the second largest economy in India, with a Gross State Domestic
+Product (GSDP) of over Rs. 19.02 lakh crore in FY 2020-21 at current prices. The
+State’s economy has grown consistently at 10.87% in the last decade. The Services
+sector is a significant contributor to the State economy accounting for a 49.4%
+share of the GSDP in FY 2020-21. Robust growth across the Services and
+Manufacturing sectors has been fundamental to Tamil Nadu’s high per capita
+income levels and improved quality of life for residents. Concomitantly, the State’s
+per capita income was 94% higher than the national average in FY 2020-21.
+
+
+In the current context, the onset of the COVID-19 pandemic has disrupted the
+traditional operating models of brick-and-mortar businesses including banking &
+financial services and has accelerated the adoption of digital alternatives. FinTech
+firms which utilise information technology to enhance the delivery of financial
+services & products, have benefitted from this shift.
+
+
+This wave of growth in FinTech is being driven by a mix of startups and large firms -
+
+          Startups providing specific and targeted financial products to tap into
+          consumer segments hitherto not serviced by traditional financial
+          institutions.
+
+          Large financial institutions increasing their FinTech offerings, through
+          the services of firms providing digital infrastructure and/or in-house
+          technology solutions to compete with new entrants/products and
+          retain market share.
+
+          Large and medium Information Technology firms enhancing their
+          current platforms by providing financial services leveraging upon their
+          existing consumer relationships and technology experience.
+
+The Government of Tamil Nadu recognises the role of large firms and startups in the
+FinTech sector and seeks to encourage and support them through this Policy.
+
+
+
+
+                                                                                     1
+1.2. Tamil Nadu’s Legacy as a Financial Hub
+Historically, Tamil Nadu has been a pioneer in the financial sector with Chennai
+being at the forefront of several financial innovations and initiatives. Chennai is
+known for its financial acumen and had established its first bank, The Madras Bank
+in 1682 (eventually merged into SBI). The first cooperative bank in India, The Madras
+Urban Cooperative Bank was set up in Chennai in 1906. The country’s first private
+mutual fund was also set up in Chennai in 1993, subsequent to the Government of
+India allowing private players to manage and operate mutual funds. The State has
+witnessed the growth of several banks and NBFCs, both in the public and private
+sector, including microfinance vehicles such as Chit Funds.
+
+1.3. Inherent Advantages of Tamil Nadu
+FinTech firms depend on four key pillars, namely, Domain Knowledge in Finance,
+Information Technology, Infrastructure, and Diversified & Inclusive Markets, all of
+which are all well established in Tamil Nadu. Today, the financial services sector
+contributes nearly 5% to Tamil Nadu’s GSDP and has grown at a Compounded
+Annual Growth Rate (CAGR) of 10.15% in the last decade. The State boasts of the
+highest credit-deposit ratio in the country and attracts significant FDI in Banking
+Financial Services and Insurance (BFSI) services every year.
+
+
+Information Technology (IT), especially Data Analytics has a strong and
+well-developed ecosystem in Tamil Nadu. IT contributed to Rs. 1.39 lakh cr. in exports
+and employed 7.4 lakh people during FY 2019-20. There are more than 640 startups
+in Software as a Service (SaaS) and Deep Tech (artificial intelligence, robotics, and
+block chain) across the State, with a combined revenue of $1 billion and a workforce
+of 15,000 employees. Chennai, in particular, is hailed as a SaaS capital as several SaaS
+companies are based in the city, including two home-grown unicorns – Zoho and
+Freshworks.
+
+
+
+
+                                                                                      2
+In addition to domain expertise, FinTech firms require physical as well as IT
+infrastructure to grow. Tamil Nadu ranks 1st nationally with 46 operational Special
+Economic Zones (SEZ) including 8 ELCOSEZs for IT/Information Technology Enabled
+Services (ITeS) firms. The State also has a well-developed IT infrastructure with 6
+submarine cable landing stations connecting the State with international
+destinations and 14.8 Tbps bandwidth. With such robust IT connectivity
+infrastructure, the State is emerging as a major investment destination for data
+centres having signed MoUs worth Rs. 18,800 cr. in FY 2019-2020. Tamil Nadu also
+offers state-of-the-art-infrastructure with 4 international airports, 2 additional
+domestic airports, and 4 large seaports.
+
+
+Further, 51% of the total banking outlets in Tamil Nadu are concentrated in eight
+districts of Chennai, Coimbatore, Kancheepuram, Madurai, Tiruvallur, Tiruchirappalli,
+Tirunelveli and Salem, indicating a large addressable market in the State for FinTech
+firms. Furthermore, several marquee financial institutions in the world have chosen
+Chennai to house their Information Technology and core financial processing
+operations. Specifically, on the Information Technology front, the city is home to top
+Information Technology services and product companies having significant focus
+towards the financial services industry and serve the needs of most of the Fortune
+500 companies. Besides, large domestic enterprises and multi-national corporations
+(MNC) in the manufacturing sector conduct their core finance, accounting and other
+high-end financial processing out of Chennai and other cities in Tamil Nadu. The
+State, thus, offers a diversified as well as an inclusive market for the FinTech sector to
+grow. FinTech firms could leverage this market to offer solutions to both domestic
+and international enterprises.
+
+
+The sound Financial and IT ecosystem has been aided by the skilled and talented
+workforce available in the State. Tamil Nadu has a highly qualified,
+productivity-oriented, and English-speaking human resource pool and is home to
+several premier institutions such as IIT, IIM, NIT, Anna University, Madras School of
+Economics, IFMR, Great Lakes, Loyola Institute of Business Administration, Madras
+Institute of Management Studies, Chennai Mathematical Institute, and other public
+and private sector institutions. The State contributes nearly a million graduates to
+the human resource pool each year and has one of the highest contributions of
+graduates and post-graduates in the fields of finance, accounting and related
+academic disciplines.
+
+
+Tamil Nadu has developed capabilities in these four areas over the last few decades.
+By leveraging these capabilities and harnessing its immense potential, Tamil Nadu
+can grow and develop into a major FinTech hub.
+                                                                                        3
+1.4. Need for Policy
+India has a growing base of internet users, especially in rural areas, who will play a
+key role in increasing the internet adoption rate. India stands second in the EY
+FinTech Adoption Index rankings, with the adoption of FinTech having accelerated
+from 52% in 2017 to 87% in 2019. In the rankings, India stands next to China and is
+ahead of other developed countries by a significant margin. As of 2020, India has
+over two thousand FinTech firms, of which, 5% are from Tamil Nadu. With its
+inherent advantages, Tamil Nadu has an immense potential to grow in this space.
+
+
+FinTech firms with their user-friendly-based offerings are able to target segments of
+the population that are unbanked and otherwise not serviced by traditional financial
+institutions. This dovetails with the State’s goal of inclusive development.
+
+
+Tamil Nadu’s potential for growth in the FinTech sector underlines the need for a
+dedicated policy to accelerate FinTech investments and enable nurturing, fostering,
+and development of the FinTech ecosystem in the State.
+
+
+1.5. Scope
+This Policy covers firms utilizing Information Technology to drive innovation in the
+design and delivery of financial services. It specifically covers firms that widen the
+coverage and reach of these services to improve financial inclusion through reliable,
+swifter, and cost-effective methods.
+
+This Policy adopts the definition of FinTech as per the Financial Stability Board and
+RBI - “technologically enabled financial innovation that could result in new
+business models, applications, processes, or products with an associated material
+effect on financial markets and institutions and the provision of financial services”.
+Firms that are engaged in one or more of the operations under this definition and
+listed in Table 1 would be covered under this Policy.
+
+
+
+
+             DEPOSITS,                                  DATA                                  GLOBAL
+ PAYMENTS,                                                         EXCHANGES
+             LENDING &     MARKET       INVESTMENT    ANALYTICS                              CAPABILITY
+CLEARING &                                                                      INSURANCE
+              CAPITAL    PROVISIONING   MANAGEMENT      & RISK    AND MARKETS               CENTERS/IT &
+SETTLEMENT
+              RAISING                                MANAGEMENT                                 ITES
+
+
+
+
+                                                                                                     4
+ Table 1 - FinTech Scope
+
+       Category             Products/Platforms/Services             Technologies
+
+
+
+  Payments, Clearing        • Mobile and Web-based
+     & Settlement              Payments
+                            • Digital Currencies
+                            • Crowdfunding
+   Deposits, Lending        • Peer to Peer Lending
+    & Capital raising       • Smart Contracts/ Trade              • Data Science
+                              Finance                             • Big Data
+                            • Cloud Computing                     • Artificial
+                            • e-Aggregators                         Intelligence &
+        Market
+                            • Robo Advisory                         Robotics/ Machine
+      Provisioning
+                            • e-Trading                             Learning
+                            • Credit Rating                       • Security &
+                            • eKYC                                  Authentication –
+      Investment
+                            • Asset Management                      Cybersecurity
+     Management
+                            • Equity and Debt Research            • Biometrics
+                            • Securities Market                   • Blockchain
+                            • Custody, Trusteeship and            • Internet of Things
+    Data Analytics &
+                              Settlement                            (IoT)
+   Risk Management
+                            • Marketplace                         • Mobile POS
+                            • Online Broking                      • NFC/ RFID
+                            • Insurance/Policy & Claims           • Augmented
+     Exchanges and            Management                            Reality/Virtual
+        Markets             • Neo/Digital Banking                   Reality
+                            • Underwriting Services
+                            • Regulatory Services – AML,
+                              Transaction Monitoring
+       Insurance
+                            • Payment Gateways
+                            • White Label Software
+                            • APIs
+    Global Capability       • Remittances
+    Centers/IT & ITeS
+
+
+
+This Policy will be valid till 31.12.2025. Operational guidelines and clarification may be
+issued from time to time.
+
+
+
+
+                                                                                         5
+      2           Objectives
+2.1. Vision
+Transform Tamil Nadu into a leading global destination for FinTech firms by 2025.
+
+
+2.2. Mission
+ • Increase financial inclusion and fintech adoption rate in Tamil Nadu by
+ promoting digital solutions for the traditional financial sector.
+ • Develop a comprehensive and concerted program with government agencies to
+ provide a one-stop shop solution to existing and new FinTech firms in the State.
+ • Facilitate    seamless    and     transparent      Business-to-Business      (B2B),
+ Business-to-Consumer (B2C), Government-to-Government (G2G), Government
+ -to-Business (G2B), and Government-to-Citizen (G2C) financial transactions
+ efficiently.
+ • Develop industry-academia linkages to create a FinTech knowledge ecosystem
+ comprising universities, research institutions, design & innovation labs, and
+ FinTech firms.
+ • Develop, attract, and nurture talent in the fields of finance and digital
+ technologies.
+ • Develop the necessary infrastructure required for attracting and promoting the
+ next generation of FinTech firms.
+ • Develop partnerships with other leading FinTech centres across the world.
+
+
+2.3. Goals
+ • To become the leading State in the country in terms of growth of new FinTech
+ firms incorporated during the Policy period.
+ • Develop a FinTech city in the State with 1 million square feet of working space for
+ FinTech firms with a world class FinTech Innovation Hub/FinTech Lab.
+ • Set up Skill Centres for FinTech in the State in partnership with premier institutes
+ & private firms which shall also serve as Centres of Excellence (CoEs) to support
+ entrepreneurs/ SMEs/ startups in the State.
+
+
+
+
+                                                                                      6
+      3          FinTech Initiatives
+To position Tamil Nadu as an established hub for FinTech firms, the State shall focus
+its efforts on creating an enabling ecosystem for FinTech. Tamil Nadu has already
+undertaken several initiatives to address the requirements of FinTech firms in skill
+development, educational infrastructure, and physical infrastructure.
+
+
+3.1. FinTech Cell
+The Government of Tamil Nadu has set up a dedicated FinTech Cell in Guidance to
+support the FinTech sector in the State. The FinTech Cell shall undertake promotion,
+facilitation, and advisory activities such as:
+ a. Encourage FinTech firms especially startups, to participate and represent the
+ State in national and international banking, finance, and FinTech programmes
+ such as seminars, conferences, exhibitions, and events.
+ b. Organise regular interactions with other FinTech hubs such as Singapore and
+ London.
+ c. In association with TANSIM and FinBlue, collaborate with various national
+ investment promotion agencies and associations such as NASSCOM, to host
+ marketing events and promote Tamil Nadu.
+ d. Conduct hackathons, business challenges, and annual award events to identify
+ the leading FinTech firms in the State and support in the development of the
+ FinTech ecosystem.
+ e. Support the FinTech Governing Council in interactions with the Government of
+ India, regulators, other Government & non-Government agencies necessary to
+ ensure policy-level support.
+ f. Provide facilitation support in the form of location advisory, incentives
+ applications, approval and clearances.
+
+
+
+
+                                                                                    7
+3.2. FinBlue
+The Government of Tamil Nadu in collaboration with the Ministry of Electronics and
+Information Technology (MeitY), Government of India and Software Technology
+Parks of India (STPI) set up FinBlue - a Centre of Excellence for FinTech in Chennai in
+2019. In 2021, FinBlue conducted Pitchfest 2.0, during which it received 345
+applications from startups and selected 26 startups from domains such as lending,
+payment, asset management, remittances, risk & compliance, investment research,
+and tax.
+
+
+FinBlue has been designed to identify startups with a potential to create disruptive
+products or services by way of screening mechanisms such as Hackathons and
+challenges. FinBlue provides business/organizational support in the startups phase,
+mentoring and technical support through industry partners, access to financial
+resources (Angel Funding, Seed Funding, and Venture Capital), and access to
+networking facilities and markets. It has partnered with several notable institutions
+such as IIT Madras, National Payments Corporation of India (NCPI), PayPal, NatWest
+Group, Yes Bank, ICICI Bank, and Amazon, among others.
+
+
+The FinBlue Sandbox consists of APIs exchange, Core Banking Software (CBS),
+analytical & performance monitoring tools providing a real time environment to
+FinTech startups which are involved in developing and testing their prototype
+FinTech products. The APIs exchange is a comprehensive interface which provides a
+common digital platform for banks, financial institutions and startups. The State
+shall work together with STPI to create a co-sandboxing with RBI in achieving the
+Regulatory Sandbox, which shall help RBI to gauge the regulatory changes needed.
+The FinBlue Marketplace will connect FinTech firms with investors, BFSI industry
+representatives and Knowledge partners. It shall provide FinTech firms a unique
+opportunity to interact with domestic and global investors and secure funding
+support. FinBlue also provides premium plug-and-play co-working space for tech
+startups, access to the FinTech ecosystem, and a platform to support Go-to-Market
+strategy.
+
+
+
+
+                                                                                     8
+FinBlue shall also endeavour to publish an annual report on the performance and
+progress of the FinTech sector using a FinTech Index with parameters such as
+funding secured by firms, number of fintech startups per segment, Fintech adoption
+rate, best performing FinTech firm per segment by revenue/users. Based on such
+reports, the FinTech Governing Council shall undertake strategic initiatives for the
+development of the FinTech sector in the State.
+
+3.3. Development of Chennai as a FinTech Hub
+The Tamil Nadu Industrial Development Corporation Limited (TIDCO) will develop a
+FinTech city in Chennai with a built-up space of at least 1 million square feet in a
+phased manner. The FinTech City will develop as the fulcrum of financial services
+and related activities, largely driven by next-generation technologies in Tamil Nadu.
+The FinTech City shall largely be virtual, interconnected digitally with an iconic
+building in Chennai and other FinTech centres in Tier 2 & 3 cities.
+
+
+The FinTech City would house entities across a wide spectrum of financial, IT and
+banking services. These include financial regulatory institutions, trade insurers and
+regulators, IT firms providing Banking Financial Services and Insurance (BFSI)
+services, digital technology services such as blockchain, automation and robotics,
+industry sandboxes, artificial intelligence, and data analytics.
+
+
+Standalone projects/buildings hosting FinTech services shall also be provided with
+uninterrupted power supply and communication infrastructure. Space shall be
+reserved for Incubators and Accelerators and would be provided at concessional
+rental rates.
+
+
+Specialized financial services funding agencies such as Private Equity (PE) firms,
+Venture Capital (VC) firms would also be encouraged to set up operations in the
+FinTech City to establish the necessary funding ecosystem for FinTech firms. The
+State shall also look at setting up plug-and-play co-working facilities for FinTech
+firms and Risk Capital Providers. The Government shall encourage and assist in the
+establishment of an Innovation Hub to attract financial institutions that seek to
+engage in R&D activities.
+
+
+
+
+            Proposed FinTech City
+            Nandambakkam, Chennai
+
+
+
+
+                                                                                   9
+3.4. Promoting Digital Payment Zones in the State
+The Government of Tamil Nadu shall encourage digital payments by developing
+Digital Payment Zones in the State in a phased manner. The State shall, as a pilot
+project, develop a Digital Payment Zone in Chennai within a 5 km radius of the
+FinTech City. Within these zones, the Government shall accelerate FinTech adoption
+by encouraging digital payment modes such as UPI, Mobile Wallets, Point of Sale
+(PoS), and Micro-ATMs for C2G (Consumers/Business to Government), G2C
+(Government to Consumers), B2C (Business to Consumers), and C2B (Consumers to
+Business) transactions related to utilities, transportation, taxes, goods and services.
+
+
+3.5. Regionally Balanced FinTech Development
+TIDCO will develop Neo-TIDEL parks in Tier 2 & 3 cities with state-of-the-art
+plug-and-play office space in various sizes to suit the needs of small and large
+players. These parks spanning 5-10 acres shall be located in prime locations with
+excellent last mile connectivity. The Neo-TIDEL parks will have dedicated labs for
+FinTech. The facilities shall have failsafe power and communication infrastructure
+with backup arrangements.
+
+
+3.6. FinTech Registry
+The State will set up a FinTech Registry for FinTech firms in Tamil Nadu. This Registry,
+managed by the FinTech Cell, shall enable the State to track and monitor the
+progress of FinTech firms effectively. The FinTech Registry would also be used as a
+common platform to help facilitate discussions between FinTech players to boost
+collaboration and development in the sector.
+
+
+
+
+                                                                                     10
+3.7. Skill Development & Education Infrastructure Initiatives
+The Government of Tamil Nadu recognizes the need for skill development initiatives
+to boost the FinTech ecosystem in the State and shall undertake the following
+measures:
+
+• Provide online and offline continuous learning programs with industry relevant
+curriculum to students, working professionals, and startups across the State in
+vernacular languages to enable the development of a skilled talent pool for FinTech
+in the State.
+• Facilitate curriculum redesign in engineering institutions to impart knowledge of
+FinTech to students.
+• Collaborate with various FinTech firms to establish a pipeline of employment
+opportunities for skilled personnel.
+• School Education Department shall design online and offline curriculum and
+training, in vernacular languages for improving financial literacy among students,
+leveraging best practices from across the globe.
+• Utilise schemes such as Government of India’s Financial Education Programme for
+Adults (FEPA) and Financial Literacy and Credit Counselling Centres in banks for
+increasing financial awareness in the underprivileged and financially excluded
+sections of the society.
+• Tamil Nadu State Development Corporation (TNSDC) shall develop an Apex Skill
+Development Centre (APSDC) for Banking, Financial Services and Insurance (BFSI)
+which will offer courses on FinTech and serve as a Centre of Excellence. The APSDC
+shall be established in a PPP mode as a Special Purpose Vehicle with TNSDC and an
+industry partner.
+
+
+
+
+                                                                                11
+3.8. Encouraging FinTech Adoption
+The Government of Tamil Nadu has implemented several governance measures to
+spur the adoption of FinTech in the State. The Integrated Financial & Human
+Resources Management System (IFHRMS) is a government wide transformation to
+utilise technology in improving the financial activities of the State Government and
+ensure robust management of State Finances. The State has also implemented an
+e-challan system which enables online payments for different government services.
+Additionally, for Government procurements below Rs. 20 lakh, startups registered
+with TANSIM have been provided with relaxations on payment of Earnest Money
+Deposit (EMD), prior turnover requirements, prior experience requirements, and
+waiver of tender cost. These enabling provisions for easing governmental
+procurement shall also be applicable to FinTech startups.
+
+
+
+
+                                                                                  12
+      4          Creating an Enabling Ecosystem
+4.1. Power Infrastructure
+One of the main requirements for an Information Technology driven enterprise is
+the availability of high-quality and uninterrupted power. Tamil Nadu is a power
+surplus State and a leader in renewable power generation. The Government of
+Tamil Nadu launched a scheme in 2017 of signing Memorandum of Understanding
+(MoU) with TANGEDCO for providing uninterrupted power supply to
+Industries/Developers with an electrical demand of 10 MVA and above or with
+investment above Rs. 100 crores. This shall also be extended to FinTech firms in
+designated FinTech parks of the State promoted by Government Agencies.
+
+
+4.2. Connectivity Infrastructure
+Tamil Nadu has excellent Optical Fiber Communication (OFC) network and
+availability of reliable and large bandwidth. With 6 Submarine Cables, Chennai has
+one of the largest bandwidths among Indian cities (14.8 Tbps). The Submarine Cable
+linking Chennai with Singapore has significantly increased the existing bandwidth
+capacity to India. It is the second fastest-growing communications route in the
+world. South-East-Asia–Middle East–Western Europe 4 (SEA-ME-WE 4), which has a
+landing point in Chennai, is an optical fiber submarine communications cable
+system that carries telecommunications between Singapore, Malaysia, Thailand,
+Bangladesh, India, Sri Lanka, Pakistan, United Arab Emirates, Saudi Arabia, Sudan,
+Egypt, Italy, Tunisia, Algeria, and France. The State is also focusing on increasing
+fiber capacity and more submarine cable landings to improve international
+connectivity and has at least 3 more submarine cable projects in the pipeline.
+
+
+
+
+                                                                                  13
+Tamil Nadu, thus, provides islands of high-speed connectivity on par with the best
+in the world for the FinTech players. The Government has undertaken various
+projects to improve tele-density and broadband penetration in the State and
+ensure reliable and efficient telecom networks throughout the State with the
+Bharat Net and Tamil Net projects. Tele-density, which is measured as the number
+of telecom connections per hundred people is 30% higher in Tamil Nadu at 116.94
+vis-à-vis India’s tele-density of 90.1. The proliferation of internet services to people in
+rural areas through these programmes shall help in driving the demand for FinTech
+services.
+
+
+4.3. IT Infrastructure & Cybersecurity
+Tamil Nadu is also emerging as a hub for commissioning, operation, and
+maintenance of Data Centres. The Government of Tamil Nadu has also set up the
+State Data Centre, Cloud Computing Facilities, and Common Service Centres for
+improving the access of citizens to online Government services.
+
+
+The State has also set up an exclusive full-fledged Disaster Recovery Centre (DRC) in
+Tiruchirappalli which is the first of its kind in India. The DRC will ensure continuity of
+critical e-Governance applications in the State during calamities.
+
+
+The Government of Tamil Nadu, cognisant of growing cyber-security threats has
+released the Tamil Nadu Cybersecurity Policy 2020 to develop a comprehensive
+security risk reduction strategy that envisions a cybersecurity architecture for the
+State supported by the Security Operations Centre (SOC-TN) and Computer
+Emergency Response Team (CERT-TN). CERT-TN will function as the State’s
+dedicated nodal agency to monitor, detect, assess and respond to cybersecurity
+issues faced by the Government.
+
+
+
+
+                                                                                        14
+4.4. Single Window Clearances
+Establishing a FinTech firm requires approvals from different departments for land,
+building, electrical inspection, and labour. The Government of Tamil Nadu is
+working on improving the ease and reducing the cost of doing business through
+the following initiatives :-
+
+
+ i) Reducing the compliance burden by undertaking sustained reforms to reduce
+ and simplify 286 compliances required by businesses under various Acts/Rules
+ and Regulations.
+
+
+ ii) The upgraded Tamil Nadu Single Window Portal offers 100 digitised services to
+ investors, with an additional 100 digitised services to be added by FY 22, thereby
+ transforming the process to become faceless, contactless, and paperless.
+
+
+The nodal agencies (M-TIPB/Guidance) shall be responsible for facilitating FinTech
+firms to obtain necessary approvals within the stipulated time without
+impediments.
+
+4.5. Administrative and Labour Support
+FinTech firms operating in the State would be provided with administrative and
+labour support as mentioned below-
+
+
+ • Exemption from Acts & Self Certification as per the prevailing Tamil Nadu IT
+ Policy.
+ • The State has been taking several steps to facilitate ease of doing business in the
+ State with respect to labour laws. The Government has implemented the Online
+ Inspection System with the objective of bringing in more transparency in the
+ inspection procedures. In particular, startup establishments are exempt from
+ online inspection under the labour laws for a period of 3 years from the date of
+ commencement of work/business (except branches of establishment existing
+ beyond 3 years). Establishments submitting a combined annual return for labour
+ and having no violations consecutively for 3 years are also exempt from inspection
+ under the labour laws.
+
+
+
+
+                                                                                    15
+4.6. Relaxation in Planning Permissions
+Leading real estate agencies have stated that Chennai is a preferred destination for
+corporates due to the availability of high-quality office spaces at competitive prices
+vis-à-vis other cities. Tamil Nadu provides favourable concessions to IT firms in the
+form of FSI benefits under the Tamil Nadu Combined Development Building Rules
+2019 viz. incidental activities allowed for up to 10% of the total floor area, and
+additional FSI of 0.5 without premium FSI charges for high rise developments.
+These shall be extended to FinTech firms which will further strengthen Chennai’s
+position in the FinTech space. Effectively, FinTech firms in high rise developments
+shall have an FSI of 3.75 with no additional premium FSI charges.
+
+
+Further, the Government of Tamil Nadu recognises the importance of last mile
+connectivity & transit-oriented development for FinTech Hubs. Hence, existing &
+new properties within a distance of 500m from the central line of metro rail
+corridors, shall be provided a concession of 50% on the normal premium FSI rates
+applicable.
+
+
+4.7. Ease of Living
+Ease of doing business in the State transcends business transactions and
+encompasses the daily aspects of ease of living for a firm’s workforce. Social
+infrastructure is a critical component to support a firm and its workforce. Tier 1 & 2
+cities such as Chennai and Coimbatore offer a good balance of cultural heritage and
+a cosmopolitan environment for their residents. The Ease of Living Index 2020
+published by the Ministry of Housing and Urban Affairs ranked Chennai and
+Coimbatore as 4th and 7th respectively on the list of most liveable cities with a
+population greater than 1 million.
+
+
+Salem and Vellore were ranked 5th and 6th respectively in the list of most liveable
+cities with a population of less than 1 million. Tamil Nadu strives to improve the Ease
+of Living for the firms and its workforce with the aim of making its cities including
+Tier 2 and Tier 3 cities, a preferred destination in India.
+
+
+
+
+                                                                                     16
+      5           Funding Support
+There are many FinTech firms in the startup space that begin with seed funding
+and then scale through subsequent series of funding. The State is cognisant of the
+risks associated with startups and the difficulty in accessing credit during the initial
+phase. Thus, the Government of Tamil Nadu endeavours to support FinTech firms
+through multiple funding avenues. The Sanctioning Authority (as defined in Section
+7.2 of this Policy) shall endorse FinTech firms for funding assistance. The FinTech
+Cell shall support FinTech firms in applying to the concerned Government agencies
+for funding.
+
+
+5.1. Tamil Nadu Startup Seed Grant Fund
+The Tamil Nadu Startup Seed Grant Fund created under the TN Startup and
+Innovation Policy 2018 provides grant financing to support early-stage financing
+requirements of the startups for research & innovation purposes. At least Rs. 5 cr.
+would be earmarked from this fund for FinTech startups. The eligibility criteria
+under Tamil Nadu’s Startup Seed Grant Fund shall be suitably relaxed for FinTech
+firms.
+
+
+5.2. Tamil Nadu Emerging Sector Seed Fund
+The Government of Tamil Nadu recognizes the scope of sunrise sectors and has set
+up a broad-based Emerging Sector Seed Fund with a corpus of Rs. 500 crore
+through TIDCO/ Tamil Nadu Infrastructure Fund Management Corporation
+(TNIFMC). At least Rs. 20 crore would be earmarked from this fund to provide
+venture capital for supporting the early-stage financing requirements of eligible
+FinTech startups.
+
+
+5.3. Digital Accelerator under Yaadhum Oorae
+The Government of Tamil Nadu has announced a ‘Digital Accelerator’ scheme
+under Yaadhum Oorae with American Tamil Entrepreneurs Association (ATEA) to
+promote startups investing from USA in Tamil Nadu from various fields such as
+IT/Healthcare/EV/emerging areas on IoT, AI, Cloud Computing /SDGs. It is proposed
+that a grant of 10% of capital raised may be provided towards operational and
+capital expenditure, up to Rs. 1 cr. per startup. Similar funds may be created for
+startups that contribute to innovation, from other countries with Tamil diaspora.
+
+
+
+                                                                                      17
+The sanction of the grants shall be evaluated by the Sanctioning Authority and
+funded from the Tamil Nadu Startup Fund of Funds. During FY 2020-21, 75
+applications were received under this accelerator programme; with 5 startups
+across various sectors including FinTech were shortlisted and provided grants
+during the Tamil Nadu Investment Conclave 2021 held in July 2021.
+
+
+5.4. State Innovation Fund
+The State, through its Tamil Nadu Innovation Initiatives supports innovation in
+process/practice/approach/technique or Information Technology, which is new or
+novel to public service delivery. Innovative ideas shall be nurtured by special
+innovation programs (such as Innovation Voucher Program). 25% of the project cost
+may be provided as a grant to eligible agencies such as State Universities/State
+agencies. FinTech firms are encouraged to approach eligible agencies for
+partnership with their proposals. The Government shall issue the necessary
+guidelines for adding FinTech to the areas notified by the State Planning
+Commission.
+
+
+
+
+                                                                               18
+      6             Incentives
+The Government of Tamil Nadu is cognisant of the roles essayed by the different
+FinTech stakeholders and intends to support and nurture them by providing a
+customised set of incentives for each. Thus, in addition to supporting FinTech
+startups and large firms venturing into the FinTech sector, the Government shall
+also support Angel Funds, Private Equity, Venture Capital Funds and Incubators.
+
+
+6.1. FinTech Startups
+Any entity which satisfies all of the following criteria will be deemed eligible to avail
+incentives under this Policy: -
+
+
+ i. Any entity (public or private) incorporated in India which has commenced sales
+ operations from Tamil Nadu on or after 01.04.2020
+ ii. Any entity which has been recognised as a Startup by TANSIM/FinBlue/Startup
+ India initiative
+                                          (OR)
+ Any entity which has been selected as part of RBI/any other financial sector
+ sandbox initiative, incubated at a government-recognized Atal incubation centre
+ of any academic institution.
+ iii. Any entity which has a registered office or branch office undertaking core
+ design and software development of FinTech product/service in Tamil Nadu,
+ adhering to international standards such as ISO 9001, ISO 27001 etc.
+
+
+
+
+                                                                                       19
+The Government will promote regionally balanced development in the State
+through the provision of higher incentives for firms setting up in Tier 2 and Tier 3
+cities of the State. The detailed list is provided in Annexure 1.
+
+
+
+        Balanced Regional Development Incentive Stratification
+  Cities (Corporations/Municipalities)           Incentive Limit Multiplier
+
+
+               Tier 1                                        1
+
+
+               Tier 2                                       1.5
+
+
+               Tier 3                                        2
+
+
+
+The incentive limits for FinTech firms in Tier 3 cities shall be doubled while those
+setting up in Tier 2 cities shall have their incentive limits increased to 1.5 times,
+where applicable. The incentives offered under this section shall be subject to the
+following conditions: –
+
+
+ • Firms eligible under this Policy can avail the incentives provided under this
+ Section for a maximum period of 3 years or until 31.12.2025, whichever is earlier.
+ • Eligible firms which have commenced sales on or after 01.04.2020, can avail a
+ back-ended subsidy for the incentives accrued in FY 2020-21.
+ • Expenses claimed under one category cannot be claimed under a different
+ category (e.g. – expenses claimed under Marketing Support cannot be claimed
+ under Operational Expenses Support).
+ • The firm applying for incentives shall submit an undertaking that they are
+ engaged in core design and software development of a FinTech product/service in
+ Tamil Nadu.
+ • The incentives will be limited to the extent of operations in Tamil Nadu.
+
+
+
+
+                                                                                      20
+6.1.1. Operating Expenses Support
+
+75% of operating expenses shall be reimbursed by the State Government up to an
+incentive limit of Rs. 5 lakh per year. This shall include:
+
+
+ • Expenses like rent, electricity, power, water charges, internet access, and other
+ tariffs payable.
+ • Statutory charges payable to Government of Tamil Nadu.
+ • Company registration expenses, including professional charges for the same.
+ • Expenses related to technical support for creation of lab/innovation hub for
+ sandbox.
+ • Research and development expenses including Intellectual Property creation
+ such as patents, copyrights, and trademarks, Proof of Concept activities (inclusive
+ of professional service support – consultancy, cyber security testing, IT audit,
+ training, change management).
+ • Expenses related to professional services like legal and accounting services.
+ • Expenses related to sales.
+ • Expenses related to tax and legal advisory services.
+ • Expenses on furniture, hardware, office supplies, maintenance, and repair
+ activities.
+ • Membership fees paid by FinTech firms to be a part of recognised international
+ councils.
+ • Expenses related to listing the firm on the stock exchanges (international stock
+ exchange listing fee reimbursement subject to regulatory approvals).
+
+
+
+
+                                                                                   21
+6.1.2. FinTech Accelerator Kit
+
+The State shall provide FinTech startups with a FinTech Accelerator Kit to reduce
+initial product development costs and help scale their business swiftly. The FinTech
+Accelerator Kit shall provide FinTech startups free credits with TANSIM’s ecosystem
+partners in segments such as cloud services, financial data services, payment
+gateways up to an incentive limit Rs. 5 lakh per year.
+
+
+6.1.3. Marketing Support
+The State shall provide 50% reimbursement of expenses incurred for promotional
+events, other national and international events or reimbursement of expenses
+towards digital marketing areas such as social media, web design up to an incentive
+limit of Rs. 2 lakhs per year.
+
+
+6.1.4. SGST Reimbursement
+The State shall reimburse 100% of Net SGST paid by the firm up to an incentive limit
+of Rs. 5 lakhs per year.
+
+
+6.1.5. Employment Assistance
+Employment Assistance in the form of reimbursement of expenses incurred
+towards Employee Provident Fund (EPF) shall be provided based on the core staff
+(staff engaged in design and software development of the FinTech product/service)
+employed and working in Tamil Nadu as provided in Table 2.
+
+
+
+
+                                                                                  22
+Table 2 - Employment Assistance
+
+                                     Reimbursement Assistance - % of employer’s
+       Headcount                         annual employee EPF contribution
+        (Annual)
+                                      Tier 1                  Tier 2                 Tier 3
+
+
+          10-50                        12%                     18%                   24%
+
+
+         50-100                        18%                     24%                   36%
+
+
+          100+                        24%                      36%                   48%
+
+Note: Incentive Limit Multiplier shall not be applicable for Employment Assistance
+
+
+
+6.1.6. Skill Development Support
+
+The State shall reimburse 100% of the fees associated with skill development,
+leadership development, and professional qualification courses completed through
+skilling institutes/training centres recognised by NSDC/NASCOM/RBI/Government
+of Tamil Nadu/Top 20 NIRF engineering/management institutes, up to an incentive
+limit of Rs 3 lakh per year.
+
+
+
+6.2. Structured Package of Incentives
+A structured package of incentives would be extended to firms with investment
+greater than Rs. 50 crore and direct employment for 300 people or more over a
+period of less than 3 years on a case-to-case basis.
+
+
+The first 5 large FinTech firms shall also be eligible for a relocation incentive of 50%
+of the cost of relocation up to an incentive limit of Rs. 10 crore during the Policy
+period.
+
+
+
+
+                                                                                              23
+6.3. Risk Capital Providers
+The Government recognises the critical role played by Angel Funds, Private Equity,
+Venture Capital Funds and Incubators (hereinafter collectively referred to as “Risk
+Capital Providers”) in providing access to risk capital for FinTech startups and are
+essential for the development of a FinTech startup ecosystem. Angel Funds, Private
+Equity, Venture Capital Funds registered with SEBI along with incubators
+recognised by Startup India Seed Fund scheme shall be eligible for the incentives
+listed below.
+
+
+6.3.1. FinTech Listing Fees Support
+Risk Capital Providers shall be provided with a 100% reimbursement of fees
+associated with the listing of FinTech firms from Tamil Nadu in their portfolio on a
+stock exchange (domestic/international) up to a maximum of Rs. 2.5 lakh/firm.
+
+
+6.3.2. Rental Fee Support
+Risk Capital Providers shall be provided with a rental fee support to set up in the
+State to promote the growth of the FinTech ecosystem:
+
+ a) Angel Funds, Private Equity, Venture Capital Funds, and Incubators shall be
+ eligible for concessional lease rental payments in FinTech hubs established by the
+ Government of Tamil Nadu during the policy period.
+
+
+ b) Incubators in non-Government hubs, shall be eligible for reimbursement of 50%
+ rental fees limited to Rs. 2 lakhs per startup per year subject to a maximum of Rs.
+ 10 lakhs per year during the policy period.
+
+
+6.3.3. Matching Grant
+The Government of Tamil Nadu through an appropriate agency shall invite and
+partner with different angel funds, private equity, venture capital funds and
+incubators. The selected partner agency shall identify and evaluate FinTech firms
+suitable for funding purposes. Eligible firms shall qualify for an equity-free grant of
+the capital raised limited to Rs. 1 crore per firm towards their operational and capital
+expenditure incurred in Tamil Nadu. The partner agency shall also support the
+Government in the development of a tracking framework to monitor the progress
+of the firms funded under this initiative.
+
+
+
+
+                                                                                      24
+      7          Governance Mechanism
+7.1. FinTech Governing Council
+The Government will set up a FinTech Governing Council under the chairmanship of
+the Honourable Minister for Industries with the following members for monitoring
+the progress and implementation of this Policy and oversight of FinTech initiatives:
+
+
+ • Honourable Minister for Industries, Government of Tamil Nadu – (Chairman)
+ • Chief Secretary, Government of Tamil Nadu – (Vice-Chairman)
+ • Secretary, Industries Department, Government of Tamil Nadu
+ • Secretary, Finance Department, Government of Tamil Nadu
+ • Secretary, Information and Technology Department, Government of Tamil Nadu
+ • Secretary, Micro, Small and Medium Enterprises Department, Government of
+ Tamil Nadu
+ • MD & CEO, Guidance, Department of Industries, Government of Tamil Nadu –
+ (Convener)
+ • Mission Director, Tamil Nadu Startup and Innovation Mission
+ • CEO FinBlue / Director, STPI Centre Chennai
+ • Up to three members from the FinTech sector
+
+
+The Governing Council for FinTech may form sub-committees to address various
+themes in this Policy such as marketing and branding, business development and
+outreach, partnerships, education, venture capital, and regulation. The FinTech
+Governing Council may enlist the support of experts, specialist institutions in each
+of these areas, as and when required.
+
+
+
+
+                                                                                  25
+7.2. Sanctioning Authority
+The Sanctioning Authority shall be a sub-committee formed from the main
+Governing Council as defined in Section 7.1, with a minimum quorum of three
+members. The Sanctioning Authority thus formed, shall be responsible for the
+sanctioning of incentives defined in Section 6, as well as endorsing applications for
+funding as defined in Section 5.
+
+
+7.3. Implementing Agency
+The State Industries Promotion Corporation of Tamil Nadu (SIPCOT) will be
+mandated as the implementing and disbursal agency for all the incentives listed in
+this Policy.
+
+
+
+
+                                                                                   26
+     A           Annexures
+8.1. Annexure 1 –List of Corporations/Municipalities
+
+      Category                        Corporations/ Municipalities
+
+
+        Tier 1                         Chennai Metropolitan Area
+
+
+                               Coimbatore, Dindigul, Erode, Hosur, Madurai,
+        Tier 2                   Nagercoil, Salem, Thoothukudi, Thanjavur,
+                                Tiruchirappalli, Tirunelveli, Tiruppur, Vellore
+
+
+        Tier 3                      Other Corporations/ Municipalities
+
+
+
+This list of corporations/ municipalities may be notified by the Government of Tamil
+Nadu from time to time.
+
+
+
+
+                                                                                  27
+Notes
+
+
+
+
+        28
+29
+

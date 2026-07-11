@@ -1,0 +1,1083 @@
+  GOVERNMENT OF TAMIL NADU
+
+
+
+
+    TAMIL NADU
+Electric Vehicles Policy
+            2023
+   GOVERNMENT OF TAMIL NADU
+
+
+
+
+          TAMIL NADU
+     ELECTRIC VEHICLES
+          POLICY
+              2023
+
+
+
+
+INDUSTRIES, INVESTMENT PROMOTION
+    & COMMERCE DEPARTMENT
+
+   GOVERNMENT OF TAMIL NADU
+Contents
+
+1. Preamble                          1
+
+
+
+2. Objectives                        4
+
+
+
+3. Supply Side Policy Measures       5
+
+
+
+4. Demand Side Measures              9
+
+
+
+5. Charging Infrastructure           13
+
+
+
+6. Ecosystem Development             16
+
+
+
+7. Policy Implementation Mechanism   21
+    1. Preamble
+    1.1          Overview
+    Tamil Nadu has transformed into India’s leading Electric Vehicles (EV) manufacturing hub over the
+    last five years. There is heightened interest from EV Original Equipment Manufacturers (OEMs) and
+    component manufacturers who wish to establish their units in the State. Notwithstanding the effects of
+    the Covid-19 pandemic, the State has signed MoUs with an investment interest of nearly Rs. 24,000 crore
+    and employment potential of 48,000 jobs in the EV value chain during this period.
+
+
+    The growth of the EV manufacturing sector in Tamil Nadu is built up on the solid foundation of automotive
+    supply chain linkages in the State. Tamil Nadu’s prowess as an automotive manufacturing hub reflects in
+    the presence of large automobile OEMs like Hyundai, Nissan, TVS, Mahindra, and Daimler in the State.
+    The availability of skilled workforce, network of ancillary industries, and excellent industrial infrastructure
+    are the other key elements of the automotive ecosystem. It ensures that Tamil Nadu retains its leading
+    position vis-à-vis other automotive hubs in India over the last three decades. The strong manufacturing
+    ecosystem in the State has encouraged new entrants like Ather Electric, Ola Electric, Ampere and others
+    to establish their EV manufacturing units here. From a demand perspective, Tamil Nadu is a significant
+    automobile market, accounting for the third largest vehicular population1 in India. Tamil Nadu’s strong
+    economic growth over the past four decades along with a high rate of urbanisation (~50%) is central to the
+    State’s sustained vehicular demand (annual growth rate of 11.64% in this period). The strong automotive
+    demand in Tamil Nadu is underpinned by excellent connectivity and transport infrastructure in the State.
+
+
+    The Government of Tamil Nadu expects EVs to play a crucial role, especially in the electrification of last-mile
+    connectivity. To support this goal, Tamil Nadu aims to electrify the vehicular fleets operating in the State
+    by leveraging its vibrant automotive ecosystem comprising OEMs, auto component ancillaries, a large
+    and highly skilled workforce, and robust R&D capabilities. The Government of Tamil Nadu shall leverage
+    the expertise of leading industrial players and the support from multilateral development agencies to
+    help propel the adoption of EVs.
+
+
+    Finally, Tamil Nadu has always accorded the highest importance to sustainability and has undertaken the
+    following initiatives:
+
+        Established Tamil Nadu Green Climate Company, a Special Purpose Vehicle (SPV), to collaborate and
+        strengthen community engagement to build a long-term commitment toward a Net-Zero Carbon
+        future.
+        Creating and developing sustainable transport systems for its residents. The transport systems 		
+        comprises components like rapid transport trains, Chennai Metro Rail, and dedicated cycling lanes.
+        Been promoting a circular economy by encouraging recycling units to establish their centres in the
+        State.
+        Emerged as the leading renewable energy producer with more than 16 GW of renewable energy in
+        installed capacity. This shall allow Tamil Nadu to support the electrification of vehicular fleets through
+        decarbonised electricity.
+
+
+2.98 crore registered vehicles till Jun 2022
+1
+
+
+
+
+    1
+1.2 Need for a Revised Policy
+The rapidly changing dynamics of the EV sector require an agile policy approach and periodic revisions.
+The Government of Tamil Nadu is cognisant of the sectoral challenges and seeks to address these through
+interventions mapped out across the supply, demand, and ecosystem segments in this Policy. These
+interventions shall enhance and strengthen the EV manufacturing value chains, improve EV adoption
+across vehicular segments, increase electric public mobility solutions, improve green electricity value
+chains, promote rapid EV infrastructure development, and leverage the synergies of the existing R&D
+centres in the State.
+
+
+
+
+1.3 Scope & Definitions
+This Policy covers manufacturing units engaged in the manufacturing of Electric Vehicles, EV Components,
+Electric Vehicle Supply Equipment (EVSE) and EV Charging Infrastructure, charging stations/charging
+point operators, and customers purchasing EVs in Tamil Nadu. The EVs incentivised in this policy will
+need to comply with FAME II2 guidelines issued by the Ministry of Heavy Industry, Government of India.
+Similarly, charging stations would need to comply with the Charging Infrastructure for Electric Vehicles –
+Guidelines and Standards3 issued by the Ministry of Power, Government of India.
+
+
+In the context of this policy, the following terms are defined as hereunder:
+    1. EVs comprise battery electric vehicles (BEV), plug-in electric vehicles (PEV), plug-in hybrid electric
+      vehicles (PHEV) and strong hybrid electric vehicles (SHEV).
+
+
+    2. OEMs refer to proprietor firms, private/public companies, or partnership firms which are 			
+      manufacturing vehicles compliant with FAME II.
+
+
+    3. Recycling firms refer to firms engaged in recycling or reprocessing of waste batteries or their
+      components and having facilities (as per Draft Battery Waste Management Rules 2020 issued by 		
+      the Ministry of Environment, Forest and Climate Change).
+
+
+    4. Charger shall refer to electric kiosk/board with one or multiple charging guns/points of different
+      charging standards which adhere to the prevailing Charging Infrastructure for Electric Vehicles – 		
+      Guidelines and Standards.
+
+
+    5. Fast Charging Stations shall mean EV Charging Stations with a minimum active load of 50 kW, 		
+      having one or more DC fast chargers as per the prevailing Charging Infrastructure for Electric 		
+      Vehicles– Guidelines and Standards.
+
+
+    6. Slow Charging Stations shall mean EV Charging Stations where no DC fast charger, as per the 		
+      prevailing Charging Infrastructure for Electric Vehicles – Guidelines and Standards, is present.
+
+
+    7. Public Charging Station shall refer to an EV Fast/Slow Charging Station where any Electric Vehicle 		
+      can get its battery recharged. Each Public Fast/Slow Charging Station shall have at least 3 chargers
+      & adhere to the prevailing Charging Infrastructure for Electric Vehicles – Guidelines and Standards.
+
+2
+  Scheme for Faster Adoption and Manufacturing of Electric Vehicles in India Phase II (FAME India Phase II) dated 08.03.2019, notified by the Ministry
+  of Heavy Industry, and including subsequent amendments/clarifications
+3
+  Charging Infrastructure for Electric Vehicles – Guidelines and Standards dated 14.12.2018 published by Ministry of Power, and including subsequent
+  amendments/clarifications
+
+
+                                                                                                                                                     2
+8. Private Charging stations shall refer to an EV Fast Charging Station where only Electric Vehicle 		
+    belonging to commercial fleet operators can get its battery recharged.
+
+
+9. Public Battery Swapping Stations shall mean a station where any EV privately or commercially 		
+    owned, can get its discharged/partially discharged electric battery replaced by a charged battery 		
+    and the discharged/partially discharged electric battery is recharged.
+
+
+10. Eligible Fixed Assets (EFA) has the meaning ascribed to such term in the Tamil Nadu Industrial
+    Policy 2021 (Annexure IV Clause 1.1) or the prevailing industrial policy of the State. This includes 		
+    land (including development costs such as fencing, construction of internal roads, and other basic
+    infrastructure facilities); permanent buildings; plants, indigenous machinery & equipment, imported
+    equipment, computer equipment, material handling equipment (like forklifts, cranes, etc); tools, dies,
+    moulds, jigs, and fixtures and similar production tools owned and used within the plant or elsewhere
+    within Tamil Nadu; appliances; electrical installations; pollution control, quality control and laboratory
+    equipment; fixtures, tubes, pipes, fittings, and storage tanks, to the extent paid for by the project (for
+    more details refer to Tamil Nadu Industrial Policy 2021).
+
+
+The Government of Tamil Nadu may amend/clarify these definitions, if required, from time to time.
+
+
+
+
+3
+2. Objectives
+The Government of Tamil Nadu has a vision of attracting Rs. 50,000 crore worth of investments in EV
+manufacturing, creation of 1.5 lakh new jobs during the Policy period, and development of a robust EV
+ecosystem in the State.
+
+
+The policy objectives are as follows:
+ a) Transform Tamil Nadu into the preferred destination for EV manufacturing in South-East Asia
+   (i) Develop robust infrastructure & industrial ecosystem to attract manufacturing units.
+    (ii) Create indigenous EV manufacturing value chains by attracting EV OEM & Component 			
+      manufacturers to establish units in the State.
+
+
+ b) Accelerate adoption of EVs in Tamil Nadu
+    (i) Provide initial impetus for early adopters of Electric Vehicles through special demand incentives.
+    (ii) Develop charging infrastructure with favourable power tariffs through public/ private measures.
+
+
+ c) Enhance the development of the EV ecosystem in Tamil Nadu
+    (i) Develop industry-academia linkages to create a skilled workforce pool for EVs.
+    (ii) Promote R&D and innovations in automotive and shared mobility.
+    (iii)Promote the recycling industry to develop a circular economy in the State.
+
+
+ d) Develop EV Cities in Tamil Nadu
+    (i) Promote Chennai, Coimbatore, Tiruchirappalli, Madurai, Salem, and Tirunelveli as pilot cities for 		
+      implementing e-mobility solutions.
+    (ii) Promote electrification of commercial and public transport fleets.
+
+
+
+
+                                                                                                           4
+3. Supply Side Policy Measures
+Tamil Nadu has seen significant and rapid growth in the EV sector over the lustrum as the demand for
+EVs has increased. Hosur, in particular, has emerged as the leading region for EV manufacturing with
+several EV OEMs establishing their manufacturing operations in this region. Since the sector is still in a
+nascent stage, the Government of Tamil Nadu seeks to facilitate and support the manufacturing of EVs,
+components particularly EV cell technologies, batteries, EVSE, and charging infrastructure in the State
+with an “EV Special Manufacturing Package” as detailed herein.
+
+
+3.1 Eligibility
+Projects for which investments are made during the policy period as stated in the Section 7.4 of this Policy
+would be considered eligible for availing incentives under this policy.
+
+
+Projects for which a package of incentives has already been sanctioned under the Tamil Nadu EV Policy
+2019 (TNEV Policy 2019) and the commercial production has commenced prior to the notification of this
+Policy, shall be eligible for benefits under the TNEV Policy 2019.
+
+
+In order to avail incentives under the EV Special Manufacturing Package, the investment in EFA should
+be greater than Rs. 50 crore and create at least 50 direct jobs in the form of new/expansion projects. For
+projects with investment in EFA below Rs. 50 crore, the Tamil Nadu MSME Policy 2021 would be applicable.
+
+
+3.2 EV Special Manufacturing Package
+The Government of Tamil Nadu seeks to provide manufacturing firms operating in the EV sector with a
+flexible incentive package through the EV Special Manufacturing Package instead of a one size fits all
+model. The multiple options provided under the Package shall be beneficial for firms operating across
+the EV manufacturing value chain viz. – OEMs, component manufacturing, battery manufacturing, and
+charging infrastructure manufacturing by allowing them the choice based on their business models and
+cashflows.
+
+
+3.2.1 Inclusion of R&D in EFA
+ As per Tamil Nadu Industrial Policy (TNIP) 2021, EFA includes investment in R&D such as land, building,
+ plant, and machinery. To encourage R&D in EV manufacturing, EFA shall include the following 		
+ intangible R&D-related expenditure, subject to a ceiling of up to 20% of EFA:
+ i. Expenditure incurred on new R&D – Test and measuring instruments, prototypes used for testing,
+    purchase of design tools, software cost (directly used for R&D) and license fee, expenditure on 		
+    technology, IPR, patents, and copyrights for R&D.
+ ii. Expenditure related to Transfer of Technology (ToT) Agreements – This shall include the cost of
+    technology and initial technology purchase related to the manufactured goods that are related to
+    manufacturing and R&D in Electric Vehicles.
+
+
+All non-creditable taxes and duties would be included in such expenditure.
+
+
+
+
+5
+3.2.2 Investment Promotion Subsidy
+New/expansion projects in manufacturing of Electric Vehicles, EV Components, Electric Vehicle Supply
+Equipment (EVSE) or EV Charging Infrastructure in the State can avail incentives under one of the four options
+provided below based on their eligibility. These options are mutually exclusive, and a one-time choice has to
+be exercised at the beginning of the Project by the investor.
+ A. Reimbursement of SGST
+ New/expansion projects of EV OEM for manufacturing of Electric Vehicles shall be eligible for 100%
+ reimbursement of the Gross SGST payable on the sale of EVs manufactured, sold, and registered in the
+ State for a period of 15 years from the date of commercial production upon achieving the minimum eligible
+ investment threshold of Rs.50 crores and minimum employment threshold of 50 jobs, whichever is later.
+                                                      (Or)
+ B. Turnover-based Subsidy
+ New/expansion projects in manufacturing of Electric Vehicles, EV Components, Electric Vehicle Supply
+ Equipment (EVSE) or EV Charging Infrastructure in the State shall be eligible for a subsidy of up to 2% of the
+ project’s annual turnover, subject to an annual cap of 4% of the cumulative investment in EFA for a period
+ of 10 years from the date of commercial production. The turnover-based subsidy shall be scaled as per the
+ project’s employment commitment as provided below:
+
+
+
+
+                                                      (Or)
+ C. Capital Subsidy
+ New/expansion projects in manufacturing of Electric Vehicles, EV Components, Electric Vehicle Supply
+ Equipment (EVSE), or EV Charging Infrastructure in the State shall be eligible for a Capital Subsidy of 15%
+ of investment in Eligible Fixed Assets to be disbursed in 10 (ten) equal annual installments. The company
+ can choose to avail of the Capital Subsidy from the date of commercial production or upon achieving the
+ minimum eligible investment threshold of Rs.50 crores and minimum employment threshold of 50 jobs,
+ whichever is later. If the company chooses to avail of the Capital Subsidy prior to the completion of the
+ investment and employment commitment, the Capital Subsidy shall be disbursed in tranches corresponding
+ to the cumulative investment made until then and subsequent tranches for actual annual incremental
+ investment within the investment period.
+                                                      (Or)
+ D. Special ACC Capital Subsidy
+ New/expansion projects in EV battery manufacturing shall be eligible for a special capital subsidy of 20% of
+ investment in Eligible Fixed Assets to be disbursed in 15 (fifteen) equal annual instalments.
+
+
+ New/expansion projects in advanced chemistry cells (ACC) manufacturing shall be eligible for a special capital
+ subsidy of 20% of investment in Eligible Fixed Assets to be disbursed in 10 (ten) equal annual instalments.
+ A company can choose to avail of the Special ACC Capital Subsidy from the date of commercial production
+ or upon achieving the minimum eligible investment threshold of Rs.50 crore and minimum employment
+ threshold of 50 jobs, whichever is later. If the company chooses to avail of the Special ACC Capital Subsidy
+ prior to the completion of the investment and employment commitment, the Special ACC Capital Subsidy
+ shall be disbursed in tranches corresponding to the cumulative investment made until then and subsequent
+ tranches for actual annual incremental investment within the investment period.
+                                                                                                            6
+3.2.3 Electricity Tax Exemption
+Projects will be provided 100% exemption on electricity tax for a period of 5 years on power purchased from
+the Tamil Nadu Generation & Distribution Corporation Limited (TANGEDCO) or generated and consumed
+from captive sources.
+
+
+3.2.4 Stamp Duty
+ a) Projects that obtain land by sale or lease shall be entitled to 100% exemption on stamp duty for 		
+    purchase/lease of land obtained from government agencies such as TIDCO/SIPCOT/ ELCOT till 		
+    the policy period.
+ b) In case of private land, 100% stamp duty concession shall be provided as a back ended subsidy for
+    up to 50 acres after the commencement of commercial production or fulfilment of investment and
+    employment commitment, whichever is earlier.
+
+
+3.2.5 Subsidy on Cost of Land
+The Government strives to provide land to industries at competitive rates. For eligible projects government
+industrial estates (SIPCOT/TIDCO/ELCOT etc.), land allotment will be made at 10% concessional rate in “A”
+& “B” districts and at a 50% concessional rate in “C” districts for land up to 20% of EFA. For private land in “C”
+districts, 50% subsidy will be offered on the cost of land as per guideline value up to an extent of 50 acres
+and subject to land cost not exceeding 20% of EFA and a cap of Rs. 2 cr. provided that at least 70% of the
+land is used for manufacturing operations. In case the investor chooses to avail of the land cost subsidy,
+land will be excluded from Eligible Fixed Assets for the purpose of Investment Promotion Subsidy.
+
+
+3.2.6 Employment Incentive
+Projects will be provided an employment incentive in the form of the reimbursement of the employer’s
+contribution to the EPF for all new jobs created during the policy period. This incentive shall be paid for a
+period of one year and shall not exceed Rs.48,000 per employee for residents of Tamil Nadu.
+
+
+3.2.7 Green Industry Incentive
+The Government of Tamil Nadu is focused on encouraging the growth of sustainable manufacturing
+practices. Therefore, projects under the scope of this Policy shall be eligible to avail of the Green Industry
+Incentive of up to Rs. 1 crore as per the Tamil Nadu Industrial Policy 2021 (Para 13.5.3 of TNIP 2021).
+
+
+3.2.8 Quality Certification Incentive
+Certification activities for EVs are extensive and form a major expense for EV firms, especially startups
+due to the high costs involved. The Government of Tamil Nadu through the Quality Certification Incentive
+seeks to support firms in obtaining certifications for their products.
+
+
+Under the Quality Certification Incentive, 50% of the total cost incurred by the project for obtaining
+certifications from ARAI, ICAT, or any other national or international agencies as certified by a Chartered
+Accountant, limited to Rs. 1 crore for the period of investment, during the policy period.
+
+
+
+
+7
+3.2.9 Intellectual Property Creation Incentive
+The unique proposition in the EV sector is through proprietary technology across different segments such
+as batteries, electric drivetrains, and charging, among others. The Government of Tamil Nadu aims to
+provide an Intellectual Property Creation Incentive to encourage firms in developing such technology in
+the State.
+
+
+Under this incentive component, projects shall be eligible for 50% reimbursement on the cost incurred for
+patents, copyrights, and trademarks, subject to a maximum of Rs. 1 crore for the period of the investment,
+during the policy period.
+
+
+3.2.10 Interest Subvention
+The Government of Tamil Nadu shall provide an interest subvention of 5% as a rebate on the rate of interest,
+on actual term loans taken for the purpose of financing the project, for a period of 6 years subject to the
+limits as mentioned in the table below.
+
+
+                                             Maximum Interest
+     Investment Range (Rs. crore)                                                  Ceiling per annum (Rs)
+                                             Subvention Period
+
+                50-300                               6                                    5 lakhs
+
+                300-500                              6                                    20 lakhs
+
+               500-5000                              6                                    1 crore
+
+                 5000+                               6                                    4 crore
+
+
+
+
+3.3 Special Incentives for the MSME Sector
+An additional capital subsidy of 20% will be offered over and above the eligibility limit for capital subsidy
+under the existing capital subsidy scheme to MSME units that are engaged in E-vehicle component or
+charging infrastructure manufacturer. Further, for such E-Vehicle component and charging infrastructure,
+manufacturing firms falling under the Medium Industries category that avail loans from Tamil Nadu
+Industrial Investment Corporation, 6% interest subvention will be provided as against 3% under the existing
+scheme. These incentives shall be provided as per the Tamil Nadu MSME Policy 2021.
+
+
+3.4 Transition Support
+Tamil Nadu is well known as an automotive manufacturing hub, contributing to ~32% of India’s automotive
+exports in FY 2021-22 due to the presence of several OEMs and a robust vendor ecosystem. As these
+companies are engaged predominantly in the manufacture of ICE vehicles, the Government of Tamil Nadu
+shall support companies who wish to transition/diversify into EV manufacturing. Automotive companies
+shall be eligible for an up-skilling allowance for up to 10% of their existing workforce working on the EV
+production line. Transition support can be availed in form of Training Subsidy of Rs. 4000 per worker per
+month for 6 months for residents of Tamil Nadu. For women and transgender employees, persons with
+benchmarked disabilities, persons from SC/ST communities the training subsidy shall be Rs. 6000 per
+worker per month for 6 months.
+
+
+
+
+                                                                                                            8
+4. Demand Side Measures
+Globally, the growth of the EV sector has been driven by policy measures and regulatory interventions.
+From a demand perspective, purchase incentives and lower registration fees serve as key strategic levers
+to spur adoption. The Government of Tamil Nadu shall utilise a mix of support, regulatory, and special
+demand side incentives measures to spur the demand for EVs in the State.
+
+
+4.1 Support Measures
+The Government of Tamil Nadu shall undertake support measures to encourage the adoption of EVs in the
+State such as prioritising electrification of commercial vehicular fleets, promoting EVs in manufacturing
+hubs, and taking steps to aggregate EV demand.
+
+
+4.1.1 Electrification of Vehicular Fleets in the State
+The Government of Tamil Nadu shall develop a roadmap to electrify public and institutional fleets
+operating in the State in a phased manner.
+
+The State Transport Undertaking (STUs) operated buses constitute a substantial percentage of the public
+transport in Tamil Nadu. The Government of Tamil Nadu will electrify these fleets through a phased
+augmentation and replacement plan. The State shall endeavour to increase the share of electric buses to
+30% of the fleet by 2030.
+
+
+The Government of Tamil Nadu shall develop bus charging development through budgetary allocations. It
+shall also explore the possibility of providing bus charging infrastructure as a service for private operators.
+
+
+The STUs shall be encouraged to electrify their fleets through loan programs from multi-lateral agencies.
+Vehicular fleets of educational institutions such as schools and colleges and private bus fleets in the State
+shall be encouraged to transition to EVs in a gradual manner.
+
+
+Staff bus operators for industrial establishments and service sector enterprises shall also be encouraged
+to transition to an EV fleet given the advantage in the total cost of ownership.
+
+
+Aggregators shall be encouraged to partner with e-mobility providers and EV manufacturers to phase out
+ICE vehicles from their fleet.
+
+
+4.1.2 Promoting EVs in Manufacturing Facilities
+The Tamil Nadu Industrial Policy 2021 encourages the usage of EVs in the transportation of passengers and
+goods within the manufacturing units and the use of EV buses for transportation of personnel working in
+these facilities by providing a 25% subsidy on the cost of procuring such EVs up to Rs 1 crore as mentioned
+in Clause 19.4.ii, subject to eligibility.
+
+
+
+
+ 9
+4.1.3  Demand Aggregation
+The Government shall undertake efforts to collaborate with demand aggregators such as Convergence
+Energy Services Limited (a subsidiary of Energy Efficiency Services Limited) to conduct a demand
+assessment study and aggregate demand for EVs to enable cost discovery and reduce procurement
+costs. At the onset, aggregation of demand from Government departments & public sector units in EV
+pilot cities shall be prioritised.
+
+
+4.2 Regulatory Measures & Concessions
+Regulatory tailwinds are essential to assist in the growth of the EV sector as it is a sunrise sector. The
+Government of Tamil Nadu cognisant of this has undertaken a favourable regulatory approach to aid the
+growth of the EV ecosystem in the State.
+
+
+4.2.1 City Building Codes
+The Government of Tamil Nadu is in the process of amending the Tamil Nadu Combined Development
+and Building Rules, in line with the Model Building Bylaws (MBBL) 2016 for EV Charging Infrastructure
+issued by the Government of India. Additionally, the State shall undertake the following efforts:
+
+  i) Amendments to building and construction laws will be made to ensure that charging infrastructure
+    is integrated at the planning stage itself for all new constructions and apartments in cities.
+ ii) All existing apartment associations with 50+ families shall be encouraged to provide charging 		
+
+iii) Existing Residential Townships with 500 + families shall be encouraged to install charging stations.
+iv) Commercial building operators shall be encouraged to establish EV Charging Stations/Points in 		
+    commercial buildings such as hotels, shopping malls, cinema halls, and apartments.
+
+
+
+4.2.2  Revised Transport Regulation of Electric Vehicles
+In order to distinguish Electric Vehicles (battery operated vehicles) from other vehicles, the Government of
+Tamil Nadu has implemented a measure for EV number plates to be exhibited in yellow colour on a green
+background for transport vehicles and white colour on green background for all other EVs. Until 30.04.2022,
+more than 1.15 lakh EVs have been registered in the State out of which 93% are non-commercial vehicles.
+
+
+4.2.3 Private Vehicles, Shared Mobility & Commercial Vehicle   
+Segments
+Private vehicles account for 91% of all vehicles registered in the State. Out of this, two-wheelers account
+for 78%, while private four-wheelers account for 13%. Thus, there is a clear need for the State to encourage
+private vehicle owners to switch to EVs, thereby increasing EV adoption. Since the two-wheeler segment
+has relatively lower battery capacity requirements, which enables faster charging through standard
+charging infrastructure. The Government of Tamil Nadu shall encourage conversion of private and
+commercial vehicles to EVs through waivers and exemptions, creation of chargingnetworks, and by
+enabling registration of commercial EVs.
+
+
+
+
+                                                                                                         10
+4.2.3.1 Exemption/Waiver of Road Tax/Registration Charges
+The Government of Tamil Nadu has provided exemptions and waivers of the road tax and registration fees
+to battery-operated vehicles till 31.12.2022 . The Government of Tamil Nadu through this Policy & vide G.O.
+(Ms.) No. 17 dated 13.01.2023 issued by the Home (Transport-I) Department, shall extend these benefits as
+detailed below:
+
+A. Road Tax Exemption
+100% road tax exemption will be provided till 31.12.2025 for the following categories of EV battery-operated
+vehicles, namely, two-wheelers, private cars, three-seater auto-rickshaws, transport vehicles (such as taxis,
+tourist cars etc.), light goods carriers (including three-wheelers), and buses.
+
+
+B. Waiver on Registration Charges/Fees
+Waiver on Registration charges/fees will be provided till 31.12.2025 for the following categories of EV
+battery-operated vehicles, namely, two-wheelers, private cars, three-seater auto-rickshaws, transport
+vehicles (such as taxis, tourist cars, etc.), light goods carriers (including three-wheelers) and buses.
+
+
+C. Waiver on Permit Fees
+Waiver on Permit Fees will be provided till 31.12.2025 for the following categories of EV battery-operated
+vehicles, namely, auto-rickshaws, transport vehicles (such as taxis, tourist cars, etc.), light goods carriers
+(including three-wheelers) and buses.
+
+
+4.2.3.2 Registration of Commercial EVs
+The State shall undertake measures to electrify shared transport vehicles in a gradual manner beginning
+from the EV cities. E-commerce and other e-aggregator companies in Tamil Nadu shall be encouraged to
+transition their vehicles to EVs gradually. Presently, the registration of EVs is limited to private vehicles. The
+Home (Transport) Department shall issue guidelines and undertake capacity building of RTOs to enable
+registration of commercial Electric Vehicles, including EV-2 wheelers for commercial use. The State is in
+the process of formulating and issuing guidelines for exempting permits for e-Autos operating in the
+State. The list of approved e-autos will be notified by the Home (Transport) Department.
+
+
+
+4.3 Special Demand Side Incentives
+Globally, various governments such as the USA, China, and Norway among others, have utilised purchase
+incentives as a policy measure to spur EV adoption. The purchase incentives aid EVs to overcome
+competition barriers such as higher purchase costs and range anxiety brought about by limited charging
+infrastructure.
+
+
+Electrification of commercial vehicles is economically viable and provides higher benefits due to higher
+utilisation rates, and faster payback periods vis-à-vis private vehicles and as it services the public. Thus, the
+Government of Tamil Nadu shall seek to provide the initial impetus for driving EV adoption in the State by
+incentivising commercial vehicles by providing the following incentives till 31.12.2025.
+
+
+
+
+11
+                                                                             Incentive based                                          Number of
+   Type                                                                         on battery                Maximum                   Vehicles (#) to
+                         Vehicle Category                                                               Incentive (Rs.)
+                                                                                 capacity                                           be incentivised
+                                                                                 (Rs/KWh                                                per year
+
+  Private               e-Cycles*                                                     -             20% of cost up to 5,000                6,000
+
+  Commercial            e-2Wheelers                                            10,000/ kWh                    30,000                       6,000
+
+  Commercial            e-3Wheelers (autos/ Light Goods Carriers)              10,000/ kWh                    40,000                       15,000
+
+  Commercial            e-4Wheelers (Cabs/Goods Vehicles)                      10,000/ kWh                   1,50,000                      3,000
+
+  Commercial            e-Buses                                                20,000/ kWh                  10,00,000                       300
+
+
+This shall be subject to the following terms:
+ i) To avail the special demand side incentives, consumers shall need to submit an incentive application
+        on the TN EV Portal. After due scrutiny, the incentive will be provided to the consumer through a 		
+        Direct Benefit Transfer (DBT) system. Operational guidelines shall be issued separately.
+ii) Only those EVs, which are manufactured, sold and registered in the State complying with FAME II 		
+        standards would be eligible for the mentioned incentives. E-cycles would need to be manufactured
+        & sold in the State to be eligible for the mentioned incentives4.
+iii) Only e-cycles procured for initiatives under Government programmes such as Smart Cities in EV 		
+        Cities shall be eligible for availing incentives listed in the Table above.
+iv) The demand incentives for each category shall be provisioned for each year of the policy period. If 		
+        the demand offtake in a particular segment does not meet the year wise limit, the unutilised 		
+        balance shall be carried over to the next financial year provided the policy period has not expired.
+v) The Government of Tamil Nadu may choose to modify the vehicle categories to be incentivised,
+        incentive based on battery capacity (Rs/KWh), maximum incentive or number of vehicles to be 		
+        incentivised per year, at its discretion, subject to the demand/offtake.
+
+
+
+
+    4
+        Further, E-cycles will need to adhere to the definition provided under Chapter 1 Section 2 (u) of the Central Motor Vehicles Act 1989
+        as mentioned below
+  i) The thirty minutes power of the motor is less than 0.25 kW.
+  ii) The maximum speed of the vehicle is less than 25 km/h.
+ iii) Bicycles with pedal assistance which are –
+          a) equipped with an auxiliary electric motor having a thirty-minute power less than 0.25 kW, whose output is progressively
+            reduced and finally cut off as the vehicle reaches a speed of 25 km/h, or sooner, if the cyclist stops pedalling.
+ iv) Fitted with suitable brakes and retro-reflective devices, i.e., one white reflector in the front and one red reflector at the rear.
+
+
+
+
+                                                                                                                                                      12
+5. Charging Infrastructure
+The availability of charging stations is a key driver for EV adoption as it helps lower range anxiety as can
+be seen from other places such as the USA, China, and Europe. Under FAME II, a total of 281 charging
+Stations have been sanctioned for Tamil Nadu, which will serve as an impetus for charging infrastructure
+development. The Government of Tamil Nadu aims to boost this further through this Policy through
+the development of public and private charging infrastructure in the State. This Policy provides a mix of
+support measures and incentives as detailed below. operating in the State in a phased manner.
+
+
+5.1 Support Measures
+The Government shall seek to support the development of public charging stations through the following
+pathways:
+
+
+5.1.1 Government Interventions
+The Government shall actively encourage private sector to establish Public Charging Stations. The EV
+Cell shall coordinate with the various governmental stakeholders to undertake the following interventions:
+ i) Demand assessment to ascertain State’s peak electricity requirements due to higher EV adoption.
+ ii) Identification of sites for public slow and fast charging stations in Government offices and public 		
+     places, Smart City Missions/Corporations of the EV Cities.
+iii) Identify and prioritise the establishment of charging stations on National and State Highways at 		
+     25 km intervals on both sides.
+iv) Undertake measures to simplify requirements for establishment of public charging stations in the
+     State
+
+
+5.1.2 Tariff for EV Charging
+a. As per the prevailing Tariff Order (TNERC Order No: 7 in of 2022 in T.P.No.1 of 2022 dated: 09.09.2022),
+     a new category has been created for Public EV Charging Stations and private charging stations shall
+     be treated as domestic consumption, as applicable:
+       i. The tariff applicable for domestic consumption shall be applicable for Private Charging 		
+         Station at home and classified as LT Tariff - I-A.
+       ii. The supply of electricity to Public/Private Charging Stations & Public Battery Swapping 		
+         Stations for LT supply shall be classified as LT Tariff - VII and for HT supply shall be classified as
+         HT Tariff - V.
+
+b. To support the growth of Public Charging Stations, the Government shall undertake a revision of the
+demand and energy tariffs, with due approval from Tamil Nadu Electricity Regulatory Commission. The
+proposed revision shall seek to decrease the cost of operations for Public Charging Stations operators
+with the following changes-
+       i. Reduction in Demand Charges - Reduction of existing charges by 75% for the first 2 (two) 		
+         years and thereafter by 50% for the subsequent 2 (two) years.
+       ii. Reduction in Energy Charges - Reduction of charges by 50% between 8 AM and 4 PM to             		
+         incentivise charging during non-peak hours to promote usage of renewable energy for EV 		
+         charging.
+
+
+c. The supply of renewable energy shall be ensured to Public/Private Charging Stations & Public Battery
+Swapping Stations on a preferential basis with applicable TNERC levies. The State has introduced a
+renewable energy-based ‘Green tariff’ for HT services. The green tariff would be an additional 10% over
+the HT category’s respective tariffs.
+
+13
+d. EV charging service providers shall be encouraged to set up their own renewable energy generating
+stations at their premises for charging Electric Vehicles.
+
+
+e. The Public & Private Charging Stations shall adhere to the safety provisions prescribed by the Central
+Electricity Authority in its measures relating to Safety & Electrical Supply Regulations.
+
+
+5.2 Incentives for Charging Stations
+Charging infrastructure has three different models – fast charging, slow charging, and battery swapping.
+The benefits associated with each model varies based on whether the vehicle is private/commercial, the
+vehicular category (2W/3W/4W), and the end use case (private usage, commercial usage – goods and/or
+transport). The Government of Tamil Nadu shall adopt a technology agnostic approach towards charging
+infrastructure and seek to encourage different models.
+
+
+The charging infrastructure projects in the State shall be eligible to avail of the incentives listed below
+post the commencement of sales. However, the cost of land (purchase/lease cost) for setting up charging
+stations shall be excluded while computing the incentives applicable.
+
+
+Additionally, the Government of Tamil Nadu seeks to encourage decarbonisation in the charging network.
+Therefore, the cost of renewable energy equipment such as rooftop solar panels shall be considered as a
+part of the equipment and machinery cost for charging/swapping stations provided at least 75% of the
+energy produced is used by the charging station.
+
+
+5.2.1  Public Charging Stations
+Firms, which establish public charging stations in Tamil Nadu complying with the guidelines and		
+standards issued by the Ministry of Power, Government of India will be eligible for a 25% subsidy of the
+cost involved in the purchase of equipment & machinery during the policy period.
+
+                                                                      Number of Public Charging
+               Type                        Incentive (Rs.)
+                                                                      Stations to be incentivised
+
+        Fast Charging Station              Up to Rs 10,00,000                      200
+
+        Slow Charging Station              Up to Rs 1,00,000                       500
+
+
+
+
+5.2.2 Private e-Aggregator Charging Stations
+There are an increasing number of private e-aggregators providing e-mobility solutions who require a
+charging infrastructure setup to deal with their specific needs, which might not be met by public charging
+stations. Private charging stations further enable these aggregators to improve utilisation of charging
+infrastructure and optimise logistical planning.
+
+
+The first 50 private charging stations set up in Tamil Nadu shall be eligible for a capital subsidy of 25% on
+the cost involved in the purchase of equipment and machinery during the policy period.
+
+
+                                           Incentive (Rs.)            Number of Public Charging
+               Type
+                                                                      Stations to be incentivised
+
+        Fast Charging Station             Up to Rs 10,00,000                      50
+
+
+
+                                                                                                           14
+5.3 Incentives for Public Battery Swapping Stations
+Battery as a Service (Baas) is a business model, which is seeing considerable offtake owing to reduced
+upfront costs. Battery swapping, a subset of BaaS, has emerged as a cost-effective alternative to charging
+stations based on lower space requirements. It further reduces the operational downtime for vehicles and
+battery maintenance costs thereby, emerging as a popular alternative to battery charging.
+
+
+The first 200 public battery swapping stations set up in Tamil Nadu shall be eligible for a capital subsidy
+of 25% on the cost involved in the purchase of equipment and machinery limited to Rs. 2 lakh per station
+
+
+                  Type                    Incentive (Rs.)           Number of Public Charging
+                                                                    Stations to be incentivised
+
+     Battery Swapping Station            Up to Rs 2,00,000                      200
+
+
+
+
+15
+6. Ecosystem Development
+Tamil Nadu has a burgeoning EV ecosystem with the presence of several R&D centres, industrial hubs, and
+an abundance of skilled workforce. To accelerate the development of the EV ecosystem, the Government of
+Tamil Nadu shall undertake a concerted approach. This shall provide the necessary impetus in furthering
+Tamil Nadu’s position as a leading EV hub.
+
+
+6.1 Capacity Building & Skilling
+Tamil Nadu has a young demographic and skilled workforce in all trades, critical to supporting industrial
+operations. The State shall identify the nature and level of skills required by the EV industry to develop and
+execute training programmes on EV design, development, and manufacturing through various channels.
+
+i) Higher Education - The Higher Education Department has initiated efforts to redesign the curriculum
+   in Engineering as well as Polytechnic colleges in Electrical, Electronics, Mechanical, and Automobile
+   courses to suit the EV industry requirements, including setting up of Centres of Excellence. Core and
+   elective courses on Hybrid and EV design, mechanics, and control have been introduced at Anna
+   University and affiliated institutions. Similar efforts are being undertaken to update the ITI curriculum
+   in addition to installing EV practical modules to enable practical lab experiments.
+
+
+ii) Skilling - TNSDC (Tamil Nadu Skill Development Corporation), on the lines of the National Skill
+    Development Corporation (NSDC), is a not-for-profit company under the Companies Act, 2013 that was
+   established in 2013 to provide skill training to the required industries. This will provide finishing and
+   short-term skilling to the personnel on EVs based on the skill qualification approved by NSDC a few of
+   which are mechatronics technician, battery technician, and EV technician. Additionally, the Apex Skill
+   Development Centre for Automobiles shall focus on imparting EV-related training to the workforce.
+   Short-term (4-6 months) finishing course post-completion of graduate Engineering course will be
+   introduced in select Engineering Colleges and Premier Technical Institutes in collaboration with
+   TNSDC. These courses will be designed in consultation with EV Industry and will include a short
+   internship module at partnering OEMs. The Government will focus on training in light and precision
+   assemblies, electrical powertrains and mechatronics.
+
+
+iii) Industry – Academia Linkage - The Government of Tamil Nadu has set up WorkLabs, a cell within
+   Guidace, to promote, facilitate and expand partnerships between industries and academic institutions.
+   WorkLabs shall endeavour to equip graduates with industry-ready skill sets. WorkLabs shall also drive
+   experiential learning initiatives such as live projects, internships, and skilling programs to improve
+   industry-academia linkages.
+
+
+
+
+                                                                                                           16
+6.2 R&D and Business Incubation
+The Government shall seek to support the development of public charging stations through the following
+pathways:
+
+ i) Promotion of EV R&D – The Government of Tamil Nadu through the Tamil Nadu Industrial 		
+     Development Corporation’s “Centres of Excellence for Emerging Technologies in Manufacturing”
+     scheme promote Centres of Excellence (CoE) for EVs in the State in conjunction with private
+     players. There are several CoEs in the State which exist currently such as Siemens CoE, Centre for
+     Battery Engineering & Electrical Vehicles (IIT Madras), Global Automotive Research Centre CoE, and
+     many more.
+
+     The State shall undertake efforts to develop linkages between industry, academia, and startups to
+     foster the ecosystem. Research programmes shall be introduced in technical institutes and research
+     establishments in areas such as batteries, battery management systems, powertrains, and motors/
+     controllers in collaboration with industries.
+
+
+     The Tamil Nadu R&D Policy 2022 strives to provide an accelerated push to R&D activities in the State.
+
+ ii) Incubation Centres – The Government of Tamil Nadu shall undertake steps to increase the 			
+     number of incubation centres for EV startups, which provide incubation services such as office 		
+     space, common facilities, and mentoring support. Tamil Nadu is home to several college/university
+     based EV incubation centres, which are currently operational.
+
+
+ iii) Emerging Sector Seed Fund – The Tamil Nadu Infrastructure Fund Management Corporation
+      Limited has established the Tamil Nadu Emerging Sector Seed Fund to invest in startups 			
+     operating in sunrise sectors. The Government of Tamil Nadu, through TANSIM, shall provide 		
+     the necessary handholding services to startups wishing to apply.
+
+
+ iv) Research & Technology Fund – The Government of Tamil Nadu has set up a Research & 			
+     Technology Fund under the Tamil Nadu Industrial Policy 2021 with a corpus of Rs. 100 crore,
+     which shall be open to proposals for EV R&D.
+
+
+
+6.3 Creation of a Circular Sustainable Economy
+The Government of Tamil Nadu has always accorded the highest importance to sustainable industrial
+practices and mitigating the impact of industries on the environment. The recycling industry forms a
+critical part of the EV value chain, especially urban mining of used batteries. Recycling will also aid the
+development of a circular economy and address the gaps in the supply chain. This closed loop system
+shall aid in minimising the use of resources, waste generation, pollution & carbon emissions.
+
+6.3.1 Renewable Energy Sourcing
+In order to develop green manufacturing value chains in the State, the Government of Tamil Nadu shall
+support manufacturing units, which utilise renewable energy to meet their energy demands.
+
+
+Up to 20% of the expenses incurred in setting up captive renewable energy power plants (windmills, solar
+farms) shall be considered as part of eligible fixed assets if 50% or more of the energy produced is
+used for captive consumption.
+
+17
+6.3.2 Retrofitting & Remanufacture
+The Government shall also incentivise commercial vehicles, which shall retrofit their existing ICE vehicles
+and convert them into EVs. Retrofitted vehicles that comply with Automotive Research Association of
+India (ARAI) standards shall be eligible for the following incentives up to 31.12.2025:
+
+
+                                                                                            Number of
+    Vehicle                                                          Maximum
+                                              Incentive (Rs.)                             Vehicles (#) to
+   Category                                                        Incentive (Rs)
+                                                                                          be incentivised
+
+  E-2Wheelers                                   10,000/ KWh             15,000                 30,000
+
+  E-3Wheelers (autos/ Light goods carriers)     10,000/ KWh             20,000                 15,000
+
+
+6.3.3 Recycling
+The Government of Tamil Nadu shall encourage a circular economy by promoting the re-use and recycling
+of EV batteries that have reached the end-of-life stage through recycling centres set up by EV/ EV battery
+manufacturers and other players. Recycling projects established during the policy period shall be eligible
+for incentives on par with battery manufacturing projects.
+
+
+Appropriate protocols for setting up such centres shall be notified by the Government of Tamil Nadu after
+consultation with stakeholders.
+
+
+6.4 Creation of EV Parks & Vendor Ecosystem
+The Government of Tamil Nadu recognises that major investments by the EV OEMs can be facilitated
+only if there is dedicated infrastructure and developed vendor eco-system. Tamil Nadu has a notable
+advantage due to the presence of the Global Automotive Research Centre (GARC), one of the four premier
+automotive testing institutes in India. GARC has a full-fledged R&D and homologation test facilities and is
+accredited by the National Accreditation Board for Testing and Calibration Laboratories (NABL). Its Electric
+Vehicle Lab offers FAME II testing with facilities for battery lifecycle & safety, electric motor analysis, EV
+component durability, EV charging infrastructure, vehicle benchmarking, and design verification. These
+facilities are used by several EV and ICE OEM manufacturers operating in Tamil Nadu and adjoining States.
+
+
+To cater to new investments in EV, the Government shall develop exclusive EV parks in Krishnagiri and
+Manallur (Chennai). The Government has planned to develop a Future Mobility Park in over 300 acres
+in Krishnagiri. The Park shall provide innovative solutions for sustainable transport using advanced data
+science, artificial intelligence, and future engineering with supporting research centres for greener and
+cleaner transport systems. These parks will be in close proximity to existing auto hubs and will have
+excellent connectivity to export and import gateways in the State. Further, the parks shall have common
+facilities for firms to undertake prototyping, testing, and training activities. Incentives under various
+schemes applicable to the MSME sector and large industries shall be extended to these industries, subject
+to their eligibility in order to develop a strong vendor ecosystem in the State. The Government will also
+promote Logistics Parks and Free Trade Warehousing Zones for better inventory management. Plug and
+Play manufacturing facilities will be created where vendors and OEMs can commence production with
+minimal capital investment in land and building.
+
+
+
+
+                                                                                                            18
+6.5 Promoting Startups in the EV Sector
+The growth of the EV sector is based on the disruption of the automobile sector and has created
+opportunities for startups in areas such as EV charging, Electric Mobility as a Service (e-Maas), and battery
+technology, to name a few.
+
+
+Tamil Nadu has a flourishing EV startup ecosystem with several startups having transitioned to commercial
+production in the State. The presence of several incubation centres, most notably the IIT Madras Research
+Park has played a key role in the growth of startups across the EV value chain.
+To attract and nurture the growth of EV startups in the State, the Government of Tamil Nadu shall facilitate
+partnerships with industries through Tamil Nadu Startup and Innovation Mission (TANSIM). Further, EV
+startups would be eligible to apply for benefits under the Tamil Nadu Startup and Innovation Policy.
+
+
+6.6 Investment Facilitation
+The Government of Tamil Nadu through its Single Window Portal (SWP) offers investors access to 100+
+digitised services across 24 Government Departments. With advanced features such as AI chatbot,
+video conferencing query modules, real-time monitoring, and a dedicated help desk the SWP provides
+unmatched functionality and ease of doing business for investors. The SWP provides the necessary
+clearances for EV Charging Station operators such as planning permits, building permits, drawing approvals,
+electricity connection, trade license, and NOC approval/compliances. The State allows investors to pay fees
+for required clearances/approvals instead of a lumpsum fee5. This measure has been implemented to
+improve transparency and to support sunrise sectors such as EV which require only specific clearances/
+approvals.
+
+
+Further, through Biz Buddy (Industry Help Desk Portal) the State provides investors with a streamlined
+redressal mechanism and enhanced aftercare service delivery.
+
+
+
+6.7 Safety & Awareness
+As witnessed during the growth ICEs, the growth of EVs in the State may also lead to possibilities of
+accidents with a higher share of EVs. While EV safety standards are on par or better than ICE vehicles,
+the former present a new set of risks due to the different components present on board including high
+voltage contactors, connectors, and batteries.
+
+
+The Government of Tamil Nadu shall undertake a cohesive approach to mitigate the risks arising from the
+change in technology. Departments such as Fire & Rescue Services, Transport, and Police shall undertake
+capacity-building exercises to develop emergency service operating procedures and training programmes
+for dealing with EV-related incidents in line with national/international safety standards. Further, existing
+equipment used by Government agencies shall be augmented and upgraded.
+
+
+
+
+5
+    G.O (Ms.) No.5, Industries (MIB.1) Department dated 11.01.2022
+
+
+19
+6.8 EV Cities
+To provide an impetus towards EV adoption, the Government of Tamil Nadu shall declare six cities viz.
+Chennai, Coimbatore, Tiruchirappalli, Madurai, Salem, and Tirunelveli, as EV cities. In each of these cities,
+the Smart City Commissioner will be appointed as the Nodal Officer to coordinate and drive EV adoption.
+In the absence of a Smart City Commissioner, the Corporation Commissioner shall be the Nodal Officer.
+The Smart City Mission shall design a smart mobility programme with a focus on EVs to prepare a
+roadmap including electrification of auto rickshaws and buses within 10 years in a phased manner. The
+implementation programme shall also provide interventions on supporting taxi fleets and app-based
+transport aggregators in transitioning to an electric fleet.
+
+
+The Government of Tamil Nadu shall also undertake the development of public charging infrastructure in
+these cities through public private collaboration.
+
+
+
+
+                                                                                                          20
+7. Policy Implementation
+Mechanism
+7.1 Sanctioning & Implementing Agency
+All investment proposals in this sector will be provided the necessary facilitation through the Single
+Window Clearance Facility, with the necessary handholding services provided by Guidance/FaMe TN. The
+following agencies shall be responsible for the implementation of the different incentives provided under
+the policy:
+      Industries, Investment Promotion, and Commerce Department will be the nodal department for the
+      implementation of manufacturing related incentives for large industries and special demand side
+      incentives (Section 3.2, Section 3.4, Section 4.3, Section 5.2, Section 5.3, Section 6.3.2, and Section 6.3.3).
+      Guidance shall provide recommendations for eligible investments.
+      MSME Department will be the nodal department for the implementation of the special incentives for
+      MSMEs (Section 3.3). FaMe TN shall provide recommendations for eligible MSME investments.
+      TANGEDCO will serve as the nodal agency for facilitating the development of charging infrastructure
+      (Section 5.1).
+      Housing & Urban Development Department will be the nodal department for issuing amendments to
+      the Combined Development and Building Rules (Section 4.2.1).
+      Home (Transport) Department will serve as the nodal department for issuance of guidelines to achieve
+      electrification of public transport & exemptions for EVs, (Section 4.2.2 and Section 4.2.3).
+
+
+The existing institutional mechanism for disbursal of investment related incentives to large Industries
+& MSMEs in the State shall be extended to this policy. Further, a nodal officer will be appointed in each
+Department for coordination & implementation of the policy.
+
+7.2 EV Steering Committee
+The implementation of this policy shall be based on interventions by different departments of the
+Government. To facilitate these interventions and ensure a concerted effort, the EV Steering Committee
+shall be reconstituted to monitor the implementation of the policy with Chief Secretary, Government of
+Tamil Nadu as the Chairman, and the following Committee Members:
+ 1.     Secretary, Industries, Investment Promotion and Commerce Department
+ 2. Secretary, Finance Department
+ 3.     Secretary, Home Department
+ 4. Secretary, Housing and Urban Development Department
+ 5. Secretary, Municipal Administration and Water Supply Department
+ 6. Chairman and Managing Director, Tamil Nadu Generation and Distribution Corporation Limited
+        (TANGEDCO)
+ 7.     Secretary, Transport Department
+ 8. Secretary, Micro, Small and Medium Enterprises Department
+ 9. MD & CEO, Guidance (Convenor)
+
+Officers from the Government of Tamil Nadu and experts from the industry across different fields such as
+manufacturing, industry associations, charging infra operators shall be called upon as special invitees to
+provide inputs and suggestions to the committee as and when required.
+21
+7.3 EV Cell
+An EV Cell shall be set up in Guidance to promote EV adoption in the State. The EV Cell shall perform the
+following functions:
+
+ Facilitate investors wishing to establish EV manufacturing units across the investment lifecycle or clean
+ energy alternatives pilot projects.
+ Facilitate investors wishing to enter into power purchase agreements with renewable energy generators
+ or distributors.
+ Develop and maintain a dedicated EV Portal providing information on applicable policies, guidelines, and
+ charging station locations. This portal shall also include appropriate mechanisms for providing incentives
+ to consumers through a DBT system.
+ Coordinate and support in identification of sites for Public Charging Stations in Government offices &
+ public places, Smart City Missions/Corporations of the EV Cities.
+ Organise EV conclaves comprising different EV stakeholders – Government agencies, industry associations,
+ manufacturers, research associations, and think tanks.
+ Collaborate with public & private stakeholders to host campaigns & events for promoting EV adoption in
+ the State.
+ Inter-departmental coordination with departments such as HUDD, Energy, and Transport to enable
+ swifter decision making for investment proposals.
+ Assist the EV Steering Committee in the implementation of the EV Policy.
+ Smart City Commissioners of the EV Cities shall be appointed as city nodal officer to roll out city-specific
+ EV programme interventions.
+
+
+
+7.4 Policy Period
+This Policy shall be valid for a period of 5 years from the date of the policy notification, or till a new Policy is
+announced. The Government of Tamil Nadu may periodically revise this Policy from time to time.
+
+
+7.5 Guidelines
+The Guidelines mentioned in Annexure 4 of the Tamil Nadu Industrial Policy 2021 will be applicable for
+availing of incentives under this Policy. Operational guidelines for demand side incentives shall be issued
+shortly. Other guidelines and clarifications may be issued from time to time.
+
+
+
+
+                                                                                                                 22
+GOVERNMENT OF TAMIL NADU
+
+
+
+
+ www.investingintamilnadu.com
+

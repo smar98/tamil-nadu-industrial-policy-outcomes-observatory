@@ -1,0 +1,791 @@
+TAMILNADU SOLAR ENERGY
+POLICY - 2019
+
+TAMIL NADU SOLAR ENERGY
+POLICY 2019
+
+z
+
+a
+
+© ONAMTAWN
+
+PRP PRP BP BP BP PB
+ON Aa wWnN er Oo
+
+GOVERNMENT OF TAMIL NADU
+
+TAMIL NADU SOLAR ENERGY POLICY
+
+CONTENTS
+
+Introduction
+
+Preamble
+
+Tamil Nadu Solar Energy Vision
+
+Solar Energy Policy Objectives
+
+Scope of Solar Energy Policy
+
+Solar Energy Targets
+
+Legislative Framework for Policy
+
+Solar Energy grid feed-in
+
+Solar Energy feed-in tariffs
+
+Solar Energy implementation models
+Solar Energy mandates and programs
+Incentives
+
+Grid Connectivity and Energy Evacuation
+Awareness Creation, Education and Capacity Building
+Solar Energy Research
+
+Monitoring and Evaluation
+
+Role of the State Agencies
+
+Operative Period
+
+Page
+No.
+
+oO O ON NI Doon ft BWHNY
+
+1.0
+Lids
+
+tides
+
+Lads
+
+1.4.
+
+1.5.
+
+TAMIL NADU SOLAR ENERGY POLICY - 2019
+
+GOVERNMENT OF TAMIL NADU
+Energy Department
+
+Introduction
+
+The Special Report on Global Warming (SR 15, October 2018) by the
+Intergovernmental Panel for Climate Change (IPCC) estimates the impact
+of global warming of 1.5 °C above pre-industrial levels. One of the key
+messages that comes out strongly from this report is that the world is
+already seeing the consequences of 1°C of global warming through more
+extreme weather, rising sea levels and diminishing Arctic sea ice, among
+other changes. The report states that under emissions in line with current
+pledges under the Paris Agreement (known as Nationally-Determined
+Contributions or NDCs), global warming is expected to surpass 1.5°C,
+even if they are supplemented with very challenging increases in the scale
+and ambition of mitigation after 2030.
+
+The report also states that limiting warming to 1.5°C implies reaching net
+zero CO, emissions globally around 2050 and concurrent deep reductions
+in emissions of non-CO,z climate forcers, particularly methane. Risks to
+natural and human systems are lower at 1.5°C than at 2°C,
+
+Drastically de-carbonising existing energy system by investing in renewable
+energy systems, including solar, at an unprecedented scale and pace is
+required to address global warming. IPCC highlights that social justice and
+equity are core aspects of climate-resilient development pathways that
+aim to limit global warming to 1.5°C and that the poor and underprivileged
+communities need to be included in the solutions addressing climate
+mitigation. With the ratification of the Paris Agreement COP21, India has
+committed to reduce the emissions intensity of its GDP by 33%-35% by
+2030 from 2005 levels by increasing the share of non-fossil-based energy
+resources to 40% of installed electric power capacity by 2030 and by
+creating additional (cumulative) carbon sinks of 2.5~3 GtCO2e through
+additional forest and tree cover by 2030.
+
+The Government of India and the Government of Tamil Nadu have put in
+place various policies and mechanisms to promote solar energy, including
+financial incentives for certain categories of users. The Government of
+India has set a target of 100,000 MW of solar energy capacity for 2022 of
+which 40% (40,000 MW) is to come from the consumer category in the
+form of rooftop and similar small scale solar energy systems.
+
+The Government of Tamil Nadu had notified the Tamil Nadu Solar Energy
+Policy, 2012 in October 2012. This exemplary Solar Energy Policy included
+
+1
+
+1.6.
+
+1.7.
+
+2.0
+
+Qed
+
+Deki
+
+2.3.
+
+2.4.
+
+solar net metering for consumer Solar Photo Voltaic systems. This early
+adoption of net metering contributed to making the State a national leader
+in solar energy. Many other Indian States followed suit in adopting solar
+energy policies similar to the Tamil Nadu policy.
+
+Vision Tamil Nadu 2023, a Strategic Plan for Infrastructure Development in
+Tamil Nadu, includes a solar energy target of 5,000 MW. More recently the
+Ministry of New and Renewable Energy (MNRE) proposed a solar energy
+target for the year 2022 of 9,000 MW for Tamil Nadu. To meet the Vision
+Tamil Nadu 2023 and MNRE 2022 targets substantial solar energy capacity
+addition is required. Achieving the solar energy target for 2023 requires
+new policy instruments and solar energy programs, especially so for the
+consumer category. Enhanced grid penetration of solar energy requires
+smart grid management and energy storage solutions.
+
+With the experience gained from implementation of the Tamil Nadu Solar
+Energy Policy, 2012 and with a view of accelerating the transition to a
+sustainable energy future, this Tamil Nadu Solar Energy Policy, 2019
+provides an inclusive policy framework that promotes both utility category
+and consumer category solar energy generation through various enabling
+mechanisms.
+
+Preamble
+
+Government of Tamil Nadu has an unwavering commitment to the Directive
+Principle of the State Policy enshrined in Article 48.A of the Constitution,
+which stipulates that “the State shall endeavour to protect and improve the
+environment”. It was out of this commitment that the Government issued
+the Tamil Nadu Solar Policy 2012, which was the first comprehensive solar
+energy policy in the country.
+
+Government's commitment to people’s welfare is equally resolute. Access
+to affordable, reliable, quality electricity supply for all is a welfare enabler.
+
+With these twin policy objectives of protecting the environment and
+the welfare of its people, Tamil Nadu is committed to a sustainable and
+equitable energy future.
+
+Energy is one of the key driving forces of socio-economic development
+and change. Long-term energy security is therefore an essential element
+of sustainable development. The rapid depletion of non-renewable energy
+sources and the adverse effects caused to the globe by the process of
+extracting energy from fossil fuels call for urgent solutions while demand
+for energy will keep increasing. The universally accepted view is that only
+energy from renewable sources offer a solution for a sustainable energy
+
+a
+
+2.5,
+
+2.6.
+
+27,
+
+3.0
+
+3.4,
+
+Bis
+
+3.3.
+
+3.4.
+
+3.5.
+
+3.6.
+
+future. Renewable energy targets will have to be set to align with the
+nation’s commitment of its greenhouse gas emissions.
+
+The Government of India has launched the Jawaharlal Nehru National
+Solar Mission (JNNSM) under the National Action Plan for Climate Change
+(NAPCC) to promote ecologically sustainable growth while addressing
+India’s energy security challenges.. The objective of the National Solar
+Mission is to establish India as a global leader in solar energy by creating
+the policy conditions for its diffusion across the country as quickly as
+possible. Tamil Nadu will make a significant contribution to the National
+Solar Mission.
+
+Tamil Nadu is one of the most urbanized and industrial states of India. A
+continuous increase in energy demand from all sectors is expected in the
+years to come. To meet the increasing energy demand in a sustainable
+manner, it is essential that the Government of Tamil Nadu formulates
+and implements energy policies that are driven by a clear vision and
+implemented through the participation of all stakeholders.
+
+This Tamil Nadu Solar Energy Policy 2019 intends to create a framework
+that enables an accelerated development of solar energy in the State.
+
+Tamil Nadu Solar Energy Vision
+
+Solar energy will be a major contributor to a sustainable energy future for
+Tamil Nadu.
+
+Solar energy development will be part of an overall energy strategy that
+includes demand side management, energy conservation, energy efficiency
+initiatives, distributed renewable energy generation, electric mobility and
+smart grids.
+
+Solar energy development will provide green jobs to a significant number
+of the State’s workforce.
+
+Solar energy will become available, accessible and affordable to all citizens
+of Tamil Nadu.
+
+Solar energy generation will significantly contribute to reducing the carbon
+and water footprint of the State’s energy sector.
+
+Tamil Nadu will be an international climate leader for emerging economies
+by 2023.
+
+4.0
+4.1.
+
+4.2,
+
+4.3.
+
+4.4.
+
+4.5,
+
+4.6,
+
+4.7.
+
+4.8.
+4.9.
+
+4,10,
+
+4.11.
+
+5.0
+
+5.1.
+
+Solar Energy Policy Objectives
+Define clear and transparent policy governance.
+
+Establish an eco-system that translates the solar energy vision into
+enabling policy systems and processes.
+
+Use regulatory mechanisms to ensure that Tamil Nadu will achieve, or
+exceed, the solar energy portfolio obligations as may be determined by
+the Tamil Nadu Electricity Regulatory Commission (TNERC) from time to
+time.
+
+In accordance with regulations, facilitate open access to the public electricity
+grid and thereby create opportunities for grid-connected distributed
+generation of solar power.
+
+Encourage and incentivise electricity consumers to set up solar energy
+systems.
+
+Establish a ‘Single Window System’ for technical support, funding support
+and project clearance through cooperation between the concerned
+Government departments.
+
+Encourage public-private partnerships and joint ventures to mobilize
+investments in solar energy projects, manufacturing facilities, research,
+and technology development.
+
+Facilitate ‘Ease of Doing Business’ in the solar energy sector.
+
+Create an investment-friendly environment that provides opportunities
+for private individuals, companies, local bodies, government departments
+and others to contribute to and participate in the generation of solar
+energy, particularly for the electricity consumer to become a “prosumer”
+(a producer-consumer),
+
+Create a win-win situation for all stakeholders.
+
+Create a road map to achieve the objectives of the “National Renewable
+Energy Policy” to be issued by the Central government.
+
+Scope of Solar Energy Policy
+
+This policy will be applicable to projects, programs and installations relating
+to solar photovoltaic energy (solar PV) and solar thermal energy and to
+both utility and consumer category systems.
+
+5.2.
+
+Byes le
+
+5.2.2,
+
+6.0
+
+6.1.
+
+6.2.
+
+7.0
+7.1.
+
+7.1.1.
+
+7.1.2.
+
+7.1.3.
+
+7.1.4,
+
+This policy uses the terms “utility category systems” and “consumer
+category systems”, which are defined as follows:
+
+Utility category systems: where the objective is sales of solar energy to
+a distribution licensee or a third party or self consumption at a remote
+location (wheeling). For these systems the grid connection is through a
+dedicated gross metering interface.
+
+Consumer category systems: where the objective is self-consumption of
+solar energy and export of surplus energy to the grid. For these systems the
+grid connection is through a consumer service connection of a distribution
+licensee.
+
+Solar Energy Targets
+
+Tamil Nadu will have an installed solar energy generation capacity of 9,000
+MW by 2023. Of this target, 40% will be earmarked for consumer category
+solar energy systems.
+
+Targets for subsequent years will be set by the Government of Tamil Nadu
+through notifications under this policy.
+
+Legislative Framework for Policy
+
+The legislative framework for this solar energy policy includes the following
+provisions; namely:-
+
+The Electricity Act, 2003 (Central Act 36 of 2003) (the “Act”) mandates
+that the Electricity Regulatory Commissions and the Governments shall
+take necessary steps to promote Renewable Energy. The preamble to
+the Electricity Act, 2003 recognizes the significance and importance of
+promotion of efficient and environmentally benign policies.
+
+Section 61(h) of the Act provides that while specifying the terms and
+conditions of determination of tariff, State Regulatory Commissions shall
+be guided, inter-alia, by the promotion of cogeneration and generation of
+electricity from renewable sources of energy.
+
+The National Electricity Policy (NEP) and Tariff Policy notified by the
+Central Government under the provisions of section 3(1) of the Act have
+also addressed the issues of untapped potential of energy from non-
+conventional and renewable energy sources.
+
+Section 86(1)(e) of the Act specifies that one of the functions of the
+State Electricity Regulatory Commissions is to promote cogeneration and
+generation of electricity from renewable sources of energy by providing
+suitable measures for connectivity with the grid and to promote sale of
+
+5
+
+7.1.5.
+
+8.0
+
+8.1.
+
+8.1.1.
+
+such power to any person. The Regulatory Commission is also required to
+stipulate that a certain percentage of the total consumption of electricity in
+the area of a distribution licensee shall be obtained from renewable energy
+source (Renewable Energy Purchase Obligation, or RPO).
+
+Section 86(1)(e) of the Act mandates State Electricity Regulatory
+Commissions (SERCs) to notify RPOs, ensure RPO compliance and invoke
+penal provisions against defaulting entities.
+
+Solar Energy grid feed-in
+
+Solar energy grid feed-in mechanisms will include, but may not be limited
+to the following:
+
+Solar energy gross feed-in (utility category):
+
+The solar energy is fed into the grid for energy sales to the distribution
+licensee or a third party under the open access facility or for captive
+consumption under open access. In the case of distribution licensees,
+the solar energy fed into the grid will be purchased by the distribution
+licensee at the prevailing solar energy tariffs as determined by the TNERC
+or a tariff determined by a bidding process. Utility category solar energy
+gross feed-in will be permitted at all voltage levels, subject to applicable
+wheeling and other applicable charges and conditions for various voltage
+levels as may be determined by TNERC. However, no wheeling facility is
+permitted at LT voltage level. Wheeling of Energy will be permitted only,
+during the generation of electricity and will be adjusted slot/ block to slot/
+block and excess energy fed into the grid shall be treated as infirm power
+under sale to Discom category only. The excess energy will be paid at the
+rate as determined by TNERC from time to time.
+
+6
+8.152,
+
+9.0
+
+9.1,
+
+G2,
+
+10.0
+10.1.
+
+10.1.1.
+
+10.1.2.
+
+Solar energy net feed-in (consumer category):
+
+PV Array Grid-connected Inverter
+
+Legend
+— :0C Power
+mem 1 AC Power
+
+Direction of Power Flow
+NN: (idirectional] Net Meter
+
+The solar energy is used for self-consumption with the surplus, if any,
+being exported to the grid. A bidirectional service connection energy
+meter will be installed by the distribution licensee to record the imported
+and exported energy. The imported energy is debited at the applicable
+consumer tariff while the exported energy is credited on the basis of a
+consumer solar energy tariff to be determined by TNERC. The consumer
+pays the difference between the debit and credit amounts. If the cumulative
+credit amount exceeds the debit amount during any billing cycle, the net
+credit is carried over to the next billing cycle. At the end of a 12-month
+settlement period as may be determined by TNERC, the net credit, if any,
+the consumer has the option to receive payment of the net credit balance.
+Solar energy net feed-in will be available to all low tension (LT) electricity
+consumer categories subject to TNERC regulations as may be determined
+from time to time.
+
+Solar Energy feed-in tariffs
+
+Solar energy gross feed-in at utility sale tariff will be based on competitive
+bidding subject to approval of TNERC and net feed-in tariffs will be
+determined by TNERC,
+
+TNERC may introduce time-of-the-day (TOD) solar energy feed-in tariffs
+to encourage solar energy producers and solar energy storage operators
+to feed energy into the grid when energy demand is high.
+
+Solar Energy implementation models
+Solar energy systems may be implemented with the following models:
+
+Upfront ownership: The purchaser of the solar system pays the supplier
+for the capital cost and takes ownership of the solar system.
+
+Deferred ownership: The solar system is installed and operated by the
+supplier. The purchaser makes system performance-based payments to
+the supplier or leases the system from the supplier. System ownership is
+transferred to the purchaser on a mutually agreed date or is triggered by
+a mutually agreed event.
+
+11.0
+
+Lille
+
+11.2.
+
+11,3.
+
+11.4.
+
+11.5.
+
+Ld 6x
+
+ee
+
+Solar energy mandates and programs
+
+Building by-laws and ECBC (Energy Conservation Building Code)
+compliance: Any building type that requires ECBC compliance will follow
+ECBC compliance guidelines for the installation of solar PV and solar
+thermal energy systems. The Directorate of Town and Country Planning
+in collaboration with local bodies and Chennai Metropolitan Development
+Authority shall amend their building by-laws to mandate ECBC. The
+Electrical Inspectorate or other entity as determined by the Government
+will be responsible for compliance monitoring on an annual basis.
+
+The Government will introduce a policy to promote electric vehicles, and
+solar energy powered charging facilities.
+
+All public buildings, defined as per Tamil Nadu Public Buildings (Licensing)
+Act, will be encouraged to install solar energy systems, both photovoltaic
+and thermal.
+
+Corporations, municipalities and local urban bodies will be encouraged to
+use solar PV energy based street lights and water supply installations.
+
+Solar thermal for the residential, institutional and commercial segments
+will be promoted.
+
+Solar thermal applications for industrial use, including concentrated solar
+power (CSP) will be promoted.
+
+12.0
+
+L2ids
+
+12.2.
+
+12.3:
+
+12.4.
+
+12,5.
+
+13.0
+13.1,
+
+13.2.
+
+13.3.
+
+13.4.
+
+13.5.
+
+Incentives
+
+Consumer category solar energy will be exempted from electricity tax for
+two years from the date of this policy.
+
+Suitable incentive schemes will be designed to promote solar energy
+generation in the agricultural sector. This may include incentives to farmers,
+
+Solar energy injected into the grid of the distribution licensee by solar
+energy producers who have no renewable energy purchase obligations
+(non-obligated entities), including the solar energy export by non-obligated
+electricity consumers, can be claimed by the distribution licensee towards
+fulfilment of their Renewable Energy Purchase Obligations (RPO).
+
+The Government of Tamil Nadu will promote the manufacture of solar
+energy components including solar cells, inverters, mounting structures
+and batteries etc. in the State. Lands will be provided for the development
+of solar system component manufacturing. A single window process for all
+departmental approvals, including a set time limit for each approval will be
+designed and managed by TEDA.
+
+A suitable incentive scheme will be designed to promote the co-utilization
+of land for solar energy projects, crop cultivation and water conservation.
+
+Grid Connectivity and Energy Evacuation
+
+For consumer category solar PV systems, the system capacity at the
+service connection point shall not exceed 100% of the sanctioned load of
+the service connection.
+
+The maximum cumulative solar PV capacity at distribution transformer
+level may be reviewed and determined by TNERC from time to time to
+enable optimal solar energy penetration.
+
+All new service connection meters in Tamil Nadu shall be configured
+for bidirectional energy recording and display so that all new service
+connections and existing service connections for which the meters are
+replaced in the normal course of maintenance are ready for effecting solar
+energy net feed-in metering at any time in the future.
+
+For consumer category solar systems, the distribution licensee will install
+the required energy meters and commission the solar metering facility
+within three weeks from the date of application by the consumer.
+
+The distribution licensee will enhance and update its billing system such
+that relevant details pertaining to solar gross feed-in and net feed-in are
+
+9
+13.6.
+
+13.7.
+
+13.8.
+
+13:9,
+
+13.10.
+
+14.0
+
+14.1.
+
+14.2.
+
+14.3.
+
+included in the electricity consumers’ bills. Distribution licensees will make
+available online the billing data for each consumer, along with a sample bill
+explaining the various billing components above.
+
+The distribution licensee shall implement online applications for solar
+energy metering. Distribution licensees shall also display online the status
+of all solar energy metering applications received, whether online or offline.
+Distribution licensees will maintain a section-wise database of solar gross
+and net feed-in metering application requests, approval status, installation
+and commissioning data, which will be submitted to the Government on a
+periodical basis. ;
+
+Distribution licensees shall update the status of the cumulative solar
+capacity connected at each distribution transformer on their website.
+
+For all grid connected solar energy systems the distribution licensee will
+make use of the existing distribution network to the maximum extent
+possible so that utilisation of such infrastructure is optimised.
+
+For high tension consumers, open access regulations of TNERC will apply,
+subject to the conditions imposed by SLDC. However wheeling for less
+than 1 MW shall not be allowed.
+
+To manage the integration of increasing quantities of renewable energy
+in the Tamil Nadu grid, flexible supply side generation capacity such as
+pumped hydro storage, gas turbines, flexible thermal coal power generation
+and energy storage systems will have to be added by TANGEDCO and
+the private sector. The Government will develop suitable strategies to
+rapidly enhance flexible power generation and energy storage capacity in
+consultation with TNERC and TANGEDCO.
+
+Awareness Creation, Education and Capacity Building
+
+All public and private schools are encouraged to introduce a curriculum on
+energy and environment into their syllabus.
+
+State Government Departments and State Public Sector Undertakings
+(PSUs) will be encouraged to participate in annual solar energy and energy
+conservation training programs organized by TEDA and other agencies.
+
+All higher education institutions are encouraged to host an annual energy
+and environment day to create awareness about climate change and the
+benefits of renewable energy as a climate change mitigation strategy.
+
+10
+
+15.0
+
+LSicls
+
+1562
+
+15.3
+
+16.0
+
+16.1.
+
+17.0
+17.1,
+
+17.2.
+
+17.3.
+
+17.4,
+
+17.5.
+
+Solar Energy Research
+
+Tamil Nadu will facilitate and support research in the solar energy sector.
+TEDA, in collaboration with other Government Departments, will constitute
+a Solar Energy Research Fund (SERF),
+
+Tamil Nadu will closely collaborate with multi-lateral agencies to advance
+solar energy research and deployment in the State.
+
+Solar or other renewable energy projects installed for study, research or
+pilot purposes may be given special priorities and exemptions by the TNERC
+and the distribution licensee on the recommendation of the Government.
+
+Monitoring and Evaluation
+
+An inter-departmental monitoring and coordination committee for new
+and renewable energy sources, including solar energy (the “Renewable
+Energy Committee”) shall be constituted under Principal Secretary, Energy
+for monitoring the implementation of this policy and to ensure that policy
+objectives and targets are achieved.
+
+Role of the State Agencies
+
+TEDA shall take the jead in launching this Solar Energy Policy with the
+use of media, public relations, billboards, advertisements, websites, and
+more. It will also communicate amendments, if any, to this policy to major
+stake holders via its website and/or other means.
+
+TEDA will lead a comprehensive information and awareness creation effort
+in order to promote solar energy in the State.
+
+TEDA / TANGEDCO will network and coordinate with national and
+international institutions that are leaders in the solar energy sector in
+order to promote and enhance collaboration and joint R&D projects.
+
+TANGEDCO will design and facilitate the development of innovative solar
+energy projects in various modes including public, private, public-private
+partnership and build-own-operate-transfer (BOOT) modes. TEDA will
+advise TANGEDCO on these projects.
+
+TANGEDCO wiil also initiate Energy Storage Projects / Solar Parks /
+Floating Solar Parks either on its own or as Joint Venture(JV) initiatives in
+collaboration with Solar Energy Corporation of India (SECI).
+
+Statutory clearances that may be required for the development and
+commissioning of solar energy projects will be facilitated by TEDA with
+the concerned Government departments and agencies through a single
+window and time-bound process,
+
+il
+
+17.6.
+
+Ted:
+
+17.8.
+
+17,9.
+
+17.10.
+
+17.11.
+
+18.0
+
+TEDA will facilitate and expedite access to various concessions and incentives
+provided by the Ministry of New And Renewable Energy, Government of
+India including capital cost subsidies, where applicable.
+
+TEDA will provide project development and technical advice and assistance
+for the implementation of solar energy projects.
+
+TEDA will provide advisory and consulting services to corporations,
+municipalities and local urban bodies on financing instruments for solar
+energy projects.
+
+TEDA will undertake periodical review of progress of solar energy projects
+under development and facilitate speedy clearances and approvals if
+necessary.
+
+The Chief Electrical Inspector to Government shall notify and coordinate
+with the Directorate of Town and Country Planning to obtain necessary
+amendments in the building bylaws, as outlined in this policy to facilitate
+extensive adoption of solar plants.
+
+TEDA shall notify and coordinate with State Government Departments
+and Public Sector Undertakings to facilitate extensive adaptation of solar
+energy plants as outlined in this policy.
+
+Operative Period
+
+This policy shall come into effect on 04.02.2019 and shail remain valid
+until superseded or modified by another policy. The Government will review
+the implementation of this policy annually to evaluate the actual results
+against policy objectives.
+
+12
+
+
