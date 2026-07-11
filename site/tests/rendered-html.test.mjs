@@ -89,8 +89,8 @@ test("scored verdicts stay consistent with the underlying companion data", async
   const data = JSON.parse(raw);
 
   assert.deepEqual(data.metadata.verdict_counts, {
-    not_scored: 28,
-    not_met: 2,
+    not_scored: 27,
+    not_met: 3,
     below_target: 1,
     below_target_so_far: 1,
     not_due: 9,

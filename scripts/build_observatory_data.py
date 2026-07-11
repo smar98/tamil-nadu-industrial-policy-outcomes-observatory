@@ -55,6 +55,8 @@ def main() -> int:
     asi = load_json(ROOT / "outputs" / "asi_policy_outcomes.json")
     solar = load_json(ROOT / "data" / "companion" / "tn_solar_capacity_2023.json")
     gsdp_archived = load_json(ROOT / "data" / "companion" / "tn_gsdp_2004_05_base.json")
+    related_evaluations = load_json(ROOT / "data" / "related_evaluations.json")
+    incentive_spend = load_json(ROOT / "data" / "companion" / "tn_incentive_spend.json")
     validation = load_json(ROOT / "outputs" / "asi_benchmark_validation.json")
 
     gsva = []
@@ -310,6 +312,8 @@ def main() -> int:
         "gsva": gsva,
         "solar": solar,
         "gsdp_archived": gsdp_archived,
+        "related_evaluations": related_evaluations,
+        "incentive_spend": incentive_spend,
         "benchmark_validation": validation,
     }
     SITE_DATA.mkdir(parents=True, exist_ok=True)

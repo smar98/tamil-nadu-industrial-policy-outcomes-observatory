@@ -1,0 +1,18 @@
+{
+  "title": "Tamil Nadu industrial-incentive expenditure, verified actuals",
+  "boundary_note": "Direct cash incentives to industrial units under Demand No. 27 (major head 2852): investment promotion subsidy, structured package of assistance, capital/ETP/training subsidies and land-cost incentives, largely disbursed through SIPCOT. Excludes electricity-tariff subsidies (Energy Department), the economic value of concessional SIPCOT land prices, PSU capital support, and departmental establishment costs. Budget provisions systematically exceed actual disbursement for these heads; only audited actuals and the department's own disbursement statements are used here.",
+  "cumulative_structured_package": {
+    "amount_rs_crore": 18240.97,
+    "units": 57,
+    "window": "2008-09 to 2023-24",
+    "source": "Industries, Investment Promotion and Commerce Department, Policy Note 2024-25, p. 67",
+    "source_url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/ind_e_pn_2024_25.pdf",
+    "prior_reading": {"amount_rs_crore": 16625.5, "units": 45, "window": "2008-09 to 2022-23", "source": "Policy Note 2023-24, pp. 109-110", "source_url": "https://tnswp.com/DIGIGOV/StaticAttachment?AttachmentFileName=%2Fpdf%2Fpoli_noti%2FPolicy-Note-2023-24.pdf"}
+  },
+  "investment_promotion_subsidy_actuals": [
+    {"year_label": "2020-21", "amount_rs_crore": 1290.01, "source": "CAG Appropriation Accounts 2020-21, Grant No. 27", "source_url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Appropriation-2020-21-0628b2febd65a89-63122300.pdf"},
+    {"year_label": "2022-23", "amount_rs_crore": 1404.07, "source": "CAG Appropriation Accounts 2022-23, Grant No. 27", "source_url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Appropriation-22-23-065d88671af95a3-67527008.pdf"},
+    {"year_label": "2024-25", "amount_rs_crore": 1000.0, "budgeted_rs_crore": 1506.0, "source": "CAG Appropriation Accounts 2024-25, Grant No. 27", "source_url": "https://cag.gov.in/uploads/state_accounts_report/account-report-Appropriation-Accounts-2024-25-0699856fc64fc22-37231673.pdf"}
+  ],
+  "method_note": "Years shown are those whose CAG Appropriation Accounts were retrieved and line-checked. The 2011-12 accounts show the analogous heads budgeted at Rs 1,125 crore and disbursing nil, so the series should not be interpolated. Per-policy attribution of spending is not published anywhere; the structured-package cumulative spans both the 2007-2014 and 2014-2021 policy regimes."
+}

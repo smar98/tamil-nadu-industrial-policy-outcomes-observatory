@@ -69,6 +69,9 @@ tolerance, covering six survey years across every ASI schema era (2008-09,
   through the latest comparable year, from either the COVID-depressed base or
   the following year.
 - 2019 Solar Policy: 6,736.43 MW was installed against a 9,000 MW 2023 target.
+- 2020 Electronics Policy: no semiconductor fab was approved for or commissioned
+  in Tamil Nadu by the 2023 deadline; public India Semiconductor Mission
+  approvals all went to other states.
 
 All other commitments remain visible in the ledger with a clear distinction
 between direct evidence, partial measures, official proxies and records that

@@ -1,0 +1,113 @@
+{
+  "note": "Who else has checked Tamil Nadu's industrial-policy performance, and what question each source answers. Compiled 2026-07-11. Every entry was retrieved and read except where marked; scanned-only documents are listed with their existence verified but content not machine-checked.",
+  "entries": [
+    {
+      "title": "Audit Report (Public Sector Undertakings), Government of Tamil Nadu, year ended 31 March 2018 — Report No. 2 of 2020",
+      "publisher": "Comptroller and Auditor General of India",
+      "year": 2020,
+      "url": "https://cag.gov.in/uploads/download_audit_report/2018/Report-No2-2020-PSUTN-060d47a09401235.98691622.pdf",
+      "kind": "implementation-audit",
+      "quantifies": "Performance audits of SIPCOT (892.74 acres of allotted land unused and not repossessed; Rs 249.94 crore foregone; 39.5% of allottable SEZ land vacant) and of TANGEDCO power purchase (Rs 605.48 crore excess expenditure from an extended solar tariff window).",
+      "question_answered": "Did the implementing machinery run properly? Not whether policy outcome targets were met."
+    },
+    {
+      "title": "Audit Report (Public Sector Undertakings), Government of Tamil Nadu, year ended March 2016 — Report No. 7 of 2016",
+      "publisher": "Comptroller and Auditor General of India",
+      "year": 2016,
+      "url": "https://cag.gov.in/webroot/uploads/download_audit_report/2017/Report_No.7_of_2016_-_Public_Sector_Undertakings,_Government_of_Tamil_Nadu.pdf",
+      "kind": "implementation-audit",
+      "quantifies": "Performance audit of TIIC lending to MSMEs 2011-16 (rising NPAs, Rs 139 crore of overdues traced to sanction and monitoring deficiencies) and TIDCO's uncollected Rs 46.65 crore joint-venture service charge.",
+      "question_answered": "Financial propriety of the state's industrial-finance institutions."
+    },
+    {
+      "title": "Audit Report (Revenue Sector), Government of Tamil Nadu, year ended 31 March 2016 — Report No. 2 of 2017, section 2.5, Audit of Tax Exemption to Industries",
+      "publisher": "Comptroller and Auditor General of India",
+      "year": 2017,
+      "url": "https://cag.gov.in/uploads/download_audit_report/2017/Chapter_2_Value_Added_Tax__Sales_Tax_of_Report_No.2_of_2017_-_Revenue_Sector_Government_of_Tamil_Nadu.pdf",
+      "kind": "implementation-audit",
+      "quantifies": "Rs 170.93 crore of excess VAT refunds to six companies under the structured packages of assistance administered through SIPCOT.",
+      "question_answered": "Whether incentive disbursement followed its own rules."
+    },
+    {
+      "title": "Public Accounts Committee reports on the Industries and MSME departments (67th, 73rd, 76th and 96th reports, XV Assembly)",
+      "publisher": "Tamil Nadu Legislative Assembly",
+      "year": 2019,
+      "url": "https://assembly.tn.gov.in/",
+      "kind": "legislative-scrutiny",
+      "quantifies": "Committee follow-up on CAG audit paragraphs concerning the Industries and MSME departments. The reports are scanned documents, largely in Tamil; their existence is verified but their content has not been machine-checked for this register.",
+      "question_answered": "Legislative follow-up on audit findings."
+    },
+    {
+      "title": "Tamil Nadu Industrial Policy 2021, section 2.3 'Progress and New Goals' (G.O. Ms. No. 74)",
+      "publisher": "Government of Tamil Nadu, Industries Department",
+      "year": 2021,
+      "url": "https://cms.tn.gov.in/cms_migrated/document/GO/ind_e_74_2021.pdf",
+      "kind": "self-evaluation",
+      "quantifies": "The only government self-score of a Tamil Nadu industrial policy: a one-time retrospective on the 2014 policy inside the 2021 policy document. It scores the 2014 job-creation goal against total registered-factory employment (a stock, not the promised flow of new jobs).",
+      "question_answered": "The state's own one-off account of the 2014 policy at handover. Annual Policy Notes and the Economic Survey report trends but never score the policies' targets."
+    },
+    {
+      "title": "Location-Based Tax Incentives: Evidence from India",
+      "publisher": "Journal of Public Economics 156 (Ritam Chaurey)",
+      "year": 2017,
+      "url": "https://www.isid.ac.in/~epu/acegd2014/papers/RitamChaurey.pdf",
+      "kind": "academic",
+      "quantifies": "Difference-in-differences estimates of the 2003 Uttarakhand/Himachal tax exemptions: large gains in firm counts, employment and output in treated states.",
+      "question_answered": "Causal effects of a central place-based incentive — methodological precedent, not Tamil Nadu."
+    },
+    {
+      "title": "Do special economic zones induce developmental spillovers? Evidence from India's states",
+      "publisher": "World Development 107 (Meir Alkon)",
+      "year": 2018,
+      "url": "https://doi.org/10.2139/ssrn.3127280",
+      "kind": "academic",
+      "quantifies": "Census-based analysis across the major SEZ states including Tamil Nadu: no local socioeconomic spillovers from SEZs.",
+      "question_answered": "One of the few causal papers whose sample explicitly includes Tamil Nadu; the state is never the isolated unit of analysis."
+    },
+    {
+      "title": "Place-based policies and firm performance: Evidence from Special Economic Zones in India",
+      "publisher": "European Economic Review 165 (Görg and Mulyukova)",
+      "year": 2024,
+      "url": "https://www.iza.org/publications/dp/15123",
+      "kind": "academic",
+      "quantifies": "Firm-panel estimates: negative average productivity effects inside Indian SEZs, no spillovers.",
+      "question_answered": "National SEZ instrument evaluation; no state-specific target assessment."
+    },
+    {
+      "title": "Place-based policies, structural change and female labor: Evidence from India's Special Economic Zones",
+      "publisher": "Journal of Public Economics 240 (Gallé, Overbeck, Riedel, Seidel)",
+      "year": 2024,
+      "url": "https://steg.cepr.org/sites/default/files/2023-03/WP040%20GalleOverbeckRiedelSeidel%20PlaceBasedPoliciesStructuralChangeAndFemaleLabor%20REVMar23.pdf",
+      "kind": "academic",
+      "quantifies": "Employment gains within 10 km of SEZs established 2005-13, with agricultural (especially female) employment declining — structural-change effects.",
+      "question_answered": "National SEZ evaluation; Tamil Nadu not isolated."
+    },
+    {
+      "title": "Tamil Nadu's Electronics Industry: Lessons for 'Make in India'",
+      "publisher": "Economic and Political Weekly 50(26-27) (Madhuri Saripalle)",
+      "year": 2015,
+      "url": "https://mpra.ub.uni-muenchen.de/95331/1/MPRA_paper_95331.pdf",
+      "kind": "academic",
+      "quantifies": "Survey-based account of why Tamil Nadu electronics stagnated pre-2015: weak backward linkages and an import-intensive production model.",
+      "question_answered": "Descriptive sector diagnosis for Tamil Nadu; not a target evaluation."
+    },
+    {
+      "title": "State Finances: A Study of Budgets",
+      "publisher": "Reserve Bank of India",
+      "year": 2024,
+      "url": "https://www.rbi.org.in/Scripts/AnnualPublications.aspx?head=State+Finances+%3A+A+Study+of+Budgets",
+      "kind": "fiscal-monitoring",
+      "quantifies": "State-wise subsidy expenditure trends; press coverage of the 2024-25 edition reports a steep rise in Tamil Nadu's total subsidy bill. Total subsidies span power, transport and transfers — not industrial incentives specifically.",
+      "question_answered": "Fiscal sustainability of state spending, not industrial-policy outcomes."
+    },
+    {
+      "title": "Business Reforms Action Plan (BRAP) state assessments",
+      "publisher": "Department for Promotion of Industry and Internal Trade",
+      "year": 2022,
+      "url": "https://eodb.dpiit.gov.in/",
+      "kind": "ranking",
+      "quantifies": "Cross-state ease-of-doing-business assessment; Tamil Nadu placed in the Top Achiever category in the 2020 round.",
+      "question_answered": "Regulatory-process quality relative to other states, not outcomes against Tamil Nadu's own targets."
+    }
+  ]
+}

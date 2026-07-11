@@ -129,6 +129,36 @@ type ObservatoryData = {
     method_note: string;
     values: Array<{ year_label: string; manufacturing_share_pct: number }>;
   };
+  incentive_spend: {
+    boundary_note: string;
+    method_note: string;
+    cumulative_structured_package: {
+      amount_rs_crore: number;
+      units: number;
+      window: string;
+      source: string;
+      source_url: string;
+    };
+    investment_promotion_subsidy_actuals: Array<{
+      year_label: string;
+      amount_rs_crore: number;
+      budgeted_rs_crore?: number;
+      source: string;
+      source_url: string;
+    }>;
+  };
+  related_evaluations: {
+    note: string;
+    entries: Array<{
+      title: string;
+      publisher: string;
+      year: number;
+      url: string;
+      kind: string;
+      quantifies: string;
+      question_answered: string;
+    }>;
+  };
   benchmark_validation: {
     passed: boolean;
     tolerance: number;
@@ -891,6 +921,15 @@ function App({ data }: { data: ObservatoryData }) {
       figureLabel: "real growth per year vs 15% promised",
     },
     {
+      id: "finding-fabs",
+      targetId: "electronics-2020-fabs",
+      headline: "The promised semiconductor fabs did not come.",
+      detail:
+        "The 2020 electronics policy promised at least two major fabs within three years. Approvals under the union India Semiconductor Mission are public record: none went to Tamil Nadu by the 2023 deadline, or since.",
+      figure: "0",
+      figureLabel: "fabs attracted vs 2 promised",
+    },
+    {
       id: "finding-solar",
       targetId: "solar-2019-capacity",
       headline: "Tamil Nadu reached three-quarters of its 2023 solar-capacity target.",
@@ -915,6 +954,7 @@ function App({ data }: { data: ObservatoryData }) {
           <a href="#findings">Verdicts</a>
           <a href="#how-to-read">How to read</a>
           <a href="#policies">Ledger</a>
+          <a href="#records">Missing records</a>
           <a href="#factories">Factory record</a>
           <a href="#method">Method</a>
         </nav>
@@ -1031,7 +1071,7 @@ function App({ data }: { data: ObservatoryData }) {
           <div className="section-header">
             <div>
               <span className="eyebrow">Scored verdicts</span>
-              <h2>Four claims the data can support</h2>
+              <h2>Five claims the data can support</h2>
             </div>
             <ReadingNote>
               These are target checks, not claims that the policy caused the outcome. Each is robust to the obvious
@@ -1159,6 +1199,53 @@ function App({ data }: { data: ObservatoryData }) {
           </p>
         </section>
 
+        <section id="cost" className="section-band cost-band">
+          <div className="section-header">
+            <div>
+              <span className="eyebrow">The cost side</span>
+              <h2>What the incentives cost</h2>
+            </div>
+            <ReadingNote>
+              {data.incentive_spend.boundary_note}
+            </ReadingNote>
+          </div>
+          <div className="method-audit">
+            <div>
+              <span>Structured package of assistance</span>
+              <strong>₹{fullIN(data.incentive_spend.cumulative_structured_package.amount_rs_crore)} crore</strong>
+              <p>
+                Disbursed to {data.incentive_spend.cumulative_structured_package.units} industrial units over{" "}
+                {data.incentive_spend.cumulative_structured_package.window}, per the department&rsquo;s own{" "}
+                <a href={data.incentive_spend.cumulative_structured_package.source_url} target="_blank" rel="noreferrer">
+                  Policy Note
+                </a>
+                . No per-policy attribution is published; the window spans three policy regimes.
+              </p>
+            </div>
+            <div>
+              <span>Investment promotion subsidy, audited actuals</span>
+              <strong>
+                {data.incentive_spend.investment_promotion_subsidy_actuals
+                  .map((row) => `₹${fullIN(row.amount_rs_crore)} cr (${row.year_label})`)
+                  .join(" · ")}
+              </strong>
+              <p>
+                From CAG Appropriation Accounts, Grant No. 27. Only years whose accounts were retrieved and
+                line-checked are shown; the series is not interpolated.
+              </p>
+            </div>
+            <div>
+              <span>Budgeted vs spent</span>
+              <strong>Provisions run ahead of disbursement</strong>
+              <p>
+                In 2024-25, ₹1,506 crore was provided and ₹1,000 crore disbursed; in 2011-12 the analogous heads
+                budgeted ₹1,125 crore and disbursed nil. Budget estimates overstate what industry actually receives.
+              </p>
+            </div>
+          </div>
+          <p className="trajectory-footnote">{data.incentive_spend.method_note}</p>
+        </section>
+
         <section id="policies" className="section-band policies-band">
           <div className="section-header">
             <div>
@@ -1236,6 +1323,54 @@ function App({ data }: { data: ObservatoryData }) {
                 </button>
               );
             })}
+          </div>
+        </section>
+
+        <section id="records" className="section-band records-band">
+          <div className="section-header">
+            <div>
+              <span className="eyebrow">The missing records</span>
+              <h2>
+                {
+                  data.policies.flatMap((policy) =>
+                    policy.targets.filter(
+                      (target) => target.evidence_class === "administrative_required" && !target.verdict,
+                    ),
+                  ).length
+                }{" "}
+                promises are waiting on records only government holds
+              </h2>
+            </div>
+            <ReadingNote>
+              Each row names the specific record that would settle the promise. Publishing these — deduplicated and
+              reconciled to the policy&rsquo;s definitions — is the single cheapest way to make these commitments
+              verifiable.
+            </ReadingNote>
+          </div>
+          <div className="records-list">
+            {data.policies
+              .flatMap((policy) =>
+                policy.targets
+                  .filter((target) => target.evidence_class === "administrative_required" && !target.verdict)
+                  .map((target) => ({ policy, target })),
+              )
+              .sort((a, b) => a.policy.year - b.policy.year)
+              .map(({ policy, target }) => {
+                const deadlineYear = target.deadline?.match(/\d{4}/)?.[0];
+                const passed = deadlineYear ? Number(deadlineYear) < 2026 : false;
+                return (
+                  <button className="records-row" key={target.id} onClick={() => setSelectedPolicy(policy)}>
+                    <span className="records-policy">
+                      <strong>{policy.title}</strong>
+                      <small className="promise-quote">{target.statement}</small>
+                    </span>
+                    <span className="records-record">{target.outcome_dataset}</span>
+                    <span className={`records-deadline ${passed ? "is-passed" : ""}`}>
+                      {target.deadline ? (passed ? `${target.deadline} · passed` : target.deadline) : "No deadline stated"}
+                    </span>
+                  </button>
+                );
+              })}
           </div>
         </section>
 
@@ -1399,6 +1534,51 @@ function App({ data }: { data: ObservatoryData }) {
               </p>
             </div>
           </div>
+          <section className="evaluations-register" aria-labelledby="evaluations-heading">
+            <div className="register-heading">
+              <div>
+                <span className="eyebrow">The evaluation landscape</span>
+                <h3 id="evaluations-heading">Who else has checked, and what they checked</h3>
+              </div>
+              <p>
+                Auditors test whether the machinery ran properly. Rankings compare process quality across states.
+                Academic work estimates instrument effects on national samples. None of it scores Tamil Nadu&rsquo;s
+                policies against their own stated targets — that is the gap this ledger fills.
+              </p>
+            </div>
+            <div className="register-list">
+              {(
+                [
+                  ["implementation-audit", "Implementation audits"],
+                  ["legislative-scrutiny", "Legislative scrutiny"],
+                  ["self-evaluation", "Government self-evaluation"],
+                  ["fiscal-monitoring", "Fiscal monitoring"],
+                  ["ranking", "Cross-state rankings"],
+                  ["academic", "Academic research"],
+                ] as Array<[string, string]>
+              ).map(([kind, label]) => {
+                const entries = data.related_evaluations.entries.filter((entry) => entry.kind === kind);
+                if (!entries.length) return null;
+                return (
+                  <div className="register-group" key={kind}>
+                    <h4>{label}</h4>
+                    {entries.map((entry) => (
+                      <article key={entry.title}>
+                        <a href={entry.url} target="_blank" rel="noreferrer">
+                          {entry.title} <ExternalLink size={11} aria-hidden />
+                        </a>
+                        <span>
+                          {entry.publisher} · {entry.year}
+                        </span>
+                        <p>{entry.quantifies}</p>
+                        <small>{entry.question_answered}</small>
+                      </article>
+                    ))}
+                  </div>
+                );
+              })}
+            </div>
+          </section>
           <div className="source-footer">
             <div>
               <BookOpen size={16} aria-hidden />

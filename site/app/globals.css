@@ -520,6 +520,34 @@ select {
   text-transform: uppercase;
 }
 
+/* ---------- Cost + missing records ---------- */
+.cost-band { background: var(--panel); }
+.cost-band .method-audit { margin-top: 38px; background: var(--wash); }
+.cost-band .method-audit strong { font-size: 18px; line-height: 1.4; }
+.cost-band .method-audit a { color: var(--teal); font-weight: 600; }
+.records-band { background: var(--wash); }
+.records-list { margin-top: 36px; border-top: 1px solid var(--line-dark); background: var(--panel); }
+.records-row {
+  width: 100%;
+  display: grid;
+  grid-template-columns: minmax(280px, 1.4fr) minmax(240px, 1.2fr) 150px;
+  gap: 20px;
+  align-items: center;
+  padding: 14px 16px;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  cursor: pointer;
+}
+.records-row:hover { background: var(--wash); }
+.records-policy strong { display: block; font-size: 13px; font-weight: 650; }
+.records-policy small { display: block; margin-top: 3px; color: var(--ink-2); font-size: 12px; line-height: 1.45; }
+.records-policy small.promise-quote { font-family: var(--serif); font-style: italic; }
+.records-record { color: var(--ink-2); font-size: 12px; line-height: 1.5; }
+.records-deadline { color: var(--muted); font-size: 11.5px; font-variant-numeric: tabular-nums; text-align: right; }
+.records-deadline.is-passed { color: var(--verdict-red); font-weight: 700; }
+
 /* ---------- Factory record ---------- */
 .factories-band { background: var(--panel); }
 .factory-controls { display: flex; gap: 14px; margin-top: 38px; }
@@ -594,6 +622,29 @@ select {
 .method-audit span { color: var(--muted); font-size: 10px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
 .method-audit strong { display: block; margin: 8px 0; font-size: 21px; font-weight: 650; letter-spacing: -0.01em; }
 .method-audit p { margin: 0; color: var(--ink-2); font-size: 12px; line-height: 1.6; }
+.evaluations-register { margin-top: 46px; padding-top: 34px; border-top: 1px solid var(--line-dark); }
+.register-heading { display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; }
+.register-heading h3 { margin: 9px 0 0; font-size: 22px; font-weight: 650; letter-spacing: -0.01em; }
+.register-heading > p { max-width: 460px; margin: 4px 0 0; color: var(--ink-2); font-size: 12.5px; line-height: 1.6; }
+.register-list { margin-top: 28px; columns: 2; column-gap: 40px; }
+.register-group { break-inside: avoid; margin-bottom: 26px; }
+.register-group h4 {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 7px;
+}
+.register-group article { padding: 10px 0; border-bottom: 1px solid var(--line); }
+.register-group article > a { display: inline-flex; align-items: baseline; gap: 5px; color: var(--ink); font-size: 13px; font-weight: 600; line-height: 1.4; }
+.register-group article > a:hover { color: var(--teal); }
+.register-group article > span { display: block; margin-top: 2px; color: var(--muted); font-size: 11px; }
+.register-group article > p { margin: 6px 0 0; color: var(--ink-2); font-size: 12px; line-height: 1.55; }
+.register-group article > small { display: block; margin-top: 5px; color: var(--muted); font-size: 11px; font-style: italic; line-height: 1.5; }
+
 .source-footer {
   margin-top: 40px;
   padding-top: 20px;
@@ -760,10 +811,14 @@ select {
   .policy-row-evidence { grid-column: 2; }
   .policy-row-verdicts { grid-column: 2; }
   .policy-row > svg { grid-column: 3; grid-row: 1 / span 3; }
+  .records-row { grid-template-columns: 1fr; gap: 8px; }
+  .records-deadline { text-align: left; }
   .factory-controls { flex-direction: column; }
   .factory-controls select { width: 100%; min-width: 0; }
   .factory-chart { padding: 16px 8px; }
   .method-grid, .method-audit { grid-template-columns: 1fr; }
+  .register-heading { flex-direction: column; gap: 12px; }
+  .register-list { columns: 1; }
   .method-grid article + article { border-left: 0; border-top: 1px solid var(--line); }
   .method-audit > div + div { border-left: 0; border-top: 1px solid var(--line); }
   .source-footer { align-items: flex-start; flex-direction: column; }
