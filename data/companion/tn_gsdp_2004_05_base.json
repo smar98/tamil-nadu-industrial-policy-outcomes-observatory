@@ -1,0 +1,13 @@
+{
+  "title": "Tamil Nadu GSDP by industry of origin, 2004-05 base, current prices, factor cost",
+  "unit": "rupees_lakh",
+  "source_agency": "Ministry of Statistics and Programme Implementation (CSO state series, as on 31-07-2015)",
+  "source_url": "https://mospi.gov.in/sites/default/files/reports_and_publication/cso_national_accounts/state_domestic_product_state_series/2004_05/GSDP_Tamilnadu.xls",
+  "archived_url": "https://web.archive.org/web/20240523035340/https://www.mospi.gov.in/sites/default/files/reports_and_publication/cso_national_accounts/state_domestic_product_state_series/2004_05/GSDP_Tamilnadu.xls",
+  "method_note": "This is the GSDP vintage contemporaneous with the 2007 policy's 21%-to-27% manufacturing-share target; the current 2011-12-base GSVA series starts after the deadline. Values are at factor cost and current prices. The policy does not state its price concept, so the share is also cross-checked against the 2011-12-base GSVA series, which gives 21.9% in 2011-12; both series place the share far below 27%.",
+  "values": [
+    {"year_label": "2006-07", "manufacturing_gsdp": 6455923.28, "total_gsdp": 31052573, "manufacturing_share_pct": 20.79},
+    {"year_label": "2010-11", "manufacturing_gsdp": 11276889, "total_gsdp": 58489626, "manufacturing_share_pct": 19.28},
+    {"year_label": "2011-12", "manufacturing_gsdp": 12271929, "total_gsdp": 66720168, "manufacturing_share_pct": 18.39}
+  ]
+}

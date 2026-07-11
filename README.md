@@ -53,15 +53,21 @@ npm install
 npm test
 ```
 
-The benchmark validation should report 19 passing checks within the pre-set 5%
-tolerance. See `outputs/asi_benchmark_validation.md` for the comparison table.
+The benchmark validation should report 40 passing checks within the pre-set 5%
+tolerance, covering six survey years across every ASI schema era (2008-09,
+2011-12, 2014-15, 2015-16, 2019-20, 2023-24). See
+`outputs/asi_benchmark_validation.md` for the comparison table.
 
 ## Core findings currently scored
 
+- 2007 Industrial Policy: manufacturing's GSDP share fell from 20.8% to 18.4%
+  against a 27%-by-2011 target, on the archived 2004-05-base series
+  contemporaneous with the target.
 - 2014 Industrial Policy: manufacturing growth was below its 14% annual target
-  under both nominal and real interpretations.
+  under both nominal and real interpretations, with or without the COVID year.
 - 2021 Industrial Policy: manufacturing growth was below its 15% annual target
-  through the latest comparable year.
+  through the latest comparable year, from either the COVID-depressed base or
+  the following year.
 - 2019 Solar Policy: 6,736.43 MW was installed against a 9,000 MW 2023 target.
 
 All other commitments remain visible in the ledger with a clear distinction

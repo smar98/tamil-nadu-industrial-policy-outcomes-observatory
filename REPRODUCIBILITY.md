@@ -116,8 +116,14 @@ npm test
 ## Data Sources
 
 - MoSPI ASI: https://microdata.gov.in/NADA/index.php/catalog/ASI
+- MoSPI ASI published state totals (Table 4 benchmark series): URLs recorded per
+  row in `data/official_asi_benchmarks.csv`
 - Tamil Nadu DES state income: https://des.tn.gov.in/node/346
+- MoSPI archived 2004-05-base GSDP (for the 2007 share target): recorded in
+  `data/companion/tn_gsdp_2004_05_base.json`
 - MNRE state renewable capacity: recorded in `data/companion/tn_solar_capacity_2023.json`
+- Government of Tamil Nadu export tracker (customs-origin proxy readings):
+  recorded in `data/companion/tn_exports_tracker.json`
 - Guidance Tamil Nadu policy inventory: https://investingintamilnadu.com/business-in-tamil-nadu/policy-notifications
 
 ## Local Complete Copy

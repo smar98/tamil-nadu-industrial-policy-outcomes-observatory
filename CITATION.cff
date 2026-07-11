@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this observatory or its datasets, please cite it as below."
+title: "Tamil Nadu Industrial Policy Outcomes Observatory"
+authors:
+  - family-names: "Mardia"
+    given-names: "Sanchit"
+type: dataset
+date-released: "2026-07-11"
+abstract: >-
+  An evidence-led audit of Tamil Nadu industrial-policy commitments and
+  outcomes: 33 policies (2007-2026), 41 hand-coded headline commitments,
+  disclosure-safe Annual Survey of Industries aggregates (2008-09 to 2023-24),
+  and a public interactive evidence ledger that separates what was promised,
+  what official data can measure, and where a verdict would overreach.
+keywords:
+  - industrial policy
+  - Tamil Nadu
+  - Annual Survey of Industries
+  - policy evaluation
+license: MIT

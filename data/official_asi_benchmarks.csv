@@ -18,3 +18,24 @@ year,metric,official_value,unit,source_url,scope_note
 2023,total_output,154939545,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
 2023,gva,25217514,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
 2023,emoluments,9431535,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/256/download/3924,Published Tamil Nadu factory-sector total
+2008,employees,1774019,number,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2008,workers,1456155,number,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2008,fixed_capital,9778762,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2008,total_input,25196704,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2008,total_output,30080195,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2008,gva,4883491,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published output minus input
+2008,emoluments,1624606,rupees_lakh,https://microdata.gov.in/NADA/index.php/catalog/21/download/4076,Published Tamil Nadu factory-sector total
+2011,employees,1940819,number,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2011,workers,1595342,number,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2011,fixed_capital,16145171,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2011,total_input,51755605,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2011,total_output,60963540,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2011,gva,9207935,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published output minus input
+2011,emoluments,2682291,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls,Published Tamil Nadu factory-sector total
+2019,employees,2663069,number,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total
+2019,workers,2209217,number,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total
+2019,fixed_capital,30725218,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total
+2019,total_input,76337925,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total
+2019,total_output,92735522,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total
+2019,gva,16397597,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published output minus input
+2019,emoluments,6787108,rupees_lakh,https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls,Published Tamil Nadu factory-sector total

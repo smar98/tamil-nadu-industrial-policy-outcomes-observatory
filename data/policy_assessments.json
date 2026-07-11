@@ -15,7 +15,7 @@
       "coverage_note": "ASI measures registered factories; GSVA measures the full manufacturing economy.",
       "targets": [
         {"id": "industrial-2007-jobs", "statement": "Create 2 million additional jobs by 2011.", "page": 4, "deadline": "2011", "evidence_class": "independent_partial", "outcome_dataset": "ASI plus labour-force data", "assessment": "The baseline and job universe are not specified, so the increment cannot be reconstructed exactly."},
-        {"id": "industrial-2007-share", "statement": "Raise manufacturing's GSDP share from 21% to 27% by 2011.", "page": 4, "deadline": "2011", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES state domestic product", "assessment": "Testable in principle, but the current 2011-12-base series starts after the deadline; an archived vintage is required."},
+        {"id": "industrial-2007-share", "statement": "Raise manufacturing's GSDP share from 21% to 27% by 2011.", "page": 4, "deadline": "2011", "evidence_class": "independent_direct", "outcome_dataset": "MoSPI archived 2004-05-base state domestic product", "assessment": "On the archived 2004-05-base GSDP series contemporaneous with the target, manufacturing's share fell from 20.79% in 2006-07 to 19.28% in 2010-11 and 18.39% in 2011-12. The newer 2011-12-base GSVA series gives 21.9% in 2011-12. On every available series the share moved away from 27%.", "verdict": "not_met"},
         {"id": "industrial-2007-exports", "statement": "Double annual exports to Rs 140,000 crore by 2011.", "page": 4, "deadline": "2011", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Customs origin is not validated as state of production, so it is a proxy rather than proof."}
       ]
     },
@@ -33,9 +33,9 @@
       "asi_sector_id": "all-manufacturing",
       "coverage_note": "GSVA tests economy-wide growth; ASI decomposes registered-factory outcomes.",
       "targets": [
-        {"id": "industrial-2014-growth", "statement": "Achieve 14% annual average manufacturing growth.", "page": 11, "deadline": "Superseded in 2021", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2014-15 to 2020-21, CAGR was 9.7% nominal and 8.5% real. The target did not specify a price basis; it was below 14% on both.", "verdict": "below_target"},
+        {"id": "industrial-2014-growth", "statement": "Achieve 14% annual average manufacturing growth.", "page": 11, "deadline": "Superseded in 2021", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2014-15 to 2020-21, CAGR was 9.7% nominal and 8.5% real. The target did not specify a price basis; it was below 14% on both. Ending the window before COVID-19 (2014-15 to 2019-20) gives 11.8% nominal and 10.6% real, still below target, so the verdict does not depend on the pandemic year.", "verdict": "below_target"},
         {"id": "industrial-2014-jobs", "statement": "Create 2 million additional jobs before 2016.", "page": 11, "deadline": "2016", "evidence_class": "independent_partial", "outcome_dataset": "ASI plus employment surveys", "assessment": "The baseline and coverage of 'gainful employment' are not defined."},
-        {"id": "industrial-2014-exports", "statement": "Double Tamil Nadu exports by 2016.", "page": 11, "deadline": "2016", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "State export origin is a customs proxy and cannot establish where production occurred."}
+        {"id": "industrial-2014-exports", "statement": "Double Tamil Nadu exports by 2016.", "page": 11, "deadline": "2016", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "State export origin is a customs proxy and cannot establish where production occurred. Official vintages also disagree on the baseline itself: the state's 2014 strategy reports USD 35.9 billion for 2013-14 while later DGCIS-derived compilations report about USD 26.9 billion. No vintage approaches a doubling: the state's own export tracker records USD 26.6 billion in 2016-17."}
       ]
     },
     {
@@ -53,7 +53,7 @@
       "asi_sector_id": null,
       "coverage_note": "Direct-export share in ASI is diagnostic; DGCIS state origin is not validated production geography.",
       "targets": [
-        {"id": "exports-2014-double", "statement": "Double exports from USD 35.9 billion to USD 70 billion within five years.", "page": 13, "deadline": "2019", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Useful for monitoring, not a clean state-production outcome."}
+        {"id": "exports-2014-double", "statement": "Double exports from USD 35.9 billion to USD 70 billion within five years.", "page": 13, "deadline": "2019", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Useful for monitoring, not a clean state-production outcome. Around the deadline the state's own export tracker records USD 28.6 billion in 2018-19 and USD 28.1 billion in 2019-20 — every available official reading sits far below USD 70 billion, though the vintages disagree on exact levels."}
       ]
     },
     {"policy_id": "food-processing-2018", "asi_sector_id": "food-processing", "coverage_note": "ASI can track registered food and beverage factories, jobs, capital and value addition. The policy has no headline numeric outcome target.", "targets": []},
@@ -97,7 +97,7 @@
       "coverage_note": "ASI measures registered electronics factories but not the full ESDM ecosystem or state-wide sector turnover.",
       "targets": [
         {"id": "electronics-2020-output", "statement": "Increase electronics industry output to USD 100 billion by 2025.", "page": 9, "deadline": "2025", "evidence_class": "administrative_required", "outcome_dataset": "Firm-level production or GST turnover ledger", "assessment": "ASI output is a useful lower bound but does not match the policy universe."},
-        {"id": "electronics-2020-exports", "statement": "Contribute 25% of India's electronics exports by 2025.", "page": 9, "deadline": "2025", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS electronics exports by customs origin", "assessment": "The numerator is customs origin, not verified production origin."},
+        {"id": "electronics-2020-exports", "statement": "Contribute 25% of India's electronics exports by 2025.", "page": 9, "deadline": "2025", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS electronics exports by customs origin", "assessment": "The numerator is customs origin, not verified production origin. The department's 2024-25 policy note reports USD 9.5 billion of electronics exports and a 33% all-India share for 2023-24 — above the 25% ambition on the state's own figures — but the state numerator and national denominator do not reconcile on a single DGCIS classification, so no verdict is issued."},
         {"id": "electronics-2020-skills", "statement": "Train more than 100,000 people by 2024.", "page": 9, "deadline": "2024", "evidence_class": "administrative_required", "outcome_dataset": "Training-provider completion records", "assessment": "Counts require unique learners, completion and placement outcomes."},
         {"id": "electronics-2020-fabs", "statement": "Attract at least two major semiconductor fabs within three years.", "page": 10, "deadline": "2023", "evidence_class": "administrative_required", "outcome_dataset": "Commissioned-project and incentive-sanction records", "assessment": "A press announcement or MoU is not a commissioned fab."}
       ]
@@ -107,7 +107,7 @@
       "asi_sector_id": "all-manufacturing",
       "coverage_note": "GSVA tests statewide manufacturing outcomes; ASI explains registered-factory composition without claiming causality.",
       "targets": [
-        {"id": "industrial-2021-growth", "statement": "Achieve 15% annual manufacturing growth during the policy term.", "page": 9, "deadline": "Policy term", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2020-21 to 2023-24, CAGR was 13.4% nominal and 8.3% real. The target omits the price basis; both are below 15% through the latest comparable year.", "verdict": "below_target_so_far"},
+        {"id": "industrial-2021-growth", "statement": "Achieve 15% annual manufacturing growth during the policy term.", "page": 9, "deadline": "Policy term", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "From 2020-21 to 2023-24, CAGR was 13.3% nominal and 8.3% real. The target omits the price basis; both are below 15% through the latest comparable year. The COVID-depressed 2020-21 base flatters this growth rate; measuring from 2021-22 instead gives 10.2% nominal and 7.8% real, so the verdict does not depend on the base year.", "verdict": "below_target_so_far"},
         {"id": "industrial-2021-investment", "statement": "Attract Rs 10 lakh crore of investment between 2020 and 2025.", "page": 9, "deadline": "2025", "evidence_class": "administrative_required", "outcome_dataset": "Project-level realized investment ledger", "assessment": "ASI GFCF is an independent outcome check, but cannot identify policy-assisted projects or all investment."},
         {"id": "industrial-2021-jobs", "statement": "Create 20 lakh employment opportunities by 2025.", "page": 9, "deadline": "2025", "evidence_class": "independent_partial", "outcome_dataset": "PLFS plus ASI", "assessment": "Neither source identifies policy-created jobs; administrative payroll evidence is needed for attribution."},
         {"id": "industrial-2021-share", "statement": "Raise manufacturing to 30% of GSVA by 2030.", "page": 9, "deadline": "2030", "evidence_class": "independent_direct", "outcome_dataset": "Tamil Nadu DES manufacturing GSVA", "assessment": "Manufacturing was 18.57% of current-price GSVA and 24.10% at constant prices in 2023-24. The target is not yet due and does not specify price basis.", "verdict": "not_due"}
@@ -138,7 +138,7 @@
       "asi_sector_id": null,
       "coverage_note": "ASI direct-export shares illuminate factory orientation; DGCIS provides only a state-origin proxy.",
       "targets": [
-        {"id": "exports-2021-100bn", "statement": "Increase exports from USD 26 billion in 2021 to USD 100 billion by 2030.", "page": 14, "deadline": "2030", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Trackable as an official proxy, but not independently verified production within Tamil Nadu.", "verdict": "not_due"}
+        {"id": "exports-2021-100bn", "statement": "Increase exports from USD 26 billion in 2021 to USD 100 billion by 2030.", "page": 14, "deadline": "2030", "evidence_class": "official_proxy", "outcome_dataset": "DGCIS customs-origin exports", "assessment": "Trackable as an official proxy, but not independently verified production within Tamil Nadu. The department's 2024-25 policy note reports USD 44 billion for 2023-24, well ahead of the baseline but under half the 2030 target.", "verdict": "not_due"}
       ]
     },
     {

@@ -173,6 +173,195 @@
       "relative_error": 0.02845105607196187,
       "pass": true,
       "source_url": "https://microdata.gov.in/NADA/index.php/catalog/256/download/3924"
+    },
+    {
+      "year": 2008,
+      "metric": "employees",
+      "official": 1774019.0,
+      "calculated": 1732309.1302,
+      "relative_error": 0.02351151244716093,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "workers",
+      "official": 1456155.0,
+      "calculated": 1428095.0211,
+      "relative_error": 0.01926991213160686,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "fixed_capital",
+      "official": 9778762.0,
+      "calculated": 9637948.582453482,
+      "relative_error": 0.014399922765940938,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "total_input",
+      "official": 25196704.0,
+      "calculated": 24379186.27470297,
+      "relative_error": 0.03244542323063485,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "total_output",
+      "official": 30080195.0,
+      "calculated": 29142421.45729972,
+      "relative_error": 0.031175780034015055,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "gva",
+      "official": 4883491.0,
+      "calculated": 4763235.1825967515,
+      "relative_error": 0.02462496959720997,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2008,
+      "metric": "emoluments",
+      "official": 1624606.0,
+      "calculated": 1585040.5995427289,
+      "relative_error": 0.024353843613326025,
+      "pass": true,
+      "source_url": "https://microdata.gov.in/NADA/index.php/catalog/21/download/4076"
+    },
+    {
+      "year": 2011,
+      "metric": "employees",
+      "official": 1940819.0,
+      "calculated": 1885526.0902,
+      "relative_error": 0.028489472640158626,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "workers",
+      "official": 1595342.0,
+      "calculated": 1557580.418,
+      "relative_error": 0.02366989773979494,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "fixed_capital",
+      "official": 16145171.0,
+      "calculated": 15922288.133276667,
+      "relative_error": 0.013804924501780289,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "total_input",
+      "official": 51755605.0,
+      "calculated": 50222647.3588509,
+      "relative_error": 0.029619161850182287,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "total_output",
+      "official": 60963540.0,
+      "calculated": 59198201.31329437,
+      "relative_error": 0.028957286383068086,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "gva",
+      "official": 9207935.0,
+      "calculated": 8975553.954443466,
+      "relative_error": 0.02523704235059588,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2011,
+      "metric": "emoluments",
+      "official": 2682291.0,
+      "calculated": 2599707.092016782,
+      "relative_error": 0.030788571405271782,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table4_Estimate%20of%20important%20characteristics%20by%20State%20for%20the%20year%202011-2012.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "employees",
+      "official": 2663069.0,
+      "calculated": 2607372.06715941,
+      "relative_error": 0.020914566179317886,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "workers",
+      "official": 2209217.0,
+      "calculated": 2169684.89302468,
+      "relative_error": 0.017894171091078784,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "fixed_capital",
+      "official": 30725218.0,
+      "calculated": 30304536.3789081,
+      "relative_error": 0.013691737552257515,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "total_input",
+      "official": 76337925.0,
+      "calculated": 75277334.47753803,
+      "relative_error": 0.013893363258982553,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "total_output",
+      "official": 92735522.0,
+      "calculated": 91392677.9571452,
+      "relative_error": 0.014480363229688844,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "gva",
+      "official": 16397597.0,
+      "calculated": 16115343.479607154,
+      "relative_error": 0.017213102651129086,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
+    },
+    {
+      "year": 2019,
+      "metric": "emoluments",
+      "official": 6787108.0,
+      "calculated": 6644325.19079831,
+      "relative_error": 0.021037356293975337,
+      "pass": true,
+      "source_url": "https://www.mospi.gov.in/sites/default/files/asi_results/Table_4_Estimate_of_important_characteristics_by_State_2019_2020.xls"
     }
   ]
 }

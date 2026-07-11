@@ -1,0 +1,15 @@
+{
+  "title": "Tamil Nadu merchandise exports, customs-origin, official state export tracker",
+  "unit": "usd_million",
+  "source_url": "https://tnswp.com/DIGIGOV/themes/tnswp/libs/json_data/exported_over_time.json",
+  "portal_url": "https://tnswp.com/DIGIGOV/TN-pages/exports.jsp?pagedisp=static",
+  "method_note": "Fiscal-year sums of the monthly USD values published on the Government of Tamil Nadu single-window portal export tracker. Customs origin is a proxy for production origin. Official vintages of the state export series disagree on levels: the 2014 Export Strategy itself states USD 35.90 billion for 2013-14, while later DGCIS-derived compilations report about USD 26.9 billion for the same year. Readings are shown without pass/fail verdicts.",
+  "fiscal_year_totals_usd_million": {
+    "2015-16": 28282.2,
+    "2016-17": 26566.7,
+    "2017-18": 28677.2,
+    "2018-19": 28550.4,
+    "2019-20": 28098.3,
+    "2020-21": 25905.7
+  }
+}

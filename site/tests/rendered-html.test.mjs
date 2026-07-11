@@ -66,7 +66,55 @@ test("the interface exposes a readable verification chain", async () => {
   assert.match(page, /Why no verdict/);
   assert.match(page, /Not publicly verifiable/);
   assert.match(page, /Not automatically used to score/);
-  assert.match(css, /\.policy-chronology/);
   assert.match(css, /\.verification-chain/);
-  assert.doesNotMatch(css, /\.policy-timeline\s*\{/);
+  assert.match(css, /\.stamp/);
+  assert.match(css, /\.dumbbell-track/);
+});
+
+test("published ASI records respect the disclosure rule", async () => {
+  const raw = await readFile(new URL("../public/data/observatory.json", import.meta.url), "utf8");
+  const data = JSON.parse(raw);
+
+  assert.ok(data.asi_records.length > 500);
+  for (const record of data.asi_records) {
+    assert.ok(record.sample_factories >= 10, `cell below 10 factories: ${JSON.stringify(record)}`);
+    assert.notEqual(record.stability, "suppress", `suppressed cell leaked: ${JSON.stringify(record)}`);
+  }
+  const states = new Set(data.asi_records.map((record) => record.state));
+  assert.ok(!states.has("28") && !states.has("36"), "AP and Telangana must be published as one combined series");
+});
+
+test("scored verdicts stay consistent with the underlying companion data", async () => {
+  const raw = await readFile(new URL("../public/data/observatory.json", import.meta.url), "utf8");
+  const data = JSON.parse(raw);
+
+  assert.deepEqual(data.metadata.verdict_counts, {
+    not_scored: 28,
+    not_met: 2,
+    below_target: 1,
+    below_target_so_far: 1,
+    not_due: 9,
+  });
+
+  const byLabel = Object.fromEntries(data.gsva.map((row) => [row.year_label, row]));
+  const cagr = (a, b, n) => ((b / a) ** (1 / n) - 1) * 100;
+  const nominal2021 = cagr(byLabel["2020-21"].current_rupees_crore, byLabel["2023-24"].current_rupees_crore, 3);
+  const real2021 = cagr(byLabel["2020-21"].constant_rupees_crore, byLabel["2023-24"].constant_rupees_crore, 3);
+
+  const targets = data.policies.flatMap((policy) => policy.targets);
+  const growth2021 = targets.find((target) => target.id === "industrial-2021-growth");
+  assert.ok(growth2021.assessment.includes(`${nominal2021.toFixed(1)}% nominal`), growth2021.assessment);
+  assert.ok(growth2021.assessment.includes(`${real2021.toFixed(1)}% real`), growth2021.assessment);
+
+  const share2007 = targets.find((target) => target.id === "industrial-2007-share");
+  assert.equal(share2007.verdict, "not_met");
+  const gsdpLatest = data.gsdp_archived.values.at(-1);
+  assert.ok(share2007.assessment.includes(`${gsdpLatest.manufacturing_share_pct.toFixed(2)}%`), share2007.assessment);
+
+  const trajectories = data.policies.filter((policy) => policy.trajectory);
+  assert.ok(trajectories.length >= 10);
+  for (const policy of trajectories) {
+    assert.ok(Number.isFinite(policy.trajectory.tn_pre_cagr));
+    assert.ok(Number.isFinite(policy.trajectory.tn_post_cagr));
+  }
 });
