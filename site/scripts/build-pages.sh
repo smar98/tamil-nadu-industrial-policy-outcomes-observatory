@@ -38,12 +38,19 @@ html = html.replace("<head>", '<head><link rel="icon" href="./favicon.svg"/>', 1
 assert "localhost" not in html and '"/assets/' not in html
 open(f"{out}/index.html", "w").write(html)
 
+replacements = [
+    ("new URL(e,window.location.origin)", "new URL(e,document.baseURI)"),
+    ("function(e){return`/`+e}", "function(e){return`./`+e}"),
+]
 patched = 0
 for path in glob.glob(f"{out}/assets/*.js"):
     src = open(path).read()
-    if "new URL(e,window.location.origin)" in src:
-        open(path, "w").write(src.replace("new URL(e,window.location.origin)", "new URL(e,document.baseURI)"))
+    updated = src
+    for old, new in replacements:
+        updated = updated.replace(old, new)
+    if updated != src:
+        open(path, "w").write(updated)
         patched += 1
-assert patched >= 1, "preload-base patch site not found; check the Vite helper"
+assert patched >= 1, "preload-base patch sites not found; check the Vite helper"
 print(f"pages bundle written to {out} (patched {patched} chunk)")
 PY
