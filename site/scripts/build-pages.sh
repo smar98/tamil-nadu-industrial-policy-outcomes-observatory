@@ -18,7 +18,8 @@ PORT=4173
 
 npm run start -- --port "$PORT" >/tmp/vinext-pages-start.log 2>&1 &
 SERVER_PID=$!
-trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+# npm wraps the real server, so also kill whatever is holding the port.
+trap 'kill $SERVER_PID 2>/dev/null; lsof -ti:"$PORT" | xargs kill 2>/dev/null; true' EXIT
 until curl -sf "http://localhost:$PORT/" -o /tmp/vinext-pages-shell.html; do sleep 1; done
 
 rm -rf "$OUT"
