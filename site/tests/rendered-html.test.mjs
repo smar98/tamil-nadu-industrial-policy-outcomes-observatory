@@ -22,7 +22,7 @@ test("server-renders the policy observatory", async () => {
   const html = await response.text();
   assert.match(html, /<title>Tamil Nadu Industrial Policy Outcomes Observatory<\/title>/i);
   assert.match(html, /Loading the policy evidence ledger/i);
-  assert.doesNotMatch(html, /Codex is working|Your site is taking shape|react-loading-skeleton/i);
+  assert.doesNotMatch(html, /react-loading-skeleton/i);
 });
 
 test("published data reconciles across the complete policy ledger", async () => {

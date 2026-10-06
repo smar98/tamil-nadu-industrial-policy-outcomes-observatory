@@ -15,7 +15,6 @@ site/.wrangler/
 site/.vinext/
 site/.next/
 site/.env*
-site/.openai/hosting.json
 
 # Unrelated exploratory downloads from the wider research workspace
 work_*
