@@ -1,4 +1,4 @@
-# Restricted or bulky source material. Keep these in the private local research copy.
+# Restricted or bulky source material, kept local.
 data/asi_raw/
 data/companion_raw/
 data/policies/raw/
@@ -16,6 +16,5 @@ site/.vinext/
 site/.next/
 site/.env*
 
-# Unrelated exploratory downloads from the wider research workspace
+# Local scratch
 work_*
-outputs/cigarette-aqi-methodology.md
