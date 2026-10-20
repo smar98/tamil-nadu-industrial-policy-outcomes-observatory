@@ -18,3 +18,6 @@ site/.env*
 
 # Local scratch
 work_*
+
+# Generated candidate-audit outputs (rebuilt by scripts/extract_policy_target_candidates.py)
+outputs/policy_target_candidates.*

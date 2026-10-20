@@ -47,7 +47,7 @@ test("ASI and companion evidence carry their published validation metadata", asy
 
   assert.equal(data.metadata.asi_benchmark_passed, true);
   assert.equal(data.benchmark_validation.passed, true);
-  assert.ok(data.benchmark_validation.records.length >= 19);
+  assert.equal(data.benchmark_validation.records.length, 40);
   assert.ok(data.metadata.asi_benchmark_max_error < 0.05);
   assert.equal(data.metadata.asi_coverage, "2008-09 to 2023-24");
   assert.equal(data.gsva.length, 13);

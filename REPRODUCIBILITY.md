@@ -11,7 +11,7 @@ MoSPI ASI unit records or other bulky raw downloads.
 
 - Python 3.11 or newer
 - Node.js 22.13 or newer for the website
-- `pdftotext` on `PATH` if rebuilding policy text from PDFs
+- `pdftotext`, `pdftoppm` and `tesseract` on `PATH` if rebuilding policy text from PDFs (`pdftoppm` and `tesseract` handle image-only PDFs)
 - A MoSPI NADA account approved for the ASI unit-record access agreement
 
 ```bash
@@ -24,14 +24,17 @@ pip install -r requirements.txt
 
 ### 1. Rebuild the policy corpus
 
-`data/policies/policy_corpus.json` contains the policy inventory and stable
-source URLs. It is already sufficient to audit the policy scope. To re-download
-source PDFs and re-extract text:
+`data/policies/policy_corpus.json` contains the policy inventory and source URLs
+(last checked 2026-07-10). It is already sufficient to audit the policy scope.
+To re-download source PDFs and re-extract text:
 
 ```bash
 python3 scripts/build_policy_corpus.py --refresh
 python3 scripts/extract_policy_target_candidates.py
 ```
+
+The candidate files are generated into `outputs/` and are not tracked in the
+repository.
 
 The candidate extractor is intentionally not an automated target classifier.
 Every proposed target must be reviewed against its original PDF page before it
@@ -51,8 +54,7 @@ python3 scripts/download_asi.py \
 ```
 
 The script records unavailable years as `access_required` rather than trying to
-bypass the agreement. The complete owner-only desktop copy contains the
-downloaded archives under `data/asi_raw/`.
+bypass the agreement.
 
 ### 3. Build disclosure-safe ASI aggregates
 
@@ -71,9 +73,12 @@ python3 scripts/validate_asi_outcomes.py
 python3 scripts/audit_asi_identifiers_power.py
 ```
 
+`validate_asi_outcomes.py` reads the archives from step 2 in `data/asi_raw/` and
+does not run on a clone without them.
+
 The validation script compares harmonised Tamil Nadu aggregates against the
-official figures in `data/official_asi_benchmarks.csv`. Its predeclared pass
-condition is a relative difference of 5% or less. The identifier and power
+official figures in `data/official_asi_benchmarks.csv`. The pass condition is a
+relative difference of 5% or less. The identifier and power
 audit documents why the project does not claim to follow individual factories
 over time or build a historical outage series from inconsistent fields.
 
@@ -84,7 +89,8 @@ python3 scripts/build_observatory_data.py
 ```
 
 This combines the policy ledger, public ASI aggregates, Tamil Nadu DES GSVA,
-MNRE solar capacity and benchmark audit into
+MNRE solar capacity, archived 2004-05-base GSDP, export tracker, incentive-spend
+records, the related evaluations register and the benchmark audit into
 `site/public/data/observatory.json`.
 
 ### 6. Build and test the website
@@ -97,8 +103,8 @@ npm test
 
 ## Calculation Rules
 
-- ASI estimates use public-use survey multipliers; ratios are ratios of weighted
-  aggregates, not unweighted averages of factories.
+- ASI estimates use public-use survey multipliers. Ratios are computed from
+  weighted aggregates, so they are not unweighted averages of factories.
 - The code harmonises year-specific field names, employment definitions and
   accounting identities from 2008-09 through 2023-24.
 - ASI monetary values are current rupees. The site does not call their change
@@ -126,12 +132,3 @@ npm test
   recorded in `data/companion/tn_exports_tracker.json`
 - Guidance Tamil Nadu policy inventory: https://investingintamilnadu.com/business-in-tamil-nadu/policy-notifications
 
-## Local Complete Copy
-
-The owner-only Desktop copy includes the files excluded by `.gitignore`:
-
-- `data/asi_raw/` (access-controlled ASI archives)
-- `data/policies/raw/` (downloaded policy PDFs)
-- `data/companion_raw/` (downloaded source PDFs)
-
-Those paths are not safe to push to GitHub even when the repository is private.

@@ -2,7 +2,7 @@
 
 **Live site:** https://smar98.github.io/tamil-nadu-industrial-policy-outcomes-observatory/
 
-An evidence-led audit of Tamil Nadu industrial-policy promises and outcomes.
+An evidence-led review of Tamil Nadu industrial-policy promises and outcomes.
 The project covers 33 policies issued between 2007 and 2026 and codes 41
 headline quantitative commitments. It separates four questions that are often
 conflated:
@@ -14,9 +14,9 @@ conflated:
 4. If not, what specific administrative record would be required before a
    verdict is defensible?
 
-The accompanying site is an interactive public evidence ledger, not a causal
-evaluation. It reports observed outcomes before and after policies and does not
-claim that a policy caused an observed change.
+The accompanying site is an interactive public evidence ledger. It reports
+observed outcomes before and after policies and does not claim that a policy
+caused an observed change.
 
 ## Repository contents
 
@@ -26,10 +26,11 @@ claim that a policy caused an observed change.
 | `data/policy_assessments.json` | Hand-audited commitments, evidence classes and verdict rules. |
 | `data/asi_sector_definitions.json` | Published NIC 2008 sector definitions and limitations. |
 | `data/official_asi_benchmarks.csv` | Official MoSPI benchmarks used to test the ASI harmonisation. |
-| `data/companion/` | Clean, public companion inputs for TN manufacturing GSVA and solar capacity. |
+| `data/companion/` | Public companion inputs: TN manufacturing GSVA, solar capacity, archived 2004-05-base GSDP, export tracker and incentive spend. |
+| `data/related_evaluations.json` | Register of government and independent evaluations of Tamil Nadu industrial policy. |
 | `data/policies/text/` | Extracted policy text used for reproducible target-candidate extraction. |
 | `scripts/` | Download, harmonisation, validation, audit and website-data build scripts. |
-| `outputs/` | Disclosure-safe ASI aggregates, validation records, research design and candidate-audit outputs. |
+| `outputs/` | Disclosure-safe ASI aggregates and validation records. |
 | `site/` | Interactive observatory source, tests and deployment configuration. |
 | `REPRODUCIBILITY.md` | Exact regeneration order, data-access rules and known limitations. |
 
@@ -38,8 +39,8 @@ claim that a policy caused an observed change.
 MoSPI ASI unit-record archives are access-controlled and must not be
 redistributed, including in a private repository. Policy PDFs and raw companion
 source PDFs are also excluded to keep the repository lightweight; their source
-URLs, checksums where available and extracted text are retained. The complete
-local research copy on the project owner's Desktop contains those files.
+URLs, checksums where available and extracted text are retained. Policy PDFs
+can be re-downloaded with `python3 scripts/build_policy_corpus.py --refresh`.
 
 ## Quick verification
 
@@ -47,13 +48,15 @@ local research copy on the project owner's Desktop contains those files.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python3 scripts/validate_asi_outcomes.py
 python3 scripts/build_observatory_data.py
 
 cd site
 npm install
 npm test
 ```
+
+`scripts/validate_asi_outcomes.py` needs the NADA archives described in
+REPRODUCIBILITY.md, step 2, and is not part of the quick check.
 
 The benchmark validation should report 40 passing checks within the pre-set 5%
 tolerance, covering six survey years across every ASI schema era (2008-09,
@@ -62,9 +65,11 @@ tolerance, covering six survey years across every ASI schema era (2008-09,
 
 ## Core findings currently scored
 
-- 2007 Industrial Policy: manufacturing's GSDP share fell from 20.8% to 18.4%
-  against a 27%-by-2011 target, on the archived 2004-05-base series
-  contemporaneous with the target.
+- 2007 Industrial Policy: manufacturing's GSDP share did not reach the
+  27%-by-2011 target. At current prices the share was 20.8% in 2006-07, 19.3% in
+  2010-11 and 18.4% in 2011-12. At constant 2004-05 prices it was 20.6%, 21.2%
+  and 20.0%. The policy does not state a price basis; on either basis the share
+  stayed well below 27%.
 - 2014 Industrial Policy: manufacturing growth was below its 14% annual target
   under both nominal and real interpretations, with or without the COVID year.
 - 2021 Industrial Policy: manufacturing growth was below its 15% annual target

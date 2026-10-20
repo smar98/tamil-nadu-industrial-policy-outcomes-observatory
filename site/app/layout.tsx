@@ -11,17 +11,17 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     metadataBase,
     title: "Tamil Nadu Industrial Policy Outcomes Observatory",
-    description: "An evidence-led audit of Tamil Nadu's industrial policy commitments and outcomes.",
+    description: "An evidence-led review of Tamil Nadu's industrial policy commitments and outcomes.",
     openGraph: {
       type: "website",
       title: "Tamil Nadu Industrial Policy Outcomes Observatory",
-      description: "33 policies. 41 commitments. What public evidence can prove.",
+      description: "33 policies. 41 commitments. What public evidence can show.",
       images: [{ url: new URL("/og.png", metadataBase).toString(), width: 1200, height: 630 }],
     },
     twitter: {
       card: "summary_large_image",
       title: "Tamil Nadu Industrial Policy Outcomes Observatory",
-      description: "33 policies. 41 commitments. What public evidence can prove.",
+      description: "33 policies. 41 commitments. What public evidence can show.",
       images: [new URL("/og.png", metadataBase).toString()],
     },
   };

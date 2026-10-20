@@ -9,5 +9,11 @@
     {"year_label": "2006-07", "manufacturing_gsdp": 6455923.28, "total_gsdp": 31052573, "manufacturing_share_pct": 20.79},
     {"year_label": "2010-11", "manufacturing_gsdp": 11276889, "total_gsdp": 58489626, "manufacturing_share_pct": 19.28},
     {"year_label": "2011-12", "manufacturing_gsdp": 12271929, "total_gsdp": 66720168, "manufacturing_share_pct": 18.39}
+  ],
+  "constant_price_note": "Table 2 of the same MoSPI workbook: manufacturing share of GSDP at constant 2004-05 prices.",
+  "constant_price_shares": [
+    {"year_label": "2006-07", "manufacturing_share_pct": 20.65},
+    {"year_label": "2010-11", "manufacturing_share_pct": 21.20},
+    {"year_label": "2011-12", "manufacturing_share_pct": 20.02}
   ]
 }

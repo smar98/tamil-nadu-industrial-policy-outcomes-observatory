@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Benchmark harmonized unit-record formulas against MoSPI publications."""
+"""Benchmark harmonised unit-record formulas against MoSPI publications."""
 
 from __future__ import annotations
 
@@ -64,7 +64,7 @@ def main() -> int:
         "scope_note": (
             "MoSPI benchmarks cover the full reported factory sector. The validation frame "
             "keeps status 1-3 units and NIC divisions 10-38, so a small systematic shortfall "
-            "is expected. The test detects formula or schema failures, not exact table replication."
+            "is expected. The test detects formula or schema failures and checks agreement within the stated tolerance."
         ),
         "records": records,
     }

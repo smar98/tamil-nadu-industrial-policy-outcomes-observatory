@@ -6,6 +6,7 @@ from __future__ import annotations
 import csv
 import json
 import math
+import subprocess
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -47,6 +48,21 @@ def load_json(path: Path):
 
 def finite(value):
     return value if isinstance(value, (int, float)) and math.isfinite(value) else None
+
+
+def last_commit_date(paths: list[Path]) -> str:
+    """Date of the newest git commit touching any input, so the value does not depend on file mtimes."""
+    relative = [str(path.relative_to(ROOT)) for path in paths]
+    result = subprocess.run(
+        ["git", "log", "-1", "--format=%cs", "--", *relative],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    if not result.stdout.strip():
+        raise RuntimeError("no git history found for the observatory inputs")
+    return result.stdout.strip()
 
 
 def main() -> int:
@@ -283,12 +299,14 @@ def main() -> int:
         ROOT / "data" / "companion" / "tn_solar_capacity_2023.json",
         ROOT / "data" / "companion" / "tn_manufacturing_gsva.csv",
         ROOT / "data" / "companion" / "tn_gsdp_2004_05_base.json",
+        ROOT / "data" / "companion" / "tn_incentive_spend.json",
+        ROOT / "data" / "related_evaluations.json",
         ROOT / "outputs" / "asi_benchmark_validation.json",
     ]
     payload = {
         "metadata": {
             "title": "Tamil Nadu Industrial Policy Outcomes Observatory",
-            "updated": date.fromtimestamp(max(path.stat().st_mtime for path in input_paths)).isoformat(),
+            "updated": last_commit_date(input_paths),
             "policy_count": len(policies),
             "target_count": len(all_targets),
             "evidence_counts": dict(evidence_counts),

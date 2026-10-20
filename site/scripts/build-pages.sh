@@ -3,7 +3,7 @@
 #
 # The site is fully client-rendered from one JSON file, so the worker build's
 # client assets plus one captured HTML shell are a complete static site. Three
-# rewrites make it work under the /​<repo>/ sub-path GitHub Pages serves from:
+# rewrites make it work under the /<repo>/ sub-path GitHub Pages serves from:
 #   1. absolute /assets/ URLs in the HTML shell -> ./assets/
 #   2. the capture-time localhost og:image URL -> the live URL
 #   3. the Vite preload helper's window.location.origin base -> document.baseURI

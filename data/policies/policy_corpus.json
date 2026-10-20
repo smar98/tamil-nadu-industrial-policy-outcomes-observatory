@@ -12,9 +12,9 @@
       "issuer": "Industries Department, Government of Tamil Nadu",
       "status": "superseded",
       "superseded_by": "industrial-2014",
-      "source_url": "https://mahindracity.com/docs/chennai/industrialpolicy_e_2007.pdf",
+      "source_url": "https://web.archive.org/web/2020/https://mahindracity.com/docs/chennai/industrialpolicy_e_2007.pdf",
       "source_tier": "private-document-mirror",
-      "notes": "The original TIDCO URL is no longer stable; this mirror reproduces the Industries Department document. The policy launch is independently referenced by the official MSMI Policy 2008."
+      "notes": "The original TIDCO URL is no longer stable; this Internet Archive copy of the mirror reproduces the Industries Department document (SHA-256 unchanged). The policy launch is independently referenced by the official MSMI Policy 2008."
     },
     {
       "id": "msmi-2008",

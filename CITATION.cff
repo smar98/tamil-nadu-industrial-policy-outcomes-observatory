@@ -5,9 +5,11 @@ authors:
   - family-names: "Mardia"
     given-names: "Sanchit"
 type: dataset
-date-released: "2026-07-11"
+date-released: "2026-10-20"
+url: "https://smar98.github.io/tamil-nadu-industrial-policy-outcomes-observatory/"
+repository-code: "https://github.com/smar98/tamil-nadu-industrial-policy-outcomes-observatory"
 abstract: >-
-  An evidence-led audit of Tamil Nadu industrial-policy commitments and
+  An evidence-led review of Tamil Nadu industrial-policy commitments and
   outcomes: 33 policies (2007-2026), 41 hand-coded headline commitments,
   disclosure-safe Annual Survey of Industries aggregates (2008-09 to 2023-24),
   and a public interactive evidence ledger that separates what was promised,
@@ -17,4 +19,4 @@ keywords:
   - Tamil Nadu
   - Annual Survey of Industries
   - policy evaluation
-license: MIT
+license: CC-BY-4.0

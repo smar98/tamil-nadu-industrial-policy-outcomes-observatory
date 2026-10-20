@@ -419,12 +419,12 @@ def write_report(frame: pd.DataFrame, destination: Path) -> None:
         "",
         "- A masked PSL/CIN cannot support a longitudinal factory panel.",
         "- Missing unmet-demand rows are not treated as zero without documentation.",
-        "- Realized electricity cost is purchase expenditure divided by recorded kWh; "
+        "- Realised electricity cost is purchase expenditure divided by recorded kWh; "
         "it is not a tariff and is not composition-adjusted.",
         "- Self-generation is descriptive and does not by itself identify grid unreliability.",
-        "- Verdict: reject a historical unmet-power dashboard. Purchased-electricity "
-        "cost can be studied separately only after sector/composition adjustment and "
-        "outlier controls.",
+        "- Conclusion: the public files do not support a historical unmet-power series, "
+        "so none is published. Purchased-electricity cost can be studied separately only "
+        "after sector/composition adjustment and outlier controls.",
     ]
     destination.write_text("\n".join(lines) + "\n", encoding="utf-8")
 

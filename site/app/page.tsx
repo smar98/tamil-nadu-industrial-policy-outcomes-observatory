@@ -248,7 +248,10 @@ function evidenceSource(target: TargetRecord, data: ObservatoryData) {
     return { label: "MoSPI Annual Survey of Industries", url: data.metadata.asi_source_url };
   }
   if (dataset.includes("dgc")) {
-    return { label: "DGCIS TradeStat customs-origin exports", url: "https://tradestat.commerce.gov.in/eidb/" };
+    return { label: "DGCIS TradeStat customs-origin exports", url: "https://tradestat.commerce.gov.in/" };
+  }
+  if (dataset.includes("semiconductor mission")) {
+    return { label: "India Semiconductor Mission approvals", url: "https://ism.gov.in/" };
   }
   if (dataset.includes("plfs") || dataset.includes("labour-force")) {
     return { label: "MoSPI Periodic Labour Force Survey", url: "https://www.mospi.gov.in/PLFS" };
@@ -336,8 +339,7 @@ function LineChart({
       <div className="chart-empty" role="status">
         <strong>No publishable series</strong>
         <span>
-          ASI cells are withheld when the public microdata do not support a disclosure-safe estimate. This is an
-          evidence gap, not a zero.
+          ASI cells are withheld when the public microdata do not support a disclosure-safe estimate. This is an evidence gap, so the value is unknown.
         </span>
       </div>
     );
@@ -602,7 +604,7 @@ function Dumbbell({
 function TrajectoryPanel({ policy }: { policy: Policy }) {
   const trajectory = policy.trajectory;
   if (!trajectory) return null;
-  // A "median" of one or two states is noise, not a benchmark.
+  // A "median" of one or two states is noise and cannot serve as a benchmark.
   const showPeers =
     trajectory.peer_states >= 3 &&
     trajectory.peer_pre_median_cagr != null &&
@@ -694,7 +696,7 @@ function PolicyDrawer({ policy, data, onClose }: { policy: Policy | null; data: 
                     <div className="verification-step">
                       <span>1</span>
                       <div>
-                        <small>Promise</small>
+                        <small>Promise (paraphrased)</small>
                         <h4 className="promise-quote">{target.statement}</h4>
                         <a href={`${policy.source_url}#page=${target.page}`} target="_blank" rel="noreferrer">
                           Policy PDF, page {target.page} <ExternalLink size={12} />
@@ -749,7 +751,7 @@ function PolicyDrawer({ policy, data, onClose }: { policy: Policy | null; data: 
               <div className="snapshot-heading">
                 <div>
                   <h3>Did the employment trend change?</h3>
-                  <span>Registered factories · associational, not causal</span>
+                  <span>Registered factories · associational, with no causal claim</span>
                 </div>
                 <MiniBadge evidence="independent_partial" />
               </div>
@@ -897,8 +899,8 @@ function App({ data }: { data: ObservatoryData }) {
     {
       id: "finding-2007",
       targetId: "industrial-2007-share",
-      headline: "Manufacturing's share of the economy fell while the 2007 policy promised a rise to 27%.",
-      detail: `On the archived GSDP series contemporaneous with the target, the share moved from 20.8% in 2006-07 to ${gsdpLatest.manufacturing_share_pct.toFixed(1)}% by ${gsdpLatest.year_label}. Every available series shows movement away from the target.`,
+      headline: "Manufacturing's share of the economy stayed far below the 27% that the 2007 policy promised.",
+      detail: `On the archived GSDP series contemporaneous with the target, the share was 20.8% in 2006-07, 19.3% in 2010-11 and ${gsdpLatest.manufacturing_share_pct.toFixed(1)}% in ${gsdpLatest.year_label} at current prices. At constant 2004-05 prices it was 20.6%, 21.2% and 20.0%. The policy does not state a price basis; on either basis the share stayed far below 27%.`,
       figure: `${gsdpLatest.manufacturing_share_pct.toFixed(1)}%`,
       figureLabel: `share in ${gsdpLatest.year_label} vs 27% promised`,
     },
@@ -907,7 +909,7 @@ function App({ data }: { data: ObservatoryData }) {
       targetId: "industrial-2014-growth",
       headline: "Manufacturing growth stayed below the 2014 policy's 14% annual goal.",
       detail:
-        "From 2014-15 to 2020-21, GSVA grew 9.7% a year in nominal terms and 8.5% in real terms. Excluding the COVID year gives 11.8% and 10.6% — still below target.",
+        "From 2014-15 to 2020-21, GSVA grew 9.7% a year in nominal terms and 8.5% in real terms. Excluding the COVID year gives 11.8% and 10.6%, still below target.",
       figure: "8.5%",
       figureLabel: "real growth per year vs 14% promised",
     },
@@ -916,16 +918,16 @@ function App({ data }: { data: ObservatoryData }) {
       targetId: "industrial-2021-growth",
       headline: "Growth is also running below the 2021 policy's 15% annual goal so far.",
       detail:
-        "From 2020-21 to 2023-24, GSVA grew 13.3% a year nominal and 8.3% real. The COVID-depressed base flatters these rates; from 2021-22 they are 10.2% and 7.8%.",
+        "From 2020-21 to 2023-24 (2023-24 is an advance estimate), GSVA grew 13.3% a year nominal and 8.3% real. The COVID-depressed base flatters these rates; from 2021-22 they are 10.2% and 7.8%.",
       figure: "8.3%",
       figureLabel: "real growth per year vs 15% promised",
     },
     {
       id: "finding-fabs",
       targetId: "electronics-2020-fabs",
-      headline: "The promised semiconductor fabs did not come.",
+      headline: "No semiconductor fab was approved in Tamil Nadu by the 2023 deadline.",
       detail:
-        "The 2020 electronics policy promised at least two major fabs within three years. Approvals under the union India Semiconductor Mission are public record: none went to Tamil Nadu by the 2023 deadline, or since.",
+        "The 2020 electronics policy promised at least two major fabs within three years. Approvals under the union India Semiconductor Mission are public record: none went to Tamil Nadu by the 2023 deadline, or since as of 6 October 2026.",
       figure: "0",
       figureLabel: "fabs attracted vs 2 promised",
     },
@@ -933,7 +935,7 @@ function App({ data }: { data: ObservatoryData }) {
       id: "finding-solar",
       targetId: "solar-2019-capacity",
       headline: "Tamil Nadu reached three-quarters of its 2023 solar-capacity target.",
-      detail: `MNRE recorded ${fullIN(data.solar.actual_total_solar_mw)} MW installed against the 9,000 MW target — a shortfall of ${fullIN(data.solar.shortfall_mw)} MW. The consumer-category sub-target is not scored because definitions do not align.`,
+      detail: `MNRE recorded ${fullIN(data.solar.actual_total_solar_mw)} MW installed against the 9,000 MW target, a shortfall of ${fullIN(data.solar.shortfall_mw)} MW. The consumer-category sub-target is not scored because definitions do not align.`,
       figure: `${data.solar.achievement_pct.toFixed(1)}%`,
       figureLabel: "of target installed by deadline",
     },
@@ -967,15 +969,14 @@ function App({ data }: { data: ObservatoryData }) {
         <section className="overview-band">
           <div className="overview-copy">
             <span className="eyebrow">
-              <ShieldCheck size={15} aria-hidden /> An independent public audit · 2007–2026
+              <ShieldCheck size={15} aria-hidden /> An independent public evidence review · 2007–2026
             </span>
             <h1>
               What Tamil Nadu&rsquo;s industrial policies promised, and what the evidence can show.
             </h1>
             <p>
-              {data.metadata.policy_count} policies made {data.metadata.target_count} headline numeric commitments.
-              This ledger traces each one from the policy PDF to official outcome data — and issues a verdict only
-              where the evidence honestly supports one.
+              {data.policies.filter((policy) => policy.targets.length > 0).length} of the {data.metadata.policy_count} policies set {data.metadata.target_count} headline numeric commitments; the other {data.policies.filter((policy) => policy.targets.length === 0).length} set none.
+              This ledger traces each one from the policy PDF to official outcome data and issues a verdict only where the evidence supports one.
             </p>
             <div className="verdict-board" role="list" aria-label="Scored verdicts">
               {findings.map((finding) => {
@@ -1029,7 +1030,7 @@ function App({ data }: { data: ObservatoryData }) {
             <p>
               Only {directTargetCount} of {data.metadata.target_count} commitments have a directly comparable
               independent series. {scoredCount} verdicts are scored so far; {verdictCounts.not_due ?? 0} targets are
-              not yet due. That scarcity is a finding, not a missing-data footnote.
+              not yet due. That scarcity is itself a finding.
             </p>
           </div>
         </section>
@@ -1038,7 +1039,7 @@ function App({ data }: { data: ObservatoryData }) {
           <div className="reading-map-heading">
             <span className="eyebrow">The logic of the observatory</span>
             <h2>One policy promise. Four checks.</h2>
-            <p>A verdict is the end of the chain, not the starting point.</p>
+            <p>A verdict is the end of the chain, reached only after the earlier steps.</p>
           </div>
           <div className="reading-steps">
             <div>
@@ -1074,8 +1075,7 @@ function App({ data }: { data: ObservatoryData }) {
               <h2>Five claims the data can support</h2>
             </div>
             <ReadingNote>
-              These are target checks, not claims that the policy caused the outcome. Each is robust to the obvious
-              objection — COVID endpoints, base years, price basis.
+              These are target checks. They make no claim that the policy caused the outcome. The two growth checks are shown on nominal and real bases and with and without the COVID year; the data table lists every year.
             </ReadingNote>
           </div>
           <div className="finding-list">
@@ -1130,7 +1130,7 @@ function App({ data }: { data: ObservatoryData }) {
             />
             <ReadingNote>
               Each point is one year&rsquo;s manufacturing growth. Dashed lines are policy thresholds. Below a line
-              means observed growth was lower, not that the policy caused the difference.
+              means observed growth was lower. It does not show that the policy caused the difference.
             </ReadingNote>
             <details className="data-table-details">
               <summary>View the data table</summary>
@@ -1194,8 +1194,7 @@ function App({ data }: { data: ObservatoryData }) {
             ))}
           </div>
           <p className="trajectory-footnote">
-            Growth per year in registered-factory employment (weighted ASI estimates). Peer median covers the six
-            comparison states. Sectors overlap across policies where they share an ASI definition.
+            Growth per year in registered-factory employment (weighted ASI estimates). Peer median covers up to six comparison states; the number is shown on each card. Sectors overlap across policies where they share an ASI definition.
           </p>
         </section>
 
@@ -1230,16 +1229,14 @@ function App({ data }: { data: ObservatoryData }) {
                   .join(" · ")}
               </strong>
               <p>
-                From CAG Appropriation Accounts, Grant No. 27. Only years whose accounts were retrieved and
-                line-checked are shown; the series is not interpolated.
+                From CAG Appropriation Accounts, Grant No. 27. Only years whose accounts were checked line by line are shown; the series is not interpolated.
               </p>
             </div>
             <div>
               <span>Budgeted vs spent</span>
               <strong>Provisions run ahead of disbursement</strong>
               <p>
-                In 2024-25, ₹1,506 crore was provided and ₹1,000 crore disbursed; in 2011-12 the analogous heads
-                budgeted ₹1,125 crore and disbursed nil. Budget estimates overstate what industry actually receives.
+                In 2024-25, ₹1,506 crore was provided and ₹1,000 crore disbursed. The 2011-12 accounts show ₹1,125 crore provided against nil under the analogous heads, so the series is not comparable across years.
               </p>
             </div>
           </div>
@@ -1254,7 +1251,7 @@ function App({ data }: { data: ObservatoryData }) {
             </div>
             <ReadingNote>
               Open any row to see the claim-to-source verification chain for each commitment: the promise, the outcome
-              series, the decision rule, and the result — or the specific record that would be required.
+              series, the decision rule, and the result, or the specific record that would be required.
             </ReadingNote>
           </div>
           <div className="ledger-heading">
@@ -1316,7 +1313,7 @@ function App({ data }: { data: ObservatoryData }) {
                     ) : policy.targets.length ? (
                       <small>{policy.targets.length} unscored</small>
                     ) : (
-                      <small>—</small>
+                      <small>none</small>
                     )}
                   </span>
                   <ChevronRight size={17} aria-hidden />
@@ -1342,9 +1339,7 @@ function App({ data }: { data: ObservatoryData }) {
               </h2>
             </div>
             <ReadingNote>
-              Each row names the specific record that would settle the promise. Publishing these — deduplicated and
-              reconciled to the policy&rsquo;s definitions — is the single cheapest way to make these commitments
-              verifiable.
+              Each row names the specific record that would settle the promise. Publishing these records, deduplicated and reconciled to the policy&rsquo;s definitions, would make these commitments verifiable.
             </ReadingNote>
           </div>
           <div className="records-list">
@@ -1357,7 +1352,7 @@ function App({ data }: { data: ObservatoryData }) {
               .sort((a, b) => a.policy.year - b.policy.year)
               .map(({ policy, target }) => {
                 const deadlineYear = target.deadline?.match(/\d{4}/)?.[0];
-                const passed = deadlineYear ? Number(deadlineYear) < 2026 : false;
+                const passed = deadlineYear ? Number(deadlineYear) < new Date().getFullYear() : false;
                 return (
                   <button className="records-row" key={target.id} onClick={() => setSelectedPolicy(policy)}>
                     <span className="records-policy">
@@ -1381,8 +1376,7 @@ function App({ data }: { data: ObservatoryData }) {
               <h2>What changed inside registered manufacturing?</h2>
             </div>
             <ReadingNote>
-              Use this to inspect direction and scale among registered factories. Peer states provide context, not a
-              counterfactual. {data.metadata.peer_note}
+              Use this to inspect direction and scale among registered factories. Peer states are context for comparison only. {data.metadata.peer_note}
             </ReadingNote>
           </div>
           <div className="factory-controls">
@@ -1467,19 +1461,19 @@ function App({ data }: { data: ObservatoryData }) {
           <div className="section-header">
             <div>
               <span className="eyebrow">Method</span>
-              <h2>Designed to survive scrutiny</h2>
+              <h2>Method and limits</h2>
             </div>
             <div className="method-header-note">
               <span className="validation-pass">
                 <Check size={15} aria-hidden /> ASI benchmark tests passed
               </span>
-              <ReadingNote>This section explains what was included, suppressed and deliberately rejected.</ReadingNote>
+              <ReadingNote>This section explains what was included, what was suppressed and what the data cannot support.</ReadingNote>
             </div>
           </div>
           <div className="method-grid">
             <article>
               <FileText size={21} aria-hidden />
-              <h3>Targets, not rhetoric</h3>
+              <h3>Numeric targets only</h3>
               <p>
                 Only state-level numeric outcome commitments enter the target ledger. Subsidy caps and project
                 eligibility thresholds do not.
@@ -1498,20 +1492,20 @@ function App({ data }: { data: ObservatoryData }) {
               <h3>ASI used within scope</h3>
               <p>
                 Survey weights, NIC 2008 definitions and disclosure suppression are applied. Public identifiers do not
-                support a factory panel. Not automatically used to score commitments.
+                support a factory panel. ASI aggregates are not used to score commitments unless a series matches the target.
               </p>
             </article>
             <article>
               <AlertTriangle size={21} aria-hidden />
               <h3>No causal overclaim</h3>
-              <p>{data.metadata.causal_note} Peer states are context, not a counterfactual.</p>
+              <p>{data.metadata.causal_note} Peer states are context for comparison only.</p>
             </article>
           </div>
           <div className="method-audit">
             <div>
               <span>Benchmark result</span>
               <strong>
-                {data.benchmark_validation.records.length}/{data.benchmark_validation.records.length} checks pass
+                {data.benchmark_validation.records.filter((record) => record.pass).length}/{data.benchmark_validation.records.length} checks pass
               </strong>
               <p>
                 Rebuilt Tamil Nadu aggregates stay within the pre-set 5% tolerance of MoSPI&rsquo;s published tables
@@ -1526,9 +1520,9 @@ function App({ data }: { data: ObservatoryData }) {
             </div>
             <div>
               <span>Negative results</span>
-              <strong>Two analyses fail the data</strong>
+              <strong>Two analyses the data cannot support</strong>
               <p>
-                You will not find factory-level tracking here (ASI&rsquo;s public identifiers are masked) or a
+                This site has no factory-level tracking (ASI&rsquo;s public identifiers are masked) or a
                 power-reliability series (its records break after 2017-18). Where the data cannot carry a claim, the
                 claim is absent.
               </p>
@@ -1542,8 +1536,7 @@ function App({ data }: { data: ObservatoryData }) {
               </div>
               <p>
                 Auditors test whether the machinery ran properly. Rankings compare process quality across states.
-                Academic work estimates instrument effects on national samples. None of it scores Tamil Nadu&rsquo;s
-                policies against their own stated targets — that is the gap this ledger fills.
+                Academic work estimates instrument effects on national samples. Apart from the state&rsquo;s own one-off retrospective in the 2021 policy, which is not independent, none of the sources below scores Tamil Nadu&rsquo;s policies against their own stated targets.
               </p>
             </div>
             <div className="register-list">
@@ -1606,8 +1599,7 @@ function App({ data }: { data: ObservatoryData }) {
           </div>
           <div className="site-colophon">
             <span>
-              Data updated {data.metadata.updated} · Code MIT · Data CC BY 4.0 · Reproducible from source — every
-              number regenerates from the scripts and manifests in the repository.
+              Data updated {data.metadata.updated} · Code MIT · Data CC BY 4.0 · Scripts and source manifests are in the repository; ASI unit records are access-controlled and not included.
             </span>
           </div>
         </section>
